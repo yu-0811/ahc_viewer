@@ -34,3 +34,20 @@ jobs:
 
       - name: Fetch latest data
         run: python scripts/fetch_data.py
+
+      - name: Commit and push updated data
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
+          git add data
+          git commit -m "Update contest data"
+          git push origin HEAD:${{ github.ref_name }}
