@@ -114,7 +114,6 @@ export default function Home() {
       </form>
 
       {error && <p className="text-red-500 mb-2">{error}</p>}
-      {loading && <p className="text-gray-600">取得中...</p>}
 
       {results.length > 0 && (
         <table className="table-fixed w-full border-collapse border border-gray-300 rounded-lg overflow-hidden">
