@@ -86,7 +86,7 @@ export default function Home() {
 
   return (
     <main className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold mb-2">AHC 復習状況ビューア</h1>
+      <h1 className="text-2xl font-bold mb-2">AHC 延長戦 Viewer</h1>
       <p className="text-sm text-gray-700 mb-4 leading-relaxed">
         AtCoder のユーザー名を入力すると、全 AHC の本番順位・パフォーマンスに加えて、<br></br>
         延長戦（コンテスト終了後提出）の本番相当順位・パフォーマンスをまとめて表示します。<br></br>

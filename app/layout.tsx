@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AHC 結果ビューア",
+  title: "AHC 延長戦 Viewer",
   description:
     "AtCoder Heuristic Contest (AHC) の本番・延長戦成績をまとめて表示できるビューア。",
 };
