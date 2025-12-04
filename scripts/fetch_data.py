@@ -24,7 +24,7 @@ CONTEST_LISTS_PATH = DATA_DIR / "contest_lists.json"
 
 
 def load_contest_lists() -> dict[str, list[str]]:
-    default = {"normal": [], "other": []}
+    default = {"normal": [], "other": [], "skip_extended": []}
     if not CONTEST_LISTS_PATH.exists():
         return default
     try:
@@ -32,7 +32,8 @@ def load_contest_lists() -> dict[str, list[str]]:
             data = json.load(fp)
             normal = list(dict.fromkeys(data.get("normal", [])))
             other = list(dict.fromkeys(data.get("other", [])))
-            return {"normal": normal, "other": other}
+            skip_extended = list(dict.fromkeys(data.get("skip_extended", [])))
+            return {"normal": normal, "other": other, "skip_extended": skip_extended}
     except Exception as exc:  # noqa: BLE001
         print(f"Failed to load contest list: {exc}", file=sys.stderr)
         return default
@@ -42,6 +43,7 @@ def save_contest_lists(data: dict[str, list[str]]) -> None:
     data = {
         "normal": sorted(set(data.get("normal", []))),
         "other": list(dict.fromkeys(data.get("other", []))),
+        "skip_extended": sorted(set(data.get("skip_extended", []))),
     }
     CONTEST_LISTS_PATH.parent.mkdir(parents=True, exist_ok=True)
     CONTEST_LISTS_PATH.write_text(
@@ -126,7 +128,7 @@ def save_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def process_contest(contest_id: str, session: requests.Session) -> None:
+def process_contest(contest_id: str, session: requests.Session, fetch_extended: bool = True) -> None:
     timestamp = datetime.now(timezone.utc).isoformat()
 
     results_url = RESULTS_URL_TEMPLATE.format(contest_id=contest_id)
@@ -152,24 +154,28 @@ def process_contest(contest_id: str, session: requests.Session) -> None:
         time.sleep(5)
 
     # 延長戦順位表の取得
-    try:
-        print(f"[{contest_id}] fetching extended standings ...")
-        extended_raw = fetch_extended_json(extended_url, session)
-        rows = extended_raw.get("StandingsData", [])
-        extended_data = {
-            "contest_id": contest_id,
-            "fetched_at": timestamp,
-            "rows": simplify_extended(rows),
-        }
-        save_json(extended_path, extended_data)
-    except Exception as exc:  # noqa: BLE001
-        print(f"[{contest_id}] failed to fetch extended standings: {exc}", file=sys.stderr)
-    time.sleep(5)
+    if not fetch_extended:
+        print(f"[{contest_id}] skip extended standings.")
+    else:
+        try:
+            print(f"[{contest_id}] fetching extended standings ...")
+            extended_raw = fetch_extended_json(extended_url, session)
+            rows = extended_raw.get("StandingsData", [])
+            extended_data = {
+                "contest_id": contest_id,
+                "fetched_at": timestamp,
+                "rows": simplify_extended(rows),
+            }
+            save_json(extended_path, extended_data)
+        except Exception as exc:  # noqa: BLE001
+            print(f"[{contest_id}] failed to fetch extended standings: {exc}", file=sys.stderr)
+        time.sleep(5)
 
 def main() -> None:
     contest_lists = load_contest_lists()
     normal = list(contest_lists.get("normal", []))
     other = list(contest_lists.get("other", []))
+    skip_extended = set(contest_lists.get("skip_extended", []))
     contests = list(dict.fromkeys(normal + other))
 
     fetch_contests = fetch_ahc_contests()
@@ -188,13 +194,14 @@ def main() -> None:
         contest_lists["other"] = other
         save_contest_lists(contest_lists)
         contests = contest_lists["normal"] + contest_lists["other"]
+        skip_extended = set(contest_lists.get("skip_extended", []))
 
     session = get_valid_session()
     if session is None:
         sys.exit("Failed to prepare logged-in session; aborting.")
 
     for contest in contests:
-        process_contest(contest, session)
+        process_contest(contest, session, contest not in skip_extended)
 
 
 if __name__ == "__main__":

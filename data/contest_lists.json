@@ -68,5 +68,11 @@
     "newjudge-2308-heuristic",
     "toyota2023summer-final",
     "awtf2025heuristic"
+  ],
+  "skip_extended": [
+    "ahc001",
+    "ahc003",
+    "ahc008",
+    "ahc011"
   ]
 }
