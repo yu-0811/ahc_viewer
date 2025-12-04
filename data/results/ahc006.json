@@ -1,0 +1,5626 @@
+{
+  "contest_id": "ahc006",
+  "fetched_at": "2025-12-04T07:37:24.002882+00:00",
+  "rows": [
+    {
+      "user": "Aquarius",
+      "rank": 1,
+      "performance": 3486
+    },
+    {
+      "user": "noimi",
+      "rank": 2,
+      "performance": 3218
+    },
+    {
+      "user": "WA_TLE",
+      "rank": 3,
+      "performance": 3086
+    },
+    {
+      "user": "tomerun",
+      "rank": 4,
+      "performance": 2996
+    },
+    {
+      "user": "kawatea",
+      "rank": 5,
+      "performance": 2928
+    },
+    {
+      "user": "c7c7",
+      "rank": 6,
+      "performance": 2872
+    },
+    {
+      "user": "kr",
+      "rank": 7,
+      "performance": 2824
+    },
+    {
+      "user": "hamamu",
+      "rank": 8,
+      "performance": 2783
+    },
+    {
+      "user": "asi1024",
+      "rank": 9,
+      "performance": 2747
+    },
+    {
+      "user": "iehn",
+      "rank": 10,
+      "performance": 2714
+    },
+    {
+      "user": "kens",
+      "rank": 11,
+      "performance": 2684
+    },
+    {
+      "user": "takumi152",
+      "rank": 12,
+      "performance": 2656
+    },
+    {
+      "user": "threecourse",
+      "rank": 13,
+      "performance": 2631
+    },
+    {
+      "user": "cuthbert",
+      "rank": 14,
+      "performance": 2607
+    },
+    {
+      "user": "E869120",
+      "rank": 15,
+      "performance": 2584
+    },
+    {
+      "user": "yokozuna57",
+      "rank": 16,
+      "performance": 2563
+    },
+    {
+      "user": "square1001",
+      "rank": 17,
+      "performance": 2543
+    },
+    {
+      "user": "Jirotech",
+      "rank": 18,
+      "performance": 2524
+    },
+    {
+      "user": "shibh308",
+      "rank": 19,
+      "performance": 2506
+    },
+    {
+      "user": "terry_u16",
+      "rank": 20,
+      "performance": 2488
+    },
+    {
+      "user": "tsukasa_diary",
+      "rank": 21,
+      "performance": 2472
+    },
+    {
+      "user": "kozima",
+      "rank": 22,
+      "performance": 2456
+    },
+    {
+      "user": "torisasami",
+      "rank": 23,
+      "performance": 2440
+    },
+    {
+      "user": "mtsd",
+      "rank": 24,
+      "performance": 2425
+    },
+    {
+      "user": "iwashi31",
+      "rank": 25,
+      "performance": 2411
+    },
+    {
+      "user": "gyouzasushi",
+      "rank": 26,
+      "performance": 2397
+    },
+    {
+      "user": "nakari_1124",
+      "rank": 27,
+      "performance": 2384
+    },
+    {
+      "user": "jutama",
+      "rank": 28,
+      "performance": 2371
+    },
+    {
+      "user": "Haa",
+      "rank": 29,
+      "performance": 2358
+    },
+    {
+      "user": "itigo",
+      "rank": 30,
+      "performance": 2345
+    },
+    {
+      "user": "tsukammo",
+      "rank": 31,
+      "performance": 2333
+    },
+    {
+      "user": "iraytno",
+      "rank": 32,
+      "performance": 2322
+    },
+    {
+      "user": "bowwowforeach",
+      "rank": 33,
+      "performance": 2310
+    },
+    {
+      "user": "hte",
+      "rank": 34,
+      "performance": 2299
+    },
+    {
+      "user": "hiro116s",
+      "rank": 35,
+      "performance": 2288
+    },
+    {
+      "user": "cunitac",
+      "rank": 36,
+      "performance": 2278
+    },
+    {
+      "user": "kusano",
+      "rank": 37,
+      "performance": 2267
+    },
+    {
+      "user": "OjiCoder",
+      "rank": 38,
+      "performance": 2257
+    },
+    {
+      "user": "ytkn",
+      "rank": 39,
+      "performance": 2247
+    },
+    {
+      "user": "snow39",
+      "rank": 40,
+      "performance": 2237
+    },
+    {
+      "user": "shinh",
+      "rank": 41,
+      "performance": 2228
+    },
+    {
+      "user": "t98slider",
+      "rank": 42,
+      "performance": 2218
+    },
+    {
+      "user": "kabipoyo",
+      "rank": 43,
+      "performance": 2209
+    },
+    {
+      "user": "makibishi0212",
+      "rank": 44,
+      "performance": 2200
+    },
+    {
+      "user": "shindannin",
+      "rank": 45,
+      "performance": 2191
+    },
+    {
+      "user": "ichyo",
+      "rank": 46,
+      "performance": 2183
+    },
+    {
+      "user": "colun",
+      "rank": 47,
+      "performance": 2174
+    },
+    {
+      "user": "Shibuyap",
+      "rank": 48,
+      "performance": 2166
+    },
+    {
+      "user": "Romann",
+      "rank": 49,
+      "performance": 2157
+    },
+    {
+      "user": "ebicochineal",
+      "rank": 50,
+      "performance": 2149
+    },
+    {
+      "user": "yuusanlondon",
+      "rank": 51,
+      "performance": 2141
+    },
+    {
+      "user": "AT274",
+      "rank": 52,
+      "performance": 2133
+    },
+    {
+      "user": "yunix",
+      "rank": 53,
+      "performance": 2126
+    },
+    {
+      "user": "Yu_212",
+      "rank": 54,
+      "performance": 2118
+    },
+    {
+      "user": "C7BMkOO7Qbmcwck7",
+      "rank": 55,
+      "performance": 2111
+    },
+    {
+      "user": "toame",
+      "rank": 56,
+      "performance": 2103
+    },
+    {
+      "user": "eijirou",
+      "rank": 57,
+      "performance": 2096
+    },
+    {
+      "user": "Shun_PI",
+      "rank": 58,
+      "performance": 2089
+    },
+    {
+      "user": "zkou",
+      "rank": 59,
+      "performance": 2082
+    },
+    {
+      "user": "sh_mug",
+      "rank": 60,
+      "performance": 2075
+    },
+    {
+      "user": "reew2n",
+      "rank": 61,
+      "performance": 2068
+    },
+    {
+      "user": "saharan",
+      "rank": 62,
+      "performance": 2061
+    },
+    {
+      "user": "Rssll_Krkgrd",
+      "rank": 63,
+      "performance": 2054
+    },
+    {
+      "user": "dyktr_06",
+      "rank": 64,
+      "performance": 2047
+    },
+    {
+      "user": "Series_205",
+      "rank": 65,
+      "performance": 2041
+    },
+    {
+      "user": "Akari__",
+      "rank": 66,
+      "performance": 2034
+    },
+    {
+      "user": "shibaken496",
+      "rank": 67,
+      "performance": 2028
+    },
+    {
+      "user": "KY2001",
+      "rank": 68,
+      "performance": 2022
+    },
+    {
+      "user": "Shibungi",
+      "rank": 69,
+      "performance": 2015
+    },
+    {
+      "user": "kenta2997",
+      "rank": 70,
+      "performance": 2009
+    },
+    {
+      "user": "plcherrim",
+      "rank": 71,
+      "performance": 2003
+    },
+    {
+      "user": "ysys_Ba",
+      "rank": 72,
+      "performance": 1997
+    },
+    {
+      "user": "tashikani",
+      "rank": 73,
+      "performance": 1991
+    },
+    {
+      "user": "cottoncotton",
+      "rank": 74,
+      "performance": 1985
+    },
+    {
+      "user": "falc8000",
+      "rank": 75,
+      "performance": 1979
+    },
+    {
+      "user": "rhincodon66",
+      "rank": 76,
+      "performance": 1973
+    },
+    {
+      "user": "EmK",
+      "rank": 77,
+      "performance": 1968
+    },
+    {
+      "user": "nasuo",
+      "rank": 78,
+      "performance": 1962
+    },
+    {
+      "user": "pengin",
+      "rank": 79,
+      "performance": 1956
+    },
+    {
+      "user": "nikuroll",
+      "rank": 80,
+      "performance": 1951
+    },
+    {
+      "user": "theanine",
+      "rank": 81,
+      "performance": 1945
+    },
+    {
+      "user": "umezo",
+      "rank": 82,
+      "performance": 1940
+    },
+    {
+      "user": "mn_7545",
+      "rank": 83,
+      "performance": 1934
+    },
+    {
+      "user": "ansain",
+      "rank": 84,
+      "performance": 1929
+    },
+    {
+      "user": "satanic0258",
+      "rank": 85,
+      "performance": 1924
+    },
+    {
+      "user": "qLethon",
+      "rank": 86,
+      "performance": 1919
+    },
+    {
+      "user": "phocom",
+      "rank": 87,
+      "performance": 1913
+    },
+    {
+      "user": "hirokazu1020",
+      "rank": 88,
+      "performance": 1908
+    },
+    {
+      "user": "hiromi_ayase",
+      "rank": 89,
+      "performance": 1903
+    },
+    {
+      "user": "kotamanegi",
+      "rank": 90,
+      "performance": 1898
+    },
+    {
+      "user": "assy",
+      "rank": 91,
+      "performance": 1893
+    },
+    {
+      "user": "sansaqua",
+      "rank": 92,
+      "performance": 1888
+    },
+    {
+      "user": "mikam",
+      "rank": 93,
+      "performance": 1883
+    },
+    {
+      "user": "tosca2020",
+      "rank": 94,
+      "performance": 1878
+    },
+    {
+      "user": "emthrm",
+      "rank": 95,
+      "performance": 1873
+    },
+    {
+      "user": "wanui",
+      "rank": 96,
+      "performance": 1868
+    },
+    {
+      "user": "ynasu",
+      "rank": 97,
+      "performance": 1864
+    },
+    {
+      "user": "S_shun",
+      "rank": 98,
+      "performance": 1859
+    },
+    {
+      "user": "y_yu",
+      "rank": 99,
+      "performance": 1854
+    },
+    {
+      "user": "Omotchi",
+      "rank": 100,
+      "performance": 1849
+    },
+    {
+      "user": "se1ka2",
+      "rank": 101,
+      "performance": 1845
+    },
+    {
+      "user": "packer_jp",
+      "rank": 102,
+      "performance": 1840
+    },
+    {
+      "user": "nrvft",
+      "rank": 103,
+      "performance": 1835
+    },
+    {
+      "user": "olphe",
+      "rank": 104,
+      "performance": 1831
+    },
+    {
+      "user": "nuts",
+      "rank": 105,
+      "performance": 1826
+    },
+    {
+      "user": "milkcoffee",
+      "rank": 106,
+      "performance": 1822
+    },
+    {
+      "user": "ha15",
+      "rank": 107,
+      "performance": 1817
+    },
+    {
+      "user": "yowa",
+      "rank": 108,
+      "performance": 1813
+    },
+    {
+      "user": "bqn",
+      "rank": 109,
+      "performance": 1809
+    },
+    {
+      "user": "toku",
+      "rank": 110,
+      "performance": 1804
+    },
+    {
+      "user": "sapphire15",
+      "rank": 111,
+      "performance": 1800
+    },
+    {
+      "user": "Forested",
+      "rank": 112,
+      "performance": 1796
+    },
+    {
+      "user": "fgwiebfaoish",
+      "rank": 113,
+      "performance": 1791
+    },
+    {
+      "user": "oldlick",
+      "rank": 114,
+      "performance": 1787
+    },
+    {
+      "user": "aonama",
+      "rank": 115,
+      "performance": 1783
+    },
+    {
+      "user": "Trineutron",
+      "rank": 116,
+      "performance": 1779
+    },
+    {
+      "user": "haruharuwild",
+      "rank": 117,
+      "performance": 1774
+    },
+    {
+      "user": "pointN",
+      "rank": 118,
+      "performance": 1770
+    },
+    {
+      "user": "kwrig",
+      "rank": 119,
+      "performance": 1766
+    },
+    {
+      "user": "sumoooru",
+      "rank": 120,
+      "performance": 1762
+    },
+    {
+      "user": "bayashiko",
+      "rank": 121,
+      "performance": 1758
+    },
+    {
+      "user": "kurakura",
+      "rank": 122,
+      "performance": 1754
+    },
+    {
+      "user": "physics0523",
+      "rank": 123,
+      "performance": 1750
+    },
+    {
+      "user": "gazelle",
+      "rank": 124,
+      "performance": 1746
+    },
+    {
+      "user": "miku",
+      "rank": 125,
+      "performance": 1742
+    },
+    {
+      "user": "m_buyoh",
+      "rank": 126,
+      "performance": 1738
+    },
+    {
+      "user": "merom686",
+      "rank": 127,
+      "performance": 1734
+    },
+    {
+      "user": "toku4388",
+      "rank": 128,
+      "performance": 1730
+    },
+    {
+      "user": "ks2m",
+      "rank": 129,
+      "performance": 1726
+    },
+    {
+      "user": "tabae326",
+      "rank": 130,
+      "performance": 1722
+    },
+    {
+      "user": "jjjjjjjtgpptmjj",
+      "rank": 131,
+      "performance": 1718
+    },
+    {
+      "user": "qxa",
+      "rank": 132,
+      "performance": 1715
+    },
+    {
+      "user": "tamato",
+      "rank": 133,
+      "performance": 1711
+    },
+    {
+      "user": "mamekin",
+      "rank": 134,
+      "performance": 1707
+    },
+    {
+      "user": "abb",
+      "rank": 135,
+      "performance": 1703
+    },
+    {
+      "user": "hasegawa1",
+      "rank": 136,
+      "performance": 1699
+    },
+    {
+      "user": "drogskol",
+      "rank": 137,
+      "performance": 1696
+    },
+    {
+      "user": "fmhr",
+      "rank": 138,
+      "performance": 1692
+    },
+    {
+      "user": "s_shohei",
+      "rank": 139,
+      "performance": 1688
+    },
+    {
+      "user": "KKT89",
+      "rank": 140,
+      "performance": 1684
+    },
+    {
+      "user": "googol_S0",
+      "rank": 141,
+      "performance": 1681
+    },
+    {
+      "user": "tokio_at_tokyo",
+      "rank": 142,
+      "performance": 1677
+    },
+    {
+      "user": "shamio",
+      "rank": 143,
+      "performance": 1674
+    },
+    {
+      "user": "gamelove765",
+      "rank": 144,
+      "performance": 1670
+    },
+    {
+      "user": "RTnF",
+      "rank": 145,
+      "performance": 1666
+    },
+    {
+      "user": "zubu",
+      "rank": 146,
+      "performance": 1663
+    },
+    {
+      "user": "kuhaku",
+      "rank": 147,
+      "performance": 1659
+    },
+    {
+      "user": "prd_xxx",
+      "rank": 148,
+      "performance": 1656
+    },
+    {
+      "user": "hoshiika",
+      "rank": 149,
+      "performance": 1652
+    },
+    {
+      "user": "hiikunZ",
+      "rank": 150,
+      "performance": 1648
+    },
+    {
+      "user": "Ushiiin",
+      "rank": 151,
+      "performance": 1645
+    },
+    {
+      "user": "Kyo_s_s",
+      "rank": 152,
+      "performance": 1641
+    },
+    {
+      "user": "catoon",
+      "rank": 153,
+      "performance": 1638
+    },
+    {
+      "user": "spica314",
+      "rank": 154,
+      "performance": 1635
+    },
+    {
+      "user": "btk15049",
+      "rank": 155,
+      "performance": 1631
+    },
+    {
+      "user": "marurunn1",
+      "rank": 156,
+      "performance": 1628
+    },
+    {
+      "user": "peroon",
+      "rank": 157,
+      "performance": 1624
+    },
+    {
+      "user": "HoKai",
+      "rank": 158,
+      "performance": 1621
+    },
+    {
+      "user": "bin101",
+      "rank": 159,
+      "performance": 1617
+    },
+    {
+      "user": "cozy_sauna",
+      "rank": 160,
+      "performance": 1614
+    },
+    {
+      "user": "room_208",
+      "rank": 161,
+      "performance": 1611
+    },
+    {
+      "user": "nisui258",
+      "rank": 162,
+      "performance": 1607
+    },
+    {
+      "user": "Gobi",
+      "rank": 163,
+      "performance": 1604
+    },
+    {
+      "user": "Hexazine",
+      "rank": 164,
+      "performance": 1601
+    },
+    {
+      "user": "nishigake",
+      "rank": 165,
+      "performance": 1597
+    },
+    {
+      "user": "kakel_san",
+      "rank": 166,
+      "performance": 1594
+    },
+    {
+      "user": "ue1221",
+      "rank": 167,
+      "performance": 1591
+    },
+    {
+      "user": "dn6049949",
+      "rank": 168,
+      "performance": 1587
+    },
+    {
+      "user": "hima398",
+      "rank": 169,
+      "performance": 1584
+    },
+    {
+      "user": "sensaur",
+      "rank": 170,
+      "performance": 1581
+    },
+    {
+      "user": "arimatti",
+      "rank": 171,
+      "performance": 1578
+    },
+    {
+      "user": "startagain",
+      "rank": 172,
+      "performance": 1574
+    },
+    {
+      "user": "tcltk",
+      "rank": 173,
+      "performance": 1571
+    },
+    {
+      "user": "chinerist",
+      "rank": 174,
+      "performance": 1568
+    },
+    {
+      "user": "Risen",
+      "rank": 175,
+      "performance": 1565
+    },
+    {
+      "user": "maeda3",
+      "rank": 176,
+      "performance": 1561
+    },
+    {
+      "user": "samoshi",
+      "rank": 177,
+      "performance": 1558
+    },
+    {
+      "user": "tmyksj",
+      "rank": 178,
+      "performance": 1555
+    },
+    {
+      "user": "watarimaycry2",
+      "rank": 179,
+      "performance": 1552
+    },
+    {
+      "user": "chro4896",
+      "rank": 180,
+      "performance": 1549
+    },
+    {
+      "user": "zatt",
+      "rank": 181,
+      "performance": 1546
+    },
+    {
+      "user": "unsre",
+      "rank": 182,
+      "performance": 1542
+    },
+    {
+      "user": "masayoshi64",
+      "rank": 183,
+      "performance": 1539
+    },
+    {
+      "user": "yuly3",
+      "rank": 184,
+      "performance": 1536
+    },
+    {
+      "user": "goudezhao",
+      "rank": 185,
+      "performance": 1533
+    },
+    {
+      "user": "totori0908",
+      "rank": 186,
+      "performance": 1530
+    },
+    {
+      "user": "ryo_n",
+      "rank": 187,
+      "performance": 1527
+    },
+    {
+      "user": "uminorosujin",
+      "rank": 188,
+      "performance": 1524
+    },
+    {
+      "user": "ssvb",
+      "rank": 189,
+      "performance": 1521
+    },
+    {
+      "user": "ccppjsrb",
+      "rank": 190,
+      "performance": 1518
+    },
+    {
+      "user": "ryuusagi",
+      "rank": 191,
+      "performance": 1515
+    },
+    {
+      "user": "highjump",
+      "rank": 192,
+      "performance": 1512
+    },
+    {
+      "user": "rabot",
+      "rank": 193,
+      "performance": 1509
+    },
+    {
+      "user": "imuraya",
+      "rank": 194,
+      "performance": 1505
+    },
+    {
+      "user": "Nanashima",
+      "rank": 195,
+      "performance": 1502
+    },
+    {
+      "user": "shogo314",
+      "rank": 196,
+      "performance": 1499
+    },
+    {
+      "user": "satashun",
+      "rank": 197,
+      "performance": 1496
+    },
+    {
+      "user": "Shirotsume",
+      "rank": 198,
+      "performance": 1493
+    },
+    {
+      "user": "mekemeke_san",
+      "rank": 199,
+      "performance": 1490
+    },
+    {
+      "user": "Kiri8128",
+      "rank": 200,
+      "performance": 1487
+    },
+    {
+      "user": "agridrama",
+      "rank": 201,
+      "performance": 1485
+    },
+    {
+      "user": "ttttan",
+      "rank": 202,
+      "performance": 1482
+    },
+    {
+      "user": "keep_OC",
+      "rank": 203,
+      "performance": 1479
+    },
+    {
+      "user": "laczil",
+      "rank": 204,
+      "performance": 1476
+    },
+    {
+      "user": "hirohito1971",
+      "rank": 205,
+      "performance": 1473
+    },
+    {
+      "user": "aaaaaaaaaa2230",
+      "rank": 206,
+      "performance": 1470
+    },
+    {
+      "user": "rmizuta",
+      "rank": 207,
+      "performance": 1467
+    },
+    {
+      "user": "mdstoy",
+      "rank": 208,
+      "performance": 1464
+    },
+    {
+      "user": "scol",
+      "rank": 209,
+      "performance": 1461
+    },
+    {
+      "user": "MZKi",
+      "rank": 210,
+      "performance": 1458
+    },
+    {
+      "user": "such_that",
+      "rank": 211,
+      "performance": 1455
+    },
+    {
+      "user": "Kepler",
+      "rank": 212,
+      "performance": 1452
+    },
+    {
+      "user": "allegrogiken",
+      "rank": 213,
+      "performance": 1449
+    },
+    {
+      "user": "hexa0611",
+      "rank": 214,
+      "performance": 1447
+    },
+    {
+      "user": "tt829",
+      "rank": 215,
+      "performance": 1444
+    },
+    {
+      "user": "srpkdyy",
+      "rank": 216,
+      "performance": 1441
+    },
+    {
+      "user": "Hec",
+      "rank": 217,
+      "performance": 1438
+    },
+    {
+      "user": "rastel",
+      "rank": 218,
+      "performance": 1435
+    },
+    {
+      "user": "shojin_debu",
+      "rank": 219,
+      "performance": 1432
+    },
+    {
+      "user": "katonyonko",
+      "rank": 220,
+      "performance": 1429
+    },
+    {
+      "user": "shinnshinn",
+      "rank": 221,
+      "performance": 1427
+    },
+    {
+      "user": "iwbch",
+      "rank": 222,
+      "performance": 1424
+    },
+    {
+      "user": "Mcik",
+      "rank": 223,
+      "performance": 1421
+    },
+    {
+      "user": "mmilk1231",
+      "rank": 224,
+      "performance": 1418
+    },
+    {
+      "user": "shinichi1729",
+      "rank": 225,
+      "performance": 1415
+    },
+    {
+      "user": "adda",
+      "rank": 226,
+      "performance": 1412
+    },
+    {
+      "user": "NakahashiNakashi",
+      "rank": 227,
+      "performance": 1410
+    },
+    {
+      "user": "Akijin_007",
+      "rank": 228,
+      "performance": 1407
+    },
+    {
+      "user": "sotanishy",
+      "rank": 229,
+      "performance": 1404
+    },
+    {
+      "user": "chudanu",
+      "rank": 230,
+      "performance": 1401
+    },
+    {
+      "user": "abab",
+      "rank": 231,
+      "performance": 1398
+    },
+    {
+      "user": "toyuzuko",
+      "rank": 232,
+      "performance": 1396
+    },
+    {
+      "user": "phyllo",
+      "rank": 233,
+      "performance": 1393
+    },
+    {
+      "user": "ShunSK210328",
+      "rank": 234,
+      "performance": 1390
+    },
+    {
+      "user": "serane",
+      "rank": 235,
+      "performance": 1387
+    },
+    {
+      "user": "meltice",
+      "rank": 236,
+      "performance": 1385
+    },
+    {
+      "user": "hashiya8",
+      "rank": 237,
+      "performance": 1382
+    },
+    {
+      "user": "Ryoga_exe",
+      "rank": 238,
+      "performance": 1379
+    },
+    {
+      "user": "sou1649",
+      "rank": 239,
+      "performance": 1376
+    },
+    {
+      "user": "jbyxm",
+      "rank": 240,
+      "performance": 1374
+    },
+    {
+      "user": "shim0",
+      "rank": 241,
+      "performance": 1371
+    },
+    {
+      "user": "i8nd5t",
+      "rank": 242,
+      "performance": 1368
+    },
+    {
+      "user": "arosh",
+      "rank": 243,
+      "performance": 1365
+    },
+    {
+      "user": "hogeover30",
+      "rank": 244,
+      "performance": 1363
+    },
+    {
+      "user": "mamejika",
+      "rank": 245,
+      "performance": 1360
+    },
+    {
+      "user": "fujiringo",
+      "rank": 246,
+      "performance": 1357
+    },
+    {
+      "user": "kit84",
+      "rank": 247,
+      "performance": 1355
+    },
+    {
+      "user": "glycine",
+      "rank": 248,
+      "performance": 1352
+    },
+    {
+      "user": "Skygood",
+      "rank": 249,
+      "performance": 1349
+    },
+    {
+      "user": "kotatsugame",
+      "rank": 250,
+      "performance": 1346
+    },
+    {
+      "user": "KumaTachiRen",
+      "rank": 251,
+      "performance": 1344
+    },
+    {
+      "user": "titia",
+      "rank": 252,
+      "performance": 1341
+    },
+    {
+      "user": "hukinorin",
+      "rank": 253,
+      "performance": 1338
+    },
+    {
+      "user": "QuantMath",
+      "rank": 254,
+      "performance": 1336
+    },
+    {
+      "user": "Dente",
+      "rank": 255,
+      "performance": 1333
+    },
+    {
+      "user": "daiki_ando",
+      "rank": 256,
+      "performance": 1330
+    },
+    {
+      "user": "firiexp",
+      "rank": 257,
+      "performance": 1328
+    },
+    {
+      "user": "n0ma_ru",
+      "rank": 258,
+      "performance": 1325
+    },
+    {
+      "user": "macle",
+      "rank": 259,
+      "performance": 1322
+    },
+    {
+      "user": "clavis1107",
+      "rank": 260,
+      "performance": 1320
+    },
+    {
+      "user": "masakun137",
+      "rank": 261,
+      "performance": 1317
+    },
+    {
+      "user": "US_cube",
+      "rank": 262,
+      "performance": 1314
+    },
+    {
+      "user": "besukohu",
+      "rank": 263,
+      "performance": 1312
+    },
+    {
+      "user": "rxive",
+      "rank": 264,
+      "performance": 1309
+    },
+    {
+      "user": "Kahuka",
+      "rank": 265,
+      "performance": 1306
+    },
+    {
+      "user": "Noruno",
+      "rank": 266,
+      "performance": 1304
+    },
+    {
+      "user": "TowersofHanoi",
+      "rank": 267,
+      "performance": 1301
+    },
+    {
+      "user": "dn154",
+      "rank": 268,
+      "performance": 1298
+    },
+    {
+      "user": "Yuki_B",
+      "rank": 269,
+      "performance": 1296
+    },
+    {
+      "user": "yamake",
+      "rank": 270,
+      "performance": 1293
+    },
+    {
+      "user": "carrot46",
+      "rank": 271,
+      "performance": 1291
+    },
+    {
+      "user": "primenumber_zz",
+      "rank": 272,
+      "performance": 1288
+    },
+    {
+      "user": "TKTYI",
+      "rank": 273,
+      "performance": 1285
+    },
+    {
+      "user": "a9ua1i0n",
+      "rank": 274,
+      "performance": 1283
+    },
+    {
+      "user": "petit_sophia",
+      "rank": 275,
+      "performance": 1280
+    },
+    {
+      "user": "qisnotnq",
+      "rank": 276,
+      "performance": 1277
+    },
+    {
+      "user": "take000",
+      "rank": 277,
+      "performance": 1275
+    },
+    {
+      "user": "tagucha",
+      "rank": 278,
+      "performance": 1272
+    },
+    {
+      "user": "HAPPA",
+      "rank": 279,
+      "performance": 1270
+    },
+    {
+      "user": "simetuha",
+      "rank": 280,
+      "performance": 1267
+    },
+    {
+      "user": "Nekomimimi",
+      "rank": 281,
+      "performance": 1264
+    },
+    {
+      "user": "katalonecfly",
+      "rank": 282,
+      "performance": 1262
+    },
+    {
+      "user": "GEHOx2",
+      "rank": 283,
+      "performance": 1259
+    },
+    {
+      "user": "zssa",
+      "rank": 284,
+      "performance": 1257
+    },
+    {
+      "user": "hanagee",
+      "rank": 285,
+      "performance": 1254
+    },
+    {
+      "user": "MarioChao",
+      "rank": 286,
+      "performance": 1251
+    },
+    {
+      "user": "zw1",
+      "rank": 287,
+      "performance": 1249
+    },
+    {
+      "user": "miscalculation53",
+      "rank": 288,
+      "performance": 1246
+    },
+    {
+      "user": "tomu106",
+      "rank": 289,
+      "performance": 1244
+    },
+    {
+      "user": "aka12",
+      "rank": 290,
+      "performance": 1241
+    },
+    {
+      "user": "T_Stream",
+      "rank": 291,
+      "performance": 1238
+    },
+    {
+      "user": "Dante_Rits",
+      "rank": 292,
+      "performance": 1236
+    },
+    {
+      "user": "tirol30",
+      "rank": 293,
+      "performance": 1233
+    },
+    {
+      "user": "longrun",
+      "rank": 294,
+      "performance": 1231
+    },
+    {
+      "user": "take911",
+      "rank": 295,
+      "performance": 1228
+    },
+    {
+      "user": "arc",
+      "rank": 296,
+      "performance": 1225
+    },
+    {
+      "user": "pitsu",
+      "rank": 297,
+      "performance": 1223
+    },
+    {
+      "user": "kimonohanger",
+      "rank": 298,
+      "performance": 1220
+    },
+    {
+      "user": "kakitamasziru",
+      "rank": 299,
+      "performance": 1218
+    },
+    {
+      "user": "Hufnium",
+      "rank": 300,
+      "performance": 1215
+    },
+    {
+      "user": "krps",
+      "rank": 301,
+      "performance": 1212
+    },
+    {
+      "user": "dsytk7",
+      "rank": 302,
+      "performance": 1210
+    },
+    {
+      "user": "sangonana",
+      "rank": 303,
+      "performance": 1207
+    },
+    {
+      "user": "n_knuu",
+      "rank": 304,
+      "performance": 1205
+    },
+    {
+      "user": "m_asa_o",
+      "rank": 305,
+      "performance": 1202
+    },
+    {
+      "user": "Yoika",
+      "rank": 306,
+      "performance": 1200
+    },
+    {
+      "user": "ritwin",
+      "rank": 307,
+      "performance": 1197
+    },
+    {
+      "user": "a01sa01to",
+      "rank": 308,
+      "performance": 1194
+    },
+    {
+      "user": "sca1l",
+      "rank": 309,
+      "performance": 1192
+    },
+    {
+      "user": "FLR",
+      "rank": 310,
+      "performance": 1189
+    },
+    {
+      "user": "merhorn",
+      "rank": 311,
+      "performance": 1187
+    },
+    {
+      "user": "kudryavka_chan",
+      "rank": 312,
+      "performance": 1184
+    },
+    {
+      "user": "genomas",
+      "rank": 313,
+      "performance": 1182
+    },
+    {
+      "user": "Aqua3k",
+      "rank": 314,
+      "performance": 1179
+    },
+    {
+      "user": "inu__dog",
+      "rank": 315,
+      "performance": 1176
+    },
+    {
+      "user": "cirno3153",
+      "rank": 316,
+      "performance": 1174
+    },
+    {
+      "user": "rosso01",
+      "rank": 317,
+      "performance": 1171
+    },
+    {
+      "user": "DFNasutarou",
+      "rank": 318,
+      "performance": 1169
+    },
+    {
+      "user": "Zaurus",
+      "rank": 319,
+      "performance": 1166
+    },
+    {
+      "user": "WipeOut",
+      "rank": 320,
+      "performance": 1163
+    },
+    {
+      "user": "taxi1729",
+      "rank": 321,
+      "performance": 1161
+    },
+    {
+      "user": "hiratai",
+      "rank": 322,
+      "performance": 1158
+    },
+    {
+      "user": "RedyYuh",
+      "rank": 323,
+      "performance": 1156
+    },
+    {
+      "user": "Freddy_me_me2",
+      "rank": 324,
+      "performance": 1153
+    },
+    {
+      "user": "terrafarm",
+      "rank": 325,
+      "performance": 1151
+    },
+    {
+      "user": "kamojiro",
+      "rank": 326,
+      "performance": 1148
+    },
+    {
+      "user": "tokumini",
+      "rank": 327,
+      "performance": 1145
+    },
+    {
+      "user": "tellur",
+      "rank": 328,
+      "performance": 1143
+    },
+    {
+      "user": "marroncastle917",
+      "rank": 329,
+      "performance": 1140
+    },
+    {
+      "user": "t104",
+      "rank": 330,
+      "performance": 1138
+    },
+    {
+      "user": "rin204",
+      "rank": 331,
+      "performance": 1135
+    },
+    {
+      "user": "Pryory13",
+      "rank": 332,
+      "performance": 1133
+    },
+    {
+      "user": "ikoma",
+      "rank": 333,
+      "performance": 1130
+    },
+    {
+      "user": "Tosyun",
+      "rank": 334,
+      "performance": 1127
+    },
+    {
+      "user": "keroru",
+      "rank": 335,
+      "performance": 1125
+    },
+    {
+      "user": "Programmerryoki",
+      "rank": 336,
+      "performance": 1122
+    },
+    {
+      "user": "phspls",
+      "rank": 337,
+      "performance": 1120
+    },
+    {
+      "user": "perifereia",
+      "rank": 338,
+      "performance": 1117
+    },
+    {
+      "user": "soitakahashi",
+      "rank": 339,
+      "performance": 1114
+    },
+    {
+      "user": "mooaki",
+      "rank": 340,
+      "performance": 1112
+    },
+    {
+      "user": "takuhouse",
+      "rank": 341,
+      "performance": 1109
+    },
+    {
+      "user": "theory_and_me",
+      "rank": 342,
+      "performance": 1107
+    },
+    {
+      "user": "patron",
+      "rank": 343,
+      "performance": 1104
+    },
+    {
+      "user": "i8fbnkyw",
+      "rank": 344,
+      "performance": 1101
+    },
+    {
+      "user": "gmmtea",
+      "rank": 345,
+      "performance": 1099
+    },
+    {
+      "user": "stoq",
+      "rank": 346,
+      "performance": 1096
+    },
+    {
+      "user": "kzyKT",
+      "rank": 347,
+      "performance": 1094
+    },
+    {
+      "user": "sdtedg",
+      "rank": 348,
+      "performance": 1091
+    },
+    {
+      "user": "negibose2020",
+      "rank": 349,
+      "performance": 1088
+    },
+    {
+      "user": "gojira_ku",
+      "rank": 350,
+      "performance": 1086
+    },
+    {
+      "user": "tamaron",
+      "rank": 351,
+      "performance": 1083
+    },
+    {
+      "user": "mkawa2",
+      "rank": 352,
+      "performance": 1080
+    },
+    {
+      "user": "ikd",
+      "rank": 353,
+      "performance": 1078
+    },
+    {
+      "user": "reg7777",
+      "rank": 354,
+      "performance": 1075
+    },
+    {
+      "user": "TKO",
+      "rank": 355,
+      "performance": 1073
+    },
+    {
+      "user": "rs02",
+      "rank": 356,
+      "performance": 1070
+    },
+    {
+      "user": "kinadasan",
+      "rank": 357,
+      "performance": 1067
+    },
+    {
+      "user": "Kazu1998k",
+      "rank": 358,
+      "performance": 1065
+    },
+    {
+      "user": "fky_",
+      "rank": 359,
+      "performance": 1062
+    },
+    {
+      "user": "ngtkana",
+      "rank": 360,
+      "performance": 1059
+    },
+    {
+      "user": "sepa_38",
+      "rank": 361,
+      "performance": 1057
+    },
+    {
+      "user": "souta_1326",
+      "rank": 362,
+      "performance": 1054
+    },
+    {
+      "user": "kyo1",
+      "rank": 363,
+      "performance": 1051
+    },
+    {
+      "user": "side",
+      "rank": 364,
+      "performance": 1049
+    },
+    {
+      "user": "Shiro_S",
+      "rank": 365,
+      "performance": 1046
+    },
+    {
+      "user": "yaumu3",
+      "rank": 366,
+      "performance": 1043
+    },
+    {
+      "user": "yukidaruma6",
+      "rank": 367,
+      "performance": 1041
+    },
+    {
+      "user": "Cyber_Tree",
+      "rank": 368,
+      "performance": 1038
+    },
+    {
+      "user": "hamuhei4869",
+      "rank": 369,
+      "performance": 1035
+    },
+    {
+      "user": "poka",
+      "rank": 370,
+      "performance": 1033
+    },
+    {
+      "user": "rinrion",
+      "rank": 371,
+      "performance": 1030
+    },
+    {
+      "user": "tomo0608",
+      "rank": 372,
+      "performance": 1027
+    },
+    {
+      "user": "yatabis",
+      "rank": 373,
+      "performance": 1024
+    },
+    {
+      "user": "granddaifuku",
+      "rank": 374,
+      "performance": 1022
+    },
+    {
+      "user": "Koki_tkg",
+      "rank": 375,
+      "performance": 1019
+    },
+    {
+      "user": "yuji9511",
+      "rank": 376,
+      "performance": 1016
+    },
+    {
+      "user": "paruma184",
+      "rank": 377,
+      "performance": 1014
+    },
+    {
+      "user": "Ashandf",
+      "rank": 378,
+      "performance": 1011
+    },
+    {
+      "user": "hdrop",
+      "rank": 379,
+      "performance": 1008
+    },
+    {
+      "user": "takytank",
+      "rank": 380,
+      "performance": 1005
+    },
+    {
+      "user": "Eguy",
+      "rank": 381,
+      "performance": 1003
+    },
+    {
+      "user": "brthyyjp",
+      "rank": 382,
+      "performance": 1000
+    },
+    {
+      "user": "shihaka",
+      "rank": 383,
+      "performance": 997
+    },
+    {
+      "user": "ganmodokix",
+      "rank": 384,
+      "performance": 994
+    },
+    {
+      "user": "kyoroid",
+      "rank": 385,
+      "performance": 992
+    },
+    {
+      "user": "D2029AAE2EF6",
+      "rank": 386,
+      "performance": 989
+    },
+    {
+      "user": "delta71",
+      "rank": 387,
+      "performance": 986
+    },
+    {
+      "user": "Penguin07",
+      "rank": 388,
+      "performance": 983
+    },
+    {
+      "user": "shun2741",
+      "rank": 389,
+      "performance": 980
+    },
+    {
+      "user": "kinuta",
+      "rank": 390,
+      "performance": 978
+    },
+    {
+      "user": "MtSaka",
+      "rank": 391,
+      "performance": 975
+    },
+    {
+      "user": "toureiffel2018",
+      "rank": 392,
+      "performance": 972
+    },
+    {
+      "user": "yagumana",
+      "rank": 393,
+      "performance": 969
+    },
+    {
+      "user": "Moegi",
+      "rank": 394,
+      "performance": 966
+    },
+    {
+      "user": "myantaq",
+      "rank": 395,
+      "performance": 963
+    },
+    {
+      "user": "SidewaysOwl",
+      "rank": 396,
+      "performance": 961
+    },
+    {
+      "user": "Strorkis",
+      "rank": 397,
+      "performance": 958
+    },
+    {
+      "user": "st98781012",
+      "rank": 398,
+      "performance": 955
+    },
+    {
+      "user": "Ravenfield",
+      "rank": 399,
+      "performance": 952
+    },
+    {
+      "user": "a63227676408404",
+      "rank": 400,
+      "performance": 949
+    },
+    {
+      "user": "Junmori",
+      "rank": 401,
+      "performance": 946
+    },
+    {
+      "user": "QiToY",
+      "rank": 402,
+      "performance": 943
+    },
+    {
+      "user": "Rute",
+      "rank": 403,
+      "performance": 940
+    },
+    {
+      "user": "bono_bono",
+      "rank": 404,
+      "performance": 937
+    },
+    {
+      "user": "pukisen",
+      "rank": 405,
+      "performance": 935
+    },
+    {
+      "user": "Staddlide",
+      "rank": 406,
+      "performance": 932
+    },
+    {
+      "user": "Paych",
+      "rank": 407,
+      "performance": 929
+    },
+    {
+      "user": "keita1",
+      "rank": 408,
+      "performance": 926
+    },
+    {
+      "user": "ykst51",
+      "rank": 409,
+      "performance": 923
+    },
+    {
+      "user": "shu8Cream",
+      "rank": 410,
+      "performance": 920
+    },
+    {
+      "user": "SHIOMARU",
+      "rank": 411,
+      "performance": 917
+    },
+    {
+      "user": "coffee",
+      "rank": 412,
+      "performance": 914
+    },
+    {
+      "user": "nao_que",
+      "rank": 413,
+      "performance": 911
+    },
+    {
+      "user": "tk_nuke",
+      "rank": 414,
+      "performance": 908
+    },
+    {
+      "user": "namacha411",
+      "rank": 415,
+      "performance": 905
+    },
+    {
+      "user": "nmy",
+      "rank": 416,
+      "performance": 902
+    },
+    {
+      "user": "Bondo416",
+      "rank": 417,
+      "performance": 899
+    },
+    {
+      "user": "odakuraf",
+      "rank": 418,
+      "performance": 895
+    },
+    {
+      "user": "beta",
+      "rank": 419,
+      "performance": 892
+    },
+    {
+      "user": "Shirona_Takizaki",
+      "rank": 420,
+      "performance": 889
+    },
+    {
+      "user": "miau",
+      "rank": 421,
+      "performance": 886
+    },
+    {
+      "user": "N_hara",
+      "rank": 422,
+      "performance": 883
+    },
+    {
+      "user": "nyst",
+      "rank": 423,
+      "performance": 880
+    },
+    {
+      "user": "tichiban",
+      "rank": 424,
+      "performance": 877
+    },
+    {
+      "user": "ntk_ta01",
+      "rank": 425,
+      "performance": 874
+    },
+    {
+      "user": "korogisu",
+      "rank": 426,
+      "performance": 870
+    },
+    {
+      "user": "ssdng",
+      "rank": 427,
+      "performance": 867
+    },
+    {
+      "user": "Natsuserina",
+      "rank": 428,
+      "performance": 864
+    },
+    {
+      "user": "jinya",
+      "rank": 429,
+      "performance": 861
+    },
+    {
+      "user": "Taichicchi",
+      "rank": 430,
+      "performance": 858
+    },
+    {
+      "user": "Hydru1",
+      "rank": 431,
+      "performance": 854
+    },
+    {
+      "user": "Hattori8536",
+      "rank": 432,
+      "performance": 851
+    },
+    {
+      "user": "bayashi_cl",
+      "rank": 433,
+      "performance": 848
+    },
+    {
+      "user": "yk109",
+      "rank": 434,
+      "performance": 844
+    },
+    {
+      "user": "mi_ya",
+      "rank": 435,
+      "performance": 841
+    },
+    {
+      "user": "yurahuna",
+      "rank": 436,
+      "performance": 838
+    },
+    {
+      "user": "muse",
+      "rank": 437,
+      "performance": 834
+    },
+    {
+      "user": "moepy_stats",
+      "rank": 438,
+      "performance": 831
+    },
+    {
+      "user": "yosh1",
+      "rank": 439,
+      "performance": 828
+    },
+    {
+      "user": "keserasera_77",
+      "rank": 440,
+      "performance": 824
+    },
+    {
+      "user": "Shiromalu",
+      "rank": 441,
+      "performance": 821
+    },
+    {
+      "user": "fujiyama",
+      "rank": 442,
+      "performance": 817
+    },
+    {
+      "user": "Chroma7p",
+      "rank": 443,
+      "performance": 814
+    },
+    {
+      "user": "Ayayakomichi",
+      "rank": 444,
+      "performance": 810
+    },
+    {
+      "user": "tomok1",
+      "rank": 445,
+      "performance": 807
+    },
+    {
+      "user": "akikuno",
+      "rank": 446,
+      "performance": 803
+    },
+    {
+      "user": "Linuxmetel",
+      "rank": 447,
+      "performance": 800
+    },
+    {
+      "user": "takumat",
+      "rank": 448,
+      "performance": 796
+    },
+    {
+      "user": "shoooooou",
+      "rank": 449,
+      "performance": 792
+    },
+    {
+      "user": "hrokamo",
+      "rank": 450,
+      "performance": 789
+    },
+    {
+      "user": "puyopop",
+      "rank": 451,
+      "performance": 785
+    },
+    {
+      "user": "tsuinatomikku",
+      "rank": 452,
+      "performance": 781
+    },
+    {
+      "user": "boatmuscles",
+      "rank": 453,
+      "performance": 778
+    },
+    {
+      "user": "ktr216",
+      "rank": 454,
+      "performance": 774
+    },
+    {
+      "user": "koryou",
+      "rank": 455,
+      "performance": 770
+    },
+    {
+      "user": "sumochi",
+      "rank": 456,
+      "performance": 766
+    },
+    {
+      "user": "RMF",
+      "rank": 457,
+      "performance": 763
+    },
+    {
+      "user": "maki_glenscape",
+      "rank": 458,
+      "performance": 759
+    },
+    {
+      "user": "K_K_",
+      "rank": 459,
+      "performance": 755
+    },
+    {
+      "user": "mtrh",
+      "rank": 460,
+      "performance": 751
+    },
+    {
+      "user": "KentM",
+      "rank": 461,
+      "performance": 747
+    },
+    {
+      "user": "ransewhale",
+      "rank": 462,
+      "performance": 743
+    },
+    {
+      "user": "takechanman_",
+      "rank": 463,
+      "performance": 739
+    },
+    {
+      "user": "back_low_",
+      "rank": 464,
+      "performance": 735
+    },
+    {
+      "user": "numpex",
+      "rank": 465,
+      "performance": 731
+    },
+    {
+      "user": "kota0501",
+      "rank": 466,
+      "performance": 727
+    },
+    {
+      "user": "saikatoto",
+      "rank": 467,
+      "performance": 723
+    },
+    {
+      "user": "lemon9392",
+      "rank": 468,
+      "performance": 719
+    },
+    {
+      "user": "YamagenSakam",
+      "rank": 469,
+      "performance": 714
+    },
+    {
+      "user": "ChiyosBigDragon",
+      "rank": 470,
+      "performance": 710
+    },
+    {
+      "user": "monnu",
+      "rank": 471,
+      "performance": 706
+    },
+    {
+      "user": "kumjin3141",
+      "rank": 472,
+      "performance": 701
+    },
+    {
+      "user": "Hachimori",
+      "rank": 473,
+      "performance": 697
+    },
+    {
+      "user": "uil",
+      "rank": 474,
+      "performance": 693
+    },
+    {
+      "user": "ricetta",
+      "rank": 475,
+      "performance": 688
+    },
+    {
+      "user": "kazu107",
+      "rank": 476,
+      "performance": 684
+    },
+    {
+      "user": "yukiok2",
+      "rank": 477,
+      "performance": 679
+    },
+    {
+      "user": "madoka",
+      "rank": 478,
+      "performance": 674
+    },
+    {
+      "user": "Nzt3",
+      "rank": 479,
+      "performance": 670
+    },
+    {
+      "user": "heihoheiro",
+      "rank": 480,
+      "performance": 665
+    },
+    {
+      "user": "kaede2020",
+      "rank": 481,
+      "performance": 660
+    },
+    {
+      "user": "arad",
+      "rank": 482,
+      "performance": 655
+    },
+    {
+      "user": "srtubaki",
+      "rank": 483,
+      "performance": 651
+    },
+    {
+      "user": "lier2",
+      "rank": 484,
+      "performance": 646
+    },
+    {
+      "user": "x0214sh7",
+      "rank": 485,
+      "performance": 641
+    },
+    {
+      "user": "napopo",
+      "rank": 486,
+      "performance": 636
+    },
+    {
+      "user": "ktmskt",
+      "rank": 487,
+      "performance": 630
+    },
+    {
+      "user": "nakamurk",
+      "rank": 488,
+      "performance": 625
+    },
+    {
+      "user": "naohs",
+      "rank": 489,
+      "performance": 620
+    },
+    {
+      "user": "sinnn",
+      "rank": 490,
+      "performance": 615
+    },
+    {
+      "user": "polyester",
+      "rank": 491,
+      "performance": 609
+    },
+    {
+      "user": "Kichico",
+      "rank": 492,
+      "performance": 604
+    },
+    {
+      "user": "kawatom",
+      "rank": 493,
+      "performance": 598
+    },
+    {
+      "user": "yago",
+      "rank": 494,
+      "performance": 593
+    },
+    {
+      "user": "hasamaku",
+      "rank": 495,
+      "performance": 587
+    },
+    {
+      "user": "gengar_094",
+      "rank": 496,
+      "performance": 581
+    },
+    {
+      "user": "kanzakihikaru",
+      "rank": 497,
+      "performance": 575
+    },
+    {
+      "user": "rika0384",
+      "rank": 498,
+      "performance": 569
+    },
+    {
+      "user": "hkawaguc",
+      "rank": 499,
+      "performance": 563
+    },
+    {
+      "user": "yuta28",
+      "rank": 500,
+      "performance": 557
+    },
+    {
+      "user": "nemoi",
+      "rank": 501,
+      "performance": 551
+    },
+    {
+      "user": "tukitoka",
+      "rank": 502,
+      "performance": 544
+    },
+    {
+      "user": "hokto",
+      "rank": 503,
+      "performance": 538
+    },
+    {
+      "user": "SMDTU",
+      "rank": 504,
+      "performance": 531
+    },
+    {
+      "user": "Rjo",
+      "rank": 505,
+      "performance": 524
+    },
+    {
+      "user": "spady",
+      "rank": 506,
+      "performance": 517
+    },
+    {
+      "user": "sorobannist",
+      "rank": 507,
+      "performance": 510
+    },
+    {
+      "user": "yatoi",
+      "rank": 508,
+      "performance": 503
+    },
+    {
+      "user": "zezero",
+      "rank": 509,
+      "performance": 496
+    },
+    {
+      "user": "jackson_0427",
+      "rank": 510,
+      "performance": 488
+    },
+    {
+      "user": "masafumi",
+      "rank": 511,
+      "performance": 480
+    },
+    {
+      "user": "chenu",
+      "rank": 512,
+      "performance": 473
+    },
+    {
+      "user": "nocu",
+      "rank": 513,
+      "performance": 465
+    },
+    {
+      "user": "venzosan",
+      "rank": 514,
+      "performance": 456
+    },
+    {
+      "user": "forest3",
+      "rank": 515,
+      "performance": 448
+    },
+    {
+      "user": "matsu7874",
+      "rank": 516,
+      "performance": 439
+    },
+    {
+      "user": "T_M",
+      "rank": 517,
+      "performance": 430
+    },
+    {
+      "user": "soraie",
+      "rank": 518,
+      "performance": 421
+    },
+    {
+      "user": "shurunner",
+      "rank": 519,
+      "performance": 412
+    },
+    {
+      "user": "tacomeet",
+      "rank": 520,
+      "performance": 402
+    },
+    {
+      "user": "zepp",
+      "rank": 521,
+      "performance": 392
+    },
+    {
+      "user": "amalett0",
+      "rank": 522,
+      "performance": 382
+    },
+    {
+      "user": "04089",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "20421271",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "2bit",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "6973lb",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "A2a_567",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ABCexp",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AC961009",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AFnaN_91",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AMO_35",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AOITORI",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "A_1903480100114",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "A_Cultivates",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AbnerShen",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Aconcagua",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Ahmed_Fahmy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AiNoV",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Aithusa",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Akash54",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Akash_Dixit",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Akatsuki30",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Akshithadevi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Alex_Wei",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Alfalfa0709",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "AliAliyev",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Amitdey",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Arethra",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Arianne",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Arijeet2514",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Arumirror",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Aryant",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Asfak_Shahrier",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Avilash_Saha35",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Ayyappa",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Azad241",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Azim7",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Azizul_cse27",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "BanetteGin",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Beginer_python",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Beikon",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Block_Cipher",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "C193083_jahirul",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CCPSDCGK",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CHRIBUR",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CVRush",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CY_WIN_IOI_GOLD",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Cabbaken",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "California",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Cauchy_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Chaba",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Chiharu_Hagihara",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CodingKnight",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CodingPi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "CyberCat",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Cyclone_28",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Digonto007",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Dihaj",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Dorjsundui",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Dtake00",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "EnriqueYXH",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Enspring",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "FarmForx",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Fuad71",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "GGhh2639",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Gnomeshgh4",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Godowsky",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "GreYOwl",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Greyhound",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Guarana",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "HAL0210",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "HBit",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "HH2JZ",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "HSH1385",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Haramaru",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Hertz47",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "HideN2000",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Hiro527",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "IH19980412",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "IMRAN5740",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Isshii",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Izroth404",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Jayden_Zhao",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Jerry0516",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Jerrywang2008",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Jhojho",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KAPIKA",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KIBORG_UBIYTSA",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "K_A_Akhi_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Kanten4205",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Karry7035",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KazL",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Kazimov",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KazmetreD",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KeiTO043",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Keisuke_H_Ota",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KevTheDev",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Kevinxiehk",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Kirigakure_Saizo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Kirin04",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KlentoRem",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "KoD",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Konica_Saha024",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Lyrically",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "MItchyRoad",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Maki_python",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Maplisky",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Marslai24",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Masked_Erina",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Micc",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "MilkClouds",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Minny",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Mitarushi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Mitsubachi",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Mizuhane",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Mohammed_Arif",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Mostaf1z_ur",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "MuniaAkterMariam",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Mzeki",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "N1flheimr",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "NISHAT762",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "NatsubiSogan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Navier_Boltzmann",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Nayu_chan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Nazo9x",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "NekoNya3",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "NekoRolly",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Nice233",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Nichi10p",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "PCTprobability",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "PEGASUS",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "PPhys",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "P_K_Koo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Parvez123",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Plan8",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Pon_Sato0928",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "R15",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "RASHIK_TALUKDER",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "RIAZ19",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Raclamusi",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Rad1ance",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Rafbill",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "RansomCodes",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "RaselRoky",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ReAL1341",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Reuven",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Ri0_Apple",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Richard_ZRC",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Rohitpandey",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Rpsushil",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Rumia_math",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "RunGood",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Ryude",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Ryzen",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "SDESTINY",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "SG97T",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Sahil19",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Saltywater",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Sanat_04",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Sankaranarayanan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Saurav1998",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "SeifAshraf",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Shadman_C193005",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Shah_Ibne_Fahad",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Shahriar_uu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Sharafat",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Shejuti",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Shinneko22",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Silviasylvia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "SmitVavliya",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Soichiro0410",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "Soma2000",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "SpadeZ",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Sueh",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Summer_Natsuka",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "TAB",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "T_A_R_O_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Takuma0306",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tanaka_1",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tasnimamahi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tatsuyaaaa",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Toctis",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tokuzoo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tonmoy_Roy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Tricky",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Ukoh",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Uniq0rn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "UpStriver",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Usernoobs",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "VOCALOID",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "WLF_WLF",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "WZK_mosquito",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "WaNg185",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "WrongAnswer",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "YTOK",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Yankang",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "YsuieAo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Yuuki1223",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Yuulis",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Z3R0DAY",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ZZXzzx0_0",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "Zain",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ZerobugAdi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "_swet",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "a1i",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "a_SukE",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "aa39",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "abhisheeekkk",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "abushahed4036",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "adi137",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "adv01",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "aerfwe23",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ajaykN_017",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ak9",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "akasinn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "akidaily",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "alles28",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "altairrr",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "alumi2018",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "aman_0",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "amanita",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "amayapetako",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "ameise",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "amentorimaru",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "amesyu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "amritanshu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "anandankur",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "andychen2012",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "anmolsharma",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "aquaCpp",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "arshak",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ash_21",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ashfaque_129",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ashito",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ashu71512378",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ashwitsahu15",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "asssss",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "atchi_coder",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "atcoder200a",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "att_power",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "avinesh_2003",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ayushwahi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "baocai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "barun511",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "bekar_coder",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "binarybeast880",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "binununn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "bluecat2",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "bnb_2001",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "buzztake",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "byte_man",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "cax68080",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "cayaxi09",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ceelo777",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "chandu04",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "charlie_triton",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "chayan1",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "cmanh75",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "codedeb",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "coder_2023",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "codezhh",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "codingwill",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "coolguy_20",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "creeper999",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "cyclades",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "dedsec758",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "destroy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "dev6251",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "devanshi345",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "diwakar_001",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "dreamkiller1729",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "duke786",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ecasdqina",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "edogrigqv3",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "emankcin",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "en_koko",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "enjapma",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "eric00513",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ericoder",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "erniogi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "faisalksabd",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "faustyang",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "feroz_mohammed",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "floralf",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "fm9779",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "fozlerabbi11",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "fumuumuf",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "giagia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "glasses0486",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "goto1963",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "greedy_imos",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "guoziqi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ha6o",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "haaha",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "habara_k",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hank19828",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "harshitlpl",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hasan419",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hasanemo654",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hatsuyuki",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "heisenberg_b",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "henryust12",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hiddenkrasis",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hirotada",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hitenkoku",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hjc2006",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hokekyo1210",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hotpepsi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "humble",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hyl_TianMeng",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hyouchun",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "hyougosurabia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "iaNTU",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "iceparfait",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "imRafi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "imh",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "inaba3",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "incompetentia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "inoue_hitsuji",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "irip",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "it_aint_me",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "itbs10123",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "itsnotliving",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ja14378",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jairadheyshyam",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jakia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jay8023",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jijiji",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jkc208",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jr_inf",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jr_zlw",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "judgelaw",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "juliogodoy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "jxfzzzt",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "k_kasai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ka388green",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kacho65535",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kaikey",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kanra824",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "karoyakani",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "katsudon421",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kawaii_kawai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kayaba",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kbagoli1999",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ke_beck",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "keeebooo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kenchan3141",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "keroido",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kitkatki",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kkio",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "koikotya",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "konamilk",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "korobokkuru",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kota_amo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kyot",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "kys",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "lazyboson",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "leafmoon",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "letMiter",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "lgs",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "linxiaotian",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "little_li",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "liufuqiang",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "lizaakter_28_337",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "logx",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "love_yourself",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "lucky1305",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "m193",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "machikane",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "madox2357",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "magolors",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "magurofly",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mahabub_tweety",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "maharin21",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "makio93",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "malayajrath",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "malton",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "manannjain",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "march",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mark1010",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "maron8satun",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "mash2",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mathun_3",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mattu34",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "midori_Novem",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "midu_01C",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mijinco2480",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mikail_22",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "mimam",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "minordaimyo",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "minyoru",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mizukichi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mo3789530",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "momokichi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mono_0812",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mostunity",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "motu84834",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "mymelochan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nagiss",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "nahco314",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "naim93",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "naname",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nasubi24",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "natch",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "natu_7D",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "navneet_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nawa",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nazmulnns2066",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "neerajk",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "neetman",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nerd_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "neterukun",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ngng628",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nicolen",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nisarga02",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nok0",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "noorsingh",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "notMash3r",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nuo0930",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "nyarukun",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "oka111111101",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "okeue",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "orposter",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "osamyun",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "osata",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "oshake",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "otera",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ouga",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "owltsp",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pachicobue",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pacricorn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pankajadhana97",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "papapapiropipi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pattnaikayush4",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "perpetual",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "perryblack",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "phatbs21",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "phattd",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "piyushchandra",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pngn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pool_loop",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "prabhxs",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "prajjwal_rtr",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "praneeth_n_7",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "priority_queue",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "pritipadma",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "programmer765",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "psz2007",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "qiuzx",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "quietsato",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "qzx_try_tie_tie",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "radinalimi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "raggarwalg01",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "rajan_2311",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ramdos",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ramu_v0_0v",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "raspi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "raychiranjeev",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "raymond_7",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "reailikezhu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "redoCtA",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "reguiser",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "remon60",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "rft564",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "rgbored",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "riyajha_2305",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "roaster",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "rodie_97",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "romophic",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "rorshacke",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "roto_37",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sachin746",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sahal2000",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "saikat_141",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "saiton03",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "sakamoto_yuuhi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sakarush",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "salazzar_047",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "salonidayal",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "samchen856",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sanimoinstaddrch",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "sannanbou",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sansen",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sanzida28_344",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sapora",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sariful",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sash",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "saymon005",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sh13ro",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sh_yama",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shab",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shamimahmed82245",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shamoT2",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shaozhihang",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sharad9146",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shekhrishabh18",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shimamidori",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shimasima2",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shinamon555",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "shiomusubi496",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sho03",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shreyya_matade",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "shuba400",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "si_sui",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sigmani",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "singh_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "siro53",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sji",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "skt113",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "snowberryfield",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "snsk62g",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "soto800",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "soytaro",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "spookywooky",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ssumika",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "startova_pchela",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "stinger",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "stng",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "strn5",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "sudhan1708",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "suisen",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "superwei",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "suzume",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "swas_k",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "syakedaikonn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tairyuuuu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "taku_haru",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "tapopadma",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tarakoTRK",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tardigrade",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tatetuke",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tatsuK",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "techykash",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "temnam",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "test_player",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "thehvd",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tinpanbaka",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tjaaaaas",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tloinuy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tmc",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tokita1964",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tokoharu",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tokusakurai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tookunn",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "toshokan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tropolone",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tsurumai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tuhin107494",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tummetisairam",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tunehira",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tuns_04",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "turzo_sawroop",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "tyone",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ueta",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ukgaurav",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ulgut",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ur_4567",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "usrname",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "uyasuda",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "vaibhavsharma",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "vikal__009",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "vishwasbordia",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "vivekjoshi556",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "voldemort2",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "vonguyennhatduy",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "whatif",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "wiwiteria",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "wolframotoya",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "woodchuck",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "wsm",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "wuyucheng",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "wweiyi",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "xyz600",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "y10",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "y_kawano",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ya_kki",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yalicai",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yamunaku",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yangrunxuan",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yashas_rao",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yaswant_567_",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yatishatcoder",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yidish",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yinyuqin",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ymonta",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yniji",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yoshimethod",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ysanopp",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "ysystem",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yuki3",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "yuto1115",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zachni",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zah1dz",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zeta7532",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zifanwang",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zigmint",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zongbuxiangshui",
+      "rank": 523,
+      "performance": 116
+    },
+    {
+      "user": "zwu2020014673",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zwu2020014894",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zwu2020015019",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zxc1043",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zxc93142819",
+      "rank": 523,
+      "performance": 0
+    },
+    {
+      "user": "zxz520",
+      "rank": 523,
+      "performance": 0
+    }
+  ]
+}

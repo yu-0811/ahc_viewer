@@ -1,0 +1,8681 @@
+{
+  "contest_id": "ahc010",
+  "fetched_at": "2025-12-04T07:37:52.067789+00:00",
+  "rows": [
+    {
+      "user": "imucoding",
+      "rank": 1,
+      "contest_rank": null
+    },
+    {
+      "user": "FplusFplusF",
+      "rank": 2,
+      "contest_rank": null
+    },
+    {
+      "user": "eijirou",
+      "rank": 3,
+      "contest_rank": null
+    },
+    {
+      "user": "tomerun",
+      "rank": 4,
+      "contest_rank": null
+    },
+    {
+      "user": "chuzishu",
+      "rank": 5,
+      "contest_rank": null
+    },
+    {
+      "user": "cz123",
+      "rank": 6,
+      "contest_rank": null
+    },
+    {
+      "user": "c20231020_",
+      "rank": 7,
+      "contest_rank": null
+    },
+    {
+      "user": "qwerty787788",
+      "rank": 8,
+      "contest_rank": null
+    },
+    {
+      "user": "ssaattoo",
+      "rank": 9,
+      "contest_rank": null
+    },
+    {
+      "user": "tanzaku",
+      "rank": 10,
+      "contest_rank": null
+    },
+    {
+      "user": "longwave",
+      "rank": 11,
+      "contest_rank": null
+    },
+    {
+      "user": "takumi152",
+      "rank": 12,
+      "contest_rank": 1
+    },
+    {
+      "user": "MathGorilla",
+      "rank": 13,
+      "contest_rank": null
+    },
+    {
+      "user": "nikaj",
+      "rank": 14,
+      "contest_rank": null
+    },
+    {
+      "user": "Rafbill",
+      "rank": 15,
+      "contest_rank": 2
+    },
+    {
+      "user": "threecourse",
+      "rank": 16,
+      "contest_rank": null
+    },
+    {
+      "user": "hitonanode",
+      "rank": 17,
+      "contest_rank": 3
+    },
+    {
+      "user": "nurupo0723",
+      "rank": 18,
+      "contest_rank": null
+    },
+    {
+      "user": "kwm_t",
+      "rank": 19,
+      "contest_rank": null
+    },
+    {
+      "user": "wata_admin",
+      "rank": 20,
+      "contest_rank": null
+    },
+    {
+      "user": "ynasu",
+      "rank": 21,
+      "contest_rank": 4
+    },
+    {
+      "user": "tomerun",
+      "rank": 22,
+      "contest_rank": 5
+    },
+    {
+      "user": "kawatea",
+      "rank": 23,
+      "contest_rank": null
+    },
+    {
+      "user": "kawatea",
+      "rank": 24,
+      "contest_rank": 6
+    },
+    {
+      "user": "Shun_PI",
+      "rank": 25,
+      "contest_rank": 7
+    },
+    {
+      "user": "mamekin",
+      "rank": 26,
+      "contest_rank": null
+    },
+    {
+      "user": "bowwowforeach",
+      "rank": 27,
+      "contest_rank": 8
+    },
+    {
+      "user": "wanui",
+      "rank": 28,
+      "contest_rank": null
+    },
+    {
+      "user": "yunix",
+      "rank": 29,
+      "contest_rank": null
+    },
+    {
+      "user": "mamekin",
+      "rank": 30,
+      "contest_rank": 9
+    },
+    {
+      "user": "E869120",
+      "rank": 31,
+      "contest_rank": null
+    },
+    {
+      "user": "kurakura",
+      "rank": 32,
+      "contest_rank": null
+    },
+    {
+      "user": "saitodevel01",
+      "rank": 33,
+      "contest_rank": null
+    },
+    {
+      "user": "kens",
+      "rank": 34,
+      "contest_rank": null
+    },
+    {
+      "user": "hiratai",
+      "rank": 35,
+      "contest_rank": null
+    },
+    {
+      "user": "Nyaan",
+      "rank": 36,
+      "contest_rank": null
+    },
+    {
+      "user": "ush",
+      "rank": 37,
+      "contest_rank": null
+    },
+    {
+      "user": "yuuki_n",
+      "rank": 38,
+      "contest_rank": null
+    },
+    {
+      "user": "Nyaan",
+      "rank": 39,
+      "contest_rank": 10
+    },
+    {
+      "user": "qLethon",
+      "rank": 40,
+      "contest_rank": null
+    },
+    {
+      "user": "fumuumuf",
+      "rank": 41,
+      "contest_rank": null
+    },
+    {
+      "user": "terry_u16",
+      "rank": 42,
+      "contest_rank": null
+    },
+    {
+      "user": "tashikani",
+      "rank": 43,
+      "contest_rank": 11
+    },
+    {
+      "user": "WA_TLE",
+      "rank": 44,
+      "contest_rank": 12
+    },
+    {
+      "user": "hiratai",
+      "rank": 45,
+      "contest_rank": 13
+    },
+    {
+      "user": "ichyo",
+      "rank": 46,
+      "contest_rank": 14
+    },
+    {
+      "user": "Jirotech",
+      "rank": 47,
+      "contest_rank": 15
+    },
+    {
+      "user": "physics0523",
+      "rank": 48,
+      "contest_rank": 16
+    },
+    {
+      "user": "suisen",
+      "rank": 49,
+      "contest_rank": null
+    },
+    {
+      "user": "carrot46",
+      "rank": 50,
+      "contest_rank": 17
+    },
+    {
+      "user": "iwashi31",
+      "rank": 51,
+      "contest_rank": null
+    },
+    {
+      "user": "theory_and_me",
+      "rank": 52,
+      "contest_rank": null
+    },
+    {
+      "user": "iwashi31",
+      "rank": 53,
+      "contest_rank": 18
+    },
+    {
+      "user": "Kahuka",
+      "rank": 54,
+      "contest_rank": null
+    },
+    {
+      "user": "hoshi524",
+      "rank": 55,
+      "contest_rank": null
+    },
+    {
+      "user": "sankantsu",
+      "rank": 56,
+      "contest_rank": null
+    },
+    {
+      "user": "poka",
+      "rank": 57,
+      "contest_rank": null
+    },
+    {
+      "user": "small_koala",
+      "rank": 58,
+      "contest_rank": null
+    },
+    {
+      "user": "riantkb",
+      "rank": 59,
+      "contest_rank": 19
+    },
+    {
+      "user": "shibh308",
+      "rank": 60,
+      "contest_rank": 20
+    },
+    {
+      "user": "Aquarius",
+      "rank": 61,
+      "contest_rank": null
+    },
+    {
+      "user": "EmK",
+      "rank": 62,
+      "contest_rank": null
+    },
+    {
+      "user": "KawattaTaido",
+      "rank": 63,
+      "contest_rank": null
+    },
+    {
+      "user": "tishii24",
+      "rank": 64,
+      "contest_rank": 21
+    },
+    {
+      "user": "Nanashima",
+      "rank": 65,
+      "contest_rank": null
+    },
+    {
+      "user": "EmK",
+      "rank": 66,
+      "contest_rank": 22
+    },
+    {
+      "user": "gasin",
+      "rank": 67,
+      "contest_rank": null
+    },
+    {
+      "user": "hasi",
+      "rank": 68,
+      "contest_rank": 23
+    },
+    {
+      "user": "tamurars",
+      "rank": 69,
+      "contest_rank": null
+    },
+    {
+      "user": "xyz600",
+      "rank": 70,
+      "contest_rank": 24
+    },
+    {
+      "user": "rabot",
+      "rank": 71,
+      "contest_rank": null
+    },
+    {
+      "user": "bin101",
+      "rank": 72,
+      "contest_rank": 25
+    },
+    {
+      "user": "Nachia",
+      "rank": 73,
+      "contest_rank": 26
+    },
+    {
+      "user": "toam",
+      "rank": 74,
+      "contest_rank": null
+    },
+    {
+      "user": "tute7627",
+      "rank": 75,
+      "contest_rank": 27
+    },
+    {
+      "user": "zundamo_ti",
+      "rank": 76,
+      "contest_rank": null
+    },
+    {
+      "user": "kuhaku",
+      "rank": 77,
+      "contest_rank": 28
+    },
+    {
+      "user": "btk15049",
+      "rank": 78,
+      "contest_rank": null
+    },
+    {
+      "user": "Moegi",
+      "rank": 79,
+      "contest_rank": null
+    },
+    {
+      "user": "se1ka2",
+      "rank": 80,
+      "contest_rank": null
+    },
+    {
+      "user": "tokumini",
+      "rank": 81,
+      "contest_rank": 29
+    },
+    {
+      "user": "cunitac",
+      "rank": 82,
+      "contest_rank": null
+    },
+    {
+      "user": "cunitac",
+      "rank": 83,
+      "contest_rank": 30
+    },
+    {
+      "user": "KoD",
+      "rank": 84,
+      "contest_rank": 31
+    },
+    {
+      "user": "sumoooru",
+      "rank": 85,
+      "contest_rank": 32
+    },
+    {
+      "user": "Moegi",
+      "rank": 86,
+      "contest_rank": 33
+    },
+    {
+      "user": "Coki628",
+      "rank": 87,
+      "contest_rank": null
+    },
+    {
+      "user": "fuppy0716",
+      "rank": 88,
+      "contest_rank": null
+    },
+    {
+      "user": "hiro116s",
+      "rank": 89,
+      "contest_rank": null
+    },
+    {
+      "user": "wanui",
+      "rank": 90,
+      "contest_rank": 34
+    },
+    {
+      "user": "fuppy0716",
+      "rank": 91,
+      "contest_rank": 35
+    },
+    {
+      "user": "square1001",
+      "rank": 92,
+      "contest_rank": null
+    },
+    {
+      "user": "tosca2020",
+      "rank": 93,
+      "contest_rank": null
+    },
+    {
+      "user": "rng",
+      "rank": 94,
+      "contest_rank": 36
+    },
+    {
+      "user": "milkcoffee",
+      "rank": 95,
+      "contest_rank": 37
+    },
+    {
+      "user": "kens",
+      "rank": 96,
+      "contest_rank": 38
+    },
+    {
+      "user": "mtsd",
+      "rank": 97,
+      "contest_rank": 39
+    },
+    {
+      "user": "hammerl",
+      "rank": 98,
+      "contest_rank": null
+    },
+    {
+      "user": "Clay_ChengFeng",
+      "rank": 99,
+      "contest_rank": null
+    },
+    {
+      "user": "tyokousagi",
+      "rank": 100,
+      "contest_rank": null
+    },
+    {
+      "user": "ValGrowth",
+      "rank": 101,
+      "contest_rank": 40
+    },
+    {
+      "user": "cuthbert",
+      "rank": 102,
+      "contest_rank": 41
+    },
+    {
+      "user": "hoshi524",
+      "rank": 103,
+      "contest_rank": 42
+    },
+    {
+      "user": "rtono",
+      "rank": 104,
+      "contest_rank": null
+    },
+    {
+      "user": "sash",
+      "rank": 105,
+      "contest_rank": 43
+    },
+    {
+      "user": "siman",
+      "rank": 106,
+      "contest_rank": 44
+    },
+    {
+      "user": "MatsuTaku",
+      "rank": 107,
+      "contest_rank": 45
+    },
+    {
+      "user": "yochan",
+      "rank": 108,
+      "contest_rank": 46
+    },
+    {
+      "user": "zeke",
+      "rank": 109,
+      "contest_rank": 47
+    },
+    {
+      "user": "komori3",
+      "rank": 110,
+      "contest_rank": null
+    },
+    {
+      "user": "toame",
+      "rank": 111,
+      "contest_rank": 48
+    },
+    {
+      "user": "dn6049949",
+      "rank": 112,
+      "contest_rank": null
+    },
+    {
+      "user": "dn6049949",
+      "rank": 113,
+      "contest_rank": 49
+    },
+    {
+      "user": "merom686",
+      "rank": 114,
+      "contest_rank": 50
+    },
+    {
+      "user": "turmax",
+      "rank": 115,
+      "contest_rank": 51
+    },
+    {
+      "user": "se1ka2",
+      "rank": 116,
+      "contest_rank": 52
+    },
+    {
+      "user": "saky0080",
+      "rank": 117,
+      "contest_rank": null
+    },
+    {
+      "user": "yokozuna57",
+      "rank": 118,
+      "contest_rank": 53
+    },
+    {
+      "user": "platinum",
+      "rank": 119,
+      "contest_rank": 54
+    },
+    {
+      "user": "kotatsugame",
+      "rank": 120,
+      "contest_rank": 55
+    },
+    {
+      "user": "kotatsugame",
+      "rank": 121,
+      "contest_rank": null
+    },
+    {
+      "user": "Dente",
+      "rank": 122,
+      "contest_rank": 56
+    },
+    {
+      "user": "uwi",
+      "rank": 123,
+      "contest_rank": 57
+    },
+    {
+      "user": "ush",
+      "rank": 124,
+      "contest_rank": 58
+    },
+    {
+      "user": "ryogaeki",
+      "rank": 125,
+      "contest_rank": null
+    },
+    {
+      "user": "kazmat",
+      "rank": 126,
+      "contest_rank": null
+    },
+    {
+      "user": "emthrm",
+      "rank": 127,
+      "contest_rank": 59
+    },
+    {
+      "user": "takytank",
+      "rank": 128,
+      "contest_rank": 60
+    },
+    {
+      "user": "otera",
+      "rank": 129,
+      "contest_rank": 61
+    },
+    {
+      "user": "nnnnishi",
+      "rank": 130,
+      "contest_rank": null
+    },
+    {
+      "user": "ebicochineal",
+      "rank": 131,
+      "contest_rank": null
+    },
+    {
+      "user": "ChiyosBigDragon",
+      "rank": 132,
+      "contest_rank": 62
+    },
+    {
+      "user": "ponjuice",
+      "rank": 133,
+      "contest_rank": 63
+    },
+    {
+      "user": "ak1beans",
+      "rank": 134,
+      "contest_rank": null
+    },
+    {
+      "user": "shindannin",
+      "rank": 135,
+      "contest_rank": null
+    },
+    {
+      "user": "VArtem",
+      "rank": 136,
+      "contest_rank": 64
+    },
+    {
+      "user": "souta_1326",
+      "rank": 137,
+      "contest_rank": 65
+    },
+    {
+      "user": "kusano",
+      "rank": 138,
+      "contest_rank": 66
+    },
+    {
+      "user": "Omotchi",
+      "rank": 139,
+      "contest_rank": null
+    },
+    {
+      "user": "kclee2172",
+      "rank": 140,
+      "contest_rank": 67
+    },
+    {
+      "user": "Omotchi",
+      "rank": 141,
+      "contest_rank": 68
+    },
+    {
+      "user": "fgwiebfaoish",
+      "rank": 142,
+      "contest_rank": null
+    },
+    {
+      "user": "komori3",
+      "rank": 143,
+      "contest_rank": 69
+    },
+    {
+      "user": "ytkn",
+      "rank": 144,
+      "contest_rank": 70
+    },
+    {
+      "user": "tsukasa_diary",
+      "rank": 145,
+      "contest_rank": 71
+    },
+    {
+      "user": "kr",
+      "rank": 146,
+      "contest_rank": 72
+    },
+    {
+      "user": "hte",
+      "rank": 147,
+      "contest_rank": 73
+    },
+    {
+      "user": "shindannin",
+      "rank": 148,
+      "contest_rank": 74
+    },
+    {
+      "user": "phyllo",
+      "rank": 149,
+      "contest_rank": null
+    },
+    {
+      "user": "totori0908",
+      "rank": 150,
+      "contest_rank": null
+    },
+    {
+      "user": "HBit",
+      "rank": 151,
+      "contest_rank": null
+    },
+    {
+      "user": "tsukammo",
+      "rank": 152,
+      "contest_rank": 75
+    },
+    {
+      "user": "Kevinxiehk",
+      "rank": 153,
+      "contest_rank": 76
+    },
+    {
+      "user": "HBit",
+      "rank": 154,
+      "contest_rank": 77
+    },
+    {
+      "user": "nok0",
+      "rank": 155,
+      "contest_rank": 78
+    },
+    {
+      "user": "totori0908",
+      "rank": 156,
+      "contest_rank": 79
+    },
+    {
+      "user": "ebicochineal",
+      "rank": 157,
+      "contest_rank": 80
+    },
+    {
+      "user": "strangerxxx",
+      "rank": 158,
+      "contest_rank": 81
+    },
+    {
+      "user": "sca1l",
+      "rank": 159,
+      "contest_rank": 82
+    },
+    {
+      "user": "phyllo",
+      "rank": 160,
+      "contest_rank": 83
+    },
+    {
+      "user": "hiikunZ",
+      "rank": 161,
+      "contest_rank": 84
+    },
+    {
+      "user": "chocono2230",
+      "rank": 162,
+      "contest_rank": null
+    },
+    {
+      "user": "yuusanlondon",
+      "rank": 163,
+      "contest_rank": 85
+    },
+    {
+      "user": "eijirou",
+      "rank": 164,
+      "contest_rank": 86
+    },
+    {
+      "user": "yunix",
+      "rank": 165,
+      "contest_rank": 87
+    },
+    {
+      "user": "nu50218",
+      "rank": 166,
+      "contest_rank": 88
+    },
+    {
+      "user": "KumaTachiRen",
+      "rank": 167,
+      "contest_rank": 89
+    },
+    {
+      "user": "rabot",
+      "rank": 168,
+      "contest_rank": 90
+    },
+    {
+      "user": "sensaur",
+      "rank": 169,
+      "contest_rank": 91
+    },
+    {
+      "user": "noimi",
+      "rank": 170,
+      "contest_rank": 92
+    },
+    {
+      "user": "bqn",
+      "rank": 171,
+      "contest_rank": null
+    },
+    {
+      "user": "fgwiebfaoish",
+      "rank": 172,
+      "contest_rank": 93
+    },
+    {
+      "user": "KumaTachiRen",
+      "rank": 173,
+      "contest_rank": null
+    },
+    {
+      "user": "mn_7545",
+      "rank": 174,
+      "contest_rank": 94
+    },
+    {
+      "user": "to_omoT222",
+      "rank": 175,
+      "contest_rank": 95
+    },
+    {
+      "user": "toyuzuko",
+      "rank": 176,
+      "contest_rank": 96
+    },
+    {
+      "user": "plcherrim",
+      "rank": 177,
+      "contest_rank": 97
+    },
+    {
+      "user": "plcherrim",
+      "rank": 178,
+      "contest_rank": null
+    },
+    {
+      "user": "fugusuki",
+      "rank": 179,
+      "contest_rank": 98
+    },
+    {
+      "user": "shiomusubi496",
+      "rank": 180,
+      "contest_rank": null
+    },
+    {
+      "user": "wattaihei",
+      "rank": 181,
+      "contest_rank": 99
+    },
+    {
+      "user": "shiomusubi496",
+      "rank": 182,
+      "contest_rank": 100
+    },
+    {
+      "user": "user14767553",
+      "rank": 183,
+      "contest_rank": null
+    },
+    {
+      "user": "birdwatcher",
+      "rank": 184,
+      "contest_rank": 101
+    },
+    {
+      "user": "puzneko",
+      "rank": 185,
+      "contest_rank": 102
+    },
+    {
+      "user": "strangerxxx",
+      "rank": 186,
+      "contest_rank": null
+    },
+    {
+      "user": "highjump",
+      "rank": 187,
+      "contest_rank": 103
+    },
+    {
+      "user": "liqixuan0927",
+      "rank": 188,
+      "contest_rank": null
+    },
+    {
+      "user": "haruharuwild",
+      "rank": 189,
+      "contest_rank": 104
+    },
+    {
+      "user": "chro4896",
+      "rank": 190,
+      "contest_rank": 105
+    },
+    {
+      "user": "hal_goldfish",
+      "rank": 191,
+      "contest_rank": null
+    },
+    {
+      "user": "roto_37",
+      "rank": 192,
+      "contest_rank": 106
+    },
+    {
+      "user": "hammerl",
+      "rank": 193,
+      "contest_rank": 107
+    },
+    {
+      "user": "bono_bono",
+      "rank": 194,
+      "contest_rank": 108
+    },
+    {
+      "user": "m_m",
+      "rank": 195,
+      "contest_rank": 109
+    },
+    {
+      "user": "reg7777",
+      "rank": 196,
+      "contest_rank": 110
+    },
+    {
+      "user": "dsytk7",
+      "rank": 197,
+      "contest_rank": 111
+    },
+    {
+      "user": "spica314",
+      "rank": 198,
+      "contest_rank": 112
+    },
+    {
+      "user": "aonama",
+      "rank": 199,
+      "contest_rank": null
+    },
+    {
+      "user": "mikake",
+      "rank": 200,
+      "contest_rank": 113
+    },
+    {
+      "user": "shun0923",
+      "rank": 201,
+      "contest_rank": 114
+    },
+    {
+      "user": "monnu",
+      "rank": 202,
+      "contest_rank": 115
+    },
+    {
+      "user": "NaTa8",
+      "rank": 203,
+      "contest_rank": 116
+    },
+    {
+      "user": "cexen",
+      "rank": 204,
+      "contest_rank": 117
+    },
+    {
+      "user": "sash0",
+      "rank": 205,
+      "contest_rank": 118
+    },
+    {
+      "user": "broad",
+      "rank": 206,
+      "contest_rank": 119
+    },
+    {
+      "user": "sbite",
+      "rank": 207,
+      "contest_rank": 120
+    },
+    {
+      "user": "conf",
+      "rank": 208,
+      "contest_rank": 121
+    },
+    {
+      "user": "longrun",
+      "rank": 209,
+      "contest_rank": 122
+    },
+    {
+      "user": "C7BMkOO7Qbmcwck7",
+      "rank": 210,
+      "contest_rank": 123
+    },
+    {
+      "user": "cho57020",
+      "rank": 211,
+      "contest_rank": 124
+    },
+    {
+      "user": "aonama",
+      "rank": 212,
+      "contest_rank": 125
+    },
+    {
+      "user": "nesya",
+      "rank": 213,
+      "contest_rank": 126
+    },
+    {
+      "user": "Okay",
+      "rank": 214,
+      "contest_rank": 127
+    },
+    {
+      "user": "sbite",
+      "rank": 215,
+      "contest_rank": null
+    },
+    {
+      "user": "kkiizz",
+      "rank": 216,
+      "contest_rank": null
+    },
+    {
+      "user": "TKTYI",
+      "rank": 217,
+      "contest_rank": 128
+    },
+    {
+      "user": "tatata96",
+      "rank": 218,
+      "contest_rank": 129
+    },
+    {
+      "user": "mooaki",
+      "rank": 219,
+      "contest_rank": 130
+    },
+    {
+      "user": "terry_u16",
+      "rank": 220,
+      "contest_rank": 131
+    },
+    {
+      "user": "daiju",
+      "rank": 221,
+      "contest_rank": 132
+    },
+    {
+      "user": "kkiizz",
+      "rank": 222,
+      "contest_rank": 133
+    },
+    {
+      "user": "yukidaruma6",
+      "rank": 223,
+      "contest_rank": 134
+    },
+    {
+      "user": "kaz49bz",
+      "rank": 224,
+      "contest_rank": 135
+    },
+    {
+      "user": "kudryavka_chan",
+      "rank": 225,
+      "contest_rank": 136
+    },
+    {
+      "user": "Manuel1024",
+      "rank": 226,
+      "contest_rank": 137
+    },
+    {
+      "user": "nahco314",
+      "rank": 227,
+      "contest_rank": 138
+    },
+    {
+      "user": "cexen",
+      "rank": 228,
+      "contest_rank": null
+    },
+    {
+      "user": "kudryavka_chan",
+      "rank": 229,
+      "contest_rank": null
+    },
+    {
+      "user": "pointN",
+      "rank": 230,
+      "contest_rank": 139
+    },
+    {
+      "user": "seiyu0225",
+      "rank": 231,
+      "contest_rank": null
+    },
+    {
+      "user": "seiyu0225",
+      "rank": 232,
+      "contest_rank": 140
+    },
+    {
+      "user": "kaz_mighty",
+      "rank": 233,
+      "contest_rank": null
+    },
+    {
+      "user": "nakari_1124",
+      "rank": 234,
+      "contest_rank": 141
+    },
+    {
+      "user": "tanakh",
+      "rank": 235,
+      "contest_rank": 142
+    },
+    {
+      "user": "kkktym",
+      "rank": 236,
+      "contest_rank": 143
+    },
+    {
+      "user": "shun2741",
+      "rank": 237,
+      "contest_rank": null
+    },
+    {
+      "user": "maki_glenscape",
+      "rank": 238,
+      "contest_rank": null
+    },
+    {
+      "user": "Shibungi",
+      "rank": 239,
+      "contest_rank": 144
+    },
+    {
+      "user": "MtSaka",
+      "rank": 240,
+      "contest_rank": 145
+    },
+    {
+      "user": "i8nd5t",
+      "rank": 241,
+      "contest_rank": 146
+    },
+    {
+      "user": "suisen",
+      "rank": 242,
+      "contest_rank": 147
+    },
+    {
+      "user": "Aquarius",
+      "rank": 243,
+      "contest_rank": 148
+    },
+    {
+      "user": "Trineutron",
+      "rank": 244,
+      "contest_rank": 149
+    },
+    {
+      "user": "rastel",
+      "rank": 245,
+      "contest_rank": 150
+    },
+    {
+      "user": "takekinmkk",
+      "rank": 246,
+      "contest_rank": null
+    },
+    {
+      "user": "okudeottu",
+      "rank": 247,
+      "contest_rank": 151
+    },
+    {
+      "user": "Coki628",
+      "rank": 248,
+      "contest_rank": 152
+    },
+    {
+      "user": "OmarMoBadr",
+      "rank": 249,
+      "contest_rank": null
+    },
+    {
+      "user": "Diary",
+      "rank": 250,
+      "contest_rank": 153
+    },
+    {
+      "user": "Schatzburg",
+      "rank": 251,
+      "contest_rank": 154
+    },
+    {
+      "user": "kyo1",
+      "rank": 252,
+      "contest_rank": 155
+    },
+    {
+      "user": "a9ua1i0n",
+      "rank": 253,
+      "contest_rank": 156
+    },
+    {
+      "user": "heno239",
+      "rank": 254,
+      "contest_rank": 157
+    },
+    {
+      "user": "iceslime1104",
+      "rank": 255,
+      "contest_rank": null
+    },
+    {
+      "user": "iceslime1104",
+      "rank": 256,
+      "contest_rank": 158
+    },
+    {
+      "user": "tinySteLLa",
+      "rank": 257,
+      "contest_rank": null
+    },
+    {
+      "user": "nuts",
+      "rank": 258,
+      "contest_rank": 159
+    },
+    {
+      "user": "chillmura",
+      "rank": 259,
+      "contest_rank": 160
+    },
+    {
+      "user": "hoxosh",
+      "rank": 260,
+      "contest_rank": 161
+    },
+    {
+      "user": "hoxosh",
+      "rank": 261,
+      "contest_rank": null
+    },
+    {
+      "user": "ramdos",
+      "rank": 262,
+      "contest_rank": 162
+    },
+    {
+      "user": "yuuki_n",
+      "rank": 263,
+      "contest_rank": 163
+    },
+    {
+      "user": "tt829",
+      "rank": 264,
+      "contest_rank": 164
+    },
+    {
+      "user": "Kiri8128",
+      "rank": 265,
+      "contest_rank": 165
+    },
+    {
+      "user": "cottoncotton",
+      "rank": 266,
+      "contest_rank": 166
+    },
+    {
+      "user": "mikecat",
+      "rank": 267,
+      "contest_rank": 167
+    },
+    {
+      "user": "arad",
+      "rank": 268,
+      "contest_rank": null
+    },
+    {
+      "user": "toku",
+      "rank": 269,
+      "contest_rank": 168
+    },
+    {
+      "user": "Bondo416",
+      "rank": 270,
+      "contest_rank": 169
+    },
+    {
+      "user": "mikam",
+      "rank": 271,
+      "contest_rank": 170
+    },
+    {
+      "user": "ntk_ta01",
+      "rank": 272,
+      "contest_rank": 171
+    },
+    {
+      "user": "tosca2020",
+      "rank": 273,
+      "contest_rank": 172
+    },
+    {
+      "user": "YamagenSakam",
+      "rank": 274,
+      "contest_rank": 173
+    },
+    {
+      "user": "penguin46",
+      "rank": 275,
+      "contest_rank": 174
+    },
+    {
+      "user": "primenumber_zz",
+      "rank": 276,
+      "contest_rank": 175
+    },
+    {
+      "user": "sh_mug",
+      "rank": 277,
+      "contest_rank": null
+    },
+    {
+      "user": "reew2n",
+      "rank": 278,
+      "contest_rank": 176
+    },
+    {
+      "user": "kyoroid",
+      "rank": 279,
+      "contest_rank": 177
+    },
+    {
+      "user": "hiro116s",
+      "rank": 280,
+      "contest_rank": 178
+    },
+    {
+      "user": "ks2m",
+      "rank": 281,
+      "contest_rank": 179
+    },
+    {
+      "user": "scol",
+      "rank": 282,
+      "contest_rank": 180
+    },
+    {
+      "user": "fujiringo",
+      "rank": 283,
+      "contest_rank": 181
+    },
+    {
+      "user": "Hufnium",
+      "rank": 284,
+      "contest_rank": 182
+    },
+    {
+      "user": "obakyan",
+      "rank": 285,
+      "contest_rank": 183
+    },
+    {
+      "user": "jjjjjjjtgpptmjj",
+      "rank": 286,
+      "contest_rank": 184
+    },
+    {
+      "user": "jjjjjjjtgpptmjj",
+      "rank": 287,
+      "contest_rank": null
+    },
+    {
+      "user": "miku",
+      "rank": 288,
+      "contest_rank": 185
+    },
+    {
+      "user": "akane831",
+      "rank": 289,
+      "contest_rank": null
+    },
+    {
+      "user": "SHIOMARU",
+      "rank": 290,
+      "contest_rank": 186
+    },
+    {
+      "user": "Minny",
+      "rank": 291,
+      "contest_rank": 187
+    },
+    {
+      "user": "startcpp",
+      "rank": 292,
+      "contest_rank": 188
+    },
+    {
+      "user": "US_cube",
+      "rank": 293,
+      "contest_rank": 189
+    },
+    {
+      "user": "katom",
+      "rank": 294,
+      "contest_rank": null
+    },
+    {
+      "user": "Aqua3k",
+      "rank": 295,
+      "contest_rank": 190
+    },
+    {
+      "user": "kabipoyo",
+      "rank": 296,
+      "contest_rank": 191
+    },
+    {
+      "user": "Gobi",
+      "rank": 297,
+      "contest_rank": 192
+    },
+    {
+      "user": "unsre",
+      "rank": 298,
+      "contest_rank": 193
+    },
+    {
+      "user": "G4NP0N",
+      "rank": 299,
+      "contest_rank": 194
+    },
+    {
+      "user": "maro",
+      "rank": 300,
+      "contest_rank": 195
+    },
+    {
+      "user": "aaaaaaaaaa2230",
+      "rank": 301,
+      "contest_rank": 196
+    },
+    {
+      "user": "Akari__",
+      "rank": 302,
+      "contest_rank": 197
+    },
+    {
+      "user": "Shirotsume",
+      "rank": 303,
+      "contest_rank": 198
+    },
+    {
+      "user": "kozima",
+      "rank": 304,
+      "contest_rank": 199
+    },
+    {
+      "user": "syunsuke",
+      "rank": 305,
+      "contest_rank": 200
+    },
+    {
+      "user": "tmyksj",
+      "rank": 306,
+      "contest_rank": 201
+    },
+    {
+      "user": "ueta",
+      "rank": 307,
+      "contest_rank": null
+    },
+    {
+      "user": "arad",
+      "rank": 308,
+      "contest_rank": 202
+    },
+    {
+      "user": "ikd",
+      "rank": 309,
+      "contest_rank": 203
+    },
+    {
+      "user": "HoshizoraZ",
+      "rank": 310,
+      "contest_rank": null
+    },
+    {
+      "user": "maro",
+      "rank": 311,
+      "contest_rank": null
+    },
+    {
+      "user": "theory_and_me",
+      "rank": 312,
+      "contest_rank": 204
+    },
+    {
+      "user": "kajikentaro",
+      "rank": 313,
+      "contest_rank": 205
+    },
+    {
+      "user": "ccppjsrb",
+      "rank": 314,
+      "contest_rank": 206
+    },
+    {
+      "user": "jkdorayaki",
+      "rank": 315,
+      "contest_rank": 207
+    },
+    {
+      "user": "ccppjsrb",
+      "rank": 316,
+      "contest_rank": null
+    },
+    {
+      "user": "theanine",
+      "rank": 317,
+      "contest_rank": 208
+    },
+    {
+      "user": "nnfnameko",
+      "rank": 318,
+      "contest_rank": 209
+    },
+    {
+      "user": "i8nd5t",
+      "rank": 319,
+      "contest_rank": null
+    },
+    {
+      "user": "Yuki_B",
+      "rank": 320,
+      "contest_rank": 210
+    },
+    {
+      "user": "outline",
+      "rank": 321,
+      "contest_rank": 211
+    },
+    {
+      "user": "kzyKT",
+      "rank": 322,
+      "contest_rank": 212
+    },
+    {
+      "user": "Kyo_s_s",
+      "rank": 323,
+      "contest_rank": 213
+    },
+    {
+      "user": "gengar_094",
+      "rank": 324,
+      "contest_rank": 214
+    },
+    {
+      "user": "Yunioshi",
+      "rank": 325,
+      "contest_rank": null
+    },
+    {
+      "user": "katsunori",
+      "rank": 326,
+      "contest_rank": 215
+    },
+    {
+      "user": "rmizuta",
+      "rank": 327,
+      "contest_rank": 216
+    },
+    {
+      "user": "nrvft",
+      "rank": 328,
+      "contest_rank": 217
+    },
+    {
+      "user": "uesugi",
+      "rank": 329,
+      "contest_rank": 218
+    },
+    {
+      "user": "rusa",
+      "rank": 330,
+      "contest_rank": null
+    },
+    {
+      "user": "chro4896",
+      "rank": 331,
+      "contest_rank": null
+    },
+    {
+      "user": "beta",
+      "rank": 332,
+      "contest_rank": 219
+    },
+    {
+      "user": "rennnnn",
+      "rank": 333,
+      "contest_rank": 220
+    },
+    {
+      "user": "imuraya",
+      "rank": 334,
+      "contest_rank": null
+    },
+    {
+      "user": "Armavica",
+      "rank": 335,
+      "contest_rank": 221
+    },
+    {
+      "user": "mamejika",
+      "rank": 336,
+      "contest_rank": 222
+    },
+    {
+      "user": "karinohito",
+      "rank": 337,
+      "contest_rank": 223
+    },
+    {
+      "user": "dyktr_06",
+      "rank": 338,
+      "contest_rank": 224
+    },
+    {
+      "user": "otsuneko",
+      "rank": 339,
+      "contest_rank": 225
+    },
+    {
+      "user": "kabuto64425",
+      "rank": 340,
+      "contest_rank": 226
+    },
+    {
+      "user": "koryou",
+      "rank": 341,
+      "contest_rank": 227
+    },
+    {
+      "user": "Yoika",
+      "rank": 342,
+      "contest_rank": 228
+    },
+    {
+      "user": "sj0389",
+      "rank": 343,
+      "contest_rank": 229
+    },
+    {
+      "user": "Navier_Boltzmann",
+      "rank": 344,
+      "contest_rank": 230
+    },
+    {
+      "user": "bayashi_cl",
+      "rank": 345,
+      "contest_rank": 231
+    },
+    {
+      "user": "Yukkku",
+      "rank": 346,
+      "contest_rank": 232
+    },
+    {
+      "user": "sj0389",
+      "rank": 347,
+      "contest_rank": null
+    },
+    {
+      "user": "gyouzasushi",
+      "rank": 348,
+      "contest_rank": 233
+    },
+    {
+      "user": "fgshun",
+      "rank": 349,
+      "contest_rank": null
+    },
+    {
+      "user": "achapi",
+      "rank": 350,
+      "contest_rank": 234
+    },
+    {
+      "user": "tkg06269476",
+      "rank": 351,
+      "contest_rank": 235
+    },
+    {
+      "user": "catu",
+      "rank": 352,
+      "contest_rank": 236
+    },
+    {
+      "user": "kenken1724",
+      "rank": 353,
+      "contest_rank": null
+    },
+    {
+      "user": "N1flheimr",
+      "rank": 354,
+      "contest_rank": 237
+    },
+    {
+      "user": "miscalculation53",
+      "rank": 355,
+      "contest_rank": 238
+    },
+    {
+      "user": "a01sa01to",
+      "rank": 356,
+      "contest_rank": 239
+    },
+    {
+      "user": "math_hiyoko",
+      "rank": 357,
+      "contest_rank": 240
+    },
+    {
+      "user": "toku4388",
+      "rank": 358,
+      "contest_rank": null
+    },
+    {
+      "user": "titan23",
+      "rank": 359,
+      "contest_rank": 241
+    },
+    {
+      "user": "gyouzasushi",
+      "rank": 360,
+      "contest_rank": null
+    },
+    {
+      "user": "titia",
+      "rank": 361,
+      "contest_rank": 242
+    },
+    {
+      "user": "EventHorizon",
+      "rank": 362,
+      "contest_rank": 243
+    },
+    {
+      "user": "shinnshinn",
+      "rank": 363,
+      "contest_rank": 244
+    },
+    {
+      "user": "titia",
+      "rank": 364,
+      "contest_rank": null
+    },
+    {
+      "user": "titan23",
+      "rank": 365,
+      "contest_rank": null
+    },
+    {
+      "user": "Paych",
+      "rank": 366,
+      "contest_rank": 245
+    },
+    {
+      "user": "iaNTU",
+      "rank": 367,
+      "contest_rank": 246
+    },
+    {
+      "user": "H20",
+      "rank": 368,
+      "contest_rank": 247
+    },
+    {
+      "user": "otoshigo",
+      "rank": 369,
+      "contest_rank": 248
+    },
+    {
+      "user": "merhorn",
+      "rank": 370,
+      "contest_rank": null
+    },
+    {
+      "user": "S_shun",
+      "rank": 371,
+      "contest_rank": 249
+    },
+    {
+      "user": "S_shun",
+      "rank": 372,
+      "contest_rank": null
+    },
+    {
+      "user": "coffee_beans",
+      "rank": 373,
+      "contest_rank": 250
+    },
+    {
+      "user": "suta",
+      "rank": 374,
+      "contest_rank": 251
+    },
+    {
+      "user": "ygussany",
+      "rank": 375,
+      "contest_rank": 252
+    },
+    {
+      "user": "nephrologist",
+      "rank": 376,
+      "contest_rank": 253
+    },
+    {
+      "user": "Ryoga_exe",
+      "rank": 377,
+      "contest_rank": 254
+    },
+    {
+      "user": "akariki",
+      "rank": 378,
+      "contest_rank": 255
+    },
+    {
+      "user": "ochiaigawa",
+      "rank": 379,
+      "contest_rank": null
+    },
+    {
+      "user": "rosso01",
+      "rank": 380,
+      "contest_rank": 256
+    },
+    {
+      "user": "t104",
+      "rank": 381,
+      "contest_rank": 257
+    },
+    {
+      "user": "Aurora2005",
+      "rank": 382,
+      "contest_rank": 258
+    },
+    {
+      "user": "frugq",
+      "rank": 383,
+      "contest_rank": null
+    },
+    {
+      "user": "kato1999",
+      "rank": 384,
+      "contest_rank": 259
+    },
+    {
+      "user": "nemoi",
+      "rank": 385,
+      "contest_rank": null
+    },
+    {
+      "user": "shojin_debu",
+      "rank": 386,
+      "contest_rank": 260
+    },
+    {
+      "user": "saky0080",
+      "rank": 387,
+      "contest_rank": 261
+    },
+    {
+      "user": "merhorn",
+      "rank": 388,
+      "contest_rank": 262
+    },
+    {
+      "user": "AngrySadEight",
+      "rank": 389,
+      "contest_rank": 263
+    },
+    {
+      "user": "through",
+      "rank": 390,
+      "contest_rank": 264
+    },
+    {
+      "user": "ochiaigawa",
+      "rank": 391,
+      "contest_rank": 265
+    },
+    {
+      "user": "t98slider",
+      "rank": 392,
+      "contest_rank": 266
+    },
+    {
+      "user": "toku4388",
+      "rank": 393,
+      "contest_rank": 267
+    },
+    {
+      "user": "mayocorn",
+      "rank": 394,
+      "contest_rank": 268
+    },
+    {
+      "user": "haruki4936",
+      "rank": 395,
+      "contest_rank": 269
+    },
+    {
+      "user": "satashun",
+      "rank": 396,
+      "contest_rank": 270
+    },
+    {
+      "user": "sankantsu",
+      "rank": 397,
+      "contest_rank": 271
+    },
+    {
+      "user": "sunamegane",
+      "rank": 398,
+      "contest_rank": null
+    },
+    {
+      "user": "besukohu",
+      "rank": 399,
+      "contest_rank": 272
+    },
+    {
+      "user": "KatoufujiBanana",
+      "rank": 400,
+      "contest_rank": 273
+    },
+    {
+      "user": "lyi",
+      "rank": 401,
+      "contest_rank": null
+    },
+    {
+      "user": "Kome_soudou",
+      "rank": 402,
+      "contest_rank": 274
+    },
+    {
+      "user": "haruki4936",
+      "rank": 403,
+      "contest_rank": null
+    },
+    {
+      "user": "yaichi",
+      "rank": 404,
+      "contest_rank": null
+    },
+    {
+      "user": "arimatti",
+      "rank": 405,
+      "contest_rank": 275
+    },
+    {
+      "user": "ryo_n",
+      "rank": 406,
+      "contest_rank": 276
+    },
+    {
+      "user": "Lemonmaru",
+      "rank": 407,
+      "contest_rank": null
+    },
+    {
+      "user": "hukinorin",
+      "rank": 408,
+      "contest_rank": 277
+    },
+    {
+      "user": "Quez9271",
+      "rank": 409,
+      "contest_rank": null
+    },
+    {
+      "user": "chacoder",
+      "rank": 410,
+      "contest_rank": 278
+    },
+    {
+      "user": "CAB314",
+      "rank": 411,
+      "contest_rank": 279
+    },
+    {
+      "user": "rikka",
+      "rank": 412,
+      "contest_rank": null
+    },
+    {
+      "user": "N_hara",
+      "rank": 413,
+      "contest_rank": 280
+    },
+    {
+      "user": "shamio",
+      "rank": 414,
+      "contest_rank": null
+    },
+    {
+      "user": "agajo",
+      "rank": 415,
+      "contest_rank": 281
+    },
+    {
+      "user": "abab",
+      "rank": 416,
+      "contest_rank": 282
+    },
+    {
+      "user": "cl17",
+      "rank": 417,
+      "contest_rank": 283
+    },
+    {
+      "user": "novice220326",
+      "rank": 418,
+      "contest_rank": 284
+    },
+    {
+      "user": "rinrion",
+      "rank": 419,
+      "contest_rank": null
+    },
+    {
+      "user": "negibose2020",
+      "rank": 420,
+      "contest_rank": null
+    },
+    {
+      "user": "negibose2020",
+      "rank": 421,
+      "contest_rank": 285
+    },
+    {
+      "user": "mark_0802",
+      "rank": 422,
+      "contest_rank": 286
+    },
+    {
+      "user": "Kazu1998k",
+      "rank": 423,
+      "contest_rank": 287
+    },
+    {
+      "user": "rinrion",
+      "rank": 424,
+      "contest_rank": 288
+    },
+    {
+      "user": "suzushi1i",
+      "rank": 425,
+      "contest_rank": 289
+    },
+    {
+      "user": "ac2393921",
+      "rank": 426,
+      "contest_rank": null
+    },
+    {
+      "user": "chokudai",
+      "rank": 427,
+      "contest_rank": 290
+    },
+    {
+      "user": "mooaki",
+      "rank": 428,
+      "contest_rank": null
+    },
+    {
+      "user": "merlingo",
+      "rank": 429,
+      "contest_rank": 291
+    },
+    {
+      "user": "maki_glenscape",
+      "rank": 430,
+      "contest_rank": 292
+    },
+    {
+      "user": "Capo",
+      "rank": 431,
+      "contest_rank": 293
+    },
+    {
+      "user": "novice220326",
+      "rank": 432,
+      "contest_rank": null
+    },
+    {
+      "user": "Klavis",
+      "rank": 433,
+      "contest_rank": null
+    },
+    {
+      "user": "ttttan",
+      "rank": 434,
+      "contest_rank": 294
+    },
+    {
+      "user": "r3yohei",
+      "rank": 435,
+      "contest_rank": 295
+    },
+    {
+      "user": "ganmodokix",
+      "rank": 436,
+      "contest_rank": 296
+    },
+    {
+      "user": "rms",
+      "rank": 437,
+      "contest_rank": null
+    },
+    {
+      "user": "googol_S0",
+      "rank": 438,
+      "contest_rank": 297
+    },
+    {
+      "user": "berry",
+      "rank": 439,
+      "contest_rank": 298
+    },
+    {
+      "user": "ikoma",
+      "rank": 440,
+      "contest_rank": 299
+    },
+    {
+      "user": "nextseason",
+      "rank": 441,
+      "contest_rank": 300
+    },
+    {
+      "user": "yukiok2",
+      "rank": 442,
+      "contest_rank": 301
+    },
+    {
+      "user": "ansain",
+      "rank": 443,
+      "contest_rank": 302
+    },
+    {
+      "user": "kiwamo",
+      "rank": 444,
+      "contest_rank": null
+    },
+    {
+      "user": "prd_xxx",
+      "rank": 445,
+      "contest_rank": 303
+    },
+    {
+      "user": "ryuusagi",
+      "rank": 446,
+      "contest_rank": 304
+    },
+    {
+      "user": "hogeover30",
+      "rank": 447,
+      "contest_rank": 305
+    },
+    {
+      "user": "maeda3",
+      "rank": 448,
+      "contest_rank": 306
+    },
+    {
+      "user": "inaba3",
+      "rank": 449,
+      "contest_rank": 307
+    },
+    {
+      "user": "Maki_python",
+      "rank": 450,
+      "contest_rank": 308
+    },
+    {
+      "user": "zozu",
+      "rank": 451,
+      "contest_rank": null
+    },
+    {
+      "user": "mmilk1231",
+      "rank": 452,
+      "contest_rank": 309
+    },
+    {
+      "user": "Micc",
+      "rank": 453,
+      "contest_rank": 310
+    },
+    {
+      "user": "TakahiroNakamori",
+      "rank": 454,
+      "contest_rank": 311
+    },
+    {
+      "user": "yuly3",
+      "rank": 455,
+      "contest_rank": 312
+    },
+    {
+      "user": "saitodevel01",
+      "rank": 456,
+      "contest_rank": 313
+    },
+    {
+      "user": "uminorosujin",
+      "rank": 457,
+      "contest_rank": 314
+    },
+    {
+      "user": "hrokamo",
+      "rank": 458,
+      "contest_rank": null
+    },
+    {
+      "user": "Taichicchi",
+      "rank": 459,
+      "contest_rank": 315
+    },
+    {
+      "user": "mdstoy",
+      "rank": 460,
+      "contest_rank": 316
+    },
+    {
+      "user": "Ushiiin",
+      "rank": 461,
+      "contest_rank": 317
+    },
+    {
+      "user": "SidewaysOwl",
+      "rank": 462,
+      "contest_rank": 318
+    },
+    {
+      "user": "meltice",
+      "rank": 463,
+      "contest_rank": 319
+    },
+    {
+      "user": "frugq",
+      "rank": 464,
+      "contest_rank": 320
+    },
+    {
+      "user": "hkus",
+      "rank": 465,
+      "contest_rank": null
+    },
+    {
+      "user": "osushi",
+      "rank": 466,
+      "contest_rank": 321
+    },
+    {
+      "user": "devgenjin77",
+      "rank": 467,
+      "contest_rank": 322
+    },
+    {
+      "user": "sakiko",
+      "rank": 468,
+      "contest_rank": 323
+    },
+    {
+      "user": "kaede2020",
+      "rank": 469,
+      "contest_rank": 324
+    },
+    {
+      "user": "puyopop",
+      "rank": 470,
+      "contest_rank": null
+    },
+    {
+      "user": "take911",
+      "rank": 471,
+      "contest_rank": 325
+    },
+    {
+      "user": "BinomialSheep",
+      "rank": 472,
+      "contest_rank": 326
+    },
+    {
+      "user": "muse",
+      "rank": 473,
+      "contest_rank": 327
+    },
+    {
+      "user": "kenken1724",
+      "rank": 474,
+      "contest_rank": 328
+    },
+    {
+      "user": "Kenkenkenpa",
+      "rank": 475,
+      "contest_rank": null
+    },
+    {
+      "user": "katonyonko",
+      "rank": 476,
+      "contest_rank": 329
+    },
+    {
+      "user": "hasamaku",
+      "rank": 477,
+      "contest_rank": 330
+    },
+    {
+      "user": "puvon",
+      "rank": 478,
+      "contest_rank": 331
+    },
+    {
+      "user": "yatabis",
+      "rank": 479,
+      "contest_rank": 332
+    },
+    {
+      "user": "Nichi10p",
+      "rank": 480,
+      "contest_rank": 333
+    },
+    {
+      "user": "shamio",
+      "rank": 481,
+      "contest_rank": 334
+    },
+    {
+      "user": "mtrh",
+      "rank": 482,
+      "contest_rank": 335
+    },
+    {
+      "user": "zssa",
+      "rank": 483,
+      "contest_rank": 336
+    },
+    {
+      "user": "tnktemp",
+      "rank": 484,
+      "contest_rank": 337
+    },
+    {
+      "user": "tardigrade",
+      "rank": 485,
+      "contest_rank": 338
+    },
+    {
+      "user": "nemoi",
+      "rank": 486,
+      "contest_rank": 339
+    },
+    {
+      "user": "ococonomy1",
+      "rank": 487,
+      "contest_rank": 340
+    },
+    {
+      "user": "nikuroll",
+      "rank": 488,
+      "contest_rank": 341
+    },
+    {
+      "user": "kiwamo",
+      "rank": 489,
+      "contest_rank": 342
+    },
+    {
+      "user": "KKT89",
+      "rank": 490,
+      "contest_rank": 343
+    },
+    {
+      "user": "rs02",
+      "rank": 491,
+      "contest_rank": 344
+    },
+    {
+      "user": "presol",
+      "rank": 492,
+      "contest_rank": 345
+    },
+    {
+      "user": "skawaguc",
+      "rank": 493,
+      "contest_rank": 346
+    },
+    {
+      "user": "baku1101",
+      "rank": 494,
+      "contest_rank": 347
+    },
+    {
+      "user": "mifu",
+      "rank": 495,
+      "contest_rank": 348
+    },
+    {
+      "user": "cl17",
+      "rank": 496,
+      "contest_rank": null
+    },
+    {
+      "user": "ryosci",
+      "rank": 497,
+      "contest_rank": null
+    },
+    {
+      "user": "koboshi",
+      "rank": 498,
+      "contest_rank": 349
+    },
+    {
+      "user": "aconite_ac",
+      "rank": 499,
+      "contest_rank": 350
+    },
+    {
+      "user": "shun2741",
+      "rank": 500,
+      "contest_rank": 351
+    },
+    {
+      "user": "420801",
+      "rank": 501,
+      "contest_rank": 352
+    },
+    {
+      "user": "GNRs",
+      "rank": 502,
+      "contest_rank": null
+    },
+    {
+      "user": "mtrh",
+      "rank": 503,
+      "contest_rank": null
+    },
+    {
+      "user": "Ashandf",
+      "rank": 504,
+      "contest_rank": 353
+    },
+    {
+      "user": "ryosci",
+      "rank": 505,
+      "contest_rank": 354
+    },
+    {
+      "user": "tirol30",
+      "rank": 506,
+      "contest_rank": null
+    },
+    {
+      "user": "bird01",
+      "rank": 507,
+      "contest_rank": null
+    },
+    {
+      "user": "Risen",
+      "rank": 508,
+      "contest_rank": 355
+    },
+    {
+      "user": "Kenkenkenpa",
+      "rank": 509,
+      "contest_rank": 356
+    },
+    {
+      "user": "adda",
+      "rank": 510,
+      "contest_rank": 357
+    },
+    {
+      "user": "iiko11",
+      "rank": 511,
+      "contest_rank": 358
+    },
+    {
+      "user": "yuyu5510",
+      "rank": 512,
+      "contest_rank": 359
+    },
+    {
+      "user": "haru8601",
+      "rank": 513,
+      "contest_rank": null
+    },
+    {
+      "user": "takopen",
+      "rank": 514,
+      "contest_rank": 360
+    },
+    {
+      "user": "hima398",
+      "rank": 515,
+      "contest_rank": 361
+    },
+    {
+      "user": "deuteridayo",
+      "rank": 516,
+      "contest_rank": 362
+    },
+    {
+      "user": "petit_sophia",
+      "rank": 517,
+      "contest_rank": 363
+    },
+    {
+      "user": "iiko11",
+      "rank": 518,
+      "contest_rank": null
+    },
+    {
+      "user": "woods44",
+      "rank": 519,
+      "contest_rank": 364
+    },
+    {
+      "user": "miya145592",
+      "rank": 520,
+      "contest_rank": 365
+    },
+    {
+      "user": "tomom",
+      "rank": 521,
+      "contest_rank": 366
+    },
+    {
+      "user": "Ignotus",
+      "rank": 522,
+      "contest_rank": 367
+    },
+    {
+      "user": "takechanman_",
+      "rank": 523,
+      "contest_rank": 368
+    },
+    {
+      "user": "hiro71687",
+      "rank": 524,
+      "contest_rank": 369
+    },
+    {
+      "user": "Nikkuniku029",
+      "rank": 525,
+      "contest_rank": 370
+    },
+    {
+      "user": "sounansya",
+      "rank": 526,
+      "contest_rank": 371
+    },
+    {
+      "user": "akane831",
+      "rank": 527,
+      "contest_rank": 372
+    },
+    {
+      "user": "1Ac27",
+      "rank": 528,
+      "contest_rank": 373
+    },
+    {
+      "user": "tm1965",
+      "rank": 529,
+      "contest_rank": 374
+    },
+    {
+      "user": "samoshi",
+      "rank": 530,
+      "contest_rank": 375
+    },
+    {
+      "user": "keran",
+      "rank": 531,
+      "contest_rank": null
+    },
+    {
+      "user": "Hajime3",
+      "rank": 532,
+      "contest_rank": 376
+    },
+    {
+      "user": "hiryuN",
+      "rank": 533,
+      "contest_rank": 377
+    },
+    {
+      "user": "Reuven",
+      "rank": 534,
+      "contest_rank": 378
+    },
+    {
+      "user": "kobaya_ta",
+      "rank": 535,
+      "contest_rank": 379
+    },
+    {
+      "user": "konayuki",
+      "rank": 536,
+      "contest_rank": 380
+    },
+    {
+      "user": "renoyu",
+      "rank": 537,
+      "contest_rank": 381
+    },
+    {
+      "user": "gmmtea",
+      "rank": 538,
+      "contest_rank": 382
+    },
+    {
+      "user": "HoKai",
+      "rank": 539,
+      "contest_rank": 383
+    },
+    {
+      "user": "dn154",
+      "rank": 540,
+      "contest_rank": 384
+    },
+    {
+      "user": "ssaattoo",
+      "rank": 541,
+      "contest_rank": 385
+    },
+    {
+      "user": "kanikama038",
+      "rank": 542,
+      "contest_rank": 386
+    },
+    {
+      "user": "don2001",
+      "rank": 543,
+      "contest_rank": 387
+    },
+    {
+      "user": "tatetuke",
+      "rank": 544,
+      "contest_rank": 388
+    },
+    {
+      "user": "DEKA1066",
+      "rank": 545,
+      "contest_rank": null
+    },
+    {
+      "user": "spady",
+      "rank": 546,
+      "contest_rank": 389
+    },
+    {
+      "user": "Hydru1",
+      "rank": 547,
+      "contest_rank": 390
+    },
+    {
+      "user": "bayashiko",
+      "rank": 548,
+      "contest_rank": 391
+    },
+    {
+      "user": "ayu777pro",
+      "rank": 549,
+      "contest_rank": 392
+    },
+    {
+      "user": "viral",
+      "rank": 550,
+      "contest_rank": 393
+    },
+    {
+      "user": "okeue",
+      "rank": 551,
+      "contest_rank": 394
+    },
+    {
+      "user": "take911",
+      "rank": 552,
+      "contest_rank": null
+    },
+    {
+      "user": "Masaoooo",
+      "rank": 553,
+      "contest_rank": null
+    },
+    {
+      "user": "y151",
+      "rank": 554,
+      "contest_rank": 395
+    },
+    {
+      "user": "bird01",
+      "rank": 555,
+      "contest_rank": 396
+    },
+    {
+      "user": "cocomoff",
+      "rank": 556,
+      "contest_rank": 397
+    },
+    {
+      "user": "syu_mei",
+      "rank": 557,
+      "contest_rank": null
+    },
+    {
+      "user": "matchataro",
+      "rank": 558,
+      "contest_rank": 398
+    },
+    {
+      "user": "NakahashiNakashi",
+      "rank": 559,
+      "contest_rank": 399
+    },
+    {
+      "user": "Masaoooo",
+      "rank": 560,
+      "contest_rank": 400
+    },
+    {
+      "user": "huangxw",
+      "rank": 561,
+      "contest_rank": 401
+    },
+    {
+      "user": "DEKA1066",
+      "rank": 562,
+      "contest_rank": 402
+    },
+    {
+      "user": "michirakara",
+      "rank": 563,
+      "contest_rank": null
+    },
+    {
+      "user": "daut",
+      "rank": 564,
+      "contest_rank": 403
+    },
+    {
+      "user": "keisuke6",
+      "rank": 565,
+      "contest_rank": null
+    },
+    {
+      "user": "taniel",
+      "rank": 566,
+      "contest_rank": 404
+    },
+    {
+      "user": "fgshun",
+      "rank": 567,
+      "contest_rank": 405
+    },
+    {
+      "user": "threecourse",
+      "rank": 568,
+      "contest_rank": 406
+    },
+    {
+      "user": "murasho",
+      "rank": 569,
+      "contest_rank": null
+    },
+    {
+      "user": "krps",
+      "rank": 570,
+      "contest_rank": 407
+    },
+    {
+      "user": "numpex",
+      "rank": 571,
+      "contest_rank": 408
+    },
+    {
+      "user": "take213",
+      "rank": 572,
+      "contest_rank": null
+    },
+    {
+      "user": "Kohenyan",
+      "rank": 573,
+      "contest_rank": 409
+    },
+    {
+      "user": "HoKai",
+      "rank": 574,
+      "contest_rank": null
+    },
+    {
+      "user": "coder9999",
+      "rank": 575,
+      "contest_rank": 410
+    },
+    {
+      "user": "tamato",
+      "rank": 576,
+      "contest_rank": 411
+    },
+    {
+      "user": "purine",
+      "rank": 577,
+      "contest_rank": 412
+    },
+    {
+      "user": "Catan56",
+      "rank": 578,
+      "contest_rank": 413
+    },
+    {
+      "user": "minyoru",
+      "rank": 579,
+      "contest_rank": null
+    },
+    {
+      "user": "imuraya",
+      "rank": 580,
+      "contest_rank": 414
+    },
+    {
+      "user": "fky_",
+      "rank": 581,
+      "contest_rank": 415
+    },
+    {
+      "user": "aoymats",
+      "rank": 582,
+      "contest_rank": 416
+    },
+    {
+      "user": "JIOJI",
+      "rank": 583,
+      "contest_rank": null
+    },
+    {
+      "user": "komite",
+      "rank": 584,
+      "contest_rank": 417
+    },
+    {
+      "user": "km1234",
+      "rank": 585,
+      "contest_rank": 418
+    },
+    {
+      "user": "hirohito1971",
+      "rank": 586,
+      "contest_rank": 419
+    },
+    {
+      "user": "ishiyeahman",
+      "rank": 587,
+      "contest_rank": 420
+    },
+    {
+      "user": "nisui258",
+      "rank": 588,
+      "contest_rank": 421
+    },
+    {
+      "user": "FplusFplusF",
+      "rank": 589,
+      "contest_rank": 422
+    },
+    {
+      "user": "SMDTU",
+      "rank": 590,
+      "contest_rank": 423
+    },
+    {
+      "user": "watarimaycry2",
+      "rank": 591,
+      "contest_rank": 424
+    },
+    {
+      "user": "komite",
+      "rank": 592,
+      "contest_rank": null
+    },
+    {
+      "user": "tombo314",
+      "rank": 593,
+      "contest_rank": 425
+    },
+    {
+      "user": "takechan3",
+      "rank": 594,
+      "contest_rank": 426
+    },
+    {
+      "user": "tropolone",
+      "rank": 595,
+      "contest_rank": 427
+    },
+    {
+      "user": "umasou",
+      "rank": 596,
+      "contest_rank": 428
+    },
+    {
+      "user": "fal_rnd",
+      "rank": 597,
+      "contest_rank": 429
+    },
+    {
+      "user": "Perceval",
+      "rank": 598,
+      "contest_rank": 430
+    },
+    {
+      "user": "akasinn",
+      "rank": 599,
+      "contest_rank": null
+    },
+    {
+      "user": "m_buyoh",
+      "rank": 600,
+      "contest_rank": 431
+    },
+    {
+      "user": "crescent1997",
+      "rank": 601,
+      "contest_rank": 432
+    },
+    {
+      "user": "sunchan",
+      "rank": 602,
+      "contest_rank": 433
+    },
+    {
+      "user": "Lukiw",
+      "rank": 603,
+      "contest_rank": 434
+    },
+    {
+      "user": "longwave",
+      "rank": 604,
+      "contest_rank": 435
+    },
+    {
+      "user": "Kichico",
+      "rank": 605,
+      "contest_rank": 436
+    },
+    {
+      "user": "Melbeck",
+      "rank": 606,
+      "contest_rank": 437
+    },
+    {
+      "user": "h2d5",
+      "rank": 607,
+      "contest_rank": 438
+    },
+    {
+      "user": "UMRgurashi",
+      "rank": 608,
+      "contest_rank": 439
+    },
+    {
+      "user": "Yuulis",
+      "rank": 609,
+      "contest_rank": 440
+    },
+    {
+      "user": "hoshiika",
+      "rank": 610,
+      "contest_rank": 441
+    },
+    {
+      "user": "Koki_tkg",
+      "rank": 611,
+      "contest_rank": 442
+    },
+    {
+      "user": "uni_kakurenbo",
+      "rank": 612,
+      "contest_rank": 443
+    },
+    {
+      "user": "yatuba",
+      "rank": 613,
+      "contest_rank": 444
+    },
+    {
+      "user": "gohan06",
+      "rank": 614,
+      "contest_rank": 445
+    },
+    {
+      "user": "mochi2225",
+      "rank": 615,
+      "contest_rank": 446
+    },
+    {
+      "user": "namolbbaemi",
+      "rank": 616,
+      "contest_rank": 447
+    },
+    {
+      "user": "2bit",
+      "rank": 617,
+      "contest_rank": 448
+    },
+    {
+      "user": "soitakahashi",
+      "rank": 618,
+      "contest_rank": 449
+    },
+    {
+      "user": "asaringo",
+      "rank": 619,
+      "contest_rank": 450
+    },
+    {
+      "user": "Zoomy",
+      "rank": 620,
+      "contest_rank": 451
+    },
+    {
+      "user": "Anthony1009",
+      "rank": 621,
+      "contest_rank": 452
+    },
+    {
+      "user": "kimura1821",
+      "rank": 622,
+      "contest_rank": 453
+    },
+    {
+      "user": "zundamochi_1117",
+      "rank": 623,
+      "contest_rank": 454
+    },
+    {
+      "user": "yu7ka",
+      "rank": 624,
+      "contest_rank": 455
+    },
+    {
+      "user": "take213",
+      "rank": 625,
+      "contest_rank": 456
+    },
+    {
+      "user": "Rjo",
+      "rank": 626,
+      "contest_rank": 457
+    },
+    {
+      "user": "kacho65535",
+      "rank": 627,
+      "contest_rank": 458
+    },
+    {
+      "user": "Elise3993",
+      "rank": 628,
+      "contest_rank": 459
+    },
+    {
+      "user": "sitini",
+      "rank": 629,
+      "contest_rank": 460
+    },
+    {
+      "user": "arataku",
+      "rank": 630,
+      "contest_rank": 461
+    },
+    {
+      "user": "ktr216",
+      "rank": 631,
+      "contest_rank": 462
+    },
+    {
+      "user": "PrussianBlue",
+      "rank": 632,
+      "contest_rank": 463
+    },
+    {
+      "user": "Arakoma",
+      "rank": 633,
+      "contest_rank": 464
+    },
+    {
+      "user": "Roastedtoast",
+      "rank": 634,
+      "contest_rank": 465
+    },
+    {
+      "user": "cornnnnnnnnn",
+      "rank": 635,
+      "contest_rank": 466
+    },
+    {
+      "user": "ab9r",
+      "rank": 636,
+      "contest_rank": 467
+    },
+    {
+      "user": "Itta",
+      "rank": 637,
+      "contest_rank": 468
+    },
+    {
+      "user": "ilmango",
+      "rank": 638,
+      "contest_rank": 469
+    },
+    {
+      "user": "k_hamada7",
+      "rank": 639,
+      "contest_rank": null
+    },
+    {
+      "user": "NokonoKotlin",
+      "rank": 640,
+      "contest_rank": 470
+    },
+    {
+      "user": "first_vil",
+      "rank": 641,
+      "contest_rank": 471
+    },
+    {
+      "user": "hjl2011",
+      "rank": 642,
+      "contest_rank": 472
+    },
+    {
+      "user": "psz2007",
+      "rank": 643,
+      "contest_rank": null
+    },
+    {
+      "user": "luogu_bot2",
+      "rank": 644,
+      "contest_rank": null
+    },
+    {
+      "user": "side",
+      "rank": 645,
+      "contest_rank": 473
+    },
+    {
+      "user": "Melbeck",
+      "rank": 646,
+      "contest_rank": null
+    },
+    {
+      "user": "st98781012",
+      "rank": 647,
+      "contest_rank": 474
+    },
+    {
+      "user": "kosakana1224",
+      "rank": 648,
+      "contest_rank": 475
+    },
+    {
+      "user": "ohagiboy",
+      "rank": 649,
+      "contest_rank": 476
+    },
+    {
+      "user": "csharpython",
+      "rank": 650,
+      "contest_rank": null
+    },
+    {
+      "user": "takkii",
+      "rank": 651,
+      "contest_rank": 477
+    },
+    {
+      "user": "SDESTINY",
+      "rank": 652,
+      "contest_rank": 478
+    },
+    {
+      "user": "matsuzakaryo",
+      "rank": 653,
+      "contest_rank": 479
+    },
+    {
+      "user": "AYATYA",
+      "rank": 654,
+      "contest_rank": 480
+    },
+    {
+      "user": "Theta_00",
+      "rank": 655,
+      "contest_rank": 481
+    },
+    {
+      "user": "keep_OC",
+      "rank": 656,
+      "contest_rank": 482
+    },
+    {
+      "user": "bisphenoi",
+      "rank": 657,
+      "contest_rank": 483
+    },
+    {
+      "user": "kaichou243",
+      "rank": 658,
+      "contest_rank": 484
+    },
+    {
+      "user": "syurenuko",
+      "rank": 659,
+      "contest_rank": 485
+    },
+    {
+      "user": "yas_yasyu",
+      "rank": 660,
+      "contest_rank": 486
+    },
+    {
+      "user": "Nanashima",
+      "rank": 661,
+      "contest_rank": 487
+    },
+    {
+      "user": "mbo57",
+      "rank": 662,
+      "contest_rank": 488
+    },
+    {
+      "user": "w0t0",
+      "rank": 663,
+      "contest_rank": 489
+    },
+    {
+      "user": "kiskt",
+      "rank": 664,
+      "contest_rank": 490
+    },
+    {
+      "user": "a63227676408404",
+      "rank": 665,
+      "contest_rank": 491
+    },
+    {
+      "user": "taio",
+      "rank": 666,
+      "contest_rank": 492
+    },
+    {
+      "user": "Colorlessx7",
+      "rank": 667,
+      "contest_rank": 493
+    },
+    {
+      "user": "nelpatra",
+      "rank": 668,
+      "contest_rank": 494
+    },
+    {
+      "user": "gojira_ku",
+      "rank": 669,
+      "contest_rank": 495
+    },
+    {
+      "user": "kuma033",
+      "rank": 670,
+      "contest_rank": 496
+    },
+    {
+      "user": "babylon_",
+      "rank": 671,
+      "contest_rank": 497
+    },
+    {
+      "user": "yasunori",
+      "rank": 672,
+      "contest_rank": null
+    },
+    {
+      "user": "Sharpness5",
+      "rank": 673,
+      "contest_rank": null
+    },
+    {
+      "user": "nono00",
+      "rank": 674,
+      "contest_rank": 498
+    },
+    {
+      "user": "takekinmkk",
+      "rank": 675,
+      "contest_rank": 499
+    },
+    {
+      "user": "HH2JZ",
+      "rank": 676,
+      "contest_rank": null
+    },
+    {
+      "user": "ricetta",
+      "rank": 677,
+      "contest_rank": 500
+    },
+    {
+      "user": "Auk10",
+      "rank": 678,
+      "contest_rank": 501
+    },
+    {
+      "user": "psz2007",
+      "rank": 679,
+      "contest_rank": 502
+    },
+    {
+      "user": "olphe",
+      "rank": 680,
+      "contest_rank": 503
+    },
+    {
+      "user": "nasuo",
+      "rank": 681,
+      "contest_rank": 504
+    },
+    {
+      "user": "K_K_",
+      "rank": 682,
+      "contest_rank": 505
+    },
+    {
+      "user": "SuppliLion",
+      "rank": 683,
+      "contest_rank": 506
+    },
+    {
+      "user": "hkawaguc",
+      "rank": 684,
+      "contest_rank": null
+    },
+    {
+      "user": "kode",
+      "rank": 685,
+      "contest_rank": 507
+    },
+    {
+      "user": "hiro_hiro",
+      "rank": 686,
+      "contest_rank": null
+    },
+    {
+      "user": "ToastUz",
+      "rank": 687,
+      "contest_rank": null
+    },
+    {
+      "user": "kinuta",
+      "rank": 688,
+      "contest_rank": 508
+    },
+    {
+      "user": "yasunori",
+      "rank": 689,
+      "contest_rank": 509
+    },
+    {
+      "user": "akasinn",
+      "rank": 690,
+      "contest_rank": 510
+    },
+    {
+      "user": "shinsatt",
+      "rank": 691,
+      "contest_rank": 511
+    },
+    {
+      "user": "utprg",
+      "rank": 692,
+      "contest_rank": null
+    },
+    {
+      "user": "romophic",
+      "rank": 693,
+      "contest_rank": 512
+    },
+    {
+      "user": "SuperUP",
+      "rank": 694,
+      "contest_rank": 513
+    },
+    {
+      "user": "AconCavy",
+      "rank": 695,
+      "contest_rank": 514
+    },
+    {
+      "user": "Izayoi_Sakuya",
+      "rank": 696,
+      "contest_rank": null
+    },
+    {
+      "user": "rarara21",
+      "rank": 697,
+      "contest_rank": 515
+    },
+    {
+      "user": "HoshizoraZ",
+      "rank": 698,
+      "contest_rank": 516
+    },
+    {
+      "user": "w0t0",
+      "rank": 699,
+      "contest_rank": null
+    },
+    {
+      "user": "tuduraebira",
+      "rank": 700,
+      "contest_rank": 517
+    },
+    {
+      "user": "Yoon197",
+      "rank": 701,
+      "contest_rank": 518
+    },
+    {
+      "user": "kimura1821",
+      "rank": 702,
+      "contest_rank": null
+    },
+    {
+      "user": "Hattori8536",
+      "rank": 703,
+      "contest_rank": 519
+    },
+    {
+      "user": "Hywel",
+      "rank": 704,
+      "contest_rank": 520
+    },
+    {
+      "user": "KoseT",
+      "rank": 705,
+      "contest_rank": 521
+    },
+    {
+      "user": "Arakoma",
+      "rank": 706,
+      "contest_rank": null
+    },
+    {
+      "user": "yougoto",
+      "rank": 707,
+      "contest_rank": 522
+    },
+    {
+      "user": "chieping",
+      "rank": 708,
+      "contest_rank": 523
+    },
+    {
+      "user": "hermit",
+      "rank": 709,
+      "contest_rank": 524
+    },
+    {
+      "user": "kento_maeda",
+      "rank": 710,
+      "contest_rank": 525
+    },
+    {
+      "user": "HyperToy",
+      "rank": 711,
+      "contest_rank": 526
+    },
+    {
+      "user": "eno1220",
+      "rank": 712,
+      "contest_rank": 527
+    },
+    {
+      "user": "perifereia",
+      "rank": 713,
+      "contest_rank": 528
+    },
+    {
+      "user": "jacky753",
+      "rank": 714,
+      "contest_rank": null
+    },
+    {
+      "user": "huangxw",
+      "rank": 715,
+      "contest_rank": null
+    },
+    {
+      "user": "tuna_mayo",
+      "rank": 716,
+      "contest_rank": 529
+    },
+    {
+      "user": "cjn2007",
+      "rank": 717,
+      "contest_rank": null
+    },
+    {
+      "user": "a24f120ca2e51a",
+      "rank": 718,
+      "contest_rank": 530
+    },
+    {
+      "user": "ykamo",
+      "rank": 719,
+      "contest_rank": 531
+    },
+    {
+      "user": "hexa0611",
+      "rank": 720,
+      "contest_rank": 532
+    },
+    {
+      "user": "knmt3127",
+      "rank": 721,
+      "contest_rank": null
+    },
+    {
+      "user": "kaichou243",
+      "rank": 722,
+      "contest_rank": null
+    },
+    {
+      "user": "tnodino",
+      "rank": 723,
+      "contest_rank": null
+    },
+    {
+      "user": "Rick2200",
+      "rank": 724,
+      "contest_rank": 533
+    },
+    {
+      "user": "peroon",
+      "rank": 725,
+      "contest_rank": 534
+    },
+    {
+      "user": "matsu7874",
+      "rank": 726,
+      "contest_rank": 535
+    },
+    {
+      "user": "shirobi0208",
+      "rank": 727,
+      "contest_rank": 536
+    },
+    {
+      "user": "pengin",
+      "rank": 728,
+      "contest_rank": 537
+    },
+    {
+      "user": "My_me_admin",
+      "rank": 729,
+      "contest_rank": 538
+    },
+    {
+      "user": "fumuumuf",
+      "rank": 730,
+      "contest_rank": 539
+    },
+    {
+      "user": "mi_ya",
+      "rank": 731,
+      "contest_rank": 540
+    },
+    {
+      "user": "s1f_210",
+      "rank": 732,
+      "contest_rank": 541
+    },
+    {
+      "user": "kit84",
+      "rank": 733,
+      "contest_rank": 542
+    },
+    {
+      "user": "jbyxm",
+      "rank": 734,
+      "contest_rank": 543
+    },
+    {
+      "user": "Shiro_S",
+      "rank": 735,
+      "contest_rank": 544
+    },
+    {
+      "user": "blast3",
+      "rank": 736,
+      "contest_rank": 545
+    },
+    {
+      "user": "kimonohanger",
+      "rank": 737,
+      "contest_rank": 546
+    },
+    {
+      "user": "hir35",
+      "rank": 738,
+      "contest_rank": 547
+    },
+    {
+      "user": "sakuramochii",
+      "rank": 739,
+      "contest_rank": 548
+    },
+    {
+      "user": "HATO1114",
+      "rank": 740,
+      "contest_rank": 549
+    },
+    {
+      "user": "ueta",
+      "rank": 741,
+      "contest_rank": 550
+    },
+    {
+      "user": "kys",
+      "rank": 742,
+      "contest_rank": 551
+    },
+    {
+      "user": "poka",
+      "rank": 743,
+      "contest_rank": 552
+    },
+    {
+      "user": "paleApricot",
+      "rank": 744,
+      "contest_rank": 553
+    },
+    {
+      "user": "hiro_hiro",
+      "rank": 745,
+      "contest_rank": 554
+    },
+    {
+      "user": "minyoru",
+      "rank": 746,
+      "contest_rank": 555
+    },
+    {
+      "user": "amalett0",
+      "rank": 747,
+      "contest_rank": 556
+    },
+    {
+      "user": "tomarint",
+      "rank": 748,
+      "contest_rank": 557
+    },
+    {
+      "user": "kagasan",
+      "rank": 749,
+      "contest_rank": 558
+    },
+    {
+      "user": "Suu0313",
+      "rank": 750,
+      "contest_rank": 559
+    },
+    {
+      "user": "umezo",
+      "rank": 751,
+      "contest_rank": 560
+    },
+    {
+      "user": "batsumaru",
+      "rank": 752,
+      "contest_rank": 561
+    },
+    {
+      "user": "takus4649",
+      "rank": 753,
+      "contest_rank": 562
+    },
+    {
+      "user": "CTSheep",
+      "rank": 754,
+      "contest_rank": 563
+    },
+    {
+      "user": "Rssll_Krkgrd",
+      "rank": 755,
+      "contest_rank": 564
+    },
+    {
+      "user": "Asamura",
+      "rank": 756,
+      "contest_rank": 565
+    },
+    {
+      "user": "truelywaath",
+      "rank": 757,
+      "contest_rank": 566
+    },
+    {
+      "user": "ainem",
+      "rank": 758,
+      "contest_rank": 567
+    },
+    {
+      "user": "LyricalMaestro",
+      "rank": 759,
+      "contest_rank": 568
+    },
+    {
+      "user": "mathmath_74",
+      "rank": 760,
+      "contest_rank": 569
+    },
+    {
+      "user": "komasan",
+      "rank": 761,
+      "contest_rank": 570
+    },
+    {
+      "user": "ganyariya",
+      "rank": 762,
+      "contest_rank": 571
+    },
+    {
+      "user": "bayou",
+      "rank": 763,
+      "contest_rank": 572
+    },
+    {
+      "user": "nhigashino",
+      "rank": 764,
+      "contest_rank": 573
+    },
+    {
+      "user": "amanee84",
+      "rank": 765,
+      "contest_rank": 574
+    },
+    {
+      "user": "ytoques",
+      "rank": 766,
+      "contest_rank": 575
+    },
+    {
+      "user": "pui1",
+      "rank": 767,
+      "contest_rank": 576
+    },
+    {
+      "user": "Koju",
+      "rank": 768,
+      "contest_rank": 577
+    },
+    {
+      "user": "keizin",
+      "rank": 769,
+      "contest_rank": 578
+    },
+    {
+      "user": "toshihoge",
+      "rank": 770,
+      "contest_rank": 579
+    },
+    {
+      "user": "Kuston",
+      "rank": 771,
+      "contest_rank": 580
+    },
+    {
+      "user": "sanao1000",
+      "rank": 772,
+      "contest_rank": 581
+    },
+    {
+      "user": "fennel",
+      "rank": 773,
+      "contest_rank": 582
+    },
+    {
+      "user": "hashimoto76",
+      "rank": 774,
+      "contest_rank": 583
+    },
+    {
+      "user": "akidaily",
+      "rank": 775,
+      "contest_rank": 584
+    },
+    {
+      "user": "KeitaroNaruse",
+      "rank": 776,
+      "contest_rank": 585
+    },
+    {
+      "user": "granddaifuku",
+      "rank": 777,
+      "contest_rank": 586
+    },
+    {
+      "user": "ShunSK210328",
+      "rank": 778,
+      "contest_rank": 587
+    },
+    {
+      "user": "catoon",
+      "rank": 778,
+      "contest_rank": 587
+    },
+    {
+      "user": "tomo0608",
+      "rank": 780,
+      "contest_rank": 589
+    },
+    {
+      "user": "SuzukiKatsuma",
+      "rank": 781,
+      "contest_rank": 590
+    },
+    {
+      "user": "ashitsunokara",
+      "rank": 782,
+      "contest_rank": 591
+    },
+    {
+      "user": "JonathanJames",
+      "rank": 783,
+      "contest_rank": 592
+    },
+    {
+      "user": "rararara",
+      "rank": 784,
+      "contest_rank": 593
+    },
+    {
+      "user": "skyyuki",
+      "rank": 785,
+      "contest_rank": 594
+    },
+    {
+      "user": "freeloop2",
+      "rank": 786,
+      "contest_rank": 595
+    },
+    {
+      "user": "Lovelyyhb",
+      "rank": 787,
+      "contest_rank": 596
+    },
+    {
+      "user": "soraie",
+      "rank": 788,
+      "contest_rank": 597
+    },
+    {
+      "user": "bqn",
+      "rank": 789,
+      "contest_rank": 598
+    },
+    {
+      "user": "Lafolia",
+      "rank": 790,
+      "contest_rank": 599
+    },
+    {
+      "user": "sepa_38",
+      "rank": 791,
+      "contest_rank": 600
+    },
+    {
+      "user": "miau",
+      "rank": 792,
+      "contest_rank": 601
+    },
+    {
+      "user": "tacomeet",
+      "rank": 793,
+      "contest_rank": 602
+    },
+    {
+      "user": "cirno3153",
+      "rank": 794,
+      "contest_rank": 603
+    },
+    {
+      "user": "nakanolab",
+      "rank": 795,
+      "contest_rank": 604
+    },
+    {
+      "user": "konamilk",
+      "rank": 796,
+      "contest_rank": 605
+    },
+    {
+      "user": "salmon0852",
+      "rank": 797,
+      "contest_rank": 606
+    },
+    {
+      "user": "temnam",
+      "rank": 798,
+      "contest_rank": 607
+    },
+    {
+      "user": "joshuaChoi",
+      "rank": 799,
+      "contest_rank": 608
+    },
+    {
+      "user": "chemical_shiki",
+      "rank": 800,
+      "contest_rank": 609
+    },
+    {
+      "user": "chenyikai",
+      "rank": 801,
+      "contest_rank": 610
+    },
+    {
+      "user": "Akijin_007",
+      "rank": 802,
+      "contest_rank": 611
+    },
+    {
+      "user": "madoka",
+      "rank": 803,
+      "contest_rank": 612
+    },
+    {
+      "user": "Anika_Tahasin",
+      "rank": 804,
+      "contest_rank": 613
+    },
+    {
+      "user": "jaku",
+      "rank": 805,
+      "contest_rank": 614
+    },
+    {
+      "user": "hkus",
+      "rank": 806,
+      "contest_rank": 615
+    },
+    {
+      "user": "aplysia",
+      "rank": 807,
+      "contest_rank": 616
+    },
+    {
+      "user": "yuta28",
+      "rank": 808,
+      "contest_rank": 617
+    },
+    {
+      "user": "Bambusoideae",
+      "rank": 809,
+      "contest_rank": 618
+    },
+    {
+      "user": "shu8Cream",
+      "rank": 810,
+      "contest_rank": 619
+    },
+    {
+      "user": "Medjed22",
+      "rank": 811,
+      "contest_rank": 620
+    },
+    {
+      "user": "satanic0258",
+      "rank": 812,
+      "contest_rank": 621
+    },
+    {
+      "user": "zoidzium",
+      "rank": 813,
+      "contest_rank": 622
+    },
+    {
+      "user": "kanata_kotonoha",
+      "rank": 814,
+      "contest_rank": 623
+    },
+    {
+      "user": "ikoanymg",
+      "rank": 815,
+      "contest_rank": 624
+    },
+    {
+      "user": "hyman0",
+      "rank": 816,
+      "contest_rank": 625
+    },
+    {
+      "user": "NKT",
+      "rank": 817,
+      "contest_rank": 626
+    },
+    {
+      "user": "dhw_vegetable",
+      "rank": 818,
+      "contest_rank": 627
+    },
+    {
+      "user": "MarioChao",
+      "rank": 819,
+      "contest_rank": 628
+    },
+    {
+      "user": "rms",
+      "rank": 820,
+      "contest_rank": 629
+    },
+    {
+      "user": "puyopop",
+      "rank": 821,
+      "contest_rank": 630
+    },
+    {
+      "user": "Steven2008",
+      "rank": 822,
+      "contest_rank": 631
+    },
+    {
+      "user": "tomlla",
+      "rank": 823,
+      "contest_rank": 632
+    },
+    {
+      "user": "MotoAtcoder",
+      "rank": 824,
+      "contest_rank": 633
+    },
+    {
+      "user": "koyumeishi",
+      "rank": 825,
+      "contest_rank": 634
+    },
+    {
+      "user": "keroru",
+      "rank": 826,
+      "contest_rank": 635
+    },
+    {
+      "user": "shu8Cream",
+      "rank": 827,
+      "contest_rank": null
+    },
+    {
+      "user": "first_vil",
+      "rank": 828,
+      "contest_rank": null
+    },
+    {
+      "user": "taki0711",
+      "rank": 829,
+      "contest_rank": null
+    },
+    {
+      "user": "ruthen71",
+      "rank": 830,
+      "contest_rank": null
+    },
+    {
+      "user": "kmjp",
+      "rank": 831,
+      "contest_rank": null
+    },
+    {
+      "user": "misora192",
+      "rank": 832,
+      "contest_rank": null
+    },
+    {
+      "user": "achapi",
+      "rank": 833,
+      "contest_rank": null
+    },
+    {
+      "user": "zepto",
+      "rank": 834,
+      "contest_rank": null
+    },
+    {
+      "user": "xyyy_ldy",
+      "rank": 835,
+      "contest_rank": null
+    },
+    {
+      "user": "Theta_00",
+      "rank": 836,
+      "contest_rank": null
+    },
+    {
+      "user": "xiaohuzai",
+      "rank": 837,
+      "contest_rank": null
+    },
+    {
+      "user": "Rn_222",
+      "rank": 838,
+      "contest_rank": null
+    },
+    {
+      "user": "yutaosun",
+      "rank": 839,
+      "contest_rank": null
+    },
+    {
+      "user": "PHKSE7D39",
+      "rank": 840,
+      "contest_rank": null
+    },
+    {
+      "user": "ljl2008",
+      "rank": 841,
+      "contest_rank": null
+    },
+    {
+      "user": "FengK",
+      "rank": 842,
+      "contest_rank": null
+    },
+    {
+      "user": "ksukegames",
+      "rank": 843,
+      "contest_rank": null
+    },
+    {
+      "user": "tomo0608",
+      "rank": 844,
+      "contest_rank": null
+    },
+    {
+      "user": "soiya___san",
+      "rank": 845,
+      "contest_rank": null
+    },
+    {
+      "user": "rafeyahmad",
+      "rank": 846,
+      "contest_rank": null
+    },
+    {
+      "user": "Bay",
+      "rank": 847,
+      "contest_rank": null
+    },
+    {
+      "user": "mhb2010",
+      "rank": 848,
+      "contest_rank": null
+    },
+    {
+      "user": "baiyaojie",
+      "rank": 849,
+      "contest_rank": null
+    },
+    {
+      "user": "rutilicus",
+      "rank": 850,
+      "contest_rank": null
+    },
+    {
+      "user": "dijdzv",
+      "rank": 851,
+      "contest_rank": null
+    },
+    {
+      "user": "caoshuhui",
+      "rank": 852,
+      "contest_rank": null
+    },
+    {
+      "user": "undefined_Ryan",
+      "rank": 853,
+      "contest_rank": null
+    },
+    {
+      "user": "edhihori",
+      "rank": 854,
+      "contest_rank": null
+    },
+    {
+      "user": "TTWANG",
+      "rank": 855,
+      "contest_rank": null
+    },
+    {
+      "user": "qiuyilin2012",
+      "rank": 856,
+      "contest_rank": null
+    },
+    {
+      "user": "Leon2012",
+      "rank": 857,
+      "contest_rank": null
+    },
+    {
+      "user": "SFlyer",
+      "rank": 858,
+      "contest_rank": null
+    },
+    {
+      "user": "chenxing",
+      "rank": 859,
+      "contest_rank": null
+    },
+    {
+      "user": "wzy6666",
+      "rank": 860,
+      "contest_rank": null
+    },
+    {
+      "user": "liufuqiang",
+      "rank": 861,
+      "contest_rank": null
+    },
+    {
+      "user": "xxxjybd",
+      "rank": 862,
+      "contest_rank": null
+    },
+    {
+      "user": "dokaraya",
+      "rank": 863,
+      "contest_rank": null
+    },
+    {
+      "user": "okkuu2",
+      "rank": 864,
+      "contest_rank": null
+    },
+    {
+      "user": "Isjwanglong",
+      "rank": 865,
+      "contest_rank": null
+    },
+    {
+      "user": "wqysbsbsb",
+      "rank": 866,
+      "contest_rank": null
+    },
+    {
+      "user": "Fleur",
+      "rank": 867,
+      "contest_rank": null
+    },
+    {
+      "user": "ecottea",
+      "rank": 868,
+      "contest_rank": null
+    },
+    {
+      "user": "Jayden_Zhao",
+      "rank": 869,
+      "contest_rank": null
+    },
+    {
+      "user": "Magentor",
+      "rank": 870,
+      "contest_rank": null
+    },
+    {
+      "user": "gabriel55_",
+      "rank": 871,
+      "contest_rank": null
+    },
+    {
+      "user": "juan_123",
+      "rank": 872,
+      "contest_rank": null
+    },
+    {
+      "user": "machonium",
+      "rank": 873,
+      "contest_rank": null
+    },
+    {
+      "user": "IOIAKer",
+      "rank": 874,
+      "contest_rank": null
+    },
+    {
+      "user": "liangzhixing",
+      "rank": 875,
+      "contest_rank": null
+    },
+    {
+      "user": "whx666",
+      "rank": 876,
+      "contest_rank": null
+    },
+    {
+      "user": "Sakem1",
+      "rank": 877,
+      "contest_rank": null
+    },
+    {
+      "user": "Max2012",
+      "rank": 878,
+      "contest_rank": null
+    },
+    {
+      "user": "longhaoyuan",
+      "rank": 879,
+      "contest_rank": null
+    },
+    {
+      "user": "fangyifan",
+      "rank": 880,
+      "contest_rank": null
+    },
+    {
+      "user": "wangrunyang",
+      "rank": 881,
+      "contest_rank": null
+    },
+    {
+      "user": "fAKer_shit",
+      "rank": 882,
+      "contest_rank": null
+    },
+    {
+      "user": "xuchenxuan123",
+      "rank": 883,
+      "contest_rank": null
+    },
+    {
+      "user": "hyjk826",
+      "rank": 884,
+      "contest_rank": null
+    },
+    {
+      "user": "Jasoncwx",
+      "rank": 885,
+      "contest_rank": null
+    },
+    {
+      "user": "luogu_bot4",
+      "rank": 886,
+      "contest_rank": null
+    },
+    {
+      "user": "kurao2924",
+      "rank": 887,
+      "contest_rank": null
+    },
+    {
+      "user": "Rubikun",
+      "rank": 888,
+      "contest_rank": null
+    },
+    {
+      "user": "WRY2013",
+      "rank": 889,
+      "contest_rank": null
+    },
+    {
+      "user": "maspy",
+      "rank": 890,
+      "contest_rank": null
+    },
+    {
+      "user": "hiro1729",
+      "rank": 891,
+      "contest_rank": null
+    },
+    {
+      "user": "EternalSinner",
+      "rank": 892,
+      "contest_rank": null
+    },
+    {
+      "user": "phocom",
+      "rank": 893,
+      "contest_rank": null
+    },
+    {
+      "user": "Levixi",
+      "rank": 894,
+      "contest_rank": null
+    },
+    {
+      "user": "gojira_ku",
+      "rank": 895,
+      "contest_rank": null
+    },
+    {
+      "user": "m_99",
+      "rank": 896,
+      "contest_rank": null
+    },
+    {
+      "user": "TheBlueAryan",
+      "rank": 897,
+      "contest_rank": null
+    },
+    {
+      "user": "420801",
+      "rank": 898,
+      "contest_rank": null
+    },
+    {
+      "user": "shobonvip",
+      "rank": 899,
+      "contest_rank": null
+    },
+    {
+      "user": "fefefe",
+      "rank": 900,
+      "contest_rank": null
+    },
+    {
+      "user": "TakaPP",
+      "rank": 901,
+      "contest_rank": null
+    },
+    {
+      "user": "PannacottaFGK",
+      "rank": 902,
+      "contest_rank": null
+    },
+    {
+      "user": "yoichiro",
+      "rank": 903,
+      "contest_rank": null
+    },
+    {
+      "user": "DeltaStruct",
+      "rank": 904,
+      "contest_rank": null
+    },
+    {
+      "user": "star343",
+      "rank": 905,
+      "contest_rank": null
+    },
+    {
+      "user": "L3_035966",
+      "rank": 906,
+      "contest_rank": null
+    },
+    {
+      "user": "Rogi",
+      "rank": 907,
+      "contest_rank": null
+    },
+    {
+      "user": "l_s_t",
+      "rank": 908,
+      "contest_rank": null
+    },
+    {
+      "user": "zuba",
+      "rank": 909,
+      "contest_rank": null
+    },
+    {
+      "user": "car_78934093",
+      "rank": 910,
+      "contest_rank": null
+    },
+    {
+      "user": "dongzirui0817",
+      "rank": 911,
+      "contest_rank": null
+    },
+    {
+      "user": "guneguneneguse",
+      "rank": 912,
+      "contest_rank": null
+    },
+    {
+      "user": "kino0402",
+      "rank": 913,
+      "contest_rank": null
+    },
+    {
+      "user": "potesara",
+      "rank": 914,
+      "contest_rank": null
+    },
+    {
+      "user": "RyukiTwit",
+      "rank": 915,
+      "contest_rank": null
+    },
+    {
+      "user": "candi",
+      "rank": 916,
+      "contest_rank": 636
+    },
+    {
+      "user": "ksereyvath",
+      "rank": 917,
+      "contest_rank": 637
+    },
+    {
+      "user": "kazu107",
+      "rank": 918,
+      "contest_rank": 638
+    },
+    {
+      "user": "oka111111101",
+      "rank": 919,
+      "contest_rank": 639
+    },
+    {
+      "user": "Isshii",
+      "rank": 920,
+      "contest_rank": 640
+    },
+    {
+      "user": "rtono",
+      "rank": 921,
+      "contest_rank": 641
+    },
+    {
+      "user": "hanagee",
+      "rank": 922,
+      "contest_rank": 642
+    },
+    {
+      "user": "xsd",
+      "rank": 923,
+      "contest_rank": 643
+    },
+    {
+      "user": "godcity",
+      "rank": 924,
+      "contest_rank": 644
+    },
+    {
+      "user": "hiryuN",
+      "rank": 925,
+      "contest_rank": null
+    },
+    {
+      "user": "AiletS",
+      "rank": 926,
+      "contest_rank": 645
+    },
+    {
+      "user": "RamenNoodle",
+      "rank": 927,
+      "contest_rank": null
+    },
+    {
+      "user": "Itta",
+      "rank": 928,
+      "contest_rank": null
+    },
+    {
+      "user": "flcax",
+      "rank": 929,
+      "contest_rank": null
+    },
+    {
+      "user": "Franne",
+      "rank": 930,
+      "contest_rank": 646
+    },
+    {
+      "user": "hrokamo",
+      "rank": 931,
+      "contest_rank": 647
+    },
+    {
+      "user": "hirakuuuu",
+      "rank": 932,
+      "contest_rank": 648
+    },
+    {
+      "user": "syurede",
+      "rank": 933,
+      "contest_rank": 649
+    },
+    {
+      "user": "yu7ka",
+      "rank": 934,
+      "contest_rank": null
+    },
+    {
+      "user": "KHShoaib",
+      "rank": 935,
+      "contest_rank": null
+    },
+    {
+      "user": "zyc212303",
+      "rank": 936,
+      "contest_rank": null
+    },
+    {
+      "user": "Guojiaming",
+      "rank": 937,
+      "contest_rank": null
+    },
+    {
+      "user": "jsyz",
+      "rank": 938,
+      "contest_rank": null
+    },
+    {
+      "user": "REON28",
+      "rank": 939,
+      "contest_rank": 650
+    },
+    {
+      "user": "Rumia_math",
+      "rank": 940,
+      "contest_rank": 651
+    },
+    {
+      "user": "hokto",
+      "rank": 941,
+      "contest_rank": 652
+    },
+    {
+      "user": "drogskol",
+      "rank": 942,
+      "contest_rank": 653
+    },
+    {
+      "user": "noya2",
+      "rank": 943,
+      "contest_rank": 654
+    },
+    {
+      "user": "S142857",
+      "rank": 944,
+      "contest_rank": null
+    },
+    {
+      "user": "harurun",
+      "rank": 945,
+      "contest_rank": 655
+    },
+    {
+      "user": "houzhiyuan",
+      "rank": 946,
+      "contest_rank": 656
+    },
+    {
+      "user": "kadoma2",
+      "rank": 947,
+      "contest_rank": 657
+    },
+    {
+      "user": "ToastUz",
+      "rank": 948,
+      "contest_rank": 658
+    },
+    {
+      "user": "IgorI",
+      "rank": 949,
+      "contest_rank": null
+    },
+    {
+      "user": "azennto",
+      "rank": 950,
+      "contest_rank": 659
+    },
+    {
+      "user": "Yuulis",
+      "rank": 951,
+      "contest_rank": null
+    },
+    {
+      "user": "takopen",
+      "rank": 952,
+      "contest_rank": null
+    },
+    {
+      "user": "tabr",
+      "rank": 953,
+      "contest_rank": 660
+    },
+    {
+      "user": "1904113_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "1Ac27",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "7an",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ANON7MOUS",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "AOITORI",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "APMT",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ASMR",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Abhijeet_D_R",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Abhishek009ak",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Achivee",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Agustincheng",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Aki0712",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Akter",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Alhomse",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Amst",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Anhdung147",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ArcticOcean",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ArvinCiu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Aurnab10",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Axton",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Ayutaso",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Azimjon_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "B0ILEBI",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BannassRint",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Barge101",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BattleCats",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BetAmoto",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Bhautiksinh_Vala",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Bialytsok",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Bibekv7",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Bill_Board",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BlackKakarot",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BlackShout",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Black_devil25",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Blasterking",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "BoFnnova",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Bsqaq",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "CarpDay",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ChinaSrun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Chippppp",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Chomusuke",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Chroma7p",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Claimant",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Cyberbyte53",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "DFNasutarou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Dai_taifui",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Daikinect",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "David_S",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "DawnFlame",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Dinner_Hunt",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Dispersion",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Dkobayashl",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ELizaG",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "EXIS10CE666",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Eman_Salem",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Faheem",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "FaridaNusrat42",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Feecle6418",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Feng_D",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "FlowerOfSorrow",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Forza_Ferrari",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Frankson",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Frazer",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Freddy_me_me2",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Fu2960",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Fuku_Masa",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "GNRs",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Gear",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Gmacem",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "GnAsBK",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Grisha",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "H1rono",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HUKUI_KAIRI",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HanchanR",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HandSonic46",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Harry15",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HarshUdai",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Hasin",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HellPix",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Hiroshi_AC",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "HonaNguyen",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Hyado",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Hydru1",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "IHa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "INTER_ISO",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Ilaha",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Ivan_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "IzhtskiyTimofey",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "J231743UV",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "JasonWZZ",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Jayden_Zhao",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Johnwick1212",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "JollyBoy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Jonathan1234",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "JonnyD",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "July1st",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "JustForYourself",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "KCnow",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KG1109",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KXAKIOI",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KYM384",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kahuka",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KazumaS",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KeitaroNaruse",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Keshav_Goel",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kheff",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kirenjaku2",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kirin04",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "KoseT",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Kt_273027",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kude",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Kurichi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "LD123456",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "LFCode",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Lenqth",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Leonador",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Life_hacker",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Lirunjie",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Liucj2022",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Lyrically",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "MARTH",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MNnazrul",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MR1900",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MR_CO_DER",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mahiyat",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MaineCoon",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mansurbek",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Masked_Erina",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MdMaruf",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Meem",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Meteor_Z",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MightyFine",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MindlessGoober",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Minwell",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mitsubachi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mizunoame",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mohitzen",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "MrDindows",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Mysterious109",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NACON_01",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NASU41",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Nailun96",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Najin_Nagne",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NalinAgrawal",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Natsuserina",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Nelson_Boss",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Nero",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NeuronHacker",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NiBuPeiWoGanNiMa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Nik_016",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "NotANeophyte",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Nu_cleolus",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Nzt3",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "OjiCoder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "OoXiao_QioO",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Oseti24",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "PCTprobability",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "POCHI_99",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Pa_sha",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Paracanthurus",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Paul_Liao",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Perceval",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Pingvinn",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "PlayLikeNeverB4",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Plozia",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Pon9078",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Pradeep1234",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Psyho",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "PunitPatel",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "QWan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "R1N0",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "R_Bansal",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Rashme224422",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Raven7959",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ReiRKNZ",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Reishin",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Remake_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "RidoineEl",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Rifat_CoU",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Riku_Ohashi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Rohitpandey",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Rookie_coder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Roriyuki",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Rupa_421",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "RyIS",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "SAIRUPESH",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Sai900",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Saipriya_1144",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Saird",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "SamihaMaishaJeba",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Santhosh0102",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Saumil",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Seven0531",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Shadik286",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Shafin54",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Shatanshu_3006",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ShazzedShajal",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Shouta315",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "Skygood",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Soni1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Sooh",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "SotaUN",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Sumon_08",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "SwethaSai",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "TKNRKRD",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "TaiyoSuwa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Takia",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Takumi00",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "TangJing",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Tatsuyaaaa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Tawsifiit48",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Tazin85390",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Tharun_tej",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "TheOne",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "TheWestUmbrella",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "The_PoPeye",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Tonskgc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ToriKara",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "UnluckyKing",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Ut0p1a",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Vizard",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "W08177007t",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "W_LXA_G",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "WangBeiLa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Weedycoder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Yash_Anand",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Yoyufutsu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "YuLo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Yu_212",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Zen1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ZrrZ",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "Zubaydullo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "a1bca2bca3bc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "a765611985967",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aLiCEcartert",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aabcxabf",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aajjbb",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "abb",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "abckz",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "abhiksingh_123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "abhinav_201",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "abhishekmittal15",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ac2393921",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "acm19",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "adgjl",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "adit_g_kul18",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "admdw",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "adms",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "agaaga",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "agw02010",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ahmedelsayed",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aketijyuuzou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "akram26",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "akshatjain123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "al_akanda",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aliupingtao",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "allegrogiken",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "alphabe",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "amakura",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "amasinn",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "amayapetako",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "amazonijp",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "amit2111",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ao1415",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "apoorv_me",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "arman193041",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "aryanbhat10",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ashlesh",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "assy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "atchi_coder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "atuokamijeam",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "atwock",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "avio11",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "axis1999",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ayakami",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "azukirb",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "baby_elias",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "barun511",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "basketball31",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "batoul_kj",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "begi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "benjaminyan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "biones",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "bitwiseoperator",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "blacklist",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "blingstar",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "blue_jam",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "boatmuscles",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "bonk",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "brown_amaurotis",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "btk15049",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "burita083",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "c20231020_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "c7c7",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "cafie0220",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "caixiaoji",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "carp15",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "cax68080",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "chankei",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "che_amigo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "chendianbuji",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "chikkun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "chinerist",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "chzhc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "claire11327",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "claybro",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "clearlove4396",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "cocodev",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "codenutpy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "coder_irwin",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "codera",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "codingbd",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "colum2131",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "colun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "colun",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "confluence",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "costheta",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "cozy_sauna",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "cscba",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "curious_monk",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "d_aA_Aa_b",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dachan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dandelight",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "danish0101",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "darnley",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "darthraider212",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dat08",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "daymint",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dc2rax",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dekavit",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "deshpanda",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dineshwar",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dingyufei",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "dongsongshou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dotstar",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "doudou666",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "dragon_twister",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dtmai",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "dyppp",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ebi_fly",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "edhihori",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "eforeuler",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "egg1616",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "emonzhong",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "evip",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "evol4",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "face4",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fact493",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fahim",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fatjan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fie",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "flowlight",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fozlerabbi11",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fuji_yk",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fujikawahiroaki",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "fukki",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "funtastic",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "furious10",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "futton",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gambit",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gantavyamalviya",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "garggopal2001",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gasin",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gazelle",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gba",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gemma",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "genomas",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "glm",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gnanaprakash2918",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "goudezhao",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "greghur",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "grhsmt",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gucci0512",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "gvspranav",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "gyh20",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "h_kr7_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "habdellatif",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hagitak",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hahajiba",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hahho",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hamamu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hamuhei4869",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hanging_life",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hari64",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "harshgarg123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "harshitvarshney",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hasegn",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hashiya8",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "heisen1319",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hemanth75",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "henu_lzy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hika019",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hirokazu1020",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hiromi1630",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hiromi_ayase",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hiryuzu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hkawaguc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hnust_liuxiang",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hnust_shenjiexun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hongquanntct",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hsnkei",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "huang234",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "huangzixin",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "huicpc1022",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "hz35572",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "i_am_noob",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iambharatks",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iamujj15",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iis062",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iketamo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "inging",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "int_cl",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "iqlolpi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iraytno",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "irinaguseva",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ishida20190503",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "itok01",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "itray25",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iwbch",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "iwoeix",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jacky753",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jahnaviY",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jammq123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "japjeet26",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jcydwx",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jellyfishkuo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jessica24",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "jiangrenren",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jijiji",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jkdorayaki",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "john4567",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "judgelaw",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "junha1282",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "junxis",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "jutama",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kaerusan82433413",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kahana",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kakkarotto",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kakokitamaths35",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "kamonohasi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kanikama038",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "kannna",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kanwuqing",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kaotarei",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kariya1975",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "katonyonko",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "kbz",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kecleon",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "keks",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kenta2997",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kento_kun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "keroido",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "keutoi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kfhkx",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "khayash",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kiato",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kieusontungcva",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kira1234",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "klaus98",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "klond90",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "klu_2000031509",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kofbc_27230nm",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "koifish",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "koji_0204",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "komomo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "korogisu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "koustav_halder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ktl",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kurakura",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kuraraberu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kurenai3110",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kurokurokuro",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kuruton456",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kuuso",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kuutarou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kwkm0429",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kwrig",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "kyi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lanksi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lanmengyou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lasthadaf99",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "laysophann",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ldyllic",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "learner108",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lemondo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "li1233",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lichangrong",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "linhongrui",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lirh8121099",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ljc123",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "locytus",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "loishi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lord14",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lowking",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ly2209124",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "lyraz",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "m_mouri",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "macle",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "maharshi_khiladi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "maisha_mirza",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "makko_fro",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mamejika",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "markun368",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "marrru",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "marsman",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "marttians",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "maspy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mathneet",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "matsutake94",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mc_rodrix99",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mdrana",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "meh1103",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mekemeke_san",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "meowbot",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mimam",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "minimumini",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mino8",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mj1000j",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mkmkmkmk",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "modockey",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "moharan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "momoyuu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mono_1729",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "moon17",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "motoshira",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "motsunabe",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "mtsd",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "n0man_ch0wdhury",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "n_na",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nahco314",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "nahian00777",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "namacha411",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "naohachi89",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "naoya_t",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "natch",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "navinkti",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nawa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nejineji",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nemujaga",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "neterukun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "newbiesd",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nharuka",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nhc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nicolen",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nikhilkumawat",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ningenCoder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nishinoyama",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nmy",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nnh915",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "nnnSMM",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "noobcoder_1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nope124",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "noronyoro",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "noshinn",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "notkamonohasi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "noya2",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "nyarukun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nyst",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "nyya",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ogawakun",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "omu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "osushi333",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "otamochi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ousochanntrea18",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ozy4dm",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "packer_jp",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "panic100",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "petty0713",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pft",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "phocom",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "phspls",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "phtniit",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pleiades_223",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pls1204",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "poitg",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pompompudding0",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pori_na",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "potatosuchcute",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "potesara",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "praval_ss",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "pres1dent",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "priyanshupanwar",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "programmer765",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "qLethon",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "qingczha",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "qualdum",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "quantum6666",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "quietsato",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "qwerty787788",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "qxa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rafsan_fec",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rahulku123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "raihanmiraj",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rant4",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "raraku",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "renshunohito",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "revengeCoder",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rhincodon66",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "riano_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "riantkb",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "rin204",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ringo9971",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rishabh0904",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rjains",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rokon132",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "rupraj0406",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ruru0",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ruthen71",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ryo63ryo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ryomac",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "s0919",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "s1010",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "s1k",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "s_moulik",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "saba",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sadigLe",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "saidul_1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "saikatoto",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "saiteigen",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "salabh_2k2",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sama_abd",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sansen",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sapphire15",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sarwar_77",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "satoru814",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sazzadrume",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sb420",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sea_lantern",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sean_oct",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "seanlabcoding",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "senntou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sgly33",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sgzxy666",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sh3ra",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shawon",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sherbw",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shige1013",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shimmering",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shouta3156",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "shouta48",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shubham_code",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shuger",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "shuva14",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sienna",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sillyfox",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sine_and_cosine",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sinn_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "siro53",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "skrSaku__",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "skt113",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sky2009",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "skyeanka",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "small_turtle",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "smallbug",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "soku1203",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "someone123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sonakshi1314",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sony123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sora_fa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sorowar_mahabub",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "soto800",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sou1649",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sourchak66",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sqrt_3",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "st_red_strat",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "stark1588566",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "stoneb",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sudoSieg",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sudurra",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "suisei",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sultan_16",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "sumisu_mitani",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "suneelgo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "surprise_mf",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "swarnarka_das",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "syu_mei",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "syz",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tab_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tabae326",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tacloth",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tahuruzzoha",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tai_calc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "taisey",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tajava2006",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "takaya",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "taki0711",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "takkyu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "takoshi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "taktah",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "takumat",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "takuw09",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tam_77",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tanakasatou",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tanon710",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tanzaku",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tapioka3",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "taq2777",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tarattata",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tasbiulkarim",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "taxi1729",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tayu0110",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tellur",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "teruterubouzu",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "thamizhkavingan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "thegreatlover",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tiger_sust",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tirol30",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tisha_prog",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tkidev",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tktk_snsn",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tmc",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tncks0121",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tnogami",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "toam",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tokoharu",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "toku8",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tom10",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tomok1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tomoyawa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tonq",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "torisasami",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "toriten",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "torus711",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tourist",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "treaty52dot",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tsbkw",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tsukasa413",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tsuku_shi",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tsukudani529",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tukt04",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "turing_machine",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "tya5",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "udon1206",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ugo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "unwnsgk1282",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "username1",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "uwagi765",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "uyasuda",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "vietnguyentrong",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "viv12",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "waltz47",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "wangruichen",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "wangruichen_",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "wangxiyang",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "wasa855",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "waterprof",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "wsc2008",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "wuyucheng",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "x0214sh7",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "xiaonaol",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "xm03",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "y011d4",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "y_kawano",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yadon3141",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yamake",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yamaku",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yamunapriyan",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yasu0",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yasu18",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yasumaru",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yayuyo_",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yh2022gt",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "ykuro",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "ymatsux",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yossansan433",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yowa",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yphs0",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yugyppah",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yukke30",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yumekumo",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "yuuth",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "z27",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zakkii_k",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zaslilies",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zatt",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zenito9970",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zero_1111",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zestyoreo9",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zhangzhengyan123",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zhuilin",
+      "rank": 954,
+      "contest_rank": null
+    },
+    {
+      "user": "zmjiang",
+      "rank": 954,
+      "contest_rank": 661
+    },
+    {
+      "user": "zozu",
+      "rank": 954,
+      "contest_rank": 661
+    }
+  ]
+}

@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-user-gray    { background: rgba(128, 128, 128, 0.30); }
+.bg-user-brown   { background: rgba(128, 64, 0, 0.30); }
+.bg-user-green   { background: rgba(0, 128, 0, 0.30); }
+.bg-user-cyan    { background: rgba(0, 192, 192, 0.30); }
+.bg-user-blue    { background: rgba(0, 0, 255, 0.30); }
+.bg-user-yellow  { background: rgba(192, 192, 0, 0.30); }
+.bg-user-orange  { background: rgba(255, 128, 0, 0.30); }
+.bg-user-red     { background: rgba(255, 0, 0, 0.30); }
