@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
@@ -131,7 +131,9 @@ def fetch_extended_equiv_for_contest(
 
 
 @app.get("/api/ahc")
-def ahc(user: str):
+def ahc(request: Request, user: str):
+    origin = request.headers.get("origin")
+    print(f"[request] Origin={origin} Path={request.url.path} Params={request.query_params}")
     contests = get_ordered_contests()
     results = []
 
