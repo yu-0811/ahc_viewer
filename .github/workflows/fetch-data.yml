@@ -1,5 +1,8 @@
 name: Fetch contest data
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 15 * * *'
