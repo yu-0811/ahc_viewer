@@ -61,11 +61,6 @@ def get_ordered_contests() -> list[str]:
             continue
         ahc_pairs.append((number, cid))
 
-    if not ahc_pairs:
-        ahc_pairs = [
-            (i, f"ahc{str(i).zfill(3)}") for i in range(1, 58)
-        ]
-
     ahc_pairs.sort(key=lambda x: x[0], reverse=True)
     ordered = [cid for _, cid in ahc_pairs]
     ordered.extend(other)
@@ -87,7 +82,9 @@ def fetch_results_for_contest(contest_id: str, user: str):
         perf = row.get("performance")
 
         if isinstance(place, int) and isinstance(perf, int):
-            place_to_perf[place] = perf
+            # 同じ順位で異なるパフォーマンスがある場合、より低い方を採用する
+            if (place not in place_to_perf) or (perf < place_to_perf[place]):
+                place_to_perf[place] = perf
 
         if row.get("user") == user:
             my_rank = place
@@ -128,6 +125,7 @@ def fetch_extended_equiv_for_contest(
     
     equiv_base_rank = upper_player_cnt + 1
     equiv_perf = place_to_perf.get(equiv_base_rank)
+    print(f"[debug] extended equiv for {contest_id} user={user}: ext_rank={my_rank_ext}, equiv_base_rank={equiv_base_rank}, equiv_perf={equiv_perf}")
 
     return my_rank_ext, equiv_base_rank, equiv_perf
 
