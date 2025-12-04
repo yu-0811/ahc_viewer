@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 allowed_origins = [
-    "https://ahc-viewer-git-main-yuus-projects-7965612b.vercel.app/", 
+    "https://ahc-viewer.vercel.app/", 
     "http://localhost:3000", 
 ]
 
