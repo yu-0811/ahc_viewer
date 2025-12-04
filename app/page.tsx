@@ -2,15 +2,7 @@
 
 import { useState } from "react";
 import contestLists from "../data/contest_lists.json";
-
-type AhcResult = {
-  contest: string;
-  rank: number | null;
-  perf: number | null;
-  extended_rank: number | null;
-  extended_equiv_rank: number | null;
-  extended_equiv_perf: number | null;
-};
+import { AhcResult } from "@/types/ahc";
 
 const normalContests: string[] = contestLists.normal ?? [];
 const otherContests: string[] = contestLists.other ?? [];
@@ -67,8 +59,7 @@ export default function Home() {
         user,
       });
 
-      const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "";
-      const res = await fetch(`${API_BASE}/api/ahc?${params.toString()}`);
+      const res = await fetch(`/api/ahc?${params.toString()}`);
 
       if (!res.ok) {
         const text = await res.text();
@@ -77,8 +68,12 @@ export default function Home() {
 
       const data = await res.json();
       setResults(data.results ?? []);
-    } catch (err: any) {
-      setError(err.message ?? "エラーが発生しました");
+    } catch (err: unknown) {
+      if (err instanceof Error) {
+        setError(err.message);
+      } else {
+        setError("エラーが発生しました");
+      }
     } finally {
       setLoading(false);
     }
@@ -93,7 +88,6 @@ export default function Home() {
         長期コンテストなどシステムテストがあるコンテストでは、<br></br>
         プレテストのスコアを基に延長戦本番相当順位を算出しています。<br></br>
         毎日 15 時にデータを更新しています。<br></br>
-        <b>サーバーの立ち上げの都合上、表示に最大 1 分程度かかる場合があります。</b>
       </p>
 
       <form
