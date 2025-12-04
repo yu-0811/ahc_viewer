@@ -9,13 +9,18 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-# 開発中は雑に * で OK（Vercel に載せるときは絞る）
+allowed_origins = [
+    "https://ahc-viewer-git-main-yuus-projects-7965612b.vercel.app/", 
+    "http://localhost:3000", 
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=allowed_origins,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 RESULTS_DIR = DATA_DIR / "results"
