@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc016",
-  "fetched_at": "2025-12-04T07:38:07.387881+00:00",
+  "fetched_at": "2025-12-04T10:48:57.330734+00:00",
   "rows": [
     {
       "user": "nagiss",
@@ -2800,12 +2800,12 @@
     {
       "user": "xsd",
       "rank": 560,
-      "contest_rank": 486
+      "contest_rank": null
     },
     {
       "user": "xsd",
       "rank": 560,
-      "contest_rank": null
+      "contest_rank": 486
     },
     {
       "user": "mekemeke_san",
