@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2025-12-04T10:51:30.661652+00:00",
+  "fetched_at": "2025-12-04T15:33:24.823811+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -850,12 +850,12 @@
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -2880,12 +2880,12 @@
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": 514
+      "contest_rank": null
     },
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": null
+      "contest_rank": 514
     },
     {
       "user": "yoshibo",
@@ -2945,12 +2945,12 @@
     {
       "user": "rui_er",
       "rank": 589,
-      "contest_rank": 522
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 522
     },
     {
       "user": "efy",
@@ -4300,12 +4300,12 @@
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": 771
+      "contest_rank": null
     },
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 771
     },
     {
       "user": "nrO728",
@@ -5005,12 +5005,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChrysanthBlossom",
@@ -7335,12 +7335,12 @@
     {
       "user": "fmhr",
       "rank": 1467,
-      "contest_rank": 1321
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 1467,
-      "contest_rank": null
+      "contest_rank": 1321
     },
     {
       "user": "harumoto",
@@ -12425,12 +12425,12 @@
     {
       "user": "enntotu",
       "rank": 1487,
-      "contest_rank": null
+      "contest_rank": 1347
     },
     {
       "user": "enntotu",
       "rank": 1487,
-      "contest_rank": 1347
+      "contest_rank": null
     },
     {
       "user": "enukyu",
