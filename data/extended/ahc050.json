@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc050",
-  "fetched_at": "2025-12-04T15:34:04.919386+00:00",
+  "fetched_at": "2025-12-06T16:08:38.171723+00:00",
   "rows": [
     {
       "user": "terry_u16",
@@ -2190,12 +2190,12 @@
     {
       "user": "a01sa01to",
       "rank": 438,
-      "contest_rank": null
+      "contest_rank": 276
     },
     {
       "user": "a01sa01to",
       "rank": 438,
-      "contest_rank": 276
+      "contest_rank": null
     },
     {
       "user": "mitsu0523",
@@ -2585,12 +2585,12 @@
     {
       "user": "c_y_y",
       "rank": 517,
-      "contest_rank": 339
+      "contest_rank": null
     },
     {
       "user": "c_y_y",
       "rank": 517,
-      "contest_rank": null
+      "contest_rank": 339
     },
     {
       "user": "Lemonmaru",
@@ -4225,12 +4225,12 @@
     {
       "user": "Ryu1028",
       "rank": 845,
-      "contest_rank": null
+      "contest_rank": 596
     },
     {
       "user": "Ryu1028",
       "rank": 845,
-      "contest_rank": 596
+      "contest_rank": null
     },
     {
       "user": "berry",
@@ -5008,7 +5008,7 @@
       "contest_rank": 722
     },
     {
-      "user": "pstar",
+      "user": "Lidelie",
       "rank": 1002,
       "contest_rank": null
     },
@@ -6433,7 +6433,7 @@
       "contest_rank": 962
     },
     {
-      "user": "pstar",
+      "user": "Lidelie",
       "rank": 1287,
       "contest_rank": 963
     },
@@ -7120,12 +7120,12 @@
     {
       "user": "KRLX26",
       "rank": 1423,
-      "contest_rank": 1058
+      "contest_rank": null
     },
     {
       "user": "KRLX26",
       "rank": 1423,
-      "contest_rank": null
+      "contest_rank": 1058
     },
     {
       "user": "Ktaiki",
@@ -9743,6 +9743,11 @@
       "contest_rank": 1086
     },
     {
+      "user": "makhkamova08",
+      "rank": 1470,
+      "contest_rank": 1086
+    },
+    {
       "user": "malate",
       "rank": 1470,
       "contest_rank": 1086
@@ -9779,11 +9784,6 @@
     },
     {
       "user": "masy2011",
-      "rank": 1470,
-      "contest_rank": 1086
-    },
-    {
-      "user": "maxkamovam",
       "rank": 1470,
       "contest_rank": 1086
     },

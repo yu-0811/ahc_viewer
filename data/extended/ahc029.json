@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc029",
-  "fetched_at": "2025-12-04T15:32:06.251496+00:00",
+  "fetched_at": "2025-12-06T16:06:27.561149+00:00",
   "rows": [
     {
       "user": "starpentagon",
@@ -1935,12 +1935,12 @@
     {
       "user": "brthyyjp",
       "rank": 387,
-      "contest_rank": 317
+      "contest_rank": null
     },
     {
       "user": "brthyyjp",
       "rank": 387,
-      "contest_rank": null
+      "contest_rank": 317
     },
     {
       "user": "zakimyaa",
@@ -2510,12 +2510,12 @@
     {
       "user": "rui_er",
       "rank": 502,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "rui_er",
       "rank": 502,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "uminorosujin",
@@ -3330,12 +3330,12 @@
     {
       "user": "Ref7s",
       "rank": 666,
-      "contest_rank": 562
+      "contest_rank": null
     },
     {
       "user": "Ref7s",
       "rank": 666,
-      "contest_rank": null
+      "contest_rank": 562
     },
     {
       "user": "breakfast_curry",
@@ -6275,12 +6275,12 @@
     {
       "user": "PCT2506",
       "rank": 904,
-      "contest_rank": 769
+      "contest_rank": null
     },
     {
       "user": "PCT2506",
       "rank": 904,
-      "contest_rank": null
+      "contest_rank": 769
     },
     {
       "user": "PICOLO",
@@ -7929,6 +7929,11 @@
     },
     {
       "user": "cslgZ09223222",
+      "rank": 904,
+      "contest_rank": 769
+    },
+    {
+      "user": "cstdi0",
       "rank": 904,
       "contest_rank": 769
     },
@@ -12454,11 +12459,6 @@
     },
     {
       "user": "vyacheslav",
-      "rank": 904,
-      "contest_rank": 769
-    },
-    {
-      "user": "w195910",
       "rank": 904,
       "contest_rank": 769
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2025-12-04T15:34:33.099932+00:00",
+  "fetched_at": "2025-12-06T16:09:07.773102+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1688,7 +1688,7 @@
       "contest_rank": 219
     },
     {
-      "user": "pstar",
+      "user": "Lidelie",
       "rank": 338,
       "contest_rank": 220
     },
@@ -2890,12 +2890,12 @@
     {
       "user": "yellowsubmarine",
       "rank": 578,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "yellowsubmarine",
       "rank": 578,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "manybear",
@@ -2943,6 +2943,11 @@
       "contest_rank": 425
     },
     {
+      "user": "Lidelie",
+      "rank": 588,
+      "contest_rank": null
+    },
+    {
       "user": "alpha299792458",
       "rank": 588,
       "contest_rank": 425
@@ -2961,11 +2966,6 @@
       "user": "pasuko",
       "rank": 588,
       "contest_rank": 425
-    },
-    {
-      "user": "pstar",
-      "rank": 588,
-      "contest_rank": null
     },
     {
       "user": "sabird",
@@ -4128,44 +4128,44 @@
       "contest_rank": 617
     },
     {
-      "user": "Zyi",
+      "user": "lucky_space",
       "rank": 826,
       "contest_rank": null
     },
     {
-      "user": "coco0715",
+      "user": "Zyi",
       "rank": 827,
+      "contest_rank": null
+    },
+    {
+      "user": "coco0715",
+      "rank": 828,
       "contest_rank": 618
     },
     {
       "user": "hyoka7",
-      "rank": 828,
+      "rank": 829,
       "contest_rank": 619
     },
     {
       "user": "zoidzium",
-      "rank": 829,
+      "rank": 830,
       "contest_rank": 620
     },
     {
       "user": "zoidzium",
-      "rank": 830,
+      "rank": 831,
       "contest_rank": null
     },
     {
       "user": "Echia",
-      "rank": 831,
+      "rank": 832,
       "contest_rank": 621
     },
     {
       "user": "mimisan",
-      "rank": 832,
-      "contest_rank": 622
-    },
-    {
-      "user": "lucky_space",
       "rank": 833,
-      "contest_rank": null
+      "contest_rank": 622
     },
     {
       "user": "shogo314",
@@ -6030,12 +6030,12 @@
     {
       "user": "Nst_4c",
       "rank": 1063,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Nst_4c",
       "rank": 1063,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Nyaan",
@@ -7170,12 +7170,12 @@
     {
       "user": "hiryuN",
       "rank": 1063,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hiryuN",
       "rank": 1063,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hizukibox",
