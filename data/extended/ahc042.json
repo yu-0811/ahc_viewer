@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc042",
-  "fetched_at": "2025-12-04T10:51:25.011954+00:00",
+  "fetched_at": "2025-12-06T16:07:49.982338+00:00",
   "rows": [
     {
       "user": "syndrome",
@@ -395,12 +395,12 @@
     {
       "user": "kotamanegi",
       "rank": 79,
-      "contest_rank": 26
+      "contest_rank": null
     },
     {
       "user": "kotamanegi",
       "rank": 79,
-      "contest_rank": null
+      "contest_rank": 26
     },
     {
       "user": "y_kawano",
@@ -3015,12 +3015,12 @@
     {
       "user": "nanae",
       "rank": 603,
-      "contest_rank": 401
+      "contest_rank": null
     },
     {
       "user": "nanae",
       "rank": 603,
-      "contest_rank": null
+      "contest_rank": 401
     },
     {
       "user": "katsuta",
@@ -3833,7 +3833,7 @@
       "contest_rank": 541
     },
     {
-      "user": "pstar",
+      "user": "Lidelie",
       "rank": 767,
       "contest_rank": 542
     },
@@ -7275,12 +7275,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1366,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1366,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "GauravJain001",
@@ -8935,12 +8935,12 @@
     {
       "user": "davidal",
       "rank": 1366,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "davidal",
       "rank": 1366,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "dhulripos",
@@ -9930,12 +9930,12 @@
     {
       "user": "mekemeke_san",
       "rank": 1366,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "mekemeke_san",
       "rank": 1366,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "mhafzali",
@@ -10795,12 +10795,12 @@
     {
       "user": "sunamegane",
       "rank": 1366,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "sunamegane",
       "rank": 1366,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "sunrize",

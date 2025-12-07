@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc009",
-  "fetched_at": "2025-12-04T10:48:24.440484+00:00",
+  "fetched_at": "2025-12-06T16:04:25.732889+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -6155,12 +6155,12 @@
     {
       "user": "Eric_Cui",
       "rank": 1165,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "Eric_Cui",
       "rank": 1165,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "EternalSinner",
@@ -8255,12 +8255,12 @@
     {
       "user": "katsunori",
       "rank": 1165,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "katsunori",
       "rank": 1165,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "kazuki_poke",
@@ -9375,12 +9375,12 @@
     {
       "user": "st_red_strat",
       "rank": 1165,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "st_red_strat",
       "rank": 1165,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "starvader",
