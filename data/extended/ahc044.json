@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc044",
-  "fetched_at": "2025-12-06T16:08:02.315294+00:00",
+  "fetched_at": "2025-12-07T15:25:32.647096+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1200,12 +1200,12 @@
     {
       "user": "tardigrade",
       "rank": 240,
-      "contest_rank": 101
+      "contest_rank": null
     },
     {
       "user": "tardigrade",
       "rank": 240,
-      "contest_rank": null
+      "contest_rank": 101
     },
     {
       "user": "keroido",
@@ -5725,12 +5725,12 @@
     {
       "user": "batapi0311",
       "rank": 1145,
-      "contest_rank": null
+      "contest_rank": 785
     },
     {
       "user": "batapi0311",
       "rank": 1145,
-      "contest_rank": 785
+      "contest_rank": null
     },
     {
       "user": "Anago_pie",
