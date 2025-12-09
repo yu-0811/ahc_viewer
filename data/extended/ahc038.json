@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2025-12-08T15:31:54.584529+00:00",
+  "fetched_at": "2025-12-09T15:33:02.335024+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "mekemeke_san",
@@ -425,12 +425,12 @@
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": 57
+      "contest_rank": null
     },
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": null
+      "contest_rank": 57
     },
     {
       "user": "Nekomimimi",
@@ -18281,6 +18281,11 @@
       "user": "sera12345",
       "rank": 1126,
       "contest_rank": 1005
+    },
+    {
+      "user": "seven7_2",
+      "rank": 1126,
+      "contest_rank": null
     },
     {
       "user": "sgmg",
