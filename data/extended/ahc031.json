@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc031",
-  "fetched_at": "2025-12-09T15:32:21.307904+00:00",
+  "fetched_at": "2025-12-10T15:33:01.606482+00:00",
   "rows": [
     {
       "user": "wangdiwei30",
@@ -7450,12 +7450,12 @@
     {
       "user": "MicroSun",
       "rank": 1098,
-      "contest_rank": 1002
+      "contest_rank": null
     },
     {
       "user": "MicroSun",
       "rank": 1098,
-      "contest_rank": null
+      "contest_rank": 1002
     },
     {
       "user": "Mihaya",

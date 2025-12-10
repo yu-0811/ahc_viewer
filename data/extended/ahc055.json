@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2025-12-09T15:34:42.026271+00:00",
+  "fetched_at": "2025-12-10T15:35:31.025672+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -358,24 +358,24 @@
       "contest_rank": 22
     },
     {
-      "user": "besukohu",
+      "user": "tyokousagi",
       "rank": 72,
+      "contest_rank": null
+    },
+    {
+      "user": "besukohu",
+      "rank": 73,
       "contest_rank": 23
     },
     {
       "user": "aotyam",
-      "rank": 73,
+      "rank": 74,
       "contest_rank": 24
     },
     {
       "user": "risujiroh",
-      "rank": 74,
-      "contest_rank": 25
-    },
-    {
-      "user": "tyokousagi",
       "rank": 75,
-      "contest_rank": null
+      "contest_rank": 25
     },
     {
       "user": "castle_",
@@ -1825,12 +1825,12 @@
     {
       "user": "kurarin89",
       "rank": 365,
-      "contest_rank": 241
+      "contest_rank": null
     },
     {
       "user": "kurarin89",
       "rank": 365,
-      "contest_rank": null
+      "contest_rank": 241
     },
     {
       "user": "sky58",
@@ -2455,12 +2455,12 @@
     {
       "user": "hisui527",
       "rank": 491,
-      "contest_rank": 342
+      "contest_rank": null
     },
     {
       "user": "hisui527",
       "rank": 491,
-      "contest_rank": null
+      "contest_rank": 342
     },
     {
       "user": "KatsuDonChef",
@@ -3865,12 +3865,12 @@
     {
       "user": "messier",
       "rank": 773,
-      "contest_rank": 575
+      "contest_rank": null
     },
     {
       "user": "messier",
       "rank": 773,
-      "contest_rank": null
+      "contest_rank": 575
     },
     {
       "user": "kazuya_minakuchi",
@@ -6035,12 +6035,12 @@
     {
       "user": "Nst_4c",
       "rank": 1064,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Nst_4c",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Nyaan",
@@ -7175,12 +7175,12 @@
     {
       "user": "hiryuN",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hiryuN",
       "rank": 1064,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hizukibox",
