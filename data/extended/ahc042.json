@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc042",
-  "fetched_at": "2025-12-10T15:34:08.883145+00:00",
+  "fetched_at": "2025-12-11T15:34:10.574602+00:00",
   "rows": [
     {
       "user": "syndrome",
@@ -395,12 +395,12 @@
     {
       "user": "kotamanegi",
       "rank": 79,
-      "contest_rank": 26
+      "contest_rank": null
     },
     {
       "user": "kotamanegi",
       "rank": 79,
-      "contest_rank": null
+      "contest_rank": 26
     },
     {
       "user": "y_kawano",
@@ -6480,12 +6480,12 @@
     {
       "user": "Harunyann",
       "rank": 1286,
-      "contest_rank": null
+      "contest_rank": 947
     },
     {
       "user": "Harunyann",
       "rank": 1286,
-      "contest_rank": 947
+      "contest_rank": null
     },
     {
       "user": "HealTheWorld",
@@ -8180,12 +8180,12 @@
     {
       "user": "Spaindiace",
       "rank": 1367,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "Spaindiace",
       "rank": 1367,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "Sphere9",
@@ -8940,12 +8940,12 @@
     {
       "user": "davidal",
       "rank": 1367,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "davidal",
       "rank": 1367,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "dhulripos",
@@ -10725,12 +10725,12 @@
     {
       "user": "sk4rd",
       "rank": 1367,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "sk4rd",
       "rank": 1367,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "skipped",

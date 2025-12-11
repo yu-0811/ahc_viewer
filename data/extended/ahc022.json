@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc022",
-  "fetched_at": "2025-12-10T15:32:02.994156+00:00",
+  "fetched_at": "2025-12-11T15:32:13.236917+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -330,12 +330,12 @@
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": 55
+      "contest_rank": null
     },
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": null
+      "contest_rank": 55
     },
     {
       "user": "G4NP0N",
@@ -4505,12 +4505,12 @@
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": null
+      "contest_rank": 793
     },
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": 793
+      "contest_rank": null
     },
     {
       "user": "AngrySadEight",
@@ -5525,12 +5525,12 @@
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": 951
+      "contest_rank": null
     },
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": null
+      "contest_rank": 951
     },
     {
       "user": "u_sho",
