@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2025-12-11T15:34:15.961790+00:00",
+  "fetched_at": "2025-12-12T15:31:41.215739+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -850,12 +850,12 @@
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -2945,12 +2945,12 @@
     {
       "user": "rui_er",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 522
     },
     {
       "user": "rui_er",
       "rank": 589,
-      "contest_rank": 522
+      "contest_rank": null
     },
     {
       "user": "efy",
@@ -4300,12 +4300,12 @@
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 771
     },
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": 771
+      "contest_rank": null
     },
     {
       "user": "nrO728",
@@ -4958,11 +4958,6 @@
       "contest_rank": 886
     },
     {
-      "user": "2024wangyuxuan",
-      "rank": 990,
-      "contest_rank": 886
-    },
-    {
       "user": "AKI24957",
       "rank": 990,
       "contest_rank": 886
@@ -5005,12 +5000,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChrysanthBlossom",
@@ -6044,6 +6039,11 @@
     },
     {
       "user": "nariwo_z",
+      "rank": 990,
+      "contest_rank": 886
+    },
+    {
+      "user": "nauyng",
       "rank": 990,
       "contest_rank": 886
     },
@@ -7340,12 +7340,12 @@
     {
       "user": "fmhr",
       "rank": 1468,
-      "contest_rank": null
+      "contest_rank": 1321
     },
     {
       "user": "fmhr",
       "rank": 1468,
-      "contest_rank": 1321
+      "contest_rank": null
     },
     {
       "user": "harumoto",

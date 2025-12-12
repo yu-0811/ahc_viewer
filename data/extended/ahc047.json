@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc047",
-  "fetched_at": "2025-12-11T15:34:39.472063+00:00",
+  "fetched_at": "2025-12-12T15:32:06.820503+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1225,12 +1225,12 @@
     {
       "user": "yupiteru",
       "rank": 245,
-      "contest_rank": null
+      "contest_rank": 115
     },
     {
       "user": "yupiteru",
       "rank": 245,
-      "contest_rank": 115
+      "contest_rank": null
     },
     {
       "user": "gvastash",
@@ -2480,12 +2480,12 @@
     {
       "user": "MNMNBK",
       "rank": 496,
-      "contest_rank": 310
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 496,
-      "contest_rank": null
+      "contest_rank": 310
     },
     {
       "user": "okudeottu",
@@ -3295,12 +3295,12 @@
     {
       "user": "riu0415",
       "rank": 659,
-      "contest_rank": null
+      "contest_rank": 445
     },
     {
       "user": "riu0415",
       "rank": 659,
-      "contest_rank": 445
+      "contest_rank": null
     },
     {
       "user": "shiren157",
@@ -3455,12 +3455,12 @@
     {
       "user": "champignondayo",
       "rank": 691,
-      "contest_rank": 470
+      "contest_rank": null
     },
     {
       "user": "champignondayo",
       "rank": 691,
-      "contest_rank": null
+      "contest_rank": 470
     },
     {
       "user": "chocono2230",
@@ -6210,12 +6210,12 @@
     {
       "user": "chnh",
       "rank": 1242,
-      "contest_rank": null
+      "contest_rank": 938
     },
     {
       "user": "chnh",
       "rank": 1242,
-      "contest_rank": 938
+      "contest_rank": null
     },
     {
       "user": "mathworker21",
@@ -6360,12 +6360,12 @@
     {
       "user": "yuyu0202",
       "rank": 1265,
-      "contest_rank": null
+      "contest_rank": 952
     },
     {
       "user": "yuyu0202",
       "rank": 1265,
-      "contest_rank": 952
+      "contest_rank": null
     },
     {
       "user": "taku001",
@@ -7351,6 +7351,11 @@
       "user": "FlamingBlade",
       "rank": 1363,
       "contest_rank": 1030
+    },
+    {
+      "user": "Fleur",
+      "rank": 1363,
+      "contest_rank": null
     },
     {
       "user": "FlowerAccepted",

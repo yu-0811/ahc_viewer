@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc041",
-  "fetched_at": "2025-12-11T15:34:05.248681+00:00",
+  "fetched_at": "2025-12-12T15:31:30.298717+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3445,12 +3445,12 @@
     {
       "user": "HJZhao",
       "rank": 689,
-      "contest_rank": 415
+      "contest_rank": null
     },
     {
       "user": "HJZhao",
       "rank": 689,
-      "contest_rank": null
+      "contest_rank": 415
     },
     {
       "user": "Kite_kuma",
@@ -3465,12 +3465,12 @@
     {
       "user": "Nainn",
       "rank": 689,
-      "contest_rank": null
+      "contest_rank": 415
     },
     {
       "user": "Nainn",
       "rank": 689,
-      "contest_rank": 415
+      "contest_rank": null
     },
     {
       "user": "Sot4",
@@ -5500,12 +5500,12 @@
     {
       "user": "yaneko",
       "rank": 1087,
-      "contest_rank": 723
+      "contest_rank": null
     },
     {
       "user": "yaneko",
       "rank": 1087,
-      "contest_rank": null
+      "contest_rank": 723
     },
     {
       "user": "zjneymar",
@@ -6505,12 +6505,12 @@
     {
       "user": "bell_leopa",
       "rank": 1301,
-      "contest_rank": 897
+      "contest_rank": null
     },
     {
       "user": "bell_leopa",
       "rank": 1301,
-      "contest_rank": null
+      "contest_rank": 897
     },
     {
       "user": "Trayu",
@@ -7219,11 +7219,6 @@
     },
     {
       "user": "2024XMH",
-      "rank": 1441,
-      "contest_rank": 990
-    },
-    {
-      "user": "2024wangyuxuan",
       "rank": 1441,
       "contest_rank": 990
     },
@@ -8790,12 +8785,12 @@
     {
       "user": "cafe6a6e",
       "rank": 1441,
-      "contest_rank": null
+      "contest_rank": 990
     },
     {
       "user": "cafe6a6e",
       "rank": 1441,
-      "contest_rank": 990
+      "contest_rank": null
     },
     {
       "user": "cao0015",
@@ -9908,6 +9903,11 @@
       "contest_rank": 990
     },
     {
+      "user": "nauyng",
+      "rank": 1441,
+      "contest_rank": 990
+    },
+    {
       "user": "nekooooooo",
       "rank": 1441,
       "contest_rank": 990
@@ -10225,12 +10225,12 @@
     {
       "user": "shin9",
       "rank": 1441,
-      "contest_rank": null
+      "contest_rank": 990
     },
     {
       "user": "shin9",
       "rank": 1441,
-      "contest_rank": 990
+      "contest_rank": null
     },
     {
       "user": "shinji_mm",
@@ -10795,12 +10795,12 @@
     {
       "user": "yoshin",
       "rank": 1441,
-      "contest_rank": 990
+      "contest_rank": null
     },
     {
       "user": "yoshin",
       "rank": 1441,
-      "contest_rank": null
+      "contest_rank": 990
     },
     {
       "user": "yosupo",
