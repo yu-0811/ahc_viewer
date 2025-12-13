@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2025-12-12T15:32:56.840649+00:00",
+  "fetched_at": "2025-12-13T15:28:12.673185+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -1370,12 +1370,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 274,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "TwoSquirrels",
       "rank": 274,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "EzukaFuya",
@@ -2605,12 +2605,12 @@
     {
       "user": "Dreamer0",
       "rank": 521,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "Dreamer0",
       "rank": 521,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "ntk_ta01",
@@ -2805,12 +2805,12 @@
     {
       "user": "shirogo",
       "rank": 561,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "shirogo",
       "rank": 561,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "sunamegane",
@@ -4335,12 +4335,12 @@
     {
       "user": "watacco",
       "rank": 822,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watacco",
       "rank": 822,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watashiwatanuki",
@@ -6288,11 +6288,6 @@
       "contest_rank": 1065
     },
     {
-      "user": "DreamingPhoenix",
-      "rank": 1126,
-      "contest_rank": 1065
-    },
-    {
       "user": "Dske_S",
       "rank": 1126,
       "contest_rank": 1065
@@ -6993,6 +6988,11 @@
       "contest_rank": 1065
     },
     {
+      "user": "LALAT",
+      "rank": 1126,
+      "contest_rank": 1065
+    },
+    {
       "user": "LHao",
       "rank": 1126,
       "contest_rank": 1065
@@ -7014,11 +7014,6 @@
     },
     {
       "user": "Lagugudesbroyer1",
-      "rank": 1126,
-      "contest_rank": 1065
-    },
-    {
-      "user": "Lalat25",
       "rank": 1126,
       "contest_rank": 1065
     },
@@ -7484,6 +7479,11 @@
     },
     {
       "user": "Nguyennhm",
+      "rank": 1126,
+      "contest_rank": 1065
+    },
+    {
+      "user": "Nigredo29",
       "rank": 1126,
       "contest_rank": 1065
     },

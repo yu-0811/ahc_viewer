@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc053",
-  "fetched_at": "2025-12-12T15:32:39.972115+00:00",
+  "fetched_at": "2025-12-13T15:27:56.400991+00:00",
   "rows": [
     {
       "user": "kozima",
@@ -6090,12 +6090,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1214,
-      "contest_rank": 943
+      "contest_rank": null
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1214,
-      "contest_rank": null
+      "contest_rank": 943
     },
     {
       "user": "ShoyuMashiMashi",
@@ -7388,6 +7388,11 @@
       "contest_rank": 1019
     },
     {
+      "user": "LALAT",
+      "rank": 1309,
+      "contest_rank": 1019
+    },
+    {
       "user": "LHT261218",
       "rank": 1309,
       "contest_rank": 1019
@@ -7404,11 +7409,6 @@
     },
     {
       "user": "Lakshitha_R_E",
-      "rank": 1309,
-      "contest_rank": 1019
-    },
-    {
-      "user": "Lalat25",
       "rank": 1309,
       "contest_rank": 1019
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2025-12-12T15:32:45.362180+00:00",
+  "fetched_at": "2025-12-13T15:28:01.674992+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -7463,6 +7463,11 @@
       "contest_rank": 1124
     },
     {
+      "user": "LALAT",
+      "rank": 1204,
+      "contest_rank": 1124
+    },
+    {
       "user": "LINYUHENG2",
       "rank": 1204,
       "contest_rank": 1124
@@ -7484,11 +7489,6 @@
     },
     {
       "user": "Lakshmanan",
-      "rank": 1204,
-      "contest_rank": 1124
-    },
-    {
-      "user": "Lalat25",
       "rank": 1204,
       "contest_rank": 1124
     },
