@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2025-12-14T15:28:07.368918+00:00",
+  "fetched_at": "2025-12-15T04:48:04.738958+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -298,84 +298,84 @@
       "contest_rank": 17
     },
     {
-      "user": "keroru",
+      "user": "guzi",
       "rank": 60,
       "contest_rank": null
     },
     {
-      "user": "Bolero",
+      "user": "keroru",
       "rank": 61,
+      "contest_rank": null
+    },
+    {
+      "user": "Bolero",
+      "rank": 62,
       "contest_rank": 18
     },
     {
       "user": "Jirotech",
-      "rank": 62,
+      "rank": 63,
       "contest_rank": null
     },
     {
       "user": "terry_u16",
-      "rank": 63,
+      "rank": 64,
       "contest_rank": 19
     },
     {
       "user": "Bolero",
-      "rank": 64,
-      "contest_rank": null
-    },
-    {
-      "user": "arr28",
       "rank": 65,
       "contest_rank": null
     },
     {
-      "user": "small_koala",
+      "user": "arr28",
       "rank": 66,
       "contest_rank": null
     },
     {
-      "user": "hirakuuuu",
+      "user": "small_koala",
       "rank": 67,
+      "contest_rank": null
+    },
+    {
+      "user": "hirakuuuu",
+      "rank": 68,
       "contest_rank": 20
     },
     {
       "user": "tyokousagi",
-      "rank": 68,
-      "contest_rank": null
-    },
-    {
-      "user": "kovi",
       "rank": 69,
       "contest_rank": null
     },
     {
-      "user": "noimi",
+      "user": "kovi",
       "rank": 70,
       "contest_rank": null
     },
     {
       "user": "noimi",
       "rank": 71,
+      "contest_rank": null
+    },
+    {
+      "user": "noimi",
+      "rank": 72,
       "contest_rank": 21
     },
     {
       "user": "int65536",
-      "rank": 72,
+      "rank": 73,
       "contest_rank": 22
     },
     {
       "user": "besukohu",
-      "rank": 73,
+      "rank": 74,
       "contest_rank": 23
     },
     {
       "user": "aotyam",
-      "rank": 74,
-      "contest_rank": 24
-    },
-    {
-      "user": "guzi",
       "rank": 75,
-      "contest_rank": null
+      "contest_rank": 24
     },
     {
       "user": "risujiroh",
@@ -1830,12 +1830,12 @@
     {
       "user": "kurarin89",
       "rank": 366,
-      "contest_rank": null
+      "contest_rank": 241
     },
     {
       "user": "kurarin89",
       "rank": 366,
-      "contest_rank": 241
+      "contest_rank": null
     },
     {
       "user": "sky58",
@@ -2175,12 +2175,12 @@
     {
       "user": "yimiya",
       "rank": 435,
-      "contest_rank": null
+      "contest_rank": 298
     },
     {
       "user": "yimiya",
       "rank": 435,
-      "contest_rank": 298
+      "contest_rank": null
     },
     {
       "user": "zssa",
@@ -2460,12 +2460,12 @@
     {
       "user": "hisui527",
       "rank": 492,
-      "contest_rank": 342
+      "contest_rank": null
     },
     {
       "user": "hisui527",
       "rank": 492,
-      "contest_rank": null
+      "contest_rank": 342
     },
     {
       "user": "KatsuDonChef",
@@ -2900,12 +2900,12 @@
     {
       "user": "yellowsubmarine",
       "rank": 580,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "yellowsubmarine",
       "rank": 580,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "manybear",
@@ -3870,12 +3870,12 @@
     {
       "user": "messier",
       "rank": 774,
-      "contest_rank": null
+      "contest_rank": 575
     },
     {
       "user": "messier",
       "rank": 774,
-      "contest_rank": 575
+      "contest_rank": null
     },
     {
       "user": "kazuya_minakuchi",
@@ -5815,12 +5815,12 @@
     {
       "user": "Koki_2718281",
       "rank": 1065,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Koki_2718281",
       "rank": 1065,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Komal_008",
@@ -6040,12 +6040,12 @@
     {
       "user": "Nst_4c",
       "rank": 1065,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Nst_4c",
       "rank": 1065,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Nyaan",
@@ -8035,12 +8035,12 @@
     {
       "user": "tekronix",
       "rank": 1065,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "tekronix",
       "rank": 1065,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "teteuryan",
