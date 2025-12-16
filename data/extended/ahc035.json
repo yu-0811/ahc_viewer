@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc035",
-  "fetched_at": "2025-12-15T15:32:39.386680+00:00",
+  "fetched_at": "2025-12-16T15:32:00.609940+00:00",
   "rows": [
     {
       "user": "bird01",
@@ -6720,12 +6720,12 @@
     {
       "user": "fujiyama",
       "rank": 1285,
-      "contest_rank": 907
+      "contest_rank": null
     },
     {
       "user": "fujiyama",
       "rank": 1285,
-      "contest_rank": null
+      "contest_rank": 907
     },
     {
       "user": "ganesya0112",
@@ -10865,12 +10865,12 @@
     {
       "user": "yuruhuwa",
       "rank": 1443,
-      "contest_rank": null
+      "contest_rank": 1009
     },
     {
       "user": "yuruhuwa",
       "rank": 1443,
-      "contest_rank": 1009
+      "contest_rank": null
     },
     {
       "user": "yutyandayo",

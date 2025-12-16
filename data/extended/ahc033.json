@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc033",
-  "fetched_at": "2025-12-15T15:32:28.340389+00:00",
+  "fetched_at": "2025-12-16T15:31:48.473051+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -580,12 +580,12 @@
     {
       "user": "Imperi",
       "rank": 116,
-      "contest_rank": 92
+      "contest_rank": null
     },
     {
       "user": "Imperi",
       "rank": 116,
-      "contest_rank": null
+      "contest_rank": 92
     },
     {
       "user": "takytank",
@@ -1060,12 +1060,12 @@
     {
       "user": "ichyo",
       "rank": 212,
-      "contest_rank": 179
+      "contest_rank": null
     },
     {
       "user": "ichyo",
       "rank": 212,
-      "contest_rank": null
+      "contest_rank": 179
     },
     {
       "user": "yamm",
@@ -1430,12 +1430,12 @@
     {
       "user": "tmb",
       "rank": 286,
-      "contest_rank": null
+      "contest_rank": 248
     },
     {
       "user": "tmb",
       "rank": 286,
-      "contest_rank": 248
+      "contest_rank": null
     },
     {
       "user": "ecapsotiuy",
@@ -4205,12 +4205,12 @@
     {
       "user": "Sept006",
       "rank": 841,
-      "contest_rank": 774
+      "contest_rank": null
     },
     {
       "user": "Sept006",
       "rank": 841,
-      "contest_rank": null
+      "contest_rank": 774
     },
     {
       "user": "holly_yo",
@@ -5300,12 +5300,12 @@
     {
       "user": "gojira_ku",
       "rank": 1032,
-      "contest_rank": null
+      "contest_rank": 954
     },
     {
       "user": "gojira_ku",
       "rank": 1032,
-      "contest_rank": 954
+      "contest_rank": null
     },
     {
       "user": "heyongxing",
@@ -5764,11 +5764,6 @@
     },
     {
       "user": "1sai4Mourya3",
-      "rank": 1149,
-      "contest_rank": 1046
-    },
-    {
-      "user": "201012280925LSY",
       "rank": 1149,
       "contest_rank": 1046
     },
@@ -6480,12 +6475,12 @@
     {
       "user": "CSZ7943",
       "rank": 1149,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CSZ7943",
       "rank": 1149,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "CX0225",
@@ -6635,12 +6630,12 @@
     {
       "user": "Code_IT_HURRRAY",
       "rank": 1149,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "Code_IT_HURRRAY",
       "rank": 1149,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CodingLord108",
@@ -6909,6 +6904,11 @@
     },
     {
       "user": "Eito88",
+      "rank": 1149,
+      "contest_rank": 1046
+    },
+    {
+      "user": "ElderFour",
       "rank": 1149,
       "contest_rank": 1046
     },
@@ -7970,12 +7970,12 @@
     {
       "user": "L3_035966",
       "rank": 1149,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "L3_035966",
       "rank": 1149,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "LCX7777777",

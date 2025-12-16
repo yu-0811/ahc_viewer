@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc057",
-  "fetched_at": "2025-12-15T15:34:50.256196+00:00",
+  "fetched_at": "2025-12-16T15:34:13.739830+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -5445,12 +5445,12 @@
     {
       "user": "Shyamnath",
       "rank": 830,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "Shyamnath",
       "rank": 830,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "Siddiq4712",
@@ -7165,12 +7165,12 @@
     {
       "user": "naesira",
       "rank": 830,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "naesira",
       "rank": 830,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "nakamaay1",
