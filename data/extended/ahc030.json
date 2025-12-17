@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2025-12-16T15:31:29.823596+00:00",
+  "fetched_at": "2025-12-17T15:31:53.255557+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1705,12 +1705,12 @@
     {
       "user": "rui_er",
       "rank": 341,
-      "contest_rank": 255
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 341,
-      "contest_rank": null
+      "contest_rank": 255
     },
     {
       "user": "rosso01",
@@ -5600,12 +5600,12 @@
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "ycZhou",
@@ -12838,11 +12838,6 @@
       "contest_rank": 1037
     },
     {
-      "user": "invincible009",
-      "rank": 1196,
-      "contest_rank": 1037
-    },
-    {
       "user": "invincibletrilux",
       "rank": 1196,
       "contest_rank": 1037
@@ -17578,6 +17573,11 @@
       "contest_rank": 1037
     },
     {
+      "user": "thismagic",
+      "rank": 1196,
+      "contest_rank": 1037
+    },
+    {
       "user": "thomasgu",
       "rank": 1196,
       "contest_rank": 1037
@@ -18585,12 +18585,12 @@
     {
       "user": "yonghu_3913",
       "rank": 1196,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "yonghu_3913",
       "rank": 1196,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "yookwi",
