@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc023",
-  "fetched_at": "2025-12-17T15:31:09.463979+00:00",
+  "fetched_at": "2025-12-18T15:29:57.550752+00:00",
   "rows": [
     {
       "user": "sugim48",
@@ -515,12 +515,12 @@
     {
       "user": "catoon",
       "rank": 103,
-      "contest_rank": 75
+      "contest_rank": null
     },
     {
       "user": "catoon",
       "rank": 103,
-      "contest_rank": null
+      "contest_rank": 75
     },
     {
       "user": "tanakamidnight",
@@ -1315,12 +1315,12 @@
     {
       "user": "melo25",
       "rank": 263,
-      "contest_rank": null
+      "contest_rank": 222
     },
     {
       "user": "melo25",
       "rank": 263,
-      "contest_rank": 222
+      "contest_rank": null
     },
     {
       "user": "Jinapetto",
@@ -9190,12 +9190,12 @@
     {
       "user": "apth",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "apth",
       "rank": 908,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "aqn",
@@ -10103,6 +10103,11 @@
       "contest_rank": null
     },
     {
+      "user": "frameghostman",
+      "rank": 908,
+      "contest_rank": null
+    },
+    {
       "user": "funnyface",
       "rank": 908,
       "contest_rank": 800
@@ -11005,12 +11010,12 @@
     {
       "user": "kashyapkompella",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "kashyapkompella",
       "rank": 908,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "katalonecfly",
@@ -13735,12 +13740,12 @@
     {
       "user": "klu_2200050025",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "klu_2200050025",
       "rank": 908,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "klu_2200080121",
@@ -14285,12 +14290,12 @@
     {
       "user": "mahiro_atc",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "mahiro_atc",
       "rank": 908,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "makibishi0212",
@@ -16150,12 +16155,12 @@
     {
       "user": "sinchan819",
       "rank": 908,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "sinchan819",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "singleslit",
