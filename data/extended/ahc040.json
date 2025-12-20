@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc040",
-  "fetched_at": "2025-12-19T15:31:24.390200+00:00",
+  "fetched_at": "2025-12-20T15:26:39.127532+00:00",
   "rows": [
     {
       "user": "Shun_PI",
@@ -2190,12 +2190,12 @@
     {
       "user": "rui_er",
       "rank": 438,
-      "contest_rank": null
+      "contest_rank": 394
     },
     {
       "user": "rui_er",
       "rank": 438,
-      "contest_rank": 394
+      "contest_rank": null
     },
     {
       "user": "bird01",
@@ -4285,12 +4285,12 @@
     {
       "user": "ADCaMilk",
       "rank": 856,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "ADCaMilk",
       "rank": 856,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "ASHUN",
@@ -5280,12 +5280,12 @@
     {
       "user": "zhaomuxi2024",
       "rank": 856,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "zhaomuxi2024",
       "rank": 856,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "zhaosang",
@@ -12178,11 +12178,6 @@
       "contest_rank": 1087
     },
     {
-      "user": "kasiwamoti",
-      "rank": 1212,
-      "contest_rank": 1087
-    },
-    {
       "user": "katalonecfly",
       "rank": 1212,
       "contest_rank": 1087
@@ -12339,6 +12334,11 @@
     },
     {
       "user": "kmori_",
+      "rank": 1212,
+      "contest_rank": 1087
+    },
+    {
+      "user": "ko_tarou",
       "rank": 1212,
       "contest_rank": 1087
     },
@@ -12528,11 +12528,6 @@
       "contest_rank": 1087
     },
     {
-      "user": "lapu",
-      "rank": 1212,
-      "contest_rank": 1087
-    },
-    {
       "user": "lastboy_pc",
       "rank": 1212,
       "contest_rank": 1087
@@ -12620,12 +12615,12 @@
     {
       "user": "linjy",
       "rank": 1212,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "linjy",
       "rank": 1212,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "littlegirl112",
@@ -12640,12 +12635,12 @@
     {
       "user": "liuenci",
       "rank": 1212,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "liuenci",
       "rank": 1212,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "liumonong3",
@@ -16194,6 +16189,11 @@
     },
     {
       "user": "yonghwa",
+      "rank": 1212,
+      "contest_rank": 1087
+    },
+    {
+      "user": "yoqu",
       "rank": 1212,
       "contest_rank": 1087
     },

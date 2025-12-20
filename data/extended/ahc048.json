@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2025-12-19T15:32:11.644539+00:00",
+  "fetched_at": "2025-12-20T15:27:27.732598+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -1910,12 +1910,12 @@
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": null
+      "contest_rank": 393
     },
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": 393
+      "contest_rank": null
     },
     {
       "user": "watamatsu",
@@ -2695,12 +2695,12 @@
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "rinrion",
@@ -5300,12 +5300,12 @@
     {
       "user": "sukesann",
       "rank": 1060,
-      "contest_rank": null
+      "contest_rank": 1004
     },
     {
       "user": "sukesann",
       "rank": 1060,
-      "contest_rank": 1004
+      "contest_rank": null
     },
     {
       "user": "Taroooooooooooo",
@@ -5330,12 +5330,12 @@
     {
       "user": "Clare613",
       "rank": 1064,
-      "contest_rank": 1007
+      "contest_rank": null
     },
     {
       "user": "Clare613",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 1007
     },
     {
       "user": "GoneWhisper",
@@ -6693,6 +6693,11 @@
       "contest_rank": 1107
     },
     {
+      "user": "Dango_Sparrow",
+      "rank": 1184,
+      "contest_rank": 1107
+    },
+    {
       "user": "Darth_Lonewolf",
       "rank": 1184,
       "contest_rank": 1107
@@ -7824,11 +7829,6 @@
     },
     {
       "user": "Lirius",
-      "rank": 1184,
-      "contest_rank": 1107
-    },
-    {
-      "user": "Liyanxi1028",
       "rank": 1184,
       "contest_rank": 1107
     },
@@ -13173,11 +13173,6 @@
       "contest_rank": 1107
     },
     {
-      "user": "lapu",
-      "rank": 1184,
-      "contest_rank": 1107
-    },
-    {
       "user": "latte0119",
       "rank": 1184,
       "contest_rank": 1107
@@ -17419,6 +17414,11 @@
     },
     {
       "user": "yonezuosi",
+      "rank": 1184,
+      "contest_rank": 1107
+    },
+    {
+      "user": "yoqu",
       "rank": 1184,
       "contest_rank": 1107
     },

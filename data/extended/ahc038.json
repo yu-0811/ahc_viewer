@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2025-12-19T15:31:13.329995+00:00",
+  "fetched_at": "2025-12-20T15:26:26.667235+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -425,12 +425,12 @@
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": 57
+      "contest_rank": null
     },
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": null
+      "contest_rank": 57
     },
     {
       "user": "Nekomimimi",
@@ -895,12 +895,12 @@
     {
       "user": "erbowl",
       "rank": 179,
-      "contest_rank": 134
+      "contest_rank": null
     },
     {
       "user": "erbowl",
       "rank": 179,
-      "contest_rank": null
+      "contest_rank": 134
     },
     {
       "user": "galaxydiver31241",
@@ -15413,11 +15413,6 @@
       "contest_rank": 1005
     },
     {
-      "user": "lapu",
-      "rank": 1127,
-      "contest_rank": 1005
-    },
-    {
       "user": "larry_yan",
       "rank": 1127,
       "contest_rank": 1005
@@ -16950,12 +16945,12 @@
     {
       "user": "orugantimanikan1",
       "rank": 1127,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "orugantimanikan1",
       "rank": 1127,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "otabek_goziyev",
@@ -20684,6 +20679,11 @@
     },
     {
       "user": "yonyroyer",
+      "rank": 1127,
+      "contest_rank": 1005
+    },
+    {
+      "user": "yoqu",
       "rank": 1127,
       "contest_rank": 1005
     },

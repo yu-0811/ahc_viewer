@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2025-12-19T15:31:42.095226+00:00",
+  "fetched_at": "2025-12-20T15:26:57.214500+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -2880,12 +2880,12 @@
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": 514
+      "contest_rank": null
     },
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": null
+      "contest_rank": 514
     },
     {
       "user": "yoshibo",
@@ -4300,12 +4300,12 @@
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 771
     },
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": 771
+      "contest_rank": null
     },
     {
       "user": "nrO728",
@@ -5000,12 +5000,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChrysanthBlossom",
@@ -5923,11 +5923,6 @@
       "contest_rank": 886
     },
     {
-      "user": "lapu",
-      "rank": 990,
-      "contest_rank": 886
-    },
-    {
       "user": "limolin123",
       "rank": 990,
       "contest_rank": 886
@@ -6245,12 +6240,12 @@
     {
       "user": "sosuu13",
       "rank": 990,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "sosuu13",
       "rank": 990,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "sota4869",
@@ -6436,6 +6431,11 @@
       "user": "yoniha",
       "rank": 990,
       "contest_rank": 1180
+    },
+    {
+      "user": "yoqu",
+      "rank": 990,
+      "contest_rank": 886
     },
     {
       "user": "yoshidadada",
@@ -7340,12 +7340,12 @@
     {
       "user": "fmhr",
       "rank": 1468,
-      "contest_rank": 1321
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 1468,
-      "contest_rank": null
+      "contest_rank": 1321
     },
     {
       "user": "harumoto",
