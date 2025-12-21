@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc037",
-  "fetched_at": "2025-12-20T15:26:21.064210+00:00",
+  "fetched_at": "2025-12-21T15:26:13.264625+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -325,12 +325,12 @@
     {
       "user": "ymatsux",
       "rank": 64,
-      "contest_rank": 20
+      "contest_rank": null
     },
     {
       "user": "ymatsux",
       "rank": 64,
-      "contest_rank": null
+      "contest_rank": 20
     },
     {
       "user": "aotyam",
@@ -2790,12 +2790,12 @@
     {
       "user": "y_azama",
       "rank": 558,
-      "contest_rank": null
+      "contest_rank": 329
     },
     {
       "user": "y_azama",
       "rank": 558,
-      "contest_rank": 329
+      "contest_rank": null
     },
     {
       "user": "chubby_hamster",
@@ -5085,12 +5085,12 @@
     {
       "user": "sorachandu",
       "rank": 915,
-      "contest_rank": 600
+      "contest_rank": null
     },
     {
       "user": "sorachandu",
       "rank": 915,
-      "contest_rank": null
+      "contest_rank": 600
     },
     {
       "user": "sty7891",
@@ -5210,12 +5210,12 @@
     {
       "user": "zhaoyingdong6",
       "rank": 915,
-      "contest_rank": 600
+      "contest_rank": null
     },
     {
       "user": "zhaoyingdong6",
       "rank": 915,
-      "contest_rank": null
+      "contest_rank": 600
     },
     {
       "user": "zssyt",
@@ -7360,12 +7360,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1387,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1387,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "Gaotianxiang",
@@ -7870,12 +7870,12 @@
     {
       "user": "RMiyazaki",
       "rank": 1387,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "RMiyazaki",
       "rank": 1387,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "ROCK_Y",
@@ -9910,12 +9910,12 @@
     {
       "user": "nope124",
       "rank": 1387,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "nope124",
       "rank": 1387,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "normie_007",
