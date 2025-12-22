@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc035",
-  "fetched_at": "2025-12-21T15:26:01.905678+00:00",
+  "fetched_at": "2025-12-22T15:30:38.935634+00:00",
   "rows": [
     {
       "user": "bird01",
@@ -4665,12 +4665,12 @@
     {
       "user": "kengou",
       "rank": 933,
-      "contest_rank": 631
+      "contest_rank": null
     },
     {
       "user": "kengou",
       "rank": 933,
-      "contest_rank": null
+      "contest_rank": 631
     },
     {
       "user": "solle",
