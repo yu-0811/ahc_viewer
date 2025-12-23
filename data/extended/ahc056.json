@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2025-12-22T15:32:48.117147+00:00",
+  "fetched_at": "2025-12-23T15:32:32.273036+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -2470,12 +2470,12 @@
     {
       "user": "sukesan_killer",
       "rank": 388,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "sukesan_killer",
       "rank": 388,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "tanakh",
@@ -4335,12 +4335,12 @@
     {
       "user": "watacco",
       "rank": 822,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watacco",
       "rank": 822,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watashiwatanuki",
@@ -8278,11 +8278,6 @@
       "contest_rank": 1065
     },
     {
-      "user": "UmBender",
-      "rank": 1127,
-      "contest_rank": 1065
-    },
-    {
       "user": "Ume_Hanami",
       "rank": 1127,
       "contest_rank": 1065
@@ -9139,6 +9134,11 @@
     },
     {
       "user": "ben_kenobi",
+      "rank": 1127,
+      "contest_rank": 1065
+    },
+    {
+      "user": "bender",
       "rank": 1127,
       "contest_rank": 1065
     },

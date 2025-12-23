@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2025-12-22T15:29:49.401532+00:00",
+  "fetched_at": "2025-12-23T15:29:42.298322+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -3115,12 +3115,12 @@
     {
       "user": "ynak79",
       "rank": 623,
-      "contest_rank": 539
+      "contest_rank": null
     },
     {
       "user": "ynak79",
       "rank": 623,
-      "contest_rank": null
+      "contest_rank": 539
     },
     {
       "user": "shihaka",
@@ -8205,12 +8205,12 @@
     {
       "user": "PCT2506",
       "rank": 1170,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCT2506",
       "rank": 1170,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCTprobability",
