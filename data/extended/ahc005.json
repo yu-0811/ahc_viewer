@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc005",
-  "fetched_at": "2025-12-24T15:26:52.051108+00:00",
+  "fetched_at": "2025-12-25T15:25:59.750185+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -12185,12 +12185,12 @@
     {
       "user": "tombo314",
       "rank": 910,
-      "contest_rank": 515
+      "contest_rank": null
     },
     {
       "user": "tombo314",
       "rank": 910,
-      "contest_rank": null
+      "contest_rank": 515
     },
     {
       "user": "tommy0614",
