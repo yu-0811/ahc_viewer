@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc036",
-  "fetched_at": "2025-12-25T15:28:53.101066+00:00",
+  "fetched_at": "2025-12-26T15:29:28.228336+00:00",
   "rows": [
     {
       "user": "VIP1109",
@@ -3150,12 +3150,12 @@
     {
       "user": "pwdr",
       "rank": 630,
-      "contest_rank": null
+      "contest_rank": 615
     },
     {
       "user": "pwdr",
       "rank": 630,
-      "contest_rank": 615
+      "contest_rank": null
     },
     {
       "user": "Ryusei_S",
@@ -3530,12 +3530,12 @@
     {
       "user": "zhaomuxi2024",
       "rank": 706,
-      "contest_rank": null
+      "contest_rank": 651
     },
     {
       "user": "zhaomuxi2024",
       "rank": 706,
-      "contest_rank": 651
+      "contest_rank": null
     },
     {
       "user": "Pcarot",
@@ -4015,12 +4015,12 @@
     {
       "user": "HJZhao",
       "rank": 801,
-      "contest_rank": null
+      "contest_rank": 747
     },
     {
       "user": "HJZhao",
       "rank": 801,
-      "contest_rank": 747
+      "contest_rank": null
     },
     {
       "user": "Licht_Wald",
@@ -4375,12 +4375,12 @@
     {
       "user": "CHD",
       "rank": 865,
-      "contest_rank": 809
+      "contest_rank": null
     },
     {
       "user": "CHD",
       "rank": 865,
-      "contest_rank": null
+      "contest_rank": 809
     },
     {
       "user": "Comavius",
@@ -4675,12 +4675,12 @@
     {
       "user": "cjh20090318",
       "rank": 865,
-      "contest_rank": null
+      "contest_rank": 809
     },
     {
       "user": "cjh20090318",
       "rank": 865,
-      "contest_rank": 809
+      "contest_rank": null
     },
     {
       "user": "cyan0515",
@@ -9480,12 +9480,12 @@
     {
       "user": "Wayne2",
       "rank": 1060,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "Wayne2",
       "rank": 1060,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "Werner",
@@ -9519,6 +9519,11 @@
     },
     {
       "user": "XenoDevil",
+      "rank": 1060,
+      "contest_rank": 997
+    },
+    {
+      "user": "XiangXunyi",
       "rank": 1060,
       "contest_rank": 997
     },
@@ -17489,11 +17494,6 @@
     },
     {
       "user": "wzsss2333",
-      "rank": 1060,
-      "contest_rank": 997
-    },
-    {
-      "user": "x2026001014",
       "rank": 1060,
       "contest_rank": 997
     },
