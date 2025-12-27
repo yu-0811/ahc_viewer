@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2025-12-26T15:29:39.850500+00:00",
+  "fetched_at": "2025-12-27T15:26:48.491007+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -425,12 +425,12 @@
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": 57
+      "contest_rank": null
     },
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": null
+      "contest_rank": 57
     },
     {
       "user": "Nekomimimi",
@@ -3650,12 +3650,12 @@
     {
       "user": "Capo",
       "rank": 730,
-      "contest_rank": null
+      "contest_rank": 636
     },
     {
       "user": "Capo",
       "rank": 730,
-      "contest_rank": 636
+      "contest_rank": null
     },
     {
       "user": "june193",
@@ -5660,12 +5660,12 @@
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "2024zzh",
@@ -10620,12 +10620,12 @@
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "Weslie_s",
@@ -13963,6 +13963,11 @@
       "contest_rank": 1005
     },
     {
+      "user": "hopeful",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
       "user": "hopemaquiavelo",
       "rank": 1128,
       "contest_rank": 1005
@@ -17038,11 +17043,6 @@
       "contest_rank": 1005
     },
     {
-      "user": "past116",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
       "user": "pastimeplays",
       "rank": 1128,
       "contest_rank": 1005
@@ -19795,12 +19795,12 @@
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "umashio_lettuce",

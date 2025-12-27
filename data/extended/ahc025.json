@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc025",
-  "fetched_at": "2025-12-26T15:28:23.144251+00:00",
+  "fetched_at": "2025-12-27T15:25:28.290621+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1905,12 +1905,12 @@
     {
       "user": "tetsuyatyamamoto",
       "rank": 381,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "tetsuyatyamamoto",
       "rank": 381,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "mekemeke_san",
@@ -3290,12 +3290,12 @@
     {
       "user": "rui_er",
       "rank": 658,
-      "contest_rank": null
+      "contest_rank": 581
     },
     {
       "user": "rui_er",
       "rank": 658,
-      "contest_rank": 581
+      "contest_rank": null
     },
     {
       "user": "t98slider",
@@ -6195,12 +6195,12 @@
     {
       "user": "Coder_Himel",
       "rank": 1010,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "Coder_Himel",
       "rank": 1010,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "ComesAndGoes",
@@ -11825,12 +11825,12 @@
     {
       "user": "cja1220",
       "rank": 1010,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "cja1220",
       "rank": 1010,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "ckxkexing",
@@ -19780,12 +19780,12 @@
     {
       "user": "ritsuepi",
       "rank": 1010,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "ritsuepi",
       "rank": 1010,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "rj_stony",
