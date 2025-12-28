@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc019",
-  "fetched_at": "2025-12-27T15:24:51.550553+00:00",
+  "fetched_at": "2025-12-28T15:25:38.095194+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -2535,12 +2535,12 @@
     {
       "user": "blueberry1001",
       "rank": 500,
-      "contest_rank": 454
+      "contest_rank": null
     },
     {
       "user": "blueberry1001",
       "rank": 500,
-      "contest_rank": null
+      "contest_rank": 454
     },
     {
       "user": "bocari",

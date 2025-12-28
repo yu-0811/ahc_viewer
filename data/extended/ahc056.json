@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2025-12-27T15:28:39.085092+00:00",
+  "fetched_at": "2025-12-28T15:29:15.242164+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -248,24 +248,24 @@
       "contest_rank": 39
     },
     {
-      "user": "kurakura",
+      "user": "small_koala",
       "rank": 50,
       "contest_rank": null
     },
     {
-      "user": "small_koala",
-      "rank": 51,
-      "contest_rank": null
-    },
-    {
       "user": "koshinM",
-      "rank": 52,
+      "rank": 51,
       "contest_rank": 46
     },
     {
       "user": "kaz49bz",
-      "rank": 53,
+      "rank": 52,
       "contest_rank": 43
+    },
+    {
+      "user": "kurakura",
+      "rank": 53,
+      "contest_rank": null
     },
     {
       "user": "gxy",
@@ -1380,12 +1380,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 276,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "TwoSquirrels",
       "rank": 276,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "EzukaFuya",
@@ -2615,12 +2615,12 @@
     {
       "user": "Dreamer0",
       "rank": 523,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "Dreamer0",
       "rank": 523,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "ntk_ta01",
@@ -4340,12 +4340,12 @@
     {
       "user": "watacco",
       "rank": 823,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watacco",
       "rank": 823,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watashiwatanuki",
@@ -6819,6 +6819,11 @@
     },
     {
       "user": "Jsion_Z",
+      "rank": 1129,
+      "contest_rank": 1065
+    },
+    {
+      "user": "Just_A_Sentence",
       "rank": 1129,
       "contest_rank": 1065
     },
@@ -13638,11 +13643,6 @@
       "contest_rank": 1065
     },
     {
-      "user": "xhy1013",
-      "rank": 1129,
-      "contest_rank": 1065
-    },
-    {
       "user": "xiaofu15191",
       "rank": 1129,
       "contest_rank": 1065
@@ -13670,12 +13670,12 @@
     {
       "user": "xiongch1GanFan",
       "rank": 1129,
-      "contest_rank": 1065
+      "contest_rank": null
     },
     {
       "user": "xiongch1GanFan",
       "rank": 1129,
-      "contest_rank": null
+      "contest_rank": 1065
     },
     {
       "user": "xiphi",

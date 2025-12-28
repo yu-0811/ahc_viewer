@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc033",
-  "fetched_at": "2025-12-27T15:26:18.656914+00:00",
+  "fetched_at": "2025-12-28T15:26:59.661915+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -2040,12 +2040,12 @@
     {
       "user": "rui_er",
       "rank": 408,
-      "contest_rank": 367
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 408,
-      "contest_rank": null
+      "contest_rank": 367
     },
     {
       "user": "peroon",
@@ -6480,12 +6480,12 @@
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CX0225",
@@ -7723,6 +7723,11 @@
       "contest_rank": 1046
     },
     {
+      "user": "Just_A_Sentence",
+      "rank": 1150,
+      "contest_rank": 1046
+    },
+    {
       "user": "Juswanth_T",
       "rank": 1150,
       "contest_rank": 1046
@@ -7975,12 +7980,12 @@
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "LCX7777777",
@@ -10100,12 +10105,12 @@
     {
       "user": "ThomasLee_",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "ThomasLee_",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "ThomasNO1",
@@ -19979,11 +19984,6 @@
     },
     {
       "user": "xhsmy_Q",
-      "rank": 1150,
-      "contest_rank": 1046
-    },
-    {
-      "user": "xhy1013",
       "rank": 1150,
       "contest_rank": 1046
     },

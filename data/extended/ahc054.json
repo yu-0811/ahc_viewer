@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2025-12-27T15:28:27.453941+00:00",
+  "fetched_at": "2025-12-28T15:29:02.931118+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -6000,12 +6000,12 @@
     {
       "user": "watacco",
       "rank": 1200,
-      "contest_rank": null
+      "contest_rank": 1119
     },
     {
       "user": "watacco",
       "rank": 1200,
-      "contest_rank": 1119
+      "contest_rank": null
     },
     {
       "user": "blackpanther7",
@@ -8889,11 +8889,6 @@
     },
     {
       "user": "VereOm",
-      "rank": 1207,
-      "contest_rank": 1124
-    },
-    {
-      "user": "Vintage_Car",
       "rank": 1207,
       "contest_rank": 1124
     },
@@ -14109,6 +14104,11 @@
     },
     {
       "user": "yamada7777777",
+      "rank": 1207,
+      "contest_rank": 1124
+    },
+    {
+      "user": "yanggg1234",
       "rank": 1207,
       "contest_rank": 1124
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2025-12-27T15:27:51.824186+00:00",
+  "fetched_at": "2025-12-28T15:28:28.791059+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -2695,12 +2695,12 @@
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "rinrion",
@@ -5300,12 +5300,12 @@
     {
       "user": "sukesann",
       "rank": 1060,
-      "contest_rank": 1004
+      "contest_rank": null
     },
     {
       "user": "sukesann",
       "rank": 1060,
-      "contest_rank": null
+      "contest_rank": 1004
     },
     {
       "user": "Taroooooooooooo",
@@ -5330,12 +5330,12 @@
     {
       "user": "Clare613",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 1007
     },
     {
       "user": "Clare613",
       "rank": 1064,
-      "contest_rank": 1007
+      "contest_rank": null
     },
     {
       "user": "GoneWhisper",
@@ -9218,6 +9218,11 @@
       "contest_rank": 1107
     },
     {
+      "user": "TheSunrise",
+      "rank": 1184,
+      "contest_rank": 1107
+    },
+    {
       "user": "Thebai2357",
       "rank": 1184,
       "contest_rank": 1107
@@ -10330,12 +10335,12 @@
     {
       "user": "azumak",
       "rank": 1184,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "azumak",
       "rank": 1184,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "b_b_",
@@ -10499,11 +10504,6 @@
     },
     {
       "user": "blue_jam",
-      "rank": 1184,
-      "contest_rank": 1107
-    },
-    {
-      "user": "bnsczr",
       "rank": 1184,
       "contest_rank": 1107
     },
@@ -12520,12 +12520,12 @@
     {
       "user": "joshuaChoi",
       "rank": 1184,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "joshuaChoi",
       "rank": 1184,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "joylintp",
