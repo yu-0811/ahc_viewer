@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2025-12-28T15:27:56.931629+00:00",
+  "fetched_at": "2025-12-29T15:31:55.924762+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -845,12 +845,12 @@
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -4300,12 +4300,12 @@
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 771
     },
     {
       "user": "linjy",
       "rank": 859,
-      "contest_rank": 771
+      "contest_rank": null
     },
     {
       "user": "nrO728",
@@ -5000,12 +5000,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChocoPoke143",
       "rank": 990,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChrysanthBlossom",

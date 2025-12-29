@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2025-12-28T15:26:30.687325+00:00",
+  "fetched_at": "2025-12-29T15:30:29.772401+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -2935,12 +2935,12 @@
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "westriver",
@@ -6030,12 +6030,12 @@
     {
       "user": "garutto",
       "rank": 1206,
-      "contest_rank": null
+      "contest_rank": 839
     },
     {
       "user": "garutto",
       "rank": 1206,
-      "contest_rank": 839
+      "contest_rank": null
     },
     {
       "user": "kinn",
@@ -6253,11 +6253,6 @@
       "contest_rank": null
     },
     {
-      "user": "KyIuMsUuRkAe",
-      "rank": 1247,
-      "contest_rank": 872
-    },
-    {
       "user": "L3_035966",
       "rank": 1247,
       "contest_rank": null
@@ -6449,6 +6444,11 @@
     },
     {
       "user": "nrO728",
+      "rank": 1247,
+      "contest_rank": 872
+    },
+    {
+      "user": "rebuildup",
       "rank": 1247,
       "contest_rank": 872
     },
@@ -7285,12 +7285,12 @@
     {
       "user": "KKT89",
       "rank": 1305,
-      "contest_rank": null
+      "contest_rank": 894
     },
     {
       "user": "KKT89",
       "rank": 1305,
-      "contest_rank": 894
+      "contest_rank": null
     },
     {
       "user": "KL2200030537",
