@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2025-12-29T15:33:11.791932+00:00",
+  "fetched_at": "2025-12-30T15:32:42.562348+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -173,99 +173,99 @@
       "contest_rank": 31
     },
     {
-      "user": "Levixi",
+      "user": "kurakura",
       "rank": 35,
+      "contest_rank": null
+    },
+    {
+      "user": "Levixi",
+      "rank": 36,
       "contest_rank": 33
     },
     {
       "user": "twins_fuyu",
-      "rank": 36,
+      "rank": 37,
       "contest_rank": 32
     },
     {
       "user": "small_koala",
-      "rank": 37,
+      "rank": 38,
       "contest_rank": 34
     },
     {
       "user": "newsname",
-      "rank": 38,
-      "contest_rank": null
-    },
-    {
-      "user": "strawberry0929",
       "rank": 39,
       "contest_rank": null
     },
     {
       "user": "strawberry0929",
       "rank": 40,
+      "contest_rank": null
+    },
+    {
+      "user": "strawberry0929",
+      "rank": 41,
       "contest_rank": 35
     },
     {
       "user": "risujiroh",
-      "rank": 41,
+      "rank": 42,
       "contest_rank": 36
     },
     {
       "user": "bird01",
-      "rank": 42,
+      "rank": 43,
       "contest_rank": 38
     },
     {
       "user": "breso",
-      "rank": 43,
+      "rank": 44,
       "contest_rank": 37
     },
     {
       "user": "cri",
-      "rank": 44,
+      "rank": 45,
       "contest_rank": 40
     },
     {
       "user": "yochan",
-      "rank": 45,
+      "rank": 46,
       "contest_rank": 45
     },
     {
       "user": "HNN_8127",
-      "rank": 46,
+      "rank": 47,
       "contest_rank": 41
     },
     {
       "user": "hiro116s",
-      "rank": 47,
+      "rank": 48,
       "contest_rank": 42
     },
     {
       "user": "haihamabossu",
-      "rank": 48,
+      "rank": 49,
       "contest_rank": 44
     },
     {
       "user": "kencho",
-      "rank": 49,
+      "rank": 50,
       "contest_rank": 39
     },
     {
       "user": "small_koala",
-      "rank": 50,
+      "rank": 51,
       "contest_rank": null
     },
     {
       "user": "koshinM",
-      "rank": 51,
+      "rank": 52,
       "contest_rank": 46
     },
     {
       "user": "kaz49bz",
-      "rank": 52,
-      "contest_rank": 43
-    },
-    {
-      "user": "kurakura",
       "rank": 53,
-      "contest_rank": null
+      "contest_rank": 43
     },
     {
       "user": "gxy",
@@ -2615,12 +2615,12 @@
     {
       "user": "Dreamer0",
       "rank": 523,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "Dreamer0",
       "rank": 523,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "ntk_ta01",
