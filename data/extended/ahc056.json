@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2025-12-31T15:31:20.020682+00:00",
+  "fetched_at": "2026-01-01T15:31:29.135087+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -163,19 +163,19 @@
       "contest_rank": 29
     },
     {
-      "user": "KKT89",
+      "user": "kurakura",
       "rank": 33,
+      "contest_rank": null
+    },
+    {
+      "user": "KKT89",
+      "rank": 34,
       "contest_rank": 30
     },
     {
       "user": "G4NP0N",
-      "rank": 34,
-      "contest_rank": 31
-    },
-    {
-      "user": "kurakura",
       "rank": 35,
-      "contest_rank": null
+      "contest_rank": 31
     },
     {
       "user": "Levixi",
@@ -1380,12 +1380,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 276,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "TwoSquirrels",
       "rank": 276,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "EzukaFuya",
@@ -2475,12 +2475,12 @@
     {
       "user": "sukesan_killer",
       "rank": 389,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "sukesan_killer",
       "rank": 389,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "tanakh",
@@ -4340,12 +4340,12 @@
     {
       "user": "watacco",
       "rank": 823,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watacco",
       "rank": 823,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watashiwatanuki",
@@ -5568,7 +5568,7 @@
       "contest_rank": 1037
     },
     {
-      "user": "wyy2025",
+      "user": "wyyoutput",
       "rank": 1084,
       "contest_rank": 1037
     },
@@ -7689,6 +7689,11 @@
     },
     {
       "user": "Pro_C0der",
+      "rank": 1129,
+      "contest_rank": 1065
+    },
+    {
+      "user": "Pulsar33550336",
       "rank": 1129,
       "contest_rank": 1065
     },
@@ -13734,11 +13739,6 @@
     },
     {
       "user": "xyz600",
-      "rank": 1129,
-      "contest_rank": 1065
-    },
-    {
-      "user": "y15389097039",
       "rank": 1129,
       "contest_rank": 1065
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc029",
-  "fetched_at": "2025-12-31T15:28:39.335722+00:00",
+  "fetched_at": "2026-01-01T15:28:47.103622+00:00",
   "rows": [
     {
       "user": "starpentagon",
@@ -770,12 +770,12 @@
     {
       "user": "ZUkA_",
       "rank": 154,
-      "contest_rank": 114
+      "contest_rank": null
     },
     {
       "user": "ZUkA_",
       "rank": 154,
-      "contest_rank": null
+      "contest_rank": 114
     },
     {
       "user": "petit_sophia",
@@ -1935,12 +1935,12 @@
     {
       "user": "brthyyjp",
       "rank": 387,
-      "contest_rank": 317
+      "contest_rank": null
     },
     {
       "user": "brthyyjp",
       "rank": 387,
-      "contest_rank": null
+      "contest_rank": 317
     },
     {
       "user": "zakimyaa",
@@ -2510,12 +2510,12 @@
     {
       "user": "rui_er",
       "rank": 502,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 502,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "uminorosujin",
@@ -6619,6 +6619,11 @@
     },
     {
       "user": "STAG",
+      "rank": 904,
+      "contest_rank": 769
+    },
+    {
+      "user": "Safin17",
       "rank": 904,
       "contest_rank": 769
     },
@@ -11319,11 +11324,6 @@
     },
     {
       "user": "sadia2003",
-      "rank": 904,
-      "contest_rank": 769
-    },
-    {
-      "user": "safin17_8",
       "rank": 904,
       "contest_rank": 769
     },

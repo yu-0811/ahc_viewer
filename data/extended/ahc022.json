@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc022",
-  "fetched_at": "2025-12-31T15:27:57.347879+00:00",
+  "fetched_at": "2026-01-01T15:28:05.716366+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -4505,12 +4505,12 @@
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": null
+      "contest_rank": 793
     },
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": 793
+      "contest_rank": null
     },
     {
       "user": "AngrySadEight",
@@ -5525,12 +5525,12 @@
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": null
+      "contest_rank": 951
     },
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": 951
+      "contest_rank": null
     },
     {
       "user": "u_sho",
@@ -9125,12 +9125,12 @@
     {
       "user": "Syxqwq",
       "rank": 1157,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "Syxqwq",
       "rank": 1157,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "T0RA",
@@ -11803,11 +11803,6 @@
       "contest_rank": 992
     },
     {
-      "user": "hty999x",
-      "rank": 1157,
-      "contest_rank": 992
-    },
-    {
       "user": "hualian",
       "rank": 1157,
       "contest_rank": 992
@@ -13075,12 +13070,12 @@
     {
       "user": "klu_2200032057",
       "rank": 1157,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "klu_2200032057",
       "rank": 1157,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "klu_2200032532",
@@ -16650,12 +16645,12 @@
     {
       "user": "tsuku_shi",
       "rank": 1157,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "tsuku_shi",
       "rank": 1157,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "tsuuuru",
@@ -16759,6 +16754,11 @@
     },
     {
       "user": "uleenneelu",
+      "rank": 1157,
+      "contest_rank": 992
+    },
+    {
+      "user": "ultralytics",
       "rank": 1157,
       "contest_rank": 992
     },

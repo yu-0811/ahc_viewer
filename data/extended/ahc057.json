@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc057",
-  "fetched_at": "2025-12-31T15:31:26.091914+00:00",
+  "fetched_at": "2026-01-01T15:31:34.626027+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -8,27 +8,27 @@
       "contest_rank": null
     },
     {
-      "user": "yochan",
+      "user": "strawberry0929",
       "rank": 2,
       "contest_rank": null
     },
     {
-      "user": "PrussianBlue",
+      "user": "yochan",
       "rank": 3,
       "contest_rank": null
     },
     {
-      "user": "yochan",
+      "user": "PrussianBlue",
       "rank": 4,
+      "contest_rank": null
+    },
+    {
+      "user": "yochan",
+      "rank": 5,
       "contest_rank": 1
     },
     {
       "user": "Phenanthrene86",
-      "rank": 5,
-      "contest_rank": null
-    },
-    {
-      "user": "strawberry0929",
       "rank": 6,
       "contest_rank": null
     },
@@ -2490,12 +2490,12 @@
     {
       "user": "shin9",
       "rank": 498,
-      "contest_rank": 397
+      "contest_rank": null
     },
     {
       "user": "shin9",
       "rank": 498,
-      "contest_rank": null
+      "contest_rank": 397
     },
     {
       "user": "GUNURU_HEMANTH",
@@ -5475,12 +5475,12 @@
     {
       "user": "Shyamnath",
       "rank": 835,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "Shyamnath",
       "rank": 835,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "Siddiq4712",
@@ -8370,12 +8370,12 @@
     {
       "user": "yt142857",
       "rank": 835,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "yt142857",
       "rank": 835,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "yu23578",

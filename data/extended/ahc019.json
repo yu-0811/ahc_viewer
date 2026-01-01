@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc019",
-  "fetched_at": "2025-12-31T15:27:39.789933+00:00",
+  "fetched_at": "2026-01-01T15:27:47.886765+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -3580,12 +3580,12 @@
     {
       "user": "gojira_ku",
       "rank": 616,
-      "contest_rank": 561
+      "contest_rank": null
     },
     {
       "user": "gojira_ku",
       "rank": 616,
-      "contest_rank": null
+      "contest_rank": 561
     },
     {
       "user": "hari64",

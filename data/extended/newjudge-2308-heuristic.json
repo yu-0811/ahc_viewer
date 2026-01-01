@@ -1,6 +1,6 @@
 {
   "contest_id": "newjudge-2308-heuristic",
-  "fetched_at": "2025-12-31T15:32:10.488586+00:00",
+  "fetched_at": "2026-01-01T15:32:17.891868+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1080,12 +1080,12 @@
     {
       "user": "420801",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "420801",
       "rank": 216,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "AC2K",
@@ -1783,11 +1783,6 @@
       "contest_rank": 149
     },
     {
-      "user": "hty999x",
-      "rank": 216,
-      "contest_rank": 149
-    },
-    {
       "user": "ichyo",
       "rank": 216,
       "contest_rank": 149
@@ -2260,12 +2255,12 @@
     {
       "user": "r3yohei",
       "rank": 216,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "r3yohei",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "rAvenous",
@@ -2654,6 +2649,11 @@
     },
     {
       "user": "ueta",
+      "rank": 216,
+      "contest_rank": 149
+    },
+    {
+      "user": "ultralytics",
       "rank": 216,
       "contest_rank": 149
     },

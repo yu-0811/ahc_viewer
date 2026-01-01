@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2025-12-31T15:26:35.749431+00:00",
+  "fetched_at": "2026-01-01T15:26:43.975431+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -1483,52 +1483,52 @@
       "contest_rank": null
     },
     {
-      "user": "aonama",
+      "user": "guzi",
       "rank": 297,
+      "contest_rank": null
+    },
+    {
+      "user": "aonama",
+      "rank": 298,
       "contest_rank": 115
     },
     {
       "user": "Trineutron",
-      "rank": 298,
+      "rank": 299,
       "contest_rank": 116
     },
     {
       "user": "laczil",
-      "rank": 299,
-      "contest_rank": null
-    },
-    {
-      "user": "sapphire15",
       "rank": 300,
       "contest_rank": null
     },
     {
-      "user": "haruharuwild",
+      "user": "sapphire15",
       "rank": 301,
+      "contest_rank": null
+    },
+    {
+      "user": "haruharuwild",
+      "rank": 302,
       "contest_rank": 117
     },
     {
       "user": "pointN",
-      "rank": 302,
+      "rank": 303,
       "contest_rank": 118
     },
     {
       "user": "macle",
-      "rank": 303,
+      "rank": 304,
       "contest_rank": null
     },
     {
       "user": "kwrig",
-      "rank": 304,
+      "rank": 305,
       "contest_rank": 119
     },
     {
       "user": "kutengine",
-      "rank": 305,
-      "contest_rank": null
-    },
-    {
-      "user": "guzi",
       "rank": 306,
       "contest_rank": null
     },
@@ -7230,12 +7230,12 @@
     {
       "user": "maron8satun",
       "rank": 1035,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "maron8satun",
       "rank": 1035,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "mash2",
