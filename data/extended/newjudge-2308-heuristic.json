@@ -1,6 +1,6 @@
 {
   "contest_id": "newjudge-2308-heuristic",
-  "fetched_at": "2026-01-01T15:32:17.891868+00:00",
+  "fetched_at": "2026-01-02T15:33:05.515501+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -2255,12 +2255,12 @@
     {
       "user": "r3yohei",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "r3yohei",
       "rank": 216,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "rAvenous",

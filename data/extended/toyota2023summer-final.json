@@ -1,6 +1,6 @@
 {
   "contest_id": "toyota2023summer-final",
-  "fetched_at": "2026-01-01T15:32:23.240636+00:00",
+  "fetched_at": "2026-01-02T15:33:10.785843+00:00",
   "rows": [
     {
       "user": "saitodevel01",
@@ -760,12 +760,12 @@
     {
       "user": "pitP",
       "rank": 152,
-      "contest_rank": 100
+      "contest_rank": null
     },
     {
       "user": "pitP",
       "rank": 152,
-      "contest_rank": null
+      "contest_rank": 100
     },
     {
       "user": "milkcoffee",
