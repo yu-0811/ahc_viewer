@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc022",
-  "fetched_at": "2026-01-02T15:28:49.603568+00:00",
+  "fetched_at": "2026-01-03T15:25:53.480077+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -330,12 +330,12 @@
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": null
+      "contest_rank": 55
     },
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": 55
+      "contest_rank": null
     },
     {
       "user": "G4NP0N",
@@ -3525,12 +3525,12 @@
     {
       "user": "breakfast_curry",
       "rank": 705,
-      "contest_rank": null
+      "contest_rank": 657
     },
     {
       "user": "breakfast_curry",
       "rank": 705,
-      "contest_rank": 657
+      "contest_rank": null
     },
     {
       "user": "Skygood",
@@ -4505,12 +4505,12 @@
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": null
+      "contest_rank": 793
     },
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": 793
+      "contest_rank": null
     },
     {
       "user": "AngrySadEight",
@@ -5525,12 +5525,12 @@
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": null
+      "contest_rank": 951
     },
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": 951
+      "contest_rank": null
     },
     {
       "user": "u_sho",
@@ -6904,6 +6904,11 @@
     },
     {
       "user": "GlinTFraulein",
+      "rank": 1157,
+      "contest_rank": 992
+    },
+    {
+      "user": "Gojo_satoru_091",
       "rank": 1157,
       "contest_rank": 992
     },
@@ -9125,12 +9130,12 @@
     {
       "user": "Syxqwq",
       "rank": 1157,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "Syxqwq",
       "rank": 1157,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "T0RA",
@@ -13070,12 +13075,12 @@
     {
       "user": "klu_2200032057",
       "rank": 1157,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "klu_2200032057",
       "rank": 1157,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "klu_2200032532",
@@ -15559,11 +15564,6 @@
     },
     {
       "user": "saneatu4060",
-      "rank": 1157,
-      "contest_rank": 992
-    },
-    {
-      "user": "sapta8103",
       "rank": 1157,
       "contest_rank": 992
     },

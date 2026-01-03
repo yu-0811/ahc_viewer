@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc047",
-  "fetched_at": "2026-01-02T15:31:26.202606+00:00",
+  "fetched_at": "2026-01-03T15:28:21.868554+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -2485,12 +2485,12 @@
     {
       "user": "MNMNBK",
       "rank": 497,
-      "contest_rank": 310
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 497,
-      "contest_rank": null
+      "contest_rank": 310
     },
     {
       "user": "okudeottu",
@@ -6365,12 +6365,12 @@
     {
       "user": "yuyu0202",
       "rank": 1266,
-      "contest_rank": null
+      "contest_rank": 952
     },
     {
       "user": "yuyu0202",
       "rank": 1266,
-      "contest_rank": 952
+      "contest_rank": null
     },
     {
       "user": "taku001",

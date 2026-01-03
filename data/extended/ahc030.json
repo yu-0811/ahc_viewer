@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2026-01-02T15:29:39.692828+00:00",
+  "fetched_at": "2026-01-03T15:26:42.195123+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1175,12 +1175,12 @@
     {
       "user": "harmokey",
       "rank": 235,
-      "contest_rank": 158
+      "contest_rank": null
     },
     {
       "user": "harmokey",
       "rank": 235,
-      "contest_rank": null
+      "contest_rank": 158
     },
     {
       "user": "kokosei",
@@ -1575,12 +1575,12 @@
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": null
+      "contest_rank": 247
     },
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": 247
+      "contest_rank": null
     },
     {
       "user": "niuez",
@@ -5600,12 +5600,12 @@
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "ycZhou",
@@ -7324,6 +7324,11 @@
     },
     {
       "user": "Glalie",
+      "rank": 1196,
+      "contest_rank": 1037
+    },
+    {
+      "user": "Gojo_satoru_091",
       "rank": 1196,
       "contest_rank": 1037
     },
@@ -16493,11 +16498,6 @@
       "contest_rank": 1037
     },
     {
-      "user": "sapta8103",
-      "rank": 1196,
-      "contest_rank": 1037
-    },
-    {
       "user": "sarvesh_87",
       "rank": 1196,
       "contest_rank": 1037
@@ -18585,12 +18585,12 @@
     {
       "user": "yonghu_3913",
       "rank": 1196,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "yonghu_3913",
       "rank": 1196,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "yookwi",
