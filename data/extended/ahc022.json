@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc022",
-  "fetched_at": "2026-01-03T15:25:53.480077+00:00",
+  "fetched_at": "2026-01-04T15:25:52.332312+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3525,12 +3525,12 @@
     {
       "user": "breakfast_curry",
       "rank": 705,
-      "contest_rank": 657
+      "contest_rank": null
     },
     {
       "user": "breakfast_curry",
       "rank": 705,
-      "contest_rank": null
+      "contest_rank": 657
     },
     {
       "user": "Skygood",
@@ -3685,12 +3685,12 @@
     {
       "user": "rui_er",
       "rank": 737,
-      "contest_rank": null
+      "contest_rank": 634
     },
     {
       "user": "rui_er",
       "rank": 737,
-      "contest_rank": 634
+      "contest_rank": null
     },
     {
       "user": "Capo",
@@ -4505,12 +4505,12 @@
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": 793
+      "contest_rank": null
     },
     {
       "user": "2021lhyjz",
       "rank": 901,
-      "contest_rank": null
+      "contest_rank": 793
     },
     {
       "user": "AngrySadEight",
@@ -5525,12 +5525,12 @@
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": 951
+      "contest_rank": null
     },
     {
       "user": "ruru0",
       "rank": 1105,
-      "contest_rank": null
+      "contest_rank": 951
     },
     {
       "user": "u_sho",
@@ -8044,6 +8044,11 @@
     },
     {
       "user": "MoSooN",
+      "rank": 1157,
+      "contest_rank": 992
+    },
+    {
+      "user": "Moaimai",
       "rank": 1157,
       "contest_rank": 992
     },
@@ -14069,11 +14074,6 @@
     },
     {
       "user": "mmy",
-      "rank": 1157,
-      "contest_rank": 992
-    },
-    {
-      "user": "moaimai",
       "rank": 1157,
       "contest_rank": 992
     },

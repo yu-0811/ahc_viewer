@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc050",
-  "fetched_at": "2026-01-03T15:28:39.095811+00:00",
+  "fetched_at": "2026-01-04T15:28:47.460265+00:00",
   "rows": [
     {
       "user": "terry_u16",
@@ -2200,12 +2200,12 @@
     {
       "user": "a01sa01to",
       "rank": 440,
-      "contest_rank": 276
+      "contest_rank": null
     },
     {
       "user": "a01sa01to",
       "rank": 440,
-      "contest_rank": null
+      "contest_rank": 276
     },
     {
       "user": "mitsu0523",
@@ -2595,12 +2595,12 @@
     {
       "user": "c_y_y",
       "rank": 519,
-      "contest_rank": 339
+      "contest_rank": null
     },
     {
       "user": "c_y_y",
       "rank": 519,
-      "contest_rank": null
+      "contest_rank": 339
     },
     {
       "user": "Lemonmaru",
@@ -4235,12 +4235,12 @@
     {
       "user": "Ryu1028",
       "rank": 847,
-      "contest_rank": null
+      "contest_rank": 596
     },
     {
       "user": "Ryu1028",
       "rank": 847,
-      "contest_rank": 596
+      "contest_rank": null
     },
     {
       "user": "berry",
@@ -8855,12 +8855,12 @@
     {
       "user": "carre",
       "rank": 1474,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "carre",
       "rank": 1474,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "carryguo",
@@ -10160,12 +10160,12 @@
     {
       "user": "prince_bhaskar",
       "rank": 1474,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "prince_bhaskar",
       "rank": 1474,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "princeiitp",
