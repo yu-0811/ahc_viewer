@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc016",
-  "fetched_at": "2026-01-04T15:25:12.357389+00:00",
+  "fetched_at": "2026-01-05T15:30:36.109701+00:00",
   "rows": [
     {
       "user": "nagiss",
@@ -2805,12 +2805,12 @@
     {
       "user": "xsd",
       "rank": 561,
-      "contest_rank": 486
+      "contest_rank": null
     },
     {
       "user": "xsd",
       "rank": 561,
-      "contest_rank": null
+      "contest_rank": 486
     },
     {
       "user": "mekemeke_san",
@@ -8870,12 +8870,12 @@
     {
       "user": "hiiragi123",
       "rank": 1207,
-      "contest_rank": null
+      "contest_rank": 1047
     },
     {
       "user": "hiiragi123",
       "rank": 1207,
-      "contest_rank": 1047
+      "contest_rank": null
     },
     {
       "user": "hika3206",

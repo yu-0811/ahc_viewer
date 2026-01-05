@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2026-01-04T15:28:35.391602+00:00",
+  "fetched_at": "2026-01-05T15:33:49.403887+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -1910,12 +1910,12 @@
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": 393
+      "contest_rank": null
     },
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": null
+      "contest_rank": 393
     },
     {
       "user": "watamatsu",
@@ -2695,12 +2695,12 @@
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "yt142857",
       "rank": 539,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "rinrion",
@@ -10340,12 +10340,12 @@
     {
       "user": "azumak",
       "rank": 1184,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "azumak",
       "rank": 1184,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "b_b_",
@@ -12520,12 +12520,12 @@
     {
       "user": "joshuaChoi",
       "rank": 1184,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "joshuaChoi",
       "rank": 1184,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "joylintp",
@@ -13728,11 +13728,6 @@
       "contest_rank": 1107
     },
     {
-      "user": "midomato",
-      "rank": 1184,
-      "contest_rank": 1107
-    },
-    {
       "user": "mihirogi168",
       "rank": 1184,
       "contest_rank": 1107
@@ -14144,6 +14139,11 @@
     },
     {
       "user": "neodyim",
+      "rank": 1184,
+      "contest_rank": 1107
+    },
+    {
+      "user": "netsu123",
       "rank": 1184,
       "contest_rank": 1107
     },
