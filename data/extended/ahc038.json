@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-01-05T15:32:49.417406+00:00",
+  "fetched_at": "2026-01-06T15:32:03.740958+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "mekemeke_san",
@@ -900,12 +900,12 @@
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": 134
+      "contest_rank": null
     },
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": null
+      "contest_rank": 134
     },
     {
       "user": "galaxydiver31241",
@@ -2650,12 +2650,12 @@
     {
       "user": "mimirot",
       "rank": 530,
-      "contest_rank": 446
+      "contest_rank": null
     },
     {
       "user": "mimirot",
       "rank": 530,
-      "contest_rank": null
+      "contest_rank": 446
     },
     {
       "user": "yuanhaorana",
@@ -5660,12 +5660,12 @@
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "2024zzh",
@@ -7844,6 +7844,11 @@
     },
     {
       "user": "Kabocha13",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
+      "user": "Kaeru4",
       "rank": 1128,
       "contest_rank": 1005
     },
@@ -10620,12 +10625,12 @@
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "Weslie_s",
@@ -14643,11 +14648,6 @@
       "contest_rank": 1005
     },
     {
-      "user": "kaeru0227",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
       "user": "kaichisanada",
       "rank": 1128,
       "contest_rank": 1005
@@ -16960,12 +16960,12 @@
     {
       "user": "orugantimanikan1",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "orugantimanikan1",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "otabek_goziyev",

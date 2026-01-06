@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc002",
-  "fetched_at": "2026-01-05T15:29:36.155714+00:00",
+  "fetched_at": "2026-01-06T15:28:44.604269+00:00",
   "rows": [
     {
       "user": "C2028_wzc",
@@ -16235,12 +16235,12 @@
     {
       "user": "northclimb",
       "rank": 2011,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "northclimb",
       "rank": 2011,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "noshi91",
