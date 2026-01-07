@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2026-01-06T15:32:33.247697+00:00",
+  "fetched_at": "2026-01-07T15:34:43.084910+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -845,12 +845,12 @@
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "mkisic",
@@ -2880,12 +2880,12 @@
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": 514
+      "contest_rank": null
     },
     {
       "user": "gomaazarasi",
       "rank": 576,
-      "contest_rank": null
+      "contest_rank": 514
     },
     {
       "user": "yoshibo",
@@ -8543,11 +8543,6 @@
       "contest_rank": 1347
     },
     {
-      "user": "Hele8846",
-      "rank": 1488,
-      "contest_rank": 1347
-    },
-    {
       "user": "HenryLeungLS",
       "rank": 1488,
       "contest_rank": 1347
@@ -9884,6 +9879,11 @@
     },
     {
       "user": "Reflexive_Verbs",
+      "rank": 1488,
+      "contest_rank": 1347
+    },
+    {
+      "user": "Relativitycoder",
       "rank": 1488,
       "contest_rank": 1347
     },
@@ -12430,12 +12430,12 @@
     {
       "user": "enntotu",
       "rank": 1488,
-      "contest_rank": null
+      "contest_rank": 1347
     },
     {
       "user": "enntotu",
       "rank": 1488,
-      "contest_rank": 1347
+      "contest_rank": null
     },
     {
       "user": "enukyu",

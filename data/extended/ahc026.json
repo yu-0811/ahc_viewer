@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc026",
-  "fetched_at": "2026-01-06T15:30:51.150518+00:00",
+  "fetched_at": "2026-01-07T15:32:56.066866+00:00",
   "rows": [
     {
       "user": "hitonanode",
@@ -480,12 +480,12 @@
     {
       "user": "soto800",
       "rank": 96,
-      "contest_rank": null
+      "contest_rank": 30
     },
     {
       "user": "soto800",
       "rank": 96,
-      "contest_rank": 30
+      "contest_rank": null
     },
     {
       "user": "Shun_PI",
@@ -1780,12 +1780,12 @@
     {
       "user": "ark496",
       "rank": 355,
-      "contest_rank": null
+      "contest_rank": 216
     },
     {
       "user": "ark496",
       "rank": 355,
-      "contest_rank": 216
+      "contest_rank": null
     },
     {
       "user": "hattori0109",
@@ -6450,12 +6450,12 @@
     {
       "user": "Sakasu",
       "rank": 1050,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "Sakasu",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "Samiksha22",
@@ -6803,6 +6803,11 @@
       "contest_rank": 740
     },
     {
+      "user": "YangZhk",
+      "rank": 1050,
+      "contest_rank": 740
+    },
+    {
       "user": "YashrajK",
       "rank": 1050,
       "contest_rank": 740
@@ -6836,11 +6841,6 @@
       "user": "Yushin404",
       "rank": 1050,
       "contest_rank": null
-    },
-    {
-      "user": "Yzk_ABC",
-      "rank": 1050,
-      "contest_rank": 740
     },
     {
       "user": "Zenx",
@@ -7895,12 +7895,12 @@
     {
       "user": "jacl",
       "rank": 1050,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "jacl",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "jd_kdcgc",
@@ -8385,12 +8385,12 @@
     {
       "user": "liufenghe",
       "rank": 1050,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "liufenghe",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "liumonong2",
@@ -8400,12 +8400,12 @@
     {
       "user": "llssyj",
       "rank": 1050,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "llssyj",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "lly336699",
@@ -8555,12 +8555,12 @@
     {
       "user": "mckmckmck",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "mckmckmck",
       "rank": 1050,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "md_afique",

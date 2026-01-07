@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2026-01-06T15:31:16.562430+00:00",
+  "fetched_at": "2026-01-07T15:33:21.798192+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1575,12 +1575,12 @@
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": null
+      "contest_rank": 247
     },
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": 247
+      "contest_rank": null
     },
     {
       "user": "niuez",
@@ -4240,12 +4240,12 @@
     {
       "user": "BinomialSheep",
       "rank": 837,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "BinomialSheep",
       "rank": 837,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "Chenly",
@@ -4578,6 +4578,11 @@
       "contest_rank": 728
     },
     {
+      "user": "YangZhk",
+      "rank": 837,
+      "contest_rank": 728
+    },
+    {
       "user": "YosCiiCable",
       "rank": 837,
       "contest_rank": 728
@@ -4594,11 +4599,6 @@
     },
     {
       "user": "Yuuki1223",
-      "rank": 837,
-      "contest_rank": 728
-    },
-    {
-      "user": "Yzk_ABC",
       "rank": 837,
       "contest_rank": 728
     },
@@ -15490,12 +15490,12 @@
     {
       "user": "okayu123",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "okayu123",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "okeue",
@@ -17615,12 +17615,12 @@
     {
       "user": "tikuwa_",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "tikuwa_",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "tj8864",
@@ -18590,12 +18590,12 @@
     {
       "user": "yonghu_3913",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "yonghu_3913",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "yookwi",
