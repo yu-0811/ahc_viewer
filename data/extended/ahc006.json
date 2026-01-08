@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-01-07T15:31:06.992524+00:00",
+  "fetched_at": "2026-01-08T15:31:52.818682+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -7235,12 +7235,12 @@
     {
       "user": "maron8satun",
       "rank": 1036,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "maron8satun",
       "rank": 1036,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "mash2",

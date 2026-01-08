@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc051",
-  "fetched_at": "2026-01-07T15:35:34.698851+00:00",
+  "fetched_at": "2026-01-08T15:36:18.225126+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1665,12 +1665,12 @@
     {
       "user": "nnh915",
       "rank": 333,
-      "contest_rank": 286
+      "contest_rank": null
     },
     {
       "user": "nnh915",
       "rank": 333,
-      "contest_rank": null
+      "contest_rank": 286
     },
     {
       "user": "Nauclhlt",
@@ -5390,12 +5390,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1008,
-      "contest_rank": 945
+      "contest_rank": null
     },
     {
       "user": "ymym_tymblack",
       "rank": 1008,
-      "contest_rank": null
+      "contest_rank": 945
     },
     {
       "user": "yoniha",
@@ -9140,12 +9140,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1166,
-      "contest_rank": null
+      "contest_rank": 1103
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1166,
-      "contest_rank": 1103
+      "contest_rank": null
     },
     {
       "user": "SIAM809",
