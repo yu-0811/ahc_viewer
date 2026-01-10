@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc051",
-  "fetched_at": "2026-01-09T15:34:04.124433+00:00",
+  "fetched_at": "2026-01-10T15:29:03.407016+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1625,12 +1625,12 @@
     {
       "user": "liguanchang",
       "rank": 325,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "liguanchang",
       "rank": 325,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "ShunkiKyoya",
@@ -1665,12 +1665,12 @@
     {
       "user": "nnh915",
       "rank": 333,
-      "contest_rank": null
+      "contest_rank": 286
     },
     {
       "user": "nnh915",
       "rank": 333,
-      "contest_rank": 286
+      "contest_rank": null
     },
     {
       "user": "Nauclhlt",
@@ -4395,12 +4395,12 @@
     {
       "user": "mono_1729",
       "rank": 720,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "mono_1729",
       "rank": 720,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "mrunatarwatkar01",
@@ -5395,12 +5395,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1009,
-      "contest_rank": 945
+      "contest_rank": null
     },
     {
       "user": "ymym_tymblack",
       "rank": 1009,
-      "contest_rank": null
+      "contest_rank": 945
     },
     {
       "user": "yoniha",
@@ -12173,6 +12173,11 @@
       "contest_rank": 1103
     },
     {
+      "user": "greyninja",
+      "rank": 1167,
+      "contest_rank": 1103
+    },
+    {
       "user": "gruihes",
       "rank": 1167,
       "contest_rank": 1103
@@ -13635,12 +13640,12 @@
     {
       "user": "libellula1903",
       "rank": 1167,
-      "contest_rank": 1103
+      "contest_rank": null
     },
     {
       "user": "libellula1903",
       "rank": 1167,
-      "contest_rank": null
+      "contest_rank": 1103
     },
     {
       "user": "liboyan",
@@ -17394,11 +17399,6 @@
     },
     {
       "user": "wisteriahuman",
-      "rank": 1167,
-      "contest_rank": 1103
-    },
-    {
-      "user": "wizard_ninja",
       "rank": 1167,
       "contest_rank": 1103
     },

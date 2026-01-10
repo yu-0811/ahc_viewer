@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc047",
-  "fetched_at": "2026-01-09T15:33:39.328716+00:00",
+  "fetched_at": "2026-01-10T15:28:40.407973+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -2490,12 +2490,12 @@
     {
       "user": "MNMNBK",
       "rank": 498,
-      "contest_rank": 310
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 498,
-      "contest_rank": null
+      "contest_rank": 310
     },
     {
       "user": "okudeottu",
@@ -3305,12 +3305,12 @@
     {
       "user": "riu0415",
       "rank": 661,
-      "contest_rank": 445
+      "contest_rank": null
     },
     {
       "user": "riu0415",
       "rank": 661,
-      "contest_rank": null
+      "contest_rank": 445
     },
     {
       "user": "shiren157",
@@ -4740,12 +4740,12 @@
     {
       "user": "kotakun2724",
       "rank": 910,
-      "contest_rank": 659
+      "contest_rank": null
     },
     {
       "user": "kotakun2724",
       "rank": 910,
-      "contest_rank": null
+      "contest_rank": 659
     },
     {
       "user": "leoborui",
@@ -6735,12 +6735,12 @@
     {
       "user": "gojira_ku",
       "rank": 1334,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "gojira_ku",
       "rank": 1334,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "guu614",
@@ -7034,11 +7034,6 @@
     },
     {
       "user": "Ashutosh_Singh",
-      "rank": 1365,
-      "contest_rank": 1030
-    },
-    {
-      "user": "Atif12",
       "rank": 1365,
       "contest_rank": 1030
     },
@@ -7793,6 +7788,11 @@
       "contest_rank": 1030
     },
     {
+      "user": "M_41_M",
+      "rank": 1365,
+      "contest_rank": 1030
+    },
+    {
       "user": "Maddy_1624",
       "rank": 1365,
       "contest_rank": 1030
@@ -8043,6 +8043,11 @@
       "contest_rank": 1030
     },
     {
+      "user": "Qn_14",
+      "rank": 1365,
+      "contest_rank": 1030
+    },
+    {
       "user": "RaVi0395",
       "rank": 1365,
       "contest_rank": 1030
@@ -8074,11 +8079,6 @@
     },
     {
       "user": "Renxilei",
-      "rank": 1365,
-      "contest_rank": 1030
-    },
-    {
-      "user": "Ritsham007",
       "rank": 1365,
       "contest_rank": 1030
     },
@@ -11600,12 +11600,12 @@
     {
       "user": "zs_swanz",
       "rank": 1365,
-      "contest_rank": null
+      "contest_rank": 1030
     },
     {
       "user": "zs_swanz",
       "rank": 1365,
-      "contest_rank": 1030
+      "contest_rank": null
     },
     {
       "user": "ztjxyzxyz882",

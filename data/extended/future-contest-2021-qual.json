@@ -1,6 +1,6 @@
 {
   "contest_id": "future-contest-2021-qual",
-  "fetched_at": "2026-01-09T15:34:59.622225+00:00",
+  "fetched_at": "2026-01-10T15:30:07.588864+00:00",
   "rows": [
     {
       "user": "Aquarius",
@@ -5885,12 +5885,12 @@
     {
       "user": "Kude",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "Kude",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "Lafolia",
@@ -6140,12 +6140,12 @@
     {
       "user": "Pugmon",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "Pugmon",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "QuantMath",
@@ -6648,6 +6648,11 @@
       "contest_rank": null
     },
     {
+      "user": "cyrel",
+      "rank": 1121,
+      "contest_rank": null
+    },
+    {
       "user": "daibottan",
       "rank": 1121,
       "contest_rank": 804
@@ -6936,11 +6941,6 @@
       "user": "hayaki",
       "rank": 1121,
       "contest_rank": 804
-    },
-    {
-      "user": "hbdcsd_qaq",
-      "rank": 1121,
-      "contest_rank": null
     },
     {
       "user": "hedwig",
@@ -7620,12 +7620,12 @@
     {
       "user": "mdk_51",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "mdk_51",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "mec2",
@@ -7655,12 +7655,12 @@
     {
       "user": "milkcoffee",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "milkcoffee",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "minato9212",
@@ -7865,12 +7865,12 @@
     {
       "user": "nesya",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "nesya",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "neutrox17",
@@ -8340,12 +8340,12 @@
     {
       "user": "shobonvip",
       "rank": 1121,
-      "contest_rank": null
+      "contest_rank": 804
     },
     {
       "user": "shobonvip",
       "rank": 1121,
-      "contest_rank": 804
+      "contest_rank": null
     },
     {
       "user": "shoichi",
