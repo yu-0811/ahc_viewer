@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2026-01-10T15:26:42.308276+00:00",
+  "fetched_at": "2026-01-11T15:26:44.633646+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -2935,12 +2935,12 @@
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "westriver",
@@ -3255,12 +3255,12 @@
     {
       "user": "porkleoi",
       "rank": 651,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "porkleoi",
       "rank": 651,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "Bondo416",
@@ -6030,12 +6030,12 @@
     {
       "user": "garutto",
       "rank": 1206,
-      "contest_rank": 839
+      "contest_rank": null
     },
     {
       "user": "garutto",
       "rank": 1206,
-      "contest_rank": null
+      "contest_rank": 839
     },
     {
       "user": "kinn",
@@ -7285,12 +7285,12 @@
     {
       "user": "KKT89",
       "rank": 1305,
-      "contest_rank": null
+      "contest_rank": 894
     },
     {
       "user": "KKT89",
       "rank": 1305,
-      "contest_rank": 894
+      "contest_rank": null
     },
     {
       "user": "KL2200030537",
@@ -9143,6 +9143,11 @@
       "contest_rank": 894
     },
     {
+      "user": "harukaat",
+      "rank": 1305,
+      "contest_rank": 894
+    },
+    {
       "user": "hasegawa1",
       "rank": 1305,
       "contest_rank": 894
@@ -10094,11 +10099,6 @@
     },
     {
       "user": "nag_99",
-      "rank": 1305,
-      "contest_rank": 894
-    },
-    {
-      "user": "nakayosikoyoshi",
       "rank": 1305,
       "contest_rank": 894
     },
