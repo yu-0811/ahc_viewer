@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc042",
-  "fetched_at": "2026-01-11T15:28:04.281204+00:00",
+  "fetched_at": "2026-01-12T15:34:52.988894+00:00",
   "rows": [
     {
       "user": "syndrome",
@@ -3030,12 +3030,12 @@
     {
       "user": "nanae",
       "rank": 606,
-      "contest_rank": 401
+      "contest_rank": null
     },
     {
       "user": "nanae",
       "rank": 606,
-      "contest_rank": null
+      "contest_rank": 401
     },
     {
       "user": "katsuta",
@@ -9575,12 +9575,12 @@
     {
       "user": "kanra824",
       "rank": 1371,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "kanra824",
       "rank": 1371,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "karinohito",
@@ -11350,12 +11350,12 @@
     {
       "user": "yorksyo",
       "rank": 1371,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "yorksyo",
       "rank": 1371,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "yoshin",
