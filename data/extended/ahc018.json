@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc018",
-  "fetched_at": "2026-01-12T15:32:27.523402+00:00",
+  "fetched_at": "2026-01-13T15:32:27.052451+00:00",
   "rows": [
     {
       "user": "Psyho",
@@ -2835,12 +2835,12 @@
     {
       "user": "yukihira_pot",
       "rank": 567,
-      "contest_rank": 516
+      "contest_rank": null
     },
     {
       "user": "yukihira_pot",
       "rank": 567,
-      "contest_rank": null
+      "contest_rank": 516
     },
     {
       "user": "math",
@@ -5405,12 +5405,12 @@
     {
       "user": "deuteridayo",
       "rank": 1081,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "deuteridayo",
       "rank": 1081,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "UMRgurashi",
@@ -12080,12 +12080,12 @@
     {
       "user": "shiir_a",
       "rank": 1146,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "shiir_a",
       "rank": 1146,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "shimasima2",
