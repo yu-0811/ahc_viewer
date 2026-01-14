@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc010",
-  "fetched_at": "2026-01-13T15:31:47.029501+00:00",
+  "fetched_at": "2026-01-14T15:31:33.450398+00:00",
   "rows": [
     {
       "user": "imucoding",
@@ -6350,12 +6350,12 @@
     {
       "user": "colun",
       "rank": 957,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "colun",
       "rank": 957,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "confluence",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc044",
-  "fetched_at": "2026-01-13T15:34:52.646069+00:00",
+  "fetched_at": "2026-01-14T15:34:57.598830+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1210,12 +1210,12 @@
     {
       "user": "tardigrade",
       "rank": 242,
-      "contest_rank": 101
+      "contest_rank": null
     },
     {
       "user": "tardigrade",
       "rank": 242,
-      "contest_rank": null
+      "contest_rank": 101
     },
     {
       "user": "coint",
@@ -5745,12 +5745,12 @@
     {
       "user": "batapi0311",
       "rank": 1149,
-      "contest_rank": null
+      "contest_rank": 785
     },
     {
       "user": "batapi0311",
       "rank": 1149,
-      "contest_rank": 785
+      "contest_rank": null
     },
     {
       "user": "Anago_pie",
@@ -10185,12 +10185,12 @@
     {
       "user": "lzhnj2013",
       "rank": 1455,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "lzhnj2013",
       "rank": 1455,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "machinchin",
