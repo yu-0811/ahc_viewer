@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2026-01-15T15:33:43.343941+00:00",
+  "fetched_at": "2026-01-16T15:31:29.849146+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -2935,12 +2935,12 @@
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "pitP",
       "rank": 587,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "westriver",
@@ -6485,12 +6485,12 @@
     {
       "user": "t9unkubj",
       "rank": 1247,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "t9unkubj",
       "rank": 1247,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "tbdsh",

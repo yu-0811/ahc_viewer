@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc058",
-  "fetched_at": "2026-01-15T15:36:47.648670+00:00",
+  "fetched_at": "2026-01-16T15:34:31.480017+00:00",
   "rows": [
     {
       "user": "zhy123",
@@ -78,47 +78,47 @@
       "contest_rank": null
     },
     {
-      "user": "asi1024",
+      "user": "merty",
       "rank": 16,
+      "contest_rank": null
+    },
+    {
+      "user": "asi1024",
+      "rank": 17,
       "contest_rank": 3
     },
     {
       "user": "nikaj",
-      "rank": 17,
-      "contest_rank": null
-    },
-    {
-      "user": "dn6049949",
       "rank": 18,
       "contest_rank": null
     },
     {
-      "user": "tishii24",
+      "user": "dn6049949",
       "rank": 19,
       "contest_rank": null
     },
     {
-      "user": "Jinapetto",
+      "user": "tishii24",
       "rank": 20,
       "contest_rank": null
     },
     {
-      "user": "takumi152",
+      "user": "Jinapetto",
       "rank": 21,
+      "contest_rank": null
+    },
+    {
+      "user": "takumi152",
+      "rank": 22,
       "contest_rank": 4
     },
     {
       "user": "itigo",
-      "rank": 22,
-      "contest_rank": null
-    },
-    {
-      "user": "Illedan",
       "rank": 23,
       "contest_rank": null
     },
     {
-      "user": "merty",
+      "user": "Illedan",
       "rank": 24,
       "contest_rank": null
     },
