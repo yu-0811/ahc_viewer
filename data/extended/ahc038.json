@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-01-16T15:32:30.426596+00:00",
+  "fetched_at": "2026-01-17T15:27:36.815157+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "mekemeke_san",
@@ -425,12 +425,12 @@
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": null
+      "contest_rank": 57
     },
     {
       "user": "ymatsux",
       "rank": 85,
-      "contest_rank": 57
+      "contest_rank": null
     },
     {
       "user": "Nekomimimi",
@@ -5053,17 +5053,17 @@
       "contest_rank": 756
     },
     {
-      "user": "pengyutaozaolong",
-      "rank": 849,
-      "contest_rank": 756
-    },
-    {
       "user": "prd_xxx",
       "rank": 849,
       "contest_rank": 756
     },
     {
       "user": "qbf",
+      "rank": 849,
+      "contest_rank": 756
+    },
+    {
+      "user": "qwq_pyt",
       "rank": 849,
       "contest_rank": 756
     },
@@ -5660,12 +5660,12 @@
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "2024zzh",
@@ -13328,11 +13328,6 @@
       "contest_rank": 1005
     },
     {
-      "user": "frust2020",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
       "user": "ft_near",
       "rank": 1128,
       "contest_rank": 1005
@@ -19934,6 +19929,11 @@
     },
     {
       "user": "vamshi_d",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
+      "user": "varshith2600",
       "rank": 1128,
       "contest_rank": 1005
     },

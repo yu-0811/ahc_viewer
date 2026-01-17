@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-01-16T15:34:09.315440+00:00",
+  "fetched_at": "2026-01-17T15:29:08.806233+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -5028,6 +5028,11 @@
       "contest_rank": 865
     },
     {
+      "user": "Strughart",
+      "rank": 941,
+      "contest_rank": 865
+    },
+    {
       "user": "Sumirene",
       "rank": 941,
       "contest_rank": 865
@@ -5319,11 +5324,6 @@
     },
     {
       "user": "jin_tt",
-      "rank": 941,
-      "contest_rank": 865
-    },
-    {
-      "user": "jwh2024",
       "rank": 941,
       "contest_rank": 865
     },
@@ -9724,6 +9724,11 @@
     },
     {
       "user": "blasterpoard",
+      "rank": 1209,
+      "contest_rank": 1124
+    },
+    {
+      "user": "bloxd",
       "rank": 1209,
       "contest_rank": 1124
     },
@@ -14259,11 +14264,6 @@
     },
     {
       "user": "yu_w",
-      "rank": 1209,
-      "contest_rank": 1124
-    },
-    {
-      "user": "yuanziyang_",
       "rank": 1209,
       "contest_rank": 1124
     },

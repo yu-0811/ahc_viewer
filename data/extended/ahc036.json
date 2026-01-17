@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc036",
-  "fetched_at": "2026-01-16T15:32:18.080194+00:00",
+  "fetched_at": "2026-01-17T15:27:25.292048+00:00",
   "rows": [
     {
       "user": "VIP1109",
@@ -3150,12 +3150,12 @@
     {
       "user": "pwdr",
       "rank": 630,
-      "contest_rank": 615
+      "contest_rank": null
     },
     {
       "user": "pwdr",
       "rank": 630,
-      "contest_rank": null
+      "contest_rank": 615
     },
     {
       "user": "Ryusei_S",
@@ -4680,12 +4680,12 @@
     {
       "user": "cjh20090318",
       "rank": 866,
-      "contest_rank": 809
+      "contest_rank": null
     },
     {
       "user": "cjh20090318",
       "rank": 866,
-      "contest_rank": null
+      "contest_rank": 809
     },
     {
       "user": "cyan0515",
@@ -4948,11 +4948,6 @@
       "contest_rank": 809
     },
     {
-      "user": "pengyutaozaolong",
-      "rank": 866,
-      "contest_rank": 809
-    },
-    {
       "user": "pnop",
       "rank": 866,
       "contest_rank": 809
@@ -4964,6 +4959,11 @@
     },
     {
       "user": "qwertim",
+      "rank": 866,
+      "contest_rank": 809
+    },
+    {
+      "user": "qwq_pyt",
       "rank": 866,
       "contest_rank": 809
     },
@@ -9490,12 +9490,12 @@
     {
       "user": "Wayne2",
       "rank": 1062,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "Wayne2",
       "rank": 1062,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "Werner",
