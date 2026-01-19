@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc047",
-  "fetched_at": "2026-01-18T15:28:27.764638+00:00",
+  "fetched_at": "2026-01-19T15:35:58.542475+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1235,12 +1235,12 @@
     {
       "user": "yupiteru",
       "rank": 247,
-      "contest_rank": 115
+      "contest_rank": null
     },
     {
       "user": "yupiteru",
       "rank": 247,
-      "contest_rank": null
+      "contest_rank": 115
     },
     {
       "user": "gvastash",
@@ -2490,12 +2490,12 @@
     {
       "user": "MNMNBK",
       "rank": 498,
-      "contest_rank": 310
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 498,
-      "contest_rank": null
+      "contest_rank": 310
     },
     {
       "user": "okudeottu",
@@ -2893,7 +2893,7 @@
       "contest_rank": 375
     },
     {
-      "user": "Ryu1028",
+      "user": "Psyxi",
       "rank": 579,
       "contest_rank": null
     },
@@ -3013,7 +3013,7 @@
       "contest_rank": null
     },
     {
-      "user": "Ryu1028",
+      "user": "Psyxi",
       "rank": 603,
       "contest_rank": 396
     },
@@ -4745,12 +4745,12 @@
     {
       "user": "kotakun2724",
       "rank": 911,
-      "contest_rank": null
+      "contest_rank": 659
     },
     {
       "user": "kotakun2724",
       "rank": 911,
-      "contest_rank": 659
+      "contest_rank": null
     },
     {
       "user": "leoborui",
@@ -6225,12 +6225,12 @@
     {
       "user": "chnh",
       "rank": 1245,
-      "contest_rank": null
+      "contest_rank": 938
     },
     {
       "user": "chnh",
       "rank": 1245,
-      "contest_rank": 938
+      "contest_rank": null
     },
     {
       "user": "mathworker21",
@@ -6375,12 +6375,12 @@
     {
       "user": "yuyu0202",
       "rank": 1268,
-      "contest_rank": 952
+      "contest_rank": null
     },
     {
       "user": "yuyu0202",
       "rank": 1268,
-      "contest_rank": null
+      "contest_rank": 952
     },
     {
       "user": "taku001",
@@ -6740,12 +6740,12 @@
     {
       "user": "gojira_ku",
       "rank": 1335,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "gojira_ku",
       "rank": 1335,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "guu614",

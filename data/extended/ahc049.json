@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc049",
-  "fetched_at": "2026-01-18T15:28:39.511078+00:00",
+  "fetched_at": "2026-01-19T15:36:11.142025+00:00",
   "rows": [
     {
       "user": "Bolero",
@@ -2818,7 +2818,7 @@
       "contest_rank": 361
     },
     {
-      "user": "Ryu1028",
+      "user": "Psyxi",
       "rank": 564,
       "contest_rank": 362
     },
@@ -5470,12 +5470,12 @@
     {
       "user": "omkarbandikatte",
       "rank": 1006,
-      "contest_rank": 744
+      "contest_rank": null
     },
     {
       "user": "omkarbandikatte",
       "rank": 1006,
-      "contest_rank": null
+      "contest_rank": 744
     },
     {
       "user": "otera",
@@ -6035,12 +6035,12 @@
     {
       "user": "Apple10",
       "rank": 1183,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "Apple10",
       "rank": 1183,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "Arjya_Porel",
@@ -6608,6 +6608,11 @@
       "contest_rank": 872
     },
     {
+      "user": "Psyxi",
+      "rank": 1183,
+      "contest_rank": null
+    },
+    {
       "user": "Pushan",
       "rank": 1183,
       "contest_rank": 872
@@ -6664,11 +6669,6 @@
     },
     {
       "user": "Rozii",
-      "rank": 1183,
-      "contest_rank": null
-    },
-    {
-      "user": "Ryu1028",
       "rank": 1183,
       "contest_rank": null
     },
@@ -6895,12 +6895,12 @@
     {
       "user": "Yawning_winner",
       "rank": 1183,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "Yawning_winner",
       "rank": 1183,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "Yogit",
@@ -7090,12 +7090,12 @@
     {
       "user": "atiho",
       "rank": 1183,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "atiho",
       "rank": 1183,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "atofujiosukai",
@@ -7120,12 +7120,12 @@
     {
       "user": "bandai0412",
       "rank": 1183,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "bandai0412",
       "rank": 1183,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "bhuvaneshwari06",

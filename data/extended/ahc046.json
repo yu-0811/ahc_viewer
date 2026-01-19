@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc046",
-  "fetched_at": "2026-01-18T15:28:22.027817+00:00",
+  "fetched_at": "2026-01-19T15:35:52.720255+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1580,12 +1580,12 @@
     {
       "user": "nemu123",
       "rank": 316,
-      "contest_rank": 164
+      "contest_rank": null
     },
     {
       "user": "nemu123",
       "rank": 316,
-      "contest_rank": null
+      "contest_rank": 164
     },
     {
       "user": "piyo1999",
@@ -2655,12 +2655,12 @@
     {
       "user": "cyan0515",
       "rank": 531,
-      "contest_rank": null
+      "contest_rank": 320
     },
     {
       "user": "cyan0515",
       "rank": 531,
-      "contest_rank": 320
+      "contest_rank": null
     },
     {
       "user": "poisonkumaa",
@@ -3585,12 +3585,12 @@
     {
       "user": "Heartbreak_",
       "rank": 694,
-      "contest_rank": null
+      "contest_rank": 448
     },
     {
       "user": "Heartbreak_",
       "rank": 694,
-      "contest_rank": 448
+      "contest_rank": null
     },
     {
       "user": "Hen_256",
@@ -3758,6 +3758,11 @@
       "contest_rank": 448
     },
     {
+      "user": "Psyxi",
+      "rank": 694,
+      "contest_rank": 448
+    },
+    {
       "user": "Quuri",
       "rank": 694,
       "contest_rank": 448
@@ -3789,11 +3794,6 @@
     },
     {
       "user": "RyoM",
-      "rank": 694,
-      "contest_rank": 448
-    },
-    {
-      "user": "Ryu1028",
       "rank": 694,
       "contest_rank": 448
     },
@@ -4420,12 +4420,12 @@
     {
       "user": "kedama1013",
       "rank": 694,
-      "contest_rank": 448
+      "contest_rank": null
     },
     {
       "user": "kedama1013",
       "rank": 694,
-      "contest_rank": null
+      "contest_rank": 448
     },
     {
       "user": "ken_0v0_",
@@ -7695,12 +7695,12 @@
     {
       "user": "Sou930",
       "rank": 1323,
-      "contest_rank": null
+      "contest_rank": 941
     },
     {
       "user": "Sou930",
       "rank": 1323,
-      "contest_rank": 941
+      "contest_rank": null
     },
     {
       "user": "Spaindiace",

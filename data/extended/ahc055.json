@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-01-18T15:29:14.305273+00:00",
+  "fetched_at": "2026-01-19T15:36:47.709988+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -2495,12 +2495,12 @@
     {
       "user": "hisui527",
       "rank": 499,
-      "contest_rank": 342
+      "contest_rank": null
     },
     {
       "user": "hisui527",
       "rank": 499,
-      "contest_rank": null
+      "contest_rank": 342
     },
     {
       "user": "KatsuDonChef",
@@ -2945,12 +2945,12 @@
     {
       "user": "yellowsubmarine",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "yellowsubmarine",
       "rank": 589,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "manybear",
@@ -2963,7 +2963,7 @@
       "contest_rank": 419
     },
     {
-      "user": "Ryu1028",
+      "user": "Psyxi",
       "rank": 593,
       "contest_rank": 420
     },
@@ -3915,12 +3915,12 @@
     {
       "user": "messier",
       "rank": 783,
-      "contest_rank": null
+      "contest_rank": 575
     },
     {
       "user": "messier",
       "rank": 783,
-      "contest_rank": 575
+      "contest_rank": null
     },
     {
       "user": "kazuya_minakuchi",
@@ -6100,12 +6100,12 @@
     {
       "user": "Nst_4c",
       "rank": 1075,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Nst_4c",
       "rank": 1075,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Nyaan",
