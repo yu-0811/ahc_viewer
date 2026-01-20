@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc040",
-  "fetched_at": "2026-01-19T15:35:16.434426+00:00",
+  "fetched_at": "2026-01-20T15:40:07.426398+00:00",
   "rows": [
     {
       "user": "Shun_PI",
@@ -2190,12 +2190,12 @@
     {
       "user": "rui_er",
       "rank": 438,
-      "contest_rank": 394
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 438,
-      "contest_rank": null
+      "contest_rank": 394
     },
     {
       "user": "bird01",
@@ -4290,12 +4290,12 @@
     {
       "user": "ADCaMilk",
       "rank": 857,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "ADCaMilk",
       "rank": 857,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "ASHUN",
@@ -4900,12 +4900,12 @@
     {
       "user": "limolin123",
       "rank": 857,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "limolin123",
       "rank": 857,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "litttle_stickman",
@@ -5735,12 +5735,12 @@
     {
       "user": "yuruku",
       "rank": 1140,
-      "contest_rank": null
+      "contest_rank": 1029
     },
     {
       "user": "yuruku",
       "rank": 1140,
-      "contest_rank": 1029
+      "contest_rank": null
     },
     {
       "user": "yz190106",
@@ -6430,12 +6430,12 @@
     {
       "user": "Ayano0930",
       "rank": 1213,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "Ayano0930",
       "rank": 1213,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "Aykhan007",
@@ -12030,12 +12030,12 @@
     {
       "user": "jin_matakich",
       "rank": 1213,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "jin_matakich",
       "rank": 1213,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "jinmao_",
@@ -14323,11 +14323,6 @@
       "contest_rank": 1087
     },
     {
-      "user": "ryogametti",
-      "rank": 1213,
-      "contest_rank": 1087
-    },
-    {
       "user": "ryouko",
       "rank": 1213,
       "contest_rank": 1087
@@ -16526,6 +16521,11 @@
       "user": "zuba",
       "rank": 1213,
       "contest_rank": null
+    },
+    {
+      "user": "zumomo",
+      "rank": 1213,
+      "contest_rank": 1087
     },
     {
       "user": "zxdjmq",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-01-19T15:36:47.709988+00:00",
+  "fetched_at": "2026-01-20T15:41:38.957978+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -2210,12 +2210,12 @@
     {
       "user": "yimiya",
       "rank": 442,
-      "contest_rank": 298
+      "contest_rank": null
     },
     {
       "user": "yimiya",
       "rank": 442,
-      "contest_rank": null
+      "contest_rank": 298
     },
     {
       "user": "zssa",
@@ -7245,12 +7245,12 @@
     {
       "user": "hiryuN",
       "rank": 1075,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hiryuN",
       "rank": 1075,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hizukibox",
@@ -8095,12 +8095,12 @@
     {
       "user": "tekronix",
       "rank": 1075,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "tekronix",
       "rank": 1075,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "teteuryan",

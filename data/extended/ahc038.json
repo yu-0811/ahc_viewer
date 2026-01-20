@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-01-19T15:35:03.961013+00:00",
+  "fetched_at": "2026-01-20T15:39:55.825654+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -2650,12 +2650,12 @@
     {
       "user": "mimirot",
       "rank": 530,
-      "contest_rank": null
+      "contest_rank": 446
     },
     {
       "user": "mimirot",
       "rank": 530,
-      "contest_rank": 446
+      "contest_rank": null
     },
     {
       "user": "yuanhaorana",
@@ -3955,12 +3955,12 @@
     {
       "user": "FUXIU",
       "rank": 791,
-      "contest_rank": null
+      "contest_rank": 698
     },
     {
       "user": "FUXIU",
       "rank": 791,
-      "contest_rank": 698
+      "contest_rank": null
     },
     {
       "user": "Noah2022",
@@ -10625,12 +10625,12 @@
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "Weslie_s",
@@ -17893,11 +17893,6 @@
       "contest_rank": 1005
     },
     {
-      "user": "ryogametti",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
       "user": "ryu1998",
       "rank": 1128,
       "contest_rank": 1005
@@ -21134,6 +21129,11 @@
     },
     {
       "user": "zuba",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
+      "user": "zumomo",
       "rank": 1128,
       "contest_rank": 1005
     },
