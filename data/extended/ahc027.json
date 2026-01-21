@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-01-20T15:38:50.075787+00:00",
+  "fetched_at": "2026-01-21T15:40:31.387883+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1070,12 +1070,12 @@
     {
       "user": "fmhr",
       "rank": 214,
-      "contest_rank": 173
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 214,
-      "contest_rank": null
+      "contest_rank": 173
     },
     {
       "user": "hachegawa",
@@ -1180,12 +1180,12 @@
     {
       "user": "capy_kun",
       "rank": 236,
-      "contest_rank": 183
+      "contest_rank": null
     },
     {
       "user": "capy_kun",
       "rank": 236,
-      "contest_rank": null
+      "contest_rank": 183
     },
     {
       "user": "Piiiii",
@@ -2380,12 +2380,12 @@
     {
       "user": "rui_er",
       "rank": 476,
-      "contest_rank": null
+      "contest_rank": 396
     },
     {
       "user": "rui_er",
       "rank": 476,
-      "contest_rank": 396
+      "contest_rank": null
     },
     {
       "user": "xxkiritoxx",
@@ -8215,12 +8215,12 @@
     {
       "user": "PCT2506",
       "rank": 1172,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCT2506",
       "rank": 1172,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCTprobability",
@@ -10135,12 +10135,12 @@
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "ccppjsrb",

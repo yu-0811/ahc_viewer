@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc019",
-  "fetched_at": "2026-01-20T15:38:01.188331+00:00",
+  "fetched_at": "2026-01-21T15:39:43.601396+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -8995,12 +8995,12 @@
     {
       "user": "duruichen",
       "rank": 873,
-      "contest_rank": 738
+      "contest_rank": null
     },
     {
       "user": "duruichen",
       "rank": 873,
-      "contest_rank": null
+      "contest_rank": 738
     },
     {
       "user": "eQe",
