@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc050",
-  "fetched_at": "2026-01-21T15:42:50.816174+00:00",
+  "fetched_at": "2026-01-22T15:41:08.796148+00:00",
   "rows": [
     {
       "user": "terry_u16",
@@ -8875,12 +8875,12 @@
     {
       "user": "carre",
       "rank": 1478,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "carre",
       "rank": 1478,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "carryguo",
