@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc033",
-  "fetched_at": "2026-01-22T15:39:26.972596+00:00",
+  "fetched_at": "2026-01-23T15:34:11.312348+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1060,12 +1060,12 @@
     {
       "user": "ichyo",
       "rank": 212,
-      "contest_rank": null
+      "contest_rank": 179
     },
     {
       "user": "ichyo",
       "rank": 212,
-      "contest_rank": 179
+      "contest_rank": null
     },
     {
       "user": "yamm",
@@ -2040,12 +2040,12 @@
     {
       "user": "rui_er",
       "rank": 408,
-      "contest_rank": 367
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 408,
-      "contest_rank": null
+      "contest_rank": 367
     },
     {
       "user": "peroon",
@@ -5305,12 +5305,12 @@
     {
       "user": "gojira_ku",
       "rank": 1033,
-      "contest_rank": null
+      "contest_rank": 954
     },
     {
       "user": "gojira_ku",
       "rank": 1033,
-      "contest_rank": 954
+      "contest_rank": null
     },
     {
       "user": "heyongxing",
@@ -6480,12 +6480,12 @@
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "CX0225",
@@ -6635,12 +6635,12 @@
     {
       "user": "Code_IT_HURRRAY",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "Code_IT_HURRRAY",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CodingLord108",
@@ -7980,12 +7980,12 @@
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "LCX7777777",
@@ -10105,12 +10105,12 @@
     {
       "user": "ThomasLee_",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "ThomasLee_",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "ThomasNO1",
@@ -14590,12 +14590,12 @@
     {
       "user": "kotaron1010",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "kotaron1010",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "kotolin",
@@ -15544,6 +15544,11 @@
     },
     {
       "user": "mimikan",
+      "rank": 1150,
+      "contest_rank": 1046
+    },
+    {
+      "user": "minghoww",
       "rank": 1150,
       "contest_rank": 1046
     },
@@ -17809,11 +17814,6 @@
     },
     {
       "user": "schezo817",
-      "rank": 1150,
-      "contest_rank": 1046
-    },
-    {
-      "user": "schoolminghow",
       "rank": 1150,
       "contest_rank": 1046
     },
