@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2026-01-23T15:33:53.434464+00:00",
+  "fetched_at": "2026-01-24T15:27:21.435170+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1575,12 +1575,12 @@
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": null
+      "contest_rank": 247
     },
     {
       "user": "doDaylightCycle",
       "rank": 315,
-      "contest_rank": 247
+      "contest_rank": null
     },
     {
       "user": "niuez",
@@ -1705,12 +1705,12 @@
     {
       "user": "rui_er",
       "rank": 341,
-      "contest_rank": 255
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 341,
-      "contest_rank": null
+      "contest_rank": 255
     },
     {
       "user": "rosso01",
@@ -2410,12 +2410,12 @@
     {
       "user": "ryo_n",
       "rank": 482,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "ryo_n",
       "rank": 482,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "mdstoy",
@@ -4240,12 +4240,12 @@
     {
       "user": "BinomialSheep",
       "rank": 837,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "BinomialSheep",
       "rank": 837,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "Chenly",
@@ -5600,12 +5600,12 @@
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "yaakiyu",
       "rank": 837,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "ycZhou",
@@ -6139,6 +6139,11 @@
     },
     {
       "user": "ASTR1104",
+      "rank": 1197,
+      "contest_rank": 1037
+    },
+    {
+      "user": "AUnratedCheater",
       "rank": 1197,
       "contest_rank": 1037
     },
@@ -8170,12 +8175,12 @@
     {
       "user": "L3_035966",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "L3_035966",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "LEVIN_191019",
@@ -10369,11 +10374,6 @@
     },
     {
       "user": "Zazabor",
-      "rank": 1197,
-      "contest_rank": 1037
-    },
-    {
-      "user": "Zemu_Ooo",
       "rank": 1197,
       "contest_rank": 1037
     },
@@ -15490,12 +15490,12 @@
     {
       "user": "okayu123",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "okayu123",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "okeue",
@@ -17615,12 +17615,12 @@
     {
       "user": "tikuwa_",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "tikuwa_",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "tj8864",
@@ -18590,12 +18590,12 @@
     {
       "user": "yonghu_3913",
       "rank": 1197,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "yonghu_3913",
       "rank": 1197,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "yookwi",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-01-23T15:34:39.721102+00:00",
+  "fetched_at": "2026-01-24T15:28:07.234506+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "mekemeke_san",
@@ -900,12 +900,12 @@
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": 134
+      "contest_rank": null
     },
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": null
+      "contest_rank": 134
     },
     {
       "user": "galaxydiver31241",
@@ -3655,12 +3655,12 @@
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": 636
+      "contest_rank": null
     },
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": null
+      "contest_rank": 636
     },
     {
       "user": "june193",
