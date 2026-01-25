@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-01-24T15:29:48.684338+00:00",
+  "fetched_at": "2026-01-25T15:30:40.933056+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -1803,7 +1803,7 @@
       "contest_rank": 330
     },
     {
-      "user": "LoLotte_atc",
+      "user": "std_rot",
       "rank": 361,
       "contest_rank": 335
     },
@@ -2490,12 +2490,12 @@
     {
       "user": "sukesan_killer",
       "rank": 391,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "sukesan_killer",
       "rank": 391,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "tanakh",
@@ -2635,12 +2635,12 @@
     {
       "user": "Dreamer0",
       "rank": 527,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "Dreamer0",
       "rank": 527,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "ntk_ta01",
@@ -4360,12 +4360,12 @@
     {
       "user": "watacco",
       "rank": 827,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watacco",
       "rank": 827,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watashiwatanuki",
@@ -7144,11 +7144,6 @@
     },
     {
       "user": "LogicFlow1226",
-      "rank": 1135,
-      "contest_rank": 1065
-    },
-    {
-      "user": "Lolotte6610",
       "rank": 1135,
       "contest_rank": 1065
     },
@@ -11134,6 +11129,11 @@
     },
     {
       "user": "lk22",
+      "rank": 1135,
+      "contest_rank": 1065
+    },
+    {
+      "user": "llvm",
       "rank": 1135,
       "contest_rank": 1065
     },
