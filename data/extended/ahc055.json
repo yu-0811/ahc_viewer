@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-01-25T15:30:35.513549+00:00",
+  "fetched_at": "2026-01-26T15:39:32.165691+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -2210,12 +2210,12 @@
     {
       "user": "yimiya",
       "rank": 442,
-      "contest_rank": 298
+      "contest_rank": null
     },
     {
       "user": "yimiya",
       "rank": 442,
-      "contest_rank": null
+      "contest_rank": 298
     },
     {
       "user": "zssa",
@@ -2945,12 +2945,12 @@
     {
       "user": "yellowsubmarine",
       "rank": 589,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "yellowsubmarine",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "manybear",
@@ -5885,12 +5885,12 @@
     {
       "user": "Koki_2718281",
       "rank": 1077,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Koki_2718281",
       "rank": 1077,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Komal_008",
@@ -6110,12 +6110,12 @@
     {
       "user": "Nst_4c",
       "rank": 1077,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "Nst_4c",
       "rank": 1077,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "Nyaan",
@@ -8105,12 +8105,12 @@
     {
       "user": "tekronix",
       "rank": 1077,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "tekronix",
       "rank": 1077,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "teteuryan",

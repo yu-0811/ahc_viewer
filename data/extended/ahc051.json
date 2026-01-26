@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc051",
-  "fetched_at": "2026-01-25T15:30:13.108816+00:00",
+  "fetched_at": "2026-01-26T15:39:07.016097+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1625,12 +1625,12 @@
     {
       "user": "liguanchang",
       "rank": 325,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "liguanchang",
       "rank": 325,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "ShunkiKyoya",
@@ -4400,12 +4400,12 @@
     {
       "user": "mono_1729",
       "rank": 721,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "mono_1729",
       "rank": 721,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "mrunatarwatkar01",
@@ -6290,12 +6290,12 @@
     {
       "user": "Atner",
       "rank": 1168,
-      "contest_rank": 1103
+      "contest_rank": null
     },
     {
       "user": "Atner",
       "rank": 1168,
-      "contest_rank": null
+      "contest_rank": 1103
     },
     {
       "user": "Atok",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-01-25T15:26:09.288474+00:00",
+  "fetched_at": "2026-01-26T15:34:54.144258+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -5760,12 +5760,12 @@
     {
       "user": "MItchyRoad",
       "rank": 1043,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "MItchyRoad",
       "rank": 1043,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "Maki_python",
@@ -7270,12 +7270,12 @@
     {
       "user": "maron8satun",
       "rank": 1043,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "maron8satun",
       "rank": 1043,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "mash2",

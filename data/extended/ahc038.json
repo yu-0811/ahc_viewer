@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-01-25T15:28:59.369946+00:00",
+  "fetched_at": "2026-01-26T15:37:46.688246+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -3655,12 +3655,12 @@
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": 636
+      "contest_rank": null
     },
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": null
+      "contest_rank": 636
     },
     {
       "user": "june193",
@@ -19790,12 +19790,12 @@
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "umashio_lettuce",
