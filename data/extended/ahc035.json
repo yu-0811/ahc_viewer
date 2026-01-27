@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc035",
-  "fetched_at": "2026-01-26T15:37:29.568959+00:00",
+  "fetched_at": "2026-01-27T15:38:23.236796+00:00",
   "rows": [
     {
       "user": "bird01",
@@ -5030,12 +5030,12 @@
     {
       "user": "oi2008",
       "rank": 1006,
-      "contest_rank": 693
+      "contest_rank": null
     },
     {
       "user": "oi2008",
       "rank": 1006,
-      "contest_rank": null
+      "contest_rank": 693
     },
     {
       "user": "yadokani389",
