@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc018",
-  "fetched_at": "2026-01-27T15:36:35.338504+00:00",
+  "fetched_at": "2026-01-28T15:39:31.976814+00:00",
   "rows": [
     {
       "user": "Psyho",
@@ -2835,12 +2835,12 @@
     {
       "user": "yukihira_pot",
       "rank": 567,
-      "contest_rank": 516
+      "contest_rank": null
     },
     {
       "user": "yukihira_pot",
       "rank": 567,
-      "contest_rank": null
+      "contest_rank": 516
     },
     {
       "user": "math",

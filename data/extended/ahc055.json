@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-01-27T15:40:27.590653+00:00",
+  "fetched_at": "2026-01-28T15:43:16.748287+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -3915,12 +3915,12 @@
     {
       "user": "messier",
       "rank": 783,
-      "contest_rank": null
+      "contest_rank": 575
     },
     {
       "user": "messier",
       "rank": 783,
-      "contest_rank": 575
+      "contest_rank": null
     },
     {
       "user": "kazuya_minakuchi",
