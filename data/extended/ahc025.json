@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc025",
-  "fetched_at": "2026-01-29T15:42:37.307621+00:00",
+  "fetched_at": "2026-01-30T15:42:14.238752+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -3740,12 +3740,12 @@
     {
       "user": "L3_035966",
       "rank": 748,
-      "contest_rank": 700
+      "contest_rank": null
     },
     {
       "user": "L3_035966",
       "rank": 748,
-      "contest_rank": null
+      "contest_rank": 700
     },
     {
       "user": "akshay88magar",
@@ -6195,12 +6195,12 @@
     {
       "user": "Coder_Himel",
       "rank": 1010,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "Coder_Himel",
       "rank": 1010,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "ComesAndGoes",
@@ -22580,12 +22580,12 @@
     {
       "user": "yuukimasir0",
       "rank": 1010,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "yuukimasir0",
       "rank": 1010,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "yuutyann",
