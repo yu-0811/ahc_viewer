@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc012",
-  "fetched_at": "2026-01-30T15:40:51.467318+00:00",
+  "fetched_at": "2026-01-31T15:29:26.776583+00:00",
   "rows": [
     {
       "user": "PrussianBlue",
@@ -5835,12 +5835,12 @@
     {
       "user": "DeltaStruct",
       "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "DeltaStruct",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "Dinu79",
@@ -6565,12 +6565,12 @@
     {
       "user": "Numbers",
       "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "Numbers",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "NusratJN350",
@@ -7805,12 +7805,12 @@
     {
       "user": "cz123",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "cz123",
       "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "czq1997",
@@ -8365,12 +8365,12 @@
     {
       "user": "hyman0",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "hyman0",
       "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "i8nd5t",
@@ -9705,12 +9705,12 @@
     {
       "user": "sar_learn_code",
       "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "sar_learn_code",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "sararRafid",
@@ -10310,22 +10310,22 @@
     {
       "user": "wangruichen",
       "rank": 1092,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "wangruichen",
       "rank": 1092,
-      "contest_rank": 711
-    },
-    {
-      "user": "wangrunyang",
-      "rank": 1092,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 1092,
       "contest_rank": null
+    },
+    {
+      "user": "wangrunyang",
+      "rank": 1092,
+      "contest_rank": 711
     },
     {
       "user": "waruru",

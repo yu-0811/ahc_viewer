@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-01-30T15:45:19.317425+00:00",
+  "fetched_at": "2026-01-31T15:33:38.293067+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -5808,7 +5808,7 @@
       "contest_rank": 865
     },
     {
-      "user": "yvmr_33",
+      "user": "yvmr33",
       "rank": 941,
       "contest_rank": 865
     },
@@ -6010,12 +6010,12 @@
     {
       "user": "watacco",
       "rank": 1202,
-      "contest_rank": 1119
+      "contest_rank": null
     },
     {
       "user": "watacco",
       "rank": 1202,
-      "contest_rank": null
+      "contest_rank": 1119
     },
     {
       "user": "blackpanther7",
