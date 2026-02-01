@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-01-31T15:30:57.114166+00:00",
+  "fetched_at": "2026-02-01T15:32:54.888082+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -3125,12 +3125,12 @@
     {
       "user": "ynak79",
       "rank": 625,
-      "contest_rank": 539
+      "contest_rank": null
     },
     {
       "user": "ynak79",
       "rank": 625,
-      "contest_rank": null
+      "contest_rank": 539
     },
     {
       "user": "shihaka",
@@ -10135,12 +10135,12 @@
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "ccppjsrb",
