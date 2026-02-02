@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc059",
-  "fetched_at": "2026-02-01T15:35:55.172150+00:00",
+  "fetched_at": "2026-02-02T15:46:48.380277+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -2510,12 +2510,12 @@
     {
       "user": "tau0529",
       "rank": 502,
-      "contest_rank": 370
+      "contest_rank": null
     },
     {
       "user": "tau0529",
       "rank": 502,
-      "contest_rank": null
+      "contest_rank": 370
     },
     {
       "user": "toko314",
@@ -3685,12 +3685,12 @@
     {
       "user": "hekiboko0926",
       "rank": 737,
-      "contest_rank": 567
+      "contest_rank": null
     },
     {
       "user": "hekiboko0926",
       "rank": 737,
-      "contest_rank": null
+      "contest_rank": 567
     },
     {
       "user": "tombo_",
@@ -5730,12 +5730,12 @@
     {
       "user": "SayokoH",
       "rank": 913,
-      "contest_rank": 708
+      "contest_rank": null
     },
     {
       "user": "SayokoH",
       "rank": 913,
-      "contest_rank": null
+      "contest_rank": 708
     },
     {
       "user": "SeSDA",
@@ -6461,6 +6461,11 @@
       "user": "daij",
       "rank": 913,
       "contest_rank": 708
+    },
+    {
+      "user": "daitokun",
+      "rank": 913,
+      "contest_rank": null
     },
     {
       "user": "darkiewind",
@@ -7370,12 +7375,12 @@
     {
       "user": "nmnmnmnmnmnmnm",
       "rank": 913,
-      "contest_rank": null
+      "contest_rank": 708
     },
     {
       "user": "nmnmnmnmnmnmnm",
       "rank": 913,
-      "contest_rank": 708
+      "contest_rank": null
     },
     {
       "user": "nmy",

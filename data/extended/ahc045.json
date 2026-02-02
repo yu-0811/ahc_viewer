@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-02-01T15:34:37.466461+00:00",
+  "fetched_at": "2026-02-02T15:45:22.012315+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -1710,12 +1710,12 @@
     {
       "user": "stng",
       "rank": 342,
-      "contest_rank": null
+      "contest_rank": 391
     },
     {
       "user": "stng",
       "rank": 342,
-      "contest_rank": 391
+      "contest_rank": null
     },
     {
       "user": "piyo1999",
@@ -3910,12 +3910,12 @@
     {
       "user": "fuzorizumu",
       "rank": 782,
-      "contest_rank": null
+      "contest_rank": 701
     },
     {
       "user": "fuzorizumu",
       "rank": 782,
-      "contest_rank": 701
+      "contest_rank": null
     },
     {
       "user": "yajamon",
@@ -4605,12 +4605,12 @@
     {
       "user": "ossan343",
       "rank": 921,
-      "contest_rank": null
+      "contest_rank": 822
     },
     {
       "user": "ossan343",
       "rank": 921,
-      "contest_rank": 822
+      "contest_rank": null
     },
     {
       "user": "maysay_d",
@@ -5625,12 +5625,12 @@
     {
       "user": "liuenci",
       "rank": 938,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "liuenci",
       "rank": 938,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "liuzhoujiong",
@@ -7335,12 +7335,12 @@
     {
       "user": "C4r0ck",
       "rank": 1341,
-      "contest_rank": null
+      "contest_rank": 1216
     },
     {
       "user": "C4r0ck",
       "rank": 1341,
-      "contest_rank": 1216
+      "contest_rank": null
     },
     {
       "user": "CChara",
@@ -9374,6 +9374,11 @@
     },
     {
       "user": "Red_circus0648",
+      "rank": 1341,
+      "contest_rank": 1216
+    },
+    {
+      "user": "Redolent",
       "rank": 1341,
       "contest_rank": 1216
     },
@@ -16094,11 +16099,6 @@
     },
     {
       "user": "tabae326",
-      "rank": 1341,
-      "contest_rank": 1216
-    },
-    {
-      "user": "tachanka233",
       "rank": 1341,
       "contest_rank": 1216
     },

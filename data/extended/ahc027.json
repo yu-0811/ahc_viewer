@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-02-01T15:32:54.888082+00:00",
+  "fetched_at": "2026-02-02T15:43:25.291677+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -8555,12 +8555,12 @@
     {
       "user": "Ryojam",
       "rank": 1172,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Ryojam",
       "rank": 1172,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "SAKUO500",
@@ -10135,12 +10135,12 @@
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "catworld",
       "rank": 1172,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "ccppjsrb",
