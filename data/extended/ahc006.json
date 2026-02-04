@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-02-03T15:54:58.872122+00:00",
+  "fetched_at": "2026-02-04T15:50:04.953320+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -2873,62 +2873,62 @@
       "contest_rank": 258
     },
     {
-      "user": "km1234",
+      "user": "taiga_taguchi",
       "rank": 575,
       "contest_rank": null
     },
     {
-      "user": "hidetoch",
+      "user": "km1234",
       "rank": 576,
       "contest_rank": null
     },
     {
-      "user": "macle",
+      "user": "hidetoch",
       "rank": 577,
+      "contest_rank": null
+    },
+    {
+      "user": "macle",
+      "rank": 578,
       "contest_rank": 259
     },
     {
       "user": "tsuinatomikku",
-      "rank": 578,
+      "rank": 579,
       "contest_rank": null
     },
     {
       "user": "clavis1107",
-      "rank": 579,
+      "rank": 580,
       "contest_rank": 260
     },
     {
       "user": "takus4649",
-      "rank": 580,
-      "contest_rank": null
-    },
-    {
-      "user": "Shirona_Takizaki",
       "rank": 581,
       "contest_rank": null
     },
     {
-      "user": "sntea",
+      "user": "Shirona_Takizaki",
       "rank": 582,
       "contest_rank": null
     },
     {
-      "user": "h2929",
+      "user": "sntea",
       "rank": 583,
       "contest_rank": null
     },
     {
-      "user": "hbi1998",
+      "user": "h2929",
       "rank": 584,
       "contest_rank": null
     },
     {
-      "user": "Haru_mb",
+      "user": "hbi1998",
       "rank": 585,
       "contest_rank": null
     },
     {
-      "user": "taiga_taguchi",
+      "user": "Haru_mb",
       "rank": 586,
       "contest_rank": null
     },
@@ -5765,12 +5765,12 @@
     {
       "user": "MItchyRoad",
       "rank": 1044,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "MItchyRoad",
       "rank": 1044,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "Maki_python",
@@ -7390,12 +7390,12 @@
     {
       "user": "nahco314",
       "rank": 1044,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "nahco314",
       "rank": 1044,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "naim93",

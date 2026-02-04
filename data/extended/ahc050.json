@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc050",
-  "fetched_at": "2026-02-03T15:59:18.735130+00:00",
+  "fetched_at": "2026-02-04T15:54:13.362337+00:00",
   "rows": [
     {
       "user": "terry_u16",
@@ -4250,12 +4250,12 @@
     {
       "user": "Psyxi",
       "rank": 850,
-      "contest_rank": 596
+      "contest_rank": null
     },
     {
       "user": "Psyxi",
       "rank": 850,
-      "contest_rank": null
+      "contest_rank": 596
     },
     {
       "user": "berry",
@@ -8790,12 +8790,12 @@
     {
       "user": "azumak",
       "rank": 1478,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "azumak",
       "rank": 1478,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "b1tset",
@@ -8875,12 +8875,12 @@
     {
       "user": "carre",
       "rank": 1478,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "carre",
       "rank": 1478,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "carryguo",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-02-03T15:59:41.754167+00:00",
+  "fetched_at": "2026-02-04T15:54:37.178150+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -6015,12 +6015,12 @@
     {
       "user": "watacco",
       "rank": 1203,
-      "contest_rank": null
+      "contest_rank": 1119
     },
     {
       "user": "watacco",
       "rank": 1203,
-      "contest_rank": 1119
+      "contest_rank": null
     },
     {
       "user": "blackpanther7",
@@ -7304,6 +7304,11 @@
     },
     {
       "user": "KC8",
+      "rank": 1210,
+      "contest_rank": 1124
+    },
+    {
+      "user": "KE111",
       "rank": 1210,
       "contest_rank": 1124
     },
@@ -11199,11 +11204,6 @@
     },
     {
       "user": "kazumawk",
-      "rank": 1210,
-      "contest_rank": 1124
-    },
-    {
-      "user": "keiggg6",
       "rank": 1210,
       "contest_rank": 1124
     },

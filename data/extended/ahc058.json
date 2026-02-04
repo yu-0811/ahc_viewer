@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc058",
-  "fetched_at": "2026-02-03T16:00:05.799808+00:00",
+  "fetched_at": "2026-02-04T15:54:59.475158+00:00",
   "rows": [
     {
       "user": "zhy123",
@@ -4510,12 +4510,12 @@
     {
       "user": "wyyinput",
       "rank": 902,
-      "contest_rank": 667
+      "contest_rank": null
     },
     {
       "user": "wyyinput",
       "rank": 902,
-      "contest_rank": null
+      "contest_rank": 667
     },
     {
       "user": "breakfast_curry",

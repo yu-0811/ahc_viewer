@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc025",
-  "fetched_at": "2026-02-03T15:56:43.524467+00:00",
+  "fetched_at": "2026-02-04T15:51:45.045349+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -515,12 +515,12 @@
     {
       "user": "FplusFplusF",
       "rank": 103,
-      "contest_rank": 83
+      "contest_rank": null
     },
     {
       "user": "FplusFplusF",
       "rank": 103,
-      "contest_rank": null
+      "contest_rank": 83
     },
     {
       "user": "starpentagon",
@@ -745,12 +745,12 @@
     {
       "user": "hjxhjx",
       "rank": 149,
-      "contest_rank": 127
+      "contest_rank": null
     },
     {
       "user": "hjxhjx",
       "rank": 149,
-      "contest_rank": null
+      "contest_rank": 127
     },
     {
       "user": "tanzicheng",
@@ -1905,12 +1905,12 @@
     {
       "user": "tetsuyatyamamoto",
       "rank": 381,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "tetsuyatyamamoto",
       "rank": 381,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "mekemeke_san",
@@ -3290,12 +3290,12 @@
     {
       "user": "rui_er",
       "rank": 658,
-      "contest_rank": 581
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 658,
-      "contest_rank": null
+      "contest_rank": 581
     },
     {
       "user": "t98slider",
@@ -6200,12 +6200,12 @@
     {
       "user": "Coder_Himel",
       "rank": 1011,
-      "contest_rank": null
+      "contest_rank": 879
     },
     {
       "user": "Coder_Himel",
       "rank": 1011,
-      "contest_rank": 879
+      "contest_rank": null
     },
     {
       "user": "ComesAndGoes",
