@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc015",
-  "fetched_at": "2026-02-05T15:47:02.997015+00:00",
+  "fetched_at": "2026-02-06T15:46:29.903657+00:00",
   "rows": [
     {
       "user": "saitodevel01",
@@ -7020,12 +7020,12 @@
     {
       "user": "Misodango",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Misodango",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Mistouch",
@@ -9465,12 +9465,12 @@
     {
       "user": "tmanas",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "tmanas",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "tmlyencodes",
