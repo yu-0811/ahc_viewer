@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc033",
-  "fetched_at": "2026-02-06T15:48:26.913045+00:00",
+  "fetched_at": "2026-02-07T15:33:16.356074+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -4210,12 +4210,12 @@
     {
       "user": "Sept006",
       "rank": 842,
-      "contest_rank": 774
+      "contest_rank": null
     },
     {
       "user": "Sept006",
       "rank": 842,
-      "contest_rank": null
+      "contest_rank": 774
     },
     {
       "user": "holly_yo",
@@ -5305,12 +5305,12 @@
     {
       "user": "gojira_ku",
       "rank": 1033,
-      "contest_rank": null
+      "contest_rank": 954
     },
     {
       "user": "gojira_ku",
       "rank": 1033,
-      "contest_rank": 954
+      "contest_rank": null
     },
     {
       "user": "heyongxing",
@@ -5759,11 +5759,6 @@
     },
     {
       "user": "18968218370",
-      "rank": 1150,
-      "contest_rank": 1046
-    },
-    {
-      "user": "1904113_",
       "rank": 1150,
       "contest_rank": 1046
     },
@@ -6480,12 +6475,12 @@
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "CSZ7943",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "CX0225",
@@ -7980,12 +7975,12 @@
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "L3_035966",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "LCX7777777",
@@ -8974,6 +8969,11 @@
     },
     {
       "user": "Pratik_Sinha",
+      "rank": 1150,
+      "contest_rank": 1046
+    },
+    {
+      "user": "Prativa",
       "rank": 1150,
       "contest_rank": 1046
     },
@@ -14590,12 +14590,12 @@
     {
       "user": "kotaron1010",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1046
     },
     {
       "user": "kotaron1010",
       "rank": 1150,
-      "contest_rank": 1046
+      "contest_rank": null
     },
     {
       "user": "kotolin",
