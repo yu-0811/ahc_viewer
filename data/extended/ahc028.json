@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2026-02-07T15:32:48.239623+00:00",
+  "fetched_at": "2026-02-08T15:34:02.360519+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -278,102 +278,102 @@
       "contest_rank": null
     },
     {
-      "user": "skwbc",
+      "user": "Jeffrey",
       "rank": 56,
       "contest_rank": null
     },
     {
-      "user": "LYD82",
+      "user": "skwbc",
       "rank": 57,
       "contest_rank": null
     },
     {
-      "user": "wanui",
+      "user": "LYD82",
       "rank": 58,
+      "contest_rank": null
+    },
+    {
+      "user": "wanui",
+      "rank": 59,
       "contest_rank": 16
     },
     {
       "user": "xyz600",
-      "rank": 59,
+      "rank": 60,
       "contest_rank": null
     },
     {
       "user": "Jirotech",
-      "rank": 60,
+      "rank": 61,
       "contest_rank": 17
     },
     {
       "user": "riantkb",
-      "rank": 61,
+      "rank": 62,
       "contest_rank": 18
     },
     {
       "user": "c7c7",
-      "rank": 62,
+      "rank": 63,
       "contest_rank": 19
     },
     {
       "user": "hamamu",
-      "rank": 63,
+      "rank": 64,
       "contest_rank": 20
     },
     {
       "user": "small_koala",
-      "rank": 64,
+      "rank": 65,
       "contest_rank": null
     },
     {
       "user": "cirno3153",
-      "rank": 65,
+      "rank": 66,
       "contest_rank": 21
     },
     {
       "user": "nurupo0723",
-      "rank": 66,
-      "contest_rank": null
-    },
-    {
-      "user": "ygussany",
       "rank": 67,
       "contest_rank": null
     },
     {
-      "user": "eijirou",
+      "user": "ygussany",
       "rank": 68,
+      "contest_rank": null
+    },
+    {
+      "user": "eijirou",
+      "rank": 69,
       "contest_rank": 22
     },
     {
       "user": "brthyyjp",
-      "rank": 69,
-      "contest_rank": null
-    },
-    {
-      "user": "gchebanov",
       "rank": 70,
       "contest_rank": null
     },
     {
-      "user": "kawatea",
+      "user": "gchebanov",
       "rank": 71,
+      "contest_rank": null
+    },
+    {
+      "user": "kawatea",
+      "rank": 72,
       "contest_rank": 23
     },
     {
       "user": "bowwowforeach",
-      "rank": 72,
+      "rank": 73,
       "contest_rank": 24
     },
     {
       "user": "PrussianBlue",
-      "rank": 73,
-      "contest_rank": null
-    },
-    {
-      "user": "uta_ccc",
       "rank": 74,
       "contest_rank": null
     },
     {
-      "user": "Jeffrey",
+      "user": "uta_ccc",
       "rank": 75,
       "contest_rank": null
     },
@@ -1465,12 +1465,12 @@
     {
       "user": "mrsenpuki",
       "rank": 293,
-      "contest_rank": 173
+      "contest_rank": null
     },
     {
       "user": "mrsenpuki",
       "rank": 293,
-      "contest_rank": null
+      "contest_rank": 173
     },
     {
       "user": "Lafolia",
@@ -2595,12 +2595,12 @@
     {
       "user": "AwashAmityOak",
       "rank": 519,
-      "contest_rank": 327
+      "contest_rank": null
     },
     {
       "user": "AwashAmityOak",
       "rank": 519,
-      "contest_rank": null
+      "contest_rank": 327
     },
     {
       "user": "BachPianoman",
@@ -2945,12 +2945,12 @@
     {
       "user": "pitP",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "pitP",
       "rank": 589,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "westriver",
@@ -3265,12 +3265,12 @@
     {
       "user": "porkleoi",
       "rank": 653,
-      "contest_rank": null
+      "contest_rank": 417
     },
     {
       "user": "porkleoi",
       "rank": 653,
-      "contest_rank": 417
+      "contest_rank": null
     },
     {
       "user": "Bondo416",
@@ -6040,12 +6040,12 @@
     {
       "user": "garutto",
       "rank": 1208,
-      "contest_rank": 839
+      "contest_rank": null
     },
     {
       "user": "garutto",
       "rank": 1208,
-      "contest_rank": null
+      "contest_rank": 839
     },
     {
       "user": "kinn",
@@ -6495,12 +6495,12 @@
     {
       "user": "t9unkubj",
       "rank": 1249,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "t9unkubj",
       "rank": 1249,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "tbdsh",
@@ -7295,12 +7295,12 @@
     {
       "user": "KKT89",
       "rank": 1307,
-      "contest_rank": 894
+      "contest_rank": null
     },
     {
       "user": "KKT89",
       "rank": 1307,
-      "contest_rank": null
+      "contest_rank": 894
     },
     {
       "user": "KL2200030537",

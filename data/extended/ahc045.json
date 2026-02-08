@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-02-07T15:34:24.654366+00:00",
+  "fetched_at": "2026-02-08T15:35:45.339358+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -1710,12 +1710,12 @@
     {
       "user": "stng",
       "rank": 342,
-      "contest_rank": null
+      "contest_rank": 391
     },
     {
       "user": "stng",
       "rank": 342,
-      "contest_rank": 391
+      "contest_rank": null
     },
     {
       "user": "piyo1999",
@@ -3348,7 +3348,7 @@
       "contest_rank": 581
     },
     {
-      "user": "e271828",
+      "user": "pururururu",
       "rank": 670,
       "contest_rank": 599
     },

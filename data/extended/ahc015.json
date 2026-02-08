@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc015",
-  "fetched_at": "2026-02-07T15:31:30.241537+00:00",
+  "fetched_at": "2026-02-08T15:32:43.709646+00:00",
   "rows": [
     {
       "user": "saitodevel01",
@@ -3140,12 +3140,12 @@
     {
       "user": "stng",
       "rank": 628,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "stng",
       "rank": 628,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "dn6049949",
@@ -6470,12 +6470,12 @@
     {
       "user": "Banis",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Banis",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Baytool",
@@ -7020,12 +7020,12 @@
     {
       "user": "Misodango",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Misodango",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Mistouch",
@@ -7524,11 +7524,6 @@
     },
     {
       "user": "Yohane_jp",
-      "rank": 1267,
-      "contest_rank": 779
-    },
-    {
-      "user": "You_fy22",
       "rank": 1267,
       "contest_rank": 779
     },
@@ -8275,12 +8270,12 @@
     {
       "user": "inazuma11",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "inazuma11",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "indian_tourister",
@@ -9465,12 +9460,12 @@
     {
       "user": "tmanas",
       "rank": 1267,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "tmanas",
       "rank": 1267,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "tmlyencodes",
@@ -9764,6 +9759,11 @@
     },
     {
       "user": "yosiaki",
+      "rank": 1267,
+      "contest_rank": 779
+    },
+    {
+      "user": "you22fy",
       "rank": 1267,
       "contest_rank": 779
     },
