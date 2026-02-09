@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc040",
-  "fetched_at": "2026-02-08T15:35:14.828682+00:00",
+  "fetched_at": "2026-02-09T16:04:28.407660+00:00",
   "rows": [
     {
       "user": "Shun_PI",
@@ -2200,12 +2200,12 @@
     {
       "user": "rui_er",
       "rank": 440,
-      "contest_rank": null
+      "contest_rank": 394
     },
     {
       "user": "rui_er",
       "rank": 440,
-      "contest_rank": 394
+      "contest_rank": null
     },
     {
       "user": "bird01",
@@ -5745,12 +5745,12 @@
     {
       "user": "yuruku",
       "rank": 1142,
-      "contest_rank": 1029
+      "contest_rank": null
     },
     {
       "user": "yuruku",
       "rank": 1142,
-      "contest_rank": null
+      "contest_rank": 1029
     },
     {
       "user": "yz190106",
@@ -6113,11 +6113,6 @@
       "contest_rank": 1087
     },
     {
-      "user": "2025helongyun",
-      "rank": 1215,
-      "contest_rank": 1087
-    },
-    {
       "user": "2027zengrihui",
       "rank": 1215,
       "contest_rank": 1087
@@ -6440,12 +6435,12 @@
     {
       "user": "Ayano0930",
       "rank": 1215,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "Ayano0930",
       "rank": 1215,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "Aykhan007",
@@ -11568,6 +11563,11 @@
       "contest_rank": 1087
     },
     {
+      "user": "hely",
+      "rank": 1215,
+      "contest_rank": 1087
+    },
+    {
       "user": "hevi",
       "rank": 1215,
       "contest_rank": 1087
@@ -12040,12 +12040,12 @@
     {
       "user": "jin_matakich",
       "rank": 1215,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "jin_matakich",
       "rank": 1215,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "jinmao_",
