@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc004",
-  "fetched_at": "2026-02-09T16:00:54.608932+00:00",
+  "fetched_at": "2026-02-10T16:09:58.727275+00:00",
   "rows": [
     {
       "user": "Zovink",
@@ -9035,12 +9035,12 @@
     {
       "user": "okkuu2",
       "rank": 908,
-      "contest_rank": 604
+      "contest_rank": null
     },
     {
       "user": "okkuu2",
       "rank": 908,
-      "contest_rank": null
+      "contest_rank": 604
     },
     {
       "user": "oldsoul",
