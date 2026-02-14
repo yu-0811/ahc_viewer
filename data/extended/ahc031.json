@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc031",
-  "fetched_at": "2026-02-13T15:51:42.913834+00:00",
+  "fetched_at": "2026-02-14T15:33:24.500101+00:00",
   "rows": [
     {
       "user": "wangdiwei30",
@@ -865,12 +865,12 @@
     {
       "user": "breso",
       "rank": 173,
-      "contest_rank": 122
+      "contest_rank": null
     },
     {
       "user": "breso",
       "rank": 173,
-      "contest_rank": null
+      "contest_rank": 122
     },
     {
       "user": "oogiri",
@@ -1190,12 +1190,12 @@
     {
       "user": "yajamon",
       "rank": 238,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "yajamon",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "yoichiro",
@@ -5185,12 +5185,12 @@
     {
       "user": "sushi226",
       "rank": 886,
-      "contest_rank": 823
+      "contest_rank": null
     },
     {
       "user": "sushi226",
       "rank": 886,
-      "contest_rank": null
+      "contest_rank": 823
     },
     {
       "user": "t6is",
@@ -6565,12 +6565,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1099,
-      "contest_rank": 1002
+      "contest_rank": null
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1099,
-      "contest_rank": null
+      "contest_rank": 1002
     },
     {
       "user": "GeerbaniShashi",
@@ -8975,12 +8975,12 @@
     {
       "user": "Xiao_Biantai",
       "rank": 1099,
-      "contest_rank": 1002
+      "contest_rank": null
     },
     {
       "user": "Xiao_Biantai",
       "rank": 1099,
-      "contest_rank": null
+      "contest_rank": 1002
     },
     {
       "user": "Xiaoshen",
@@ -11395,12 +11395,12 @@
     {
       "user": "igasa_k",
       "rank": 1099,
-      "contest_rank": null
+      "contest_rank": 1002
     },
     {
       "user": "igasa_k",
       "rank": 1099,
-      "contest_rank": 1002
+      "contest_rank": null
     },
     {
       "user": "ikuura",

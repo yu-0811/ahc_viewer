@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc036",
-  "fetched_at": "2026-02-13T15:52:13.375554+00:00",
+  "fetched_at": "2026-02-14T15:33:52.546563+00:00",
   "rows": [
     {
       "user": "VIP1109",
@@ -4385,12 +4385,12 @@
     {
       "user": "CHD",
       "rank": 867,
-      "contest_rank": null
+      "contest_rank": 809
     },
     {
       "user": "CHD",
       "rank": 867,
-      "contest_rank": 809
+      "contest_rank": null
     },
     {
       "user": "Comavius",
@@ -4685,12 +4685,12 @@
     {
       "user": "cjh20090318",
       "rank": 867,
-      "contest_rank": null
+      "contest_rank": 809
     },
     {
       "user": "cjh20090318",
       "rank": 867,
-      "contest_rank": 809
+      "contest_rank": null
     },
     {
       "user": "cyan0515",
@@ -11223,6 +11223,11 @@
       "contest_rank": 997
     },
     {
+      "user": "delta_pos",
+      "rank": 1063,
+      "contest_rank": 997
+    },
+    {
       "user": "dengchengyu",
       "rank": 1063,
       "contest_rank": 997
@@ -13590,12 +13595,12 @@
     {
       "user": "linjy",
       "rank": 1063,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "linjy",
       "rank": 1063,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "linki101011",
@@ -14974,11 +14979,6 @@
     },
     {
       "user": "parthdhake",
-      "rank": 1063,
-      "contest_rank": 997
-    },
-    {
-      "user": "parthm",
       "rank": 1063,
       "contest_rank": 997
     },
@@ -17160,12 +17160,12 @@
     {
       "user": "uminorosujin",
       "rank": 1063,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "uminorosujin",
       "rank": 1063,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "une0009",
