@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc031",
-  "fetched_at": "2026-02-14T15:33:24.500101+00:00",
+  "fetched_at": "2026-02-15T15:32:53.386714+00:00",
   "rows": [
     {
       "user": "wangdiwei30",
@@ -845,12 +845,12 @@
     {
       "user": "get_tanni",
       "rank": 169,
-      "contest_rank": 132
+      "contest_rank": null
     },
     {
       "user": "get_tanni",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 132
     },
     {
       "user": "mame_pato",
@@ -1190,12 +1190,12 @@
     {
       "user": "yajamon",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "yajamon",
       "rank": 238,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "yoichiro",
@@ -2335,12 +2335,12 @@
     {
       "user": "okayu123",
       "rank": 467,
-      "contest_rank": 413
+      "contest_rank": null
     },
     {
       "user": "okayu123",
       "rank": 467,
-      "contest_rank": null
+      "contest_rank": 413
     },
     {
       "user": "inu__dog",
@@ -2805,12 +2805,12 @@
     {
       "user": "rui_er",
       "rank": 561,
-      "contest_rank": 684
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 561,
-      "contest_rank": null
+      "contest_rank": 684
     },
     {
       "user": "brthyyjp",
@@ -5185,12 +5185,12 @@
     {
       "user": "sushi226",
       "rank": 886,
-      "contest_rank": null
+      "contest_rank": 823
     },
     {
       "user": "sushi226",
       "rank": 886,
-      "contest_rank": 823
+      "contest_rank": null
     },
     {
       "user": "t6is",
@@ -5290,12 +5290,12 @@
     {
       "user": "yaakiyu",
       "rank": 886,
-      "contest_rank": 823
+      "contest_rank": null
     },
     {
       "user": "yaakiyu",
       "rank": 886,
-      "contest_rank": null
+      "contest_rank": 823
     },
     {
       "user": "yamasaKit",
@@ -8608,11 +8608,6 @@
       "contest_rank": 1002
     },
     {
-      "user": "Super_excavator",
-      "rank": 1099,
-      "contest_rank": 1002
-    },
-    {
       "user": "Suraj_23",
       "rank": 1099,
       "contest_rank": 1002
@@ -11633,6 +11628,11 @@
       "contest_rank": 1002
     },
     {
+      "user": "jiangjiangQwQ",
+      "rank": 1099,
+      "contest_rank": 1002
+    },
+    {
       "user": "jiangrenren",
       "rank": 1099,
       "contest_rank": 1002
@@ -12500,12 +12500,12 @@
     {
       "user": "ljc123",
       "rank": 1099,
-      "contest_rank": 1002
+      "contest_rank": null
     },
     {
       "user": "ljc123",
       "rank": 1099,
-      "contest_rank": null
+      "contest_rank": 1002
     },
     {
       "user": "lljjyy",

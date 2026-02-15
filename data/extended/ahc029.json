@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc029",
-  "fetched_at": "2026-02-14T15:33:13.708523+00:00",
+  "fetched_at": "2026-02-15T15:32:41.637997+00:00",
   "rows": [
     {
       "user": "starpentagon",
@@ -770,12 +770,12 @@
     {
       "user": "ZUkA_",
       "rank": 154,
-      "contest_rank": null
+      "contest_rank": 114
     },
     {
       "user": "ZUkA_",
       "rank": 154,
-      "contest_rank": 114
+      "contest_rank": null
     },
     {
       "user": "petit_sophia",
@@ -1940,12 +1940,12 @@
     {
       "user": "brthyyjp",
       "rank": 388,
-      "contest_rank": 317
+      "contest_rank": null
     },
     {
       "user": "brthyyjp",
       "rank": 388,
-      "contest_rank": null
+      "contest_rank": 317
     },
     {
       "user": "zakimyaa",
@@ -2515,12 +2515,12 @@
     {
       "user": "rui_er",
       "rank": 503,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 503,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "uminorosujin",
@@ -3335,12 +3335,12 @@
     {
       "user": "Ref7s",
       "rank": 667,
-      "contest_rank": null
+      "contest_rank": 562
     },
     {
       "user": "Ref7s",
       "rank": 667,
-      "contest_rank": 562
+      "contest_rank": null
     },
     {
       "user": "breakfast_curry",
@@ -6145,12 +6145,12 @@
     {
       "user": "N_ha_1050",
       "rank": 905,
-      "contest_rank": 769
+      "contest_rank": null
     },
     {
       "user": "N_ha_1050",
       "rank": 905,
-      "contest_rank": null
+      "contest_rank": 769
     },
     {
       "user": "Nadimuzzaman",
@@ -6280,12 +6280,12 @@
     {
       "user": "PCT2506",
       "rank": 905,
-      "contest_rank": null
+      "contest_rank": 769
     },
     {
       "user": "PCT2506",
       "rank": 905,
-      "contest_rank": 769
+      "contest_rank": null
     },
     {
       "user": "PICOLO",
@@ -6859,11 +6859,6 @@
     },
     {
       "user": "Super_agg",
-      "rank": 905,
-      "contest_rank": 769
-    },
-    {
-      "user": "Super_excavator",
       "rank": 905,
       "contest_rank": 769
     },
@@ -9004,6 +8999,11 @@
     },
     {
       "user": "jiang_han",
+      "rank": 905,
+      "contest_rank": 769
+    },
+    {
+      "user": "jiangjiangQwQ",
       "rank": 905,
       "contest_rank": 769
     },

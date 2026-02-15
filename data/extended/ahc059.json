@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc059",
-  "fetched_at": "2026-02-14T15:36:04.274842+00:00",
+  "fetched_at": "2026-02-15T15:35:35.528726+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -3888,7 +3888,7 @@
       "contest_rank": 591
     },
     {
-      "user": "benjamin_hung",
+      "user": "benjaminhh",
       "rank": 778,
       "contest_rank": 592
     },
@@ -5765,12 +5765,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 928,
-      "contest_rank": 708
+      "contest_rank": null
     },
     {
       "user": "SHA_TO_RU",
       "rank": 928,
-      "contest_rank": null
+      "contest_rank": 708
     },
     {
       "user": "Saki1103",

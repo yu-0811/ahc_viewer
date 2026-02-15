@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-02-14T15:35:36.873140+00:00",
+  "fetched_at": "2026-02-15T15:35:06.724350+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -3630,12 +3630,12 @@
     {
       "user": "shiningsoul",
       "rank": 725,
-      "contest_rank": 670
+      "contest_rank": null
     },
     {
       "user": "shiningsoul",
       "rank": 725,
-      "contest_rank": null
+      "contest_rank": 670
     },
     {
       "user": "edon8618",

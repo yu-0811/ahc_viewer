@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2026-02-14T15:35:03.742565+00:00",
+  "fetched_at": "2026-02-15T15:34:32.521653+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -1910,12 +1910,12 @@
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": 393
+      "contest_rank": null
     },
     {
       "user": "kazari4",
       "rank": 382,
-      "contest_rank": null
+      "contest_rank": 393
     },
     {
       "user": "watamatsu",
@@ -5305,12 +5305,12 @@
     {
       "user": "sukesann",
       "rank": 1061,
-      "contest_rank": 1004
+      "contest_rank": null
     },
     {
       "user": "sukesann",
       "rank": 1061,
-      "contest_rank": null
+      "contest_rank": 1004
     },
     {
       "user": "Taroooooooooooo",
@@ -12525,12 +12525,12 @@
     {
       "user": "joshuaChoi",
       "rank": 1185,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "joshuaChoi",
       "rank": 1185,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "joylintp",
