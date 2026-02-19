@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc042",
-  "fetched_at": "2026-02-18T16:01:50.559723+00:00",
+  "fetched_at": "2026-02-19T15:57:57.100783+00:00",
   "rows": [
     {
       "user": "syndrome",
@@ -405,12 +405,12 @@
     {
       "user": "kotamanegi",
       "rank": 81,
-      "contest_rank": 26
+      "contest_rank": null
     },
     {
       "user": "kotamanegi",
       "rank": 81,
-      "contest_rank": null
+      "contest_rank": 26
     },
     {
       "user": "y_kawano",
@@ -3040,12 +3040,12 @@
     {
       "user": "nanae",
       "rank": 608,
-      "contest_rank": null
+      "contest_rank": 401
     },
     {
       "user": "nanae",
       "rank": 608,
-      "contest_rank": 401
+      "contest_rank": null
     },
     {
       "user": "katsuta",
@@ -7320,12 +7320,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "GauravBilotia",
@@ -7805,12 +7805,12 @@
     {
       "user": "Naagattumin",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "Naagattumin",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "Namu3",
@@ -8990,12 +8990,12 @@
     {
       "user": "davidal",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "davidal",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "dhulripos",
@@ -9600,12 +9600,12 @@
     {
       "user": "kanra824",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "kanra824",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "karinohito",
@@ -10765,12 +10765,12 @@
     {
       "user": "sk4rd",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "sk4rd",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "skipped",
@@ -11375,12 +11375,12 @@
     {
       "user": "yorksyo",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "yorksyo",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "yoshin",

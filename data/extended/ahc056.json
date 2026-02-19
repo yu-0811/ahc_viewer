@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-02-18T16:03:45.323279+00:00",
+  "fetched_at": "2026-02-19T15:59:15.939674+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -1395,12 +1395,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 279,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "TwoSquirrels",
       "rank": 279,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "EzukaFuya",
@@ -2505,12 +2505,12 @@
     {
       "user": "sukesan_killer",
       "rank": 394,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "sukesan_killer",
       "rank": 394,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "tanakh",
@@ -2650,12 +2650,12 @@
     {
       "user": "Dreamer0",
       "rank": 530,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "Dreamer0",
       "rank": 530,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "ntk_ta01",
@@ -2700,12 +2700,12 @@
     {
       "user": "uminorosujin",
       "rank": 537,
-      "contest_rank": 493
+      "contest_rank": null
     },
     {
       "user": "uminorosujin",
       "rank": 537,
-      "contest_rank": null
+      "contest_rank": 493
     },
     {
       "user": "sugiharahara",
@@ -12208,7 +12208,7 @@
       "contest_rank": 1065
     },
     {
-      "user": "qasimsk20",
+      "user": "qasimstatic",
       "rank": 1141,
       "contest_rank": 1065
     },
