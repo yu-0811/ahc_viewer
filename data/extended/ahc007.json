@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-02-19T15:54:45.239927+00:00",
+  "fetched_at": "2026-02-20T15:41:41.106748+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -6795,12 +6795,12 @@
     {
       "user": "tombo314",
       "rank": 999,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "tombo314",
       "rank": 999,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "toureiffel2018",

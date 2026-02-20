@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-02-19T15:54:39.930128+00:00",
+  "fetched_at": "2026-02-20T15:41:35.434587+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -5775,12 +5775,12 @@
     {
       "user": "MItchyRoad",
       "rank": 1046,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "MItchyRoad",
       "rank": 1046,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "Maki_python",

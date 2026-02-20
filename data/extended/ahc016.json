@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc016",
-  "fetched_at": "2026-02-19T15:55:23.233614+00:00",
+  "fetched_at": "2026-02-20T15:42:20.767371+00:00",
   "rows": [
     {
       "user": "nagiss",
@@ -8870,12 +8870,12 @@
     {
       "user": "hiiragi123",
       "rank": 1207,
-      "contest_rank": 1047
+      "contest_rank": null
     },
     {
       "user": "hiiragi123",
       "rank": 1207,
-      "contest_rank": null
+      "contest_rank": 1047
     },
     {
       "user": "hika3206",

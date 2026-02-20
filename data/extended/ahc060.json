@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-02-19T15:59:37.345627+00:00",
+  "fetched_at": "2026-02-20T15:46:49.300116+00:00",
   "rows": [
     {
       "user": "rcl_admin",
@@ -5898,6 +5898,11 @@
       "contest_rank": 697
     },
     {
+      "user": "Xevox",
+      "rank": 880,
+      "contest_rank": null
+    },
+    {
       "user": "Xflp",
       "rank": 880,
       "contest_rank": 697
@@ -6815,12 +6820,12 @@
     {
       "user": "jbyxm",
       "rank": 880,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "jbyxm",
       "rank": 880,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "jiangbohan12",
@@ -7715,12 +7720,12 @@
     {
       "user": "shamezhame",
       "rank": 880,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "shamezhame",
       "rank": 880,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "sheraz046",
@@ -8035,12 +8040,12 @@
     {
       "user": "uminorosujin",
       "rank": 880,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "uminorosujin",
       "rank": 880,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "unXknown",
