@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2026-02-21T15:33:52.708588+00:00",
+  "fetched_at": "2026-02-22T15:34:00.370459+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -845,12 +845,12 @@
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -2950,12 +2950,12 @@
     {
       "user": "rui_er",
       "rank": 590,
-      "contest_rank": null
+      "contest_rank": 522
     },
     {
       "user": "rui_er",
       "rank": 590,
-      "contest_rank": 522
+      "contest_rank": null
     },
     {
       "user": "efy",
@@ -5005,12 +5005,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 991,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChocoPoke143",
       "rank": 991,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChrysanthBlossom",
@@ -5521,6 +5521,11 @@
       "user": "ZouXingTang",
       "rank": 991,
       "contest_rank": 886
+    },
+    {
+      "user": "Zykaris",
+      "rank": 991,
+      "contest_rank": null
     },
     {
       "user": "a00002s",
@@ -6481,11 +6486,6 @@
       "user": "zephyr386",
       "rank": 991,
       "contest_rank": 886
-    },
-    {
-      "user": "zhaoyikuan",
-      "rank": 991,
-      "contest_rank": null
     },
     {
       "user": "zhenglibo",

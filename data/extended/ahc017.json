@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc017",
-  "fetched_at": "2026-02-21T15:31:15.022422+00:00",
+  "fetched_at": "2026-02-22T15:31:29.097037+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -5085,12 +5085,12 @@
     {
       "user": "Diary",
       "rank": 1017,
-      "contest_rank": 839
+      "contest_rank": null
     },
     {
       "user": "Diary",
       "rank": 1017,
-      "contest_rank": null
+      "contest_rank": 839
     },
     {
       "user": "cy6ics",
@@ -6705,12 +6705,12 @@
     {
       "user": "Jasoncwx",
       "rank": 1122,
-      "contest_rank": 939
+      "contest_rank": null
     },
     {
       "user": "Jasoncwx",
       "rank": 1122,
-      "contest_rank": null
+      "contest_rank": 939
     },
     {
       "user": "Jasper08",
@@ -11048,6 +11048,11 @@
       "contest_rank": 939
     },
     {
+      "user": "lazysegtree",
+      "rank": 1122,
+      "contest_rank": 939
+    },
+    {
       "user": "lcebound",
       "rank": 1122,
       "contest_rank": 939
@@ -11754,11 +11759,6 @@
     },
     {
       "user": "nishra_014",
-      "rank": 1122,
-      "contest_rank": 939
-    },
-    {
-      "user": "nk12384",
       "rank": 1122,
       "contest_rank": 939
     },

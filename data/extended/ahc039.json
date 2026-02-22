@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc039",
-  "fetched_at": "2026-02-21T15:33:30.733691+00:00",
+  "fetched_at": "2026-02-22T15:33:38.321095+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -1880,12 +1880,12 @@
     {
       "user": "MNMNBK",
       "rank": 375,
-      "contest_rank": 205
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 375,
-      "contest_rank": null
+      "contest_rank": 205
     },
     {
       "user": "daniel2025",
@@ -2603,7 +2603,7 @@
       "contest_rank": null
     },
     {
-      "user": "nk12384",
+      "user": "lazysegtree",
       "rank": 521,
       "contest_rank": 311
     },
@@ -4075,12 +4075,12 @@
     {
       "user": "FlowerAccepted",
       "rank": 815,
-      "contest_rank": 555
+      "contest_rank": null
     },
     {
       "user": "FlowerAccepted",
       "rank": 815,
-      "contest_rank": null
+      "contest_rank": 555
     },
     {
       "user": "pixy",
@@ -5060,12 +5060,12 @@
     {
       "user": "cumene_rx",
       "rank": 1012,
-      "contest_rank": null
+      "contest_rank": 680
     },
     {
       "user": "cumene_rx",
       "rank": 1012,
-      "contest_rank": 680
+      "contest_rank": null
     },
     {
       "user": "keisankatei",
@@ -5415,12 +5415,12 @@
     {
       "user": "DH2",
       "rank": 1018,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "DH2",
       "rank": 1018,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "Daichi124",
@@ -7325,12 +7325,12 @@
     {
       "user": "imuraya",
       "rank": 1018,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "imuraya",
       "rank": 1018,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "int_R",
@@ -8000,12 +8000,12 @@
     {
       "user": "nono00",
       "rank": 1018,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "nono00",
       "rank": 1018,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "noq",
@@ -8095,12 +8095,12 @@
     {
       "user": "peperontiino",
       "rank": 1018,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "peperontiino",
       "rank": 1018,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "peroon",
@@ -8560,12 +8560,12 @@
     {
       "user": "solle",
       "rank": 1018,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "solle",
       "rank": 1018,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "soma81",
