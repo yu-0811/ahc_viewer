@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc042",
-  "fetched_at": "2026-02-22T15:33:54.983786+00:00",
+  "fetched_at": "2026-02-23T15:55:26.362527+00:00",
   "rows": [
     {
       "user": "syndrome",
@@ -405,12 +405,12 @@
     {
       "user": "kotamanegi",
       "rank": 81,
-      "contest_rank": null
+      "contest_rank": 26
     },
     {
       "user": "kotamanegi",
       "rank": 81,
-      "contest_rank": 26
+      "contest_rank": null
     },
     {
       "user": "y_kawano",
@@ -3040,12 +3040,12 @@
     {
       "user": "nanae",
       "rank": 608,
-      "contest_rank": 401
+      "contest_rank": null
     },
     {
       "user": "nanae",
       "rank": 608,
-      "contest_rank": null
+      "contest_rank": 401
     },
     {
       "user": "katsuta",
@@ -9600,12 +9600,12 @@
     {
       "user": "kanra824",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "kanra824",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "karinohito",
@@ -10765,12 +10765,12 @@
     {
       "user": "sk4rd",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "sk4rd",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "skipped",
@@ -11375,12 +11375,12 @@
     {
       "user": "yorksyo",
       "rank": 1375,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "yorksyo",
       "rank": 1375,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "yoshin",

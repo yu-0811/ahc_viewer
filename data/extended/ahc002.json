@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc002",
-  "fetched_at": "2026-02-22T15:30:20.823969+00:00",
+  "fetched_at": "2026-02-23T15:51:56.197299+00:00",
   "rows": [
     {
       "user": "C2028_wzc",
@@ -10255,12 +10255,12 @@
     {
       "user": "AlyName",
       "rank": 2021,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "AlyName",
       "rank": 2021,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "Amaaninaam",
@@ -16660,12 +16660,12 @@
     {
       "user": "qiliangzhe",
       "rank": 2021,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "qiliangzhe",
       "rank": 2021,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "qnl",
