@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-02-24T16:06:15.123953+00:00",
+  "fetched_at": "2026-02-25T16:12:00.445190+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1190,12 +1190,12 @@
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": 183
+      "contest_rank": null
     },
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 183
     },
     {
       "user": "yudedako",
@@ -3130,12 +3130,12 @@
     {
       "user": "ynak79",
       "rank": 626,
-      "contest_rank": null
+      "contest_rank": 539
     },
     {
       "user": "ynak79",
       "rank": 626,
-      "contest_rank": 539
+      "contest_rank": null
     },
     {
       "user": "shihaka",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc015",
-  "fetched_at": "2026-02-24T16:05:04.754138+00:00",
+  "fetched_at": "2026-02-25T16:10:41.462905+00:00",
   "rows": [
     {
       "user": "saitodevel01",
@@ -6475,12 +6475,12 @@
     {
       "user": "Banis",
       "rank": 1268,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Banis",
       "rank": 1268,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Baytool",
@@ -7025,12 +7025,12 @@
     {
       "user": "Misodango",
       "rank": 1268,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Misodango",
       "rank": 1268,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Mistouch",
