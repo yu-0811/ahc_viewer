@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2026-02-25T16:12:07.969736+00:00",
+  "fetched_at": "2026-02-26T16:00:07.434750+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -2600,12 +2600,12 @@
     {
       "user": "AwashAmityOak",
       "rank": 520,
-      "contest_rank": null
+      "contest_rank": 327
     },
     {
       "user": "AwashAmityOak",
       "rank": 520,
-      "contest_rank": 327
+      "contest_rank": null
     },
     {
       "user": "BachPianoman",
@@ -6045,12 +6045,12 @@
     {
       "user": "garutto",
       "rank": 1209,
-      "contest_rank": 839
+      "contest_rank": null
     },
     {
       "user": "garutto",
       "rank": 1209,
-      "contest_rank": null
+      "contest_rank": 839
     },
     {
       "user": "kinn",
