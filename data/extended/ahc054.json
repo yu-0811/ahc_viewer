@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-02-27T15:45:39.055853+00:00",
+  "fetched_at": "2026-02-28T15:33:06.208773+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -9003,6 +9003,11 @@
       "contest_rank": null
     },
     {
+      "user": "XYK_CPP",
+      "rank": 1213,
+      "contest_rank": 1124
+    },
+    {
       "user": "XemM",
       "rank": 1213,
       "contest_rank": 1124
@@ -14104,11 +14109,6 @@
     },
     {
       "user": "xuanxuanni",
-      "rank": 1213,
-      "contest_rank": 1124
-    },
-    {
-      "user": "xuyike",
       "rank": 1213,
       "contest_rank": 1124
     },
