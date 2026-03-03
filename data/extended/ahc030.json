@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2026-03-02T15:49:25.179719+00:00",
+  "fetched_at": "2026-03-03T15:54:59.460330+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -2883,94 +2883,94 @@
       "contest_rank": 361
     },
     {
-      "user": "waalnut",
+      "user": "hiuchida",
       "rank": 577,
+      "contest_rank": null
+    },
+    {
+      "user": "waalnut",
+      "rank": 578,
       "contest_rank": 512
     },
     {
       "user": "nawa",
-      "rank": 578,
+      "rank": 579,
       "contest_rank": 505
     },
     {
       "user": "Luft",
-      "rank": 579,
+      "rank": 580,
       "contest_rank": 466
     },
     {
       "user": "yatuba",
-      "rank": 580,
+      "rank": 581,
       "contest_rank": 436
     },
     {
       "user": "N_ha_1050",
-      "rank": 581,
+      "rank": 582,
       "contest_rank": 449
     },
     {
       "user": "HyperToy",
-      "rank": 582,
+      "rank": 583,
       "contest_rank": 445
     },
     {
       "user": "shiren157",
-      "rank": 583,
+      "rank": 584,
       "contest_rank": 499
     },
     {
       "user": "nemoi",
-      "rank": 584,
+      "rank": 585,
       "contest_rank": 523
     },
     {
       "user": "Don8823",
-      "rank": 585,
+      "rank": 586,
       "contest_rank": 465
     },
     {
       "user": "ki_opt",
-      "rank": 586,
+      "rank": 587,
       "contest_rank": 497
     },
     {
       "user": "mame_pato",
-      "rank": 587,
+      "rank": 588,
       "contest_rank": null
     },
     {
       "user": "kaz49bz",
-      "rank": 588,
+      "rank": 589,
       "contest_rank": 438
     },
     {
       "user": "kkawa",
-      "rank": 589,
+      "rank": 590,
       "contest_rank": 562
     },
     {
       "user": "KazumaKimura",
-      "rank": 590,
+      "rank": 591,
       "contest_rank": 522
     },
     {
       "user": "muratahiromu",
-      "rank": 591,
+      "rank": 592,
       "contest_rank": 524
     },
     {
       "user": "Plantunity",
-      "rank": 592,
+      "rank": 593,
       "contest_rank": 538
     },
     {
       "user": "zakimyaa",
-      "rank": 593,
-      "contest_rank": 462
-    },
-    {
-      "user": "hiuchida",
       "rank": 594,
-      "contest_rank": null
+      "contest_rank": 462
     },
     {
       "user": "D4Cngo",
@@ -4255,12 +4255,12 @@
     {
       "user": "BinomialSheep",
       "rank": 840,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "BinomialSheep",
       "rank": 840,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "Chenly",
@@ -4885,12 +4885,12 @@
     {
       "user": "gojira_ku",
       "rank": 840,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "gojira_ku",
       "rank": 840,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "gomapen",
@@ -5615,12 +5615,12 @@
     {
       "user": "yaakiyu",
       "rank": 840,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "yaakiyu",
       "rank": 840,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "ycZhou",
@@ -7495,12 +7495,12 @@
     {
       "user": "Haruki1009",
       "rank": 1200,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "Haruki1009",
       "rank": 1200,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "Hash56",
@@ -8190,12 +8190,12 @@
     {
       "user": "L3_035966",
       "rank": 1200,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "L3_035966",
       "rank": 1200,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "LEVIN_191019",
@@ -15500,12 +15500,12 @@
     {
       "user": "okayu123",
       "rank": 1200,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "okayu123",
       "rank": 1200,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "okeue",
@@ -18600,12 +18600,12 @@
     {
       "user": "yonghu_3913",
       "rank": 1200,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "yonghu_3913",
       "rank": 1200,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "yookwi",
