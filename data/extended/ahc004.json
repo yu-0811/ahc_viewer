@@ -1,14 +1,14 @@
 {
   "contest_id": "ahc004",
-  "fetched_at": "2026-03-03T15:52:36.043595+00:00",
+  "fetched_at": "2026-03-04T15:49:57.157199+00:00",
   "rows": [
     {
-      "user": "Zovink",
+      "user": "Shibuyap",
       "rank": 1,
       "contest_rank": null
     },
     {
-      "user": "Shibuyap",
+      "user": "Zovink",
       "rank": 2,
       "contest_rank": null
     },
@@ -7210,12 +7210,12 @@
     {
       "user": "cympfh",
       "rank": 909,
-      "contest_rank": 604
+      "contest_rank": null
     },
     {
       "user": "cympfh",
       "rank": 909,
-      "contest_rank": null
+      "contest_rank": 604
     },
     {
       "user": "d_aditya",
@@ -7775,12 +7775,12 @@
     {
       "user": "hotman78",
       "rank": 909,
-      "contest_rank": null
+      "contest_rank": 604
     },
     {
       "user": "hotman78",
       "rank": 909,
-      "contest_rank": 604
+      "contest_rank": null
     },
     {
       "user": "houren",
@@ -8178,6 +8178,11 @@
       "contest_rank": 604
     },
     {
+      "user": "kino0402",
+      "rank": 909,
+      "contest_rank": null
+    },
+    {
       "user": "kishika",
       "rank": 909,
       "contest_rank": 604
@@ -8330,12 +8335,12 @@
     {
       "user": "leon1125",
       "rank": 909,
-      "contest_rank": 604
+      "contest_rank": null
     },
     {
       "user": "leon1125",
       "rank": 909,
-      "contest_rank": null
+      "contest_rank": 604
     },
     {
       "user": "lets",
@@ -9845,12 +9850,12 @@
     {
       "user": "siva10928",
       "rank": 909,
-      "contest_rank": 604
+      "contest_rank": null
     },
     {
       "user": "siva10928",
       "rank": 909,
-      "contest_rank": null
+      "contest_rank": 604
     },
     {
       "user": "skt113",
