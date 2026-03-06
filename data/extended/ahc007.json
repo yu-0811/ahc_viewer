@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-03-05T15:55:19.948549+00:00",
+  "fetched_at": "2026-03-06T15:42:33.173527+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -5665,12 +5665,12 @@
     {
       "user": "achapi",
       "rank": 999,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "achapi",
       "rank": 999,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "adi137",
@@ -6795,12 +6795,12 @@
     {
       "user": "tombo314",
       "rank": 999,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "tombo314",
       "rank": 999,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "toureiffel2018",
