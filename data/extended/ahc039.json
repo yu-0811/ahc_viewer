@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc039",
-  "fetched_at": "2026-03-06T15:45:36.597852+00:00",
+  "fetched_at": "2026-03-07T15:32:11.747990+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -1890,12 +1890,12 @@
     {
       "user": "MNMNBK",
       "rank": 377,
-      "contest_rank": 205
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 377,
-      "contest_rank": null
+      "contest_rank": 205
     },
     {
       "user": "daniel2025",
@@ -2980,12 +2980,12 @@
     {
       "user": "nekoti",
       "rank": 596,
-      "contest_rank": null
+      "contest_rank": 371
     },
     {
       "user": "nekoti",
       "rank": 596,
-      "contest_rank": 371
+      "contest_rank": null
     },
     {
       "user": "yasuwo",
@@ -3785,12 +3785,12 @@
     {
       "user": "igasa_k",
       "rank": 757,
-      "contest_rank": null
+      "contest_rank": 509
     },
     {
       "user": "igasa_k",
       "rank": 757,
-      "contest_rank": 509
+      "contest_rank": null
     },
     {
       "user": "Machidayugo",
@@ -5070,12 +5070,12 @@
     {
       "user": "cumene_rx",
       "rank": 1014,
-      "contest_rank": 680
+      "contest_rank": null
     },
     {
       "user": "cumene_rx",
       "rank": 1014,
-      "contest_rank": null
+      "contest_rank": 680
     },
     {
       "user": "keisankatei",
@@ -8105,12 +8105,12 @@
     {
       "user": "peperontiino",
       "rank": 1020,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "peperontiino",
       "rank": 1020,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "peroon",
@@ -8570,12 +8570,12 @@
     {
       "user": "solle",
       "rank": 1020,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "solle",
       "rank": 1020,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "soma81",

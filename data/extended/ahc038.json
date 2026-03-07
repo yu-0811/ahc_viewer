@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-03-06T15:45:29.473154+00:00",
+  "fetched_at": "2026-03-07T15:32:04.542886+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -5660,12 +5660,12 @@
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "2024Hanson",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "2024zzh",
@@ -8783,6 +8783,11 @@
       "contest_rank": 1005
     },
     {
+      "user": "Nailoong_SHM",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
       "user": "NakaG",
       "rank": 1128,
       "contest_rank": 1005
@@ -10625,12 +10630,12 @@
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "Weskdohn",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "Weslie_s",
@@ -16960,12 +16965,12 @@
     {
       "user": "orugantimanikan1",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "orugantimanikan1",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "otabek_goziyev",
@@ -18464,11 +18469,6 @@
     },
     {
       "user": "shjustin",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
-      "user": "shmlegend",
       "rank": 1128,
       "contest_rank": 1005
     },
