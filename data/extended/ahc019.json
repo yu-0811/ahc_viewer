@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc019",
-  "fetched_at": "2026-03-08T15:30:33.657505+00:00",
+  "fetched_at": "2026-03-09T16:03:45.223238+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -2535,12 +2535,12 @@
     {
       "user": "blueberry1001",
       "rank": 500,
-      "contest_rank": 454
+      "contest_rank": null
     },
     {
       "user": "blueberry1001",
       "rank": 500,
-      "contest_rank": null
+      "contest_rank": 454
     },
     {
       "user": "bocari",
@@ -14135,12 +14135,12 @@
     {
       "user": "wangrunyang",
       "rank": 874,
-      "contest_rank": 738
+      "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 874,
-      "contest_rank": null
+      "contest_rank": 738
     },
     {
       "user": "wangzhidao",
