@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc049",
-  "fetched_at": "2026-03-10T16:08:22.949983+00:00",
+  "fetched_at": "2026-03-11T15:58:32.860892+00:00",
   "rows": [
     {
       "user": "Bolero",
@@ -3683,7 +3683,7 @@
       "contest_rank": 509
     },
     {
-      "user": "Ra_to",
+      "user": "Fukassei_tanso",
       "rank": 737,
       "contest_rank": 510
     },
@@ -5785,12 +5785,12 @@
     {
       "user": "Taruto_kun",
       "rank": 1150,
-      "contest_rank": 856
+      "contest_rank": null
     },
     {
       "user": "Taruto_kun",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 856
     },
     {
       "user": "amtgjw",
@@ -6228,6 +6228,11 @@
       "contest_rank": 872
     },
     {
+      "user": "Fukassei_tanso",
+      "rank": 1186,
+      "contest_rank": null
+    },
+    {
       "user": "Germanium032",
       "rank": 1186,
       "contest_rank": 872
@@ -6653,11 +6658,6 @@
       "contest_rank": 872
     },
     {
-      "user": "Ra_to",
-      "rank": 1186,
-      "contest_rank": null
-    },
-    {
       "user": "Raghu79",
       "rank": 1186,
       "contest_rank": 872
@@ -6770,12 +6770,12 @@
     {
       "user": "SrijonKumarShill",
       "rank": 1186,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "SrijonKumarShill",
       "rank": 1186,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "Stella0719",
@@ -6910,12 +6910,12 @@
     {
       "user": "Yawning_winner",
       "rank": 1186,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "Yawning_winner",
       "rank": 1186,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "Yogit",
@@ -8320,12 +8320,12 @@
     {
       "user": "rian_syaifullah",
       "rank": 1186,
-      "contest_rank": 872
+      "contest_rank": null
     },
     {
       "user": "rian_syaifullah",
       "rank": 1186,
-      "contest_rank": null
+      "contest_rank": 872
     },
     {
       "user": "riano_",

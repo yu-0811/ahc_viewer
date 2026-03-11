@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc037",
-  "fetched_at": "2026-03-10T16:07:15.998933+00:00",
+  "fetched_at": "2026-03-11T15:57:17.838533+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -335,12 +335,12 @@
     {
       "user": "ymatsux",
       "rank": 66,
-      "contest_rank": 20
+      "contest_rank": null
     },
     {
       "user": "ymatsux",
       "rank": 66,
-      "contest_rank": null
+      "contest_rank": 20
     },
     {
       "user": "aotyam",
@@ -655,12 +655,12 @@
     {
       "user": "rui_er",
       "rank": 75,
-      "contest_rank": 23
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 75,
-      "contest_rank": null
+      "contest_rank": 23
     },
     {
       "user": "scat_neko",
@@ -5115,12 +5115,12 @@
     {
       "user": "sorachandu",
       "rank": 921,
-      "contest_rank": 600
+      "contest_rank": null
     },
     {
       "user": "sorachandu",
       "rank": 921,
-      "contest_rank": null
+      "contest_rank": 600
     },
     {
       "user": "sty7891",
@@ -7390,12 +7390,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1393,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1393,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "Gaotianxiang",
@@ -7535,12 +7535,12 @@
     {
       "user": "KFrom40",
       "rank": 1393,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "KFrom40",
       "rank": 1393,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "K_E",
@@ -7900,12 +7900,12 @@
     {
       "user": "RMiyazaki",
       "rank": 1393,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "RMiyazaki",
       "rank": 1393,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "ROCK_Y",
