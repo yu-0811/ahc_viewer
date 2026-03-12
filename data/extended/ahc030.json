@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc030",
-  "fetched_at": "2026-03-11T15:56:35.849367+00:00",
+  "fetched_at": "2026-03-12T16:06:07.279711+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -1190,12 +1190,12 @@
     {
       "user": "harmokey",
       "rank": 238,
-      "contest_rank": 158
+      "contest_rank": null
     },
     {
       "user": "harmokey",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 158
     },
     {
       "user": "kokosei",
@@ -2445,12 +2445,12 @@
     {
       "user": "ryo_n",
       "rank": 489,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "ryo_n",
       "rank": 489,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "ruis",
@@ -4890,12 +4890,12 @@
     {
       "user": "gojira_ku",
       "rank": 841,
-      "contest_rank": 728
+      "contest_rank": null
     },
     {
       "user": "gojira_ku",
       "rank": 841,
-      "contest_rank": null
+      "contest_rank": 728
     },
     {
       "user": "gomapen",
@@ -15505,12 +15505,12 @@
     {
       "user": "okayu123",
       "rank": 1201,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "okayu123",
       "rank": 1201,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "okeue",
@@ -17630,12 +17630,12 @@
     {
       "user": "tikuwa_",
       "rank": 1201,
-      "contest_rank": null
+      "contest_rank": 1037
     },
     {
       "user": "tikuwa_",
       "rank": 1201,
-      "contest_rank": 1037
+      "contest_rank": null
     },
     {
       "user": "tj8864",

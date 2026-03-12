@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-03-11T15:59:13.922544+00:00",
+  "fetched_at": "2026-03-12T16:09:03.755011+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -1400,12 +1400,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 280,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "TwoSquirrels",
       "rank": 280,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "EzukaFuya",
@@ -2515,12 +2515,12 @@
     {
       "user": "sukesan_killer",
       "rank": 395,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "sukesan_killer",
       "rank": 395,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "tanakh",
