@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc012",
-  "fetched_at": "2026-03-13T15:49:53.289894+00:00",
+  "fetched_at": "2026-03-14T15:33:30.851440+00:00",
   "rows": [
     {
       "user": "PrussianBlue",
@@ -2763,7 +2763,7 @@
       "contest_rank": 309
     },
     {
-      "user": "nisui258",
+      "user": "hajiy",
       "rank": 553,
       "contest_rank": 310
     },
@@ -6190,12 +6190,12 @@
     {
       "user": "Jayden_Zhao",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "Jayden_Zhao",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "Jaydenyou",
@@ -7820,12 +7820,12 @@
     {
       "user": "cz123",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "cz123",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "czq1997",
@@ -8980,12 +8980,12 @@
     {
       "user": "maspy",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "maspy",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "masuma28",
@@ -9720,12 +9720,12 @@
     {
       "user": "sar_learn_code",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "sar_learn_code",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "sararRafid",
@@ -10325,22 +10325,22 @@
     {
       "user": "wangruichen",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "wangruichen",
       "rank": 1095,
-      "contest_rank": 711
-    },
-    {
-      "user": "wangrunyang",
-      "rank": 1095,
       "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 1095,
       "contest_rank": 711
+    },
+    {
+      "user": "wangrunyang",
+      "rank": 1095,
+      "contest_rank": null
     },
     {
       "user": "waruru",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc016",
-  "fetched_at": "2026-03-13T15:50:15.288261+00:00",
+  "fetched_at": "2026-03-14T15:33:52.772160+00:00",
   "rows": [
     {
       "user": "nagiss",
@@ -8788,6 +8788,11 @@
       "contest_rank": 1047
     },
     {
+      "user": "hajiy",
+      "rank": 1209,
+      "contest_rank": 1047
+    },
+    {
       "user": "halnair",
       "rank": 1209,
       "contest_rank": 1047
@@ -10134,11 +10139,6 @@
     },
     {
       "user": "nishinoyama",
-      "rank": 1209,
-      "contest_rank": 1047
-    },
-    {
-      "user": "nisui258",
       "rank": 1209,
       "contest_rank": 1047
     },

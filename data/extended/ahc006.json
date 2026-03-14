@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-03-13T15:49:31.886690+00:00",
+  "fetched_at": "2026-03-14T15:33:08.891904+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -1953,7 +1953,7 @@
       "contest_rank": 161
     },
     {
-      "user": "nisui258",
+      "user": "hajiy",
       "rank": 391,
       "contest_rank": 162
     },
@@ -7420,12 +7420,12 @@
     {
       "user": "nahco314",
       "rank": 1050,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "nahco314",
       "rank": 1050,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "naim93",

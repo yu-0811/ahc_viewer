@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc013",
-  "fetched_at": "2026-03-13T15:49:58.741402+00:00",
+  "fetched_at": "2026-03-14T15:33:36.199073+00:00",
   "rows": [
     {
       "user": "wangrunyang",
@@ -2638,7 +2638,7 @@
       "contest_rank": 467
     },
     {
-      "user": "nisui258",
+      "user": "hajiy",
       "rank": 528,
       "contest_rank": 442
     },
@@ -4780,12 +4780,12 @@
     {
       "user": "sword060",
       "rank": 956,
-      "contest_rank": 845
+      "contest_rank": null
     },
     {
       "user": "sword060",
       "rank": 956,
-      "contest_rank": null
+      "contest_rank": 845
     },
     {
       "user": "longrun",
@@ -6006,6 +6006,11 @@
       "user": "IHa",
       "rank": 961,
       "contest_rank": 850
+    },
+    {
+      "user": "IIIHHH",
+      "rank": 961,
+      "contest_rank": null
     },
     {
       "user": "IIIIIlIIIl",
@@ -7690,12 +7695,12 @@
     {
       "user": "THEMCSKELETON",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "THEMCSKELETON",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "TKR18",
@@ -11300,12 +11305,12 @@
     {
       "user": "liufuqiang",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "liufuqiang",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "liuhanting",
@@ -11585,12 +11590,12 @@
     {
       "user": "maspy",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "maspy",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "master0_0mind",

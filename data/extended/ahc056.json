@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-03-13T15:54:17.163700+00:00",
+  "fetched_at": "2026-03-14T15:37:35.531057+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -2515,12 +2515,12 @@
     {
       "user": "sukesan_killer",
       "rank": 395,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "sukesan_killer",
       "rank": 395,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "tanakh",

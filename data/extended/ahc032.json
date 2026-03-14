@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc032",
-  "fetched_at": "2026-03-13T15:51:52.290476+00:00",
+  "fetched_at": "2026-03-14T15:35:23.080254+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -4643,7 +4643,7 @@
       "contest_rank": 577
     },
     {
-      "user": "maguro39",
+      "user": "maguro923",
       "rank": 929,
       "contest_rank": 578
     },
@@ -4710,12 +4710,12 @@
     {
       "user": "alfons",
       "rank": 941,
-      "contest_rank": 589
+      "contest_rank": null
     },
     {
       "user": "alfons",
       "rank": 941,
-      "contest_rank": null
+      "contest_rank": 589
     },
     {
       "user": "furs0na",
@@ -6345,12 +6345,12 @@
     {
       "user": "fuuga",
       "rank": 1269,
-      "contest_rank": 838
+      "contest_rank": null
     },
     {
       "user": "fuuga",
       "rank": 1269,
-      "contest_rank": null
+      "contest_rank": 838
     },
     {
       "user": "gpzone100",

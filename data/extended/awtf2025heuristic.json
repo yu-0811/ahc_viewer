@@ -1,6 +1,6 @@
 {
   "contest_id": "awtf2025heuristic",
-  "fetched_at": "2026-03-13T15:55:34.707813+00:00",
+  "fetched_at": "2026-03-14T15:39:02.746840+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -243,6 +243,11 @@
       "contest_rank": null
     },
     {
+      "user": "kino0402",
+      "rank": 45,
+      "contest_rank": null
+    },
+    {
       "user": "nekoti",
       "rank": 45,
       "contest_rank": null
@@ -254,72 +259,72 @@
     },
     {
       "user": "lowtune",
-      "rank": 51,
-      "contest_rank": null
-    },
-    {
-      "user": "v_star",
       "rank": 52,
       "contest_rank": null
     },
     {
-      "user": "wyyinput",
+      "user": "v_star",
       "rank": 53,
       "contest_rank": null
     },
     {
-      "user": "CuteMurasame",
+      "user": "wyyinput",
       "rank": 54,
+      "contest_rank": null
+    },
+    {
+      "user": "CuteMurasame",
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "Shu_Cream_Party",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "arbre",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "armedbeast",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "jch2025",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "joe3alaa",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "lijiaming",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "manikanta_3141",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "mitsu0523",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "remomon55",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     },
     {
       "user": "sor4chi",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": null
     }
   ]
