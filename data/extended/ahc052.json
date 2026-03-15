@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc052",
-  "fetched_at": "2026-03-14T15:37:13.201672+00:00",
+  "fetched_at": "2026-03-15T15:38:09.616756+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -5960,12 +5960,12 @@
     {
       "user": "Godel8182",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "Godel8182",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "GoldIngot",
@@ -8563,6 +8563,11 @@
       "contest_rank": 776
     },
     {
+      "user": "jianghz",
+      "rank": 1070,
+      "contest_rank": 776
+    },
+    {
       "user": "jikei",
       "rank": 1070,
       "contest_rank": 776
@@ -8589,11 +8594,6 @@
     },
     {
       "user": "jungle15",
-      "rank": 1070,
-      "contest_rank": 776
-    },
-    {
-      "user": "juruo_zhanshen",
       "rank": 1070,
       "contest_rank": 776
     },
@@ -8700,12 +8700,12 @@
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "kawakawariver",
@@ -9285,12 +9285,12 @@
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "ohirugohan",

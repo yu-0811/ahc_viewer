@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc058",
-  "fetched_at": "2026-03-14T15:37:46.464866+00:00",
+  "fetched_at": "2026-03-15T15:38:42.823569+00:00",
   "rows": [
     {
       "user": "zhy123",
@@ -5670,12 +5670,12 @@
     {
       "user": "Kavya_S01",
       "rank": 1041,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "Kavya_S01",
       "rank": 1041,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "Kgnkm",
@@ -6515,12 +6515,12 @@
     {
       "user": "aketijyuuzou",
       "rank": 1041,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "aketijyuuzou",
       "rank": 1041,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "akito_",
@@ -7326,6 +7326,11 @@
       "user": "milkcoffee",
       "rank": 1041,
       "contest_rank": 768
+    },
+    {
+      "user": "minecraftzuki",
+      "rank": 1041,
+      "contest_rank": null
     },
     {
       "user": "miraclefruit",

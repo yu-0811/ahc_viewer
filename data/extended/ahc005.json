@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc005",
-  "fetched_at": "2026-03-14T15:33:03.276823+00:00",
+  "fetched_at": "2026-03-15T15:33:57.369663+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -83,12 +83,12 @@
       "contest_rank": null
     },
     {
-      "user": "dsytk7",
+      "user": "Shibuyap",
       "rank": 17,
       "contest_rank": null
     },
     {
-      "user": "Shibuyap",
+      "user": "dsytk7",
       "rank": 18,
       "contest_rank": null
     },
@@ -6925,12 +6925,12 @@
     {
       "user": "SuppliLion",
       "rank": 915,
-      "contest_rank": 515
+      "contest_rank": null
     },
     {
       "user": "SuppliLion",
       "rank": 915,
-      "contest_rank": null
+      "contest_rank": 515
     },
     {
       "user": "Suraiya",
