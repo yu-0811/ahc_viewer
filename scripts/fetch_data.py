@@ -127,6 +127,14 @@ def save_json(path: Path, data: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
+def has_non_empty_rows(path: Path) -> bool:
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return False
+    rows = data.get("rows") if isinstance(data, dict) else None
+    return isinstance(rows, list) and len(rows) > 0
+
 
 def process_contest(contest_id: str, session: requests.Session, fetch_extended: bool = True) -> None:
     timestamp = datetime.now(timezone.utc).isoformat()
@@ -137,10 +145,12 @@ def process_contest(contest_id: str, session: requests.Session, fetch_extended: 
     extended_path = EXTENDED_DIR / f"{contest_id}.json"
 
     # 順位表の取得
-    if results_path.exists():
+    if results_path.exists() and has_non_empty_rows(results_path):
         print(f"[{contest_id}] results already cached, skipping.")
     else:
         try:
+            if results_path.exists():
+                print(f"[{contest_id}] cached results are empty, refetching ...")
             print(f"[{contest_id}] fetching results ...")
             results_raw = fetch_json(results_url)
             results_data = {
