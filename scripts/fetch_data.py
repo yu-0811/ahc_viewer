@@ -130,7 +130,7 @@ def save_json(path: Path, data: Any) -> None:
 def has_non_empty_rows(path: Path) -> bool:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
-    except Exception:  # noqa: BLE001
+    except (FileNotFoundError, OSError, json.JSONDecodeError):
         return False
     rows = data.get("rows") if isinstance(data, dict) else None
     return isinstance(rows, list) and len(rows) > 0
