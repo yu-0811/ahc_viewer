@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc012",
-  "fetched_at": "2026-03-17T15:32:43.227354+00:00",
+  "fetched_at": "2026-03-17T16:10:23.420612+00:00",
   "rows": [
     {
       "user": "PrussianBlue",
@@ -6580,12 +6580,12 @@
     {
       "user": "Numbers",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "Numbers",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "NusratJN350",
@@ -7520,12 +7520,12 @@
     {
       "user": "ashitsunokara",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "ashitsunokara",
       "rank": 1095,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "asi1024",
@@ -10325,22 +10325,22 @@
     {
       "user": "wangruichen",
       "rank": 1095,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "wangruichen",
       "rank": 1095,
-      "contest_rank": 711
-    },
-    {
-      "user": "wangrunyang",
-      "rank": 1095,
       "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 1095,
       "contest_rank": 711
+    },
+    {
+      "user": "wangrunyang",
+      "rank": 1095,
+      "contest_rank": null
     },
     {
       "user": "waruru",
