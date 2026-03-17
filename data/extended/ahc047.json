@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc047",
-  "fetched_at": "2026-03-16T16:13:28.448893+00:00",
+  "fetched_at": "2026-03-17T15:36:13.347922+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1250,12 +1250,12 @@
     {
       "user": "yupiteru",
       "rank": 250,
-      "contest_rank": 115
+      "contest_rank": null
     },
     {
       "user": "yupiteru",
       "rank": 250,
-      "contest_rank": null
+      "contest_rank": 115
     },
     {
       "user": "gvastash",
@@ -2510,12 +2510,12 @@
     {
       "user": "MNMNBK",
       "rank": 502,
-      "contest_rank": 310
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 502,
-      "contest_rank": null
+      "contest_rank": 310
     },
     {
       "user": "okudeottu",
@@ -3325,12 +3325,12 @@
     {
       "user": "riu0415",
       "rank": 665,
-      "contest_rank": 445
+      "contest_rank": null
     },
     {
       "user": "riu0415",
       "rank": 665,
-      "contest_rank": null
+      "contest_rank": 445
     },
     {
       "user": "shiren157",
@@ -4770,12 +4770,12 @@
     {
       "user": "kotakun2724",
       "rank": 916,
-      "contest_rank": null
+      "contest_rank": 659
     },
     {
       "user": "kotakun2724",
       "rank": 916,
-      "contest_rank": 659
+      "contest_rank": null
     },
     {
       "user": "leoborui",
@@ -6250,12 +6250,12 @@
     {
       "user": "chnh",
       "rank": 1250,
-      "contest_rank": 938
+      "contest_rank": null
     },
     {
       "user": "chnh",
       "rank": 1250,
-      "contest_rank": null
+      "contest_rank": 938
     },
     {
       "user": "mathworker21",
@@ -6400,12 +6400,12 @@
     {
       "user": "yuyu0202",
       "rank": 1273,
-      "contest_rank": null
+      "contest_rank": 952
     },
     {
       "user": "yuyu0202",
       "rank": 1273,
-      "contest_rank": 952
+      "contest_rank": null
     },
     {
       "user": "taku001",
@@ -10043,6 +10043,11 @@
       "contest_rank": 1030
     },
     {
+      "user": "mavito",
+      "rank": 1371,
+      "contest_rank": 1030
+    },
+    {
       "user": "maxkamova08",
       "rank": 1371,
       "contest_rank": 1030
@@ -11194,11 +11199,6 @@
     },
     {
       "user": "torus711",
-      "rank": 1371,
-      "contest_rank": 1030
-    },
-    {
-      "user": "tosivanmak",
       "rank": 1371,
       "contest_rank": 1030
     },

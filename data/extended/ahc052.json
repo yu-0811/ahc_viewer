@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc052",
-  "fetched_at": "2026-03-16T16:13:57.505841+00:00",
+  "fetched_at": "2026-03-17T15:36:44.813452+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -6585,12 +6585,12 @@
     {
       "user": "Nyxane",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "Nyxane",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "OIer_ACMerzzx",
@@ -8700,12 +8700,12 @@
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "kawakawariver",
@@ -8979,6 +8979,11 @@
     },
     {
       "user": "mattari927",
+      "rank": 1070,
+      "contest_rank": 776
+    },
+    {
+      "user": "mavito",
       "rank": 1070,
       "contest_rank": 776
     },
@@ -9285,12 +9290,12 @@
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "ohirugohan",
@@ -10129,11 +10134,6 @@
     },
     {
       "user": "tomoki0317",
-      "rank": 1070,
-      "contest_rank": 776
-    },
-    {
-      "user": "tosivanmak",
       "rank": 1070,
       "contest_rank": 776
     },

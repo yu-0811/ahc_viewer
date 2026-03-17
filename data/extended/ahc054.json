@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc054",
-  "fetched_at": "2026-03-16T16:14:08.577081+00:00",
+  "fetched_at": "2026-03-17T15:36:56.243935+00:00",
   "rows": [
     {
       "user": "asi1024",
@@ -6040,12 +6040,12 @@
     {
       "user": "watacco",
       "rank": 1208,
-      "contest_rank": null
+      "contest_rank": 1119
     },
     {
       "user": "watacco",
       "rank": 1208,
-      "contest_rank": 1119
+      "contest_rank": null
     },
     {
       "user": "blackpanther7",
@@ -11793,6 +11793,11 @@
       "contest_rank": 1124
     },
     {
+      "user": "mavito",
+      "rank": 1215,
+      "contest_rank": 1124
+    },
+    {
       "user": "mayank21072004",
       "rank": 1215,
       "contest_rank": 1124
@@ -13684,11 +13689,6 @@
     },
     {
       "user": "toshikoshi_ramen",
-      "rank": 1215,
-      "contest_rank": 1124
-    },
-    {
-      "user": "tosivanmak",
       "rank": 1215,
       "contest_rank": 1124
     },
