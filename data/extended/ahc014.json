@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc014",
-  "fetched_at": "2026-03-17T16:10:34.140031+00:00",
+  "fetched_at": "2026-03-18T16:11:23.522665+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3715,12 +3715,12 @@
     {
       "user": "gojira_ku",
       "rank": 660,
-      "contest_rank": 584
+      "contest_rank": null
     },
     {
       "user": "gojira_ku",
       "rank": 660,
-      "contest_rank": null
+      "contest_rank": 584
     },
     {
       "user": "good_coder_666",

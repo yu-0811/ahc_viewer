@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-03-17T16:14:49.697040+00:00",
+  "fetched_at": "2026-03-18T16:16:05.493663+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -215,12 +215,12 @@
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": 31
+      "contest_rank": null
     },
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": null
+      "contest_rank": 31
     },
     {
       "user": "yadorann24",
@@ -2945,12 +2945,12 @@
     {
       "user": "khasu329",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 528
     },
     {
       "user": "khasu329",
       "rank": 589,
-      "contest_rank": 528
+      "contest_rank": null
     },
     {
       "user": "GoodK",
@@ -3370,12 +3370,12 @@
     {
       "user": "UT0911",
       "rank": 674,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "UT0911",
       "rank": 674,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "KiriKana",
@@ -3905,12 +3905,12 @@
     {
       "user": "420801",
       "rank": 781,
-      "contest_rank": null
+      "contest_rank": 713
     },
     {
       "user": "420801",
       "rank": 781,
-      "contest_rank": 713
+      "contest_rank": null
     },
     {
       "user": "shyroute",
@@ -14805,12 +14805,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1229,
-      "contest_rank": null
+      "contest_rank": 1115
     },
     {
       "user": "ymym_tymblack",
       "rank": 1229,
-      "contest_rank": 1115
+      "contest_rank": null
     },
     {
       "user": "yonetani",
