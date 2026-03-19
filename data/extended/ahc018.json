@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc018",
-  "fetched_at": "2026-03-18T16:11:46.572019+00:00",
+  "fetched_at": "2026-03-19T15:59:56.404602+00:00",
   "rows": [
     {
       "user": "Psyho",
@@ -4763,6 +4763,11 @@
       "contest_rank": 821
     },
     {
+      "user": "catlove",
+      "rank": 918,
+      "contest_rank": 821
+    },
+    {
       "user": "ch1cha",
       "rank": 918,
       "contest_rank": 821
@@ -5024,11 +5029,6 @@
     },
     {
       "user": "soma0413",
-      "rank": 918,
-      "contest_rank": 821
-    },
-    {
-      "user": "stonesoil107831",
       "rank": 918,
       "contest_rank": 821
     },
@@ -5425,12 +5425,12 @@
     {
       "user": "deuteridayo",
       "rank": 1085,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "deuteridayo",
       "rank": 1085,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "UMRgurashi",
@@ -12095,12 +12095,12 @@
     {
       "user": "shiir_a",
       "rank": 1150,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "shiir_a",
       "rank": 1150,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "shimasima2",

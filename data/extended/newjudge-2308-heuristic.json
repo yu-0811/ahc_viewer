@@ -1,6 +1,6 @@
 {
   "contest_id": "newjudge-2308-heuristic",
-  "fetched_at": "2026-03-18T16:16:48.588236+00:00",
+  "fetched_at": "2026-03-19T16:04:58.026905+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1085,12 +1085,12 @@
     {
       "user": "420801",
       "rank": 217,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "420801",
       "rank": 217,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "AC2K",
@@ -1611,6 +1611,11 @@
       "user": "brthyyjp",
       "rank": 217,
       "contest_rank": null
+    },
+    {
+      "user": "catlove",
+      "rank": 217,
+      "contest_rank": 149
     },
     {
       "user": "cheMMath1023",
@@ -2484,11 +2489,6 @@
     },
     {
       "user": "ssaattoo",
-      "rank": 217,
-      "contest_rank": 149
-    },
-    {
-      "user": "stonesoil107831",
       "rank": 217,
       "contest_rank": 149
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc005",
-  "fetched_at": "2026-03-18T16:10:45.045513+00:00",
+  "fetched_at": "2026-03-19T15:58:52.286281+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -8205,12 +8205,12 @@
     {
       "user": "chocolat2",
       "rank": 915,
-      "contest_rank": 515
+      "contest_rank": null
     },
     {
       "user": "chocolat2",
       "rank": 915,
-      "contest_rank": null
+      "contest_rank": 515
     },
     {
       "user": "chocopuu",
@@ -8370,12 +8370,12 @@
     {
       "user": "deepaktiwari_21",
       "rank": 915,
-      "contest_rank": null
+      "contest_rank": 515
     },
     {
       "user": "deepaktiwari_21",
       "rank": 915,
-      "contest_rank": 515
+      "contest_rank": null
     },
     {
       "user": "defilement",

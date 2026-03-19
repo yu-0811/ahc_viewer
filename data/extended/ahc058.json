@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc058",
-  "fetched_at": "2026-03-18T16:15:49.151017+00:00",
+  "fetched_at": "2026-03-19T16:03:57.736468+00:00",
   "rows": [
     {
       "user": "zhy123",
@@ -6920,12 +6920,12 @@
     {
       "user": "gojira_ku",
       "rank": 1041,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "gojira_ku",
       "rank": 1041,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "googology",
