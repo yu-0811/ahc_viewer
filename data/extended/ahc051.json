@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc051",
-  "fetched_at": "2026-03-19T16:03:18.240156+00:00",
+  "fetched_at": "2026-03-20T15:54:28.909084+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1630,12 +1630,12 @@
     {
       "user": "liguanchang",
       "rank": 326,
-      "contest_rank": 328
+      "contest_rank": null
     },
     {
       "user": "liguanchang",
       "rank": 326,
-      "contest_rank": null
+      "contest_rank": 328
     },
     {
       "user": "ShunkiKyoya",
@@ -1670,12 +1670,12 @@
     {
       "user": "nnh915",
       "rank": 334,
-      "contest_rank": null
+      "contest_rank": 286
     },
     {
       "user": "nnh915",
       "rank": 334,
-      "contest_rank": 286
+      "contest_rank": null
     },
     {
       "user": "Nauclhlt",
@@ -4410,12 +4410,12 @@
     {
       "user": "mono_1729",
       "rank": 722,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "mono_1729",
       "rank": 722,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "mrunatarwatkar01",
@@ -9160,12 +9160,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1170,
-      "contest_rank": null
+      "contest_rank": 1103
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1170,
-      "contest_rank": 1103
+      "contest_rank": null
     },
     {
       "user": "SIAM809",
@@ -9916,6 +9916,11 @@
       "user": "UNHCR",
       "rank": 1170,
       "contest_rank": 1103
+    },
+    {
+      "user": "UT0911",
+      "rank": 1170,
+      "contest_rank": null
     },
     {
       "user": "UT0911",
@@ -14948,11 +14953,6 @@
       "contest_rank": 1103
     },
     {
-      "user": "o_o0O",
-      "rank": 1170,
-      "contest_rank": 1103
-    },
-    {
       "user": "oblivimint",
       "rank": 1170,
       "contest_rank": 1103
@@ -15019,6 +15019,11 @@
     },
     {
       "user": "original_handle",
+      "rank": 1170,
+      "contest_rank": 1103
+    },
+    {
+      "user": "otukado",
       "rank": 1170,
       "contest_rank": 1103
     },

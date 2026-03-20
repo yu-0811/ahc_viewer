@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2026-03-19T16:03:01.891874+00:00",
+  "fetched_at": "2026-03-20T15:54:10.055169+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -1915,12 +1915,12 @@
     {
       "user": "kazari4",
       "rank": 383,
-      "contest_rank": null
+      "contest_rank": 393
     },
     {
       "user": "kazari4",
       "rank": 383,
-      "contest_rank": 393
+      "contest_rank": null
     },
     {
       "user": "watamatsu",
@@ -2700,12 +2700,12 @@
     {
       "user": "yt142857",
       "rank": 540,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "yt142857",
       "rank": 540,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "rinrion",
@@ -5310,12 +5310,12 @@
     {
       "user": "sukesann",
       "rank": 1062,
-      "contest_rank": 1004
+      "contest_rank": null
     },
     {
       "user": "sukesann",
       "rank": 1062,
-      "contest_rank": null
+      "contest_rank": 1004
     },
     {
       "user": "Taroooooooooooo",
@@ -14313,11 +14313,6 @@
       "contest_rank": 1107
     },
     {
-      "user": "o_o0O",
-      "rank": 1186,
-      "contest_rank": 1107
-    },
-    {
       "user": "oblivimint",
       "rank": 1186,
       "contest_rank": 1107
@@ -14469,6 +14464,11 @@
     },
     {
       "user": "otmpmilk",
+      "rank": 1186,
+      "contest_rank": 1107
+    },
+    {
+      "user": "otukado",
       "rank": 1186,
       "contest_rank": 1107
     },
