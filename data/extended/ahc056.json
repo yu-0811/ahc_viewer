@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-03-22T15:36:21.945066+00:00",
+  "fetched_at": "2026-03-23T16:07:45.835107+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -923,64 +923,64 @@
       "contest_rank": 170
     },
     {
-      "user": "ocha_heaven",
+      "user": "sato_sato",
       "rank": 185,
+      "contest_rank": null
+    },
+    {
+      "user": "ocha_heaven",
+      "rank": 186,
       "contest_rank": 165
     },
     {
       "user": "yamm",
-      "rank": 186,
+      "rank": 187,
       "contest_rank": null
     },
     {
       "user": "akasinn",
-      "rank": 187,
+      "rank": 188,
       "contest_rank": 171
     },
     {
       "user": "yyyyysd",
-      "rank": 188,
+      "rank": 189,
       "contest_rank": 168
     },
     {
       "user": "sky58",
-      "rank": 189,
+      "rank": 190,
       "contest_rank": null
     },
     {
       "user": "hte",
-      "rank": 190,
+      "rank": 191,
       "contest_rank": 154
     },
     {
       "user": "sirsoldano",
-      "rank": 191,
+      "rank": 192,
       "contest_rank": 173
     },
     {
       "user": "ExplodingFreeze",
-      "rank": 192,
+      "rank": 193,
       "contest_rank": 174
     },
     {
       "user": "Haru_mb",
-      "rank": 193,
+      "rank": 194,
       "contest_rank": 179
     },
     {
       "user": "m_blue_moon",
-      "rank": 194,
+      "rank": 195,
       "contest_rank": 176
     },
     {
       "user": "soto800",
-      "rank": 195,
-      "contest_rank": 191
-    },
-    {
-      "user": "sato_sato",
       "rank": 196,
-      "contest_rank": null
+      "contest_rank": 191
     },
     {
       "user": "BP36C",
@@ -1405,12 +1405,12 @@
     {
       "user": "TwoSquirrels",
       "rank": 281,
-      "contest_rank": null
+      "contest_rank": 261
     },
     {
       "user": "TwoSquirrels",
       "rank": 281,
-      "contest_rank": 261
+      "contest_rank": null
     },
     {
       "user": "EzukaFuya",
@@ -2715,12 +2715,12 @@
     {
       "user": "uminorosujin",
       "rank": 540,
-      "contest_rank": null
+      "contest_rank": 493
     },
     {
       "user": "uminorosujin",
       "rank": 540,
-      "contest_rank": 493
+      "contest_rank": null
     },
     {
       "user": "sugiharahara",
@@ -4400,12 +4400,12 @@
     {
       "user": "watacco",
       "rank": 835,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watacco",
       "rank": 835,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watashiwatanuki",
@@ -7303,11 +7303,6 @@
       "contest_rank": 1065
     },
     {
-      "user": "ManishaSharma",
-      "rank": 1147,
-      "contest_rank": 1065
-    },
-    {
       "user": "Many712",
       "rank": 1147,
       "contest_rank": 1065
@@ -7994,6 +7989,11 @@
     },
     {
       "user": "Sethuram",
+      "rank": 1147,
+      "contest_rank": 1065
+    },
+    {
+      "user": "ShadowKing",
       "rank": 1147,
       "contest_rank": 1065
     },

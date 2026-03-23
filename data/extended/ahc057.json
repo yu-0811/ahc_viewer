@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc057",
-  "fetched_at": "2026-03-22T15:36:27.423543+00:00",
+  "fetched_at": "2026-03-23T16:07:51.387918+00:00",
   "rows": [
     {
       "user": "strawberry0929",
@@ -2520,12 +2520,12 @@
     {
       "user": "shin9",
       "rank": 504,
-      "contest_rank": 397
+      "contest_rank": null
     },
     {
       "user": "shin9",
       "rank": 504,
-      "contest_rank": null
+      "contest_rank": 397
     },
     {
       "user": "GUNURU_HEMANTH",
@@ -5058,11 +5058,6 @@
       "contest_rank": 676
     },
     {
-      "user": "ManishaSharma",
-      "rank": 848,
-      "contest_rank": 676
-    },
-    {
       "user": "Many712",
       "rank": 848,
       "contest_rank": 676
@@ -5494,6 +5489,11 @@
     },
     {
       "user": "Sephuan",
+      "rank": 848,
+      "contest_rank": 676
+    },
+    {
+      "user": "ShadowKing",
       "rank": 848,
       "contest_rank": 676
     },

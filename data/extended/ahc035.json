@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc035",
-  "fetched_at": "2026-03-22T15:34:15.565620+00:00",
+  "fetched_at": "2026-03-23T16:05:45.856532+00:00",
   "rows": [
     {
       "user": "bird01",
@@ -775,12 +775,12 @@
     {
       "user": "tempura0224",
       "rank": 155,
-      "contest_rank": 78
+      "contest_rank": null
     },
     {
       "user": "tempura0224",
       "rank": 155,
-      "contest_rank": null
+      "contest_rank": 78
     },
     {
       "user": "kuto5046",

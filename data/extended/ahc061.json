@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-03-22T15:36:49.313458+00:00",
+  "fetched_at": "2026-03-23T16:08:12.596512+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -2945,12 +2945,12 @@
     {
       "user": "khasu329",
       "rank": 589,
-      "contest_rank": null
+      "contest_rank": 528
     },
     {
       "user": "khasu329",
       "rank": 589,
-      "contest_rank": 528
+      "contest_rank": null
     },
     {
       "user": "GoodK",
@@ -3910,12 +3910,12 @@
     {
       "user": "420801",
       "rank": 782,
-      "contest_rank": 713
+      "contest_rank": null
     },
     {
       "user": "420801",
       "rank": 782,
-      "contest_rank": null
+      "contest_rank": 713
     },
     {
       "user": "shyroute",
@@ -5530,12 +5530,12 @@
     {
       "user": "KC117",
       "rank": 1106,
-      "contest_rank": null
+      "contest_rank": 998
     },
     {
       "user": "KC117",
       "rank": 1106,
-      "contest_rank": 998
+      "contest_rank": null
     },
     {
       "user": "ghuknn",
@@ -7923,11 +7923,6 @@
       "contest_rank": 1115
     },
     {
-      "user": "ManishaSharma",
-      "rank": 1230,
-      "contest_rank": 1115
-    },
-    {
       "user": "Manoj_Swagatha",
       "rank": 1230,
       "contest_rank": 1115
@@ -8814,6 +8809,11 @@
     },
     {
       "user": "Series_205",
+      "rank": 1230,
+      "contest_rank": 1115
+    },
+    {
+      "user": "ShadowKing",
       "rank": 1230,
       "contest_rank": 1115
     },
