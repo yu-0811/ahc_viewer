@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc015",
-  "fetched_at": "2026-03-24T16:10:32.042881+00:00",
+  "fetched_at": "2026-03-25T16:14:52.577984+00:00",
   "rows": [
     {
       "user": "saitodevel01",
@@ -108,27 +108,27 @@
       "contest_rank": null
     },
     {
-      "user": "tomerun",
+      "user": "hiuchida",
       "rank": 22,
+      "contest_rank": null
+    },
+    {
+      "user": "tomerun",
+      "rank": 23,
       "contest_rank": 2
     },
     {
       "user": "nikaj",
-      "rank": 23,
-      "contest_rank": null
-    },
-    {
-      "user": "Metasploit",
       "rank": 24,
       "contest_rank": null
     },
     {
-      "user": "kr",
+      "user": "Metasploit",
       "rank": 25,
       "contest_rank": null
     },
     {
-      "user": "hiuchida",
+      "user": "kr",
       "rank": 26,
       "contest_rank": null
     },
@@ -7050,12 +7050,12 @@
     {
       "user": "Misodango",
       "rank": 1273,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "Misodango",
       "rank": 1273,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "Mistouch",
@@ -9500,12 +9500,12 @@
     {
       "user": "tmanas",
       "rank": 1273,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "tmanas",
       "rank": 1273,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "tmlyencodes",
@@ -9715,12 +9715,12 @@
     {
       "user": "yadorann24",
       "rank": 1273,
-      "contest_rank": 779
+      "contest_rank": null
     },
     {
       "user": "yadorann24",
       "rank": 1273,
-      "contest_rank": null
+      "contest_rank": 779
     },
     {
       "user": "yamake",
