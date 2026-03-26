@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc032",
-  "fetched_at": "2026-03-25T16:16:40.846124+00:00",
+  "fetched_at": "2026-03-26T16:17:21.289721+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -2575,12 +2575,12 @@
     {
       "user": "IHa",
       "rank": 515,
-      "contest_rank": 250
+      "contest_rank": null
     },
     {
       "user": "IHa",
       "rank": 515,
-      "contest_rank": null
+      "contest_rank": 250
     },
     {
       "user": "Yukkku",
@@ -3240,12 +3240,12 @@
     {
       "user": "hirohito1971",
       "rank": 648,
-      "contest_rank": 358
+      "contest_rank": null
     },
     {
       "user": "hirohito1971",
       "rank": 648,
-      "contest_rank": null
+      "contest_rank": 358
     },
     {
       "user": "mya3",
@@ -5730,12 +5730,12 @@
     {
       "user": "poipoi106",
       "rank": 1129,
-      "contest_rank": 732
+      "contest_rank": null
     },
     {
       "user": "poipoi106",
       "rank": 1129,
-      "contest_rank": null
+      "contest_rank": 732
     },
     {
       "user": "rubisco29",
@@ -8855,12 +8855,12 @@
     {
       "user": "Unicef12",
       "rank": 1513,
-      "contest_rank": null
+      "contest_rank": 963
     },
     {
       "user": "Unicef12",
       "rank": 1513,
-      "contest_rank": 963
+      "contest_rank": null
     },
     {
       "user": "Vaibhav1610",
@@ -11355,12 +11355,12 @@
     {
       "user": "ymatsux",
       "rank": 1513,
-      "contest_rank": null
+      "contest_rank": 963
     },
     {
       "user": "ymatsux",
       "rank": 1513,
-      "contest_rank": 963
+      "contest_rank": null
     },
     {
       "user": "ymym_tymblack",

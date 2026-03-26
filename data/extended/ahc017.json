@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc017",
-  "fetched_at": "2026-03-25T16:15:05.185305+00:00",
+  "fetched_at": "2026-03-26T16:15:55.436951+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -5285,12 +5285,12 @@
     {
       "user": "jhlee1234",
       "rank": 1029,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "jhlee1234",
       "rank": 1029,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "kazmat",
@@ -6075,12 +6075,12 @@
     {
       "user": "Comavius",
       "rank": 1123,
-      "contest_rank": 939
+      "contest_rank": null
     },
     {
       "user": "Comavius",
       "rank": 1123,
-      "contest_rank": null
+      "contest_rank": 939
     },
     {
       "user": "Complex",
