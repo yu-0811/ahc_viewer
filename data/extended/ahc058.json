@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc058",
-  "fetched_at": "2026-03-26T16:19:52.629646+00:00",
+  "fetched_at": "2026-03-27T16:02:45.060233+00:00",
   "rows": [
     {
       "user": "zhy123",
@@ -368,69 +368,69 @@
       "contest_rank": 24
     },
     {
-      "user": "hiratai",
+      "user": "littlefox1221",
       "rank": 74,
+      "contest_rank": null
+    },
+    {
+      "user": "hiratai",
+      "rank": 75,
       "contest_rank": 25
     },
     {
       "user": "tmrtmr",
-      "rank": 75,
-      "contest_rank": null
-    },
-    {
-      "user": "ZhouShang",
       "rank": 76,
       "contest_rank": null
     },
     {
-      "user": "RinSakamichi",
+      "user": "ZhouShang",
       "rank": 77,
+      "contest_rank": null
+    },
+    {
+      "user": "RinSakamichi",
+      "rank": 78,
       "contest_rank": 26
     },
     {
       "user": "kaidesi",
-      "rank": 78,
+      "rank": 79,
       "contest_rank": null
     },
     {
       "user": "mameotosi",
-      "rank": 79,
+      "rank": 80,
       "contest_rank": 27
     },
     {
       "user": "addx",
-      "rank": 80,
-      "contest_rank": null
-    },
-    {
-      "user": "LanYan0202",
       "rank": 81,
       "contest_rank": null
     },
     {
-      "user": "IHa",
+      "user": "LanYan0202",
       "rank": 82,
       "contest_rank": null
     },
     {
-      "user": "maze1230",
+      "user": "IHa",
       "rank": 83,
+      "contest_rank": null
+    },
+    {
+      "user": "maze1230",
+      "rank": 84,
       "contest_rank": 28
     },
     {
       "user": "Tetsu55",
-      "rank": 84,
+      "rank": 85,
       "contest_rank": null
     },
     {
       "user": "yunix",
-      "rank": 85,
-      "contest_rank": 29
-    },
-    {
-      "user": "littlefox1221",
       "rank": 86,
-      "contest_rank": null
+      "contest_rank": 29
     },
     {
       "user": "nesya",
@@ -4560,12 +4560,12 @@
     {
       "user": "wyyinput",
       "rank": 912,
-      "contest_rank": null
+      "contest_rank": 667
     },
     {
       "user": "wyyinput",
       "rank": 912,
-      "contest_rank": 667
+      "contest_rank": null
     },
     {
       "user": "breakfast_curry",
