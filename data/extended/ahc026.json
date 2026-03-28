@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc026",
-  "fetched_at": "2026-03-27T15:59:34.077609+00:00",
+  "fetched_at": "2026-03-28T15:38:10.125125+00:00",
   "rows": [
     {
       "user": "hitonanode",
@@ -490,12 +490,12 @@
     {
       "user": "soto800",
       "rank": 98,
-      "contest_rank": 30
+      "contest_rank": null
     },
     {
       "user": "soto800",
       "rank": 98,
-      "contest_rank": null
+      "contest_rank": 30
     },
     {
       "user": "Shun_PI",
@@ -3075,12 +3075,12 @@
     {
       "user": "adda",
       "rank": 615,
-      "contest_rank": 416
+      "contest_rank": null
     },
     {
       "user": "adda",
       "rank": 615,
-      "contest_rank": null
+      "contest_rank": 416
     },
     {
       "user": "toufu24",
@@ -8345,12 +8345,12 @@
     {
       "user": "ky381011",
       "rank": 1054,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "ky381011",
       "rank": 1054,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "kyoroid",
@@ -8405,12 +8405,12 @@
     {
       "user": "liufenghe",
       "rank": 1054,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "liufenghe",
       "rank": 1054,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "liumonong2",
@@ -8575,12 +8575,12 @@
     {
       "user": "mckmckmck",
       "rank": 1054,
-      "contest_rank": null
+      "contest_rank": 740
     },
     {
       "user": "mckmckmck",
       "rank": 1054,
-      "contest_rank": 740
+      "contest_rank": null
     },
     {
       "user": "md_afique",
