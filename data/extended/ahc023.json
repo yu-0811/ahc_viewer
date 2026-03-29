@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc023",
-  "fetched_at": "2026-03-28T15:37:52.059728+00:00",
+  "fetched_at": "2026-03-29T15:38:55.656710+00:00",
   "rows": [
     {
       "user": "sugim48",
@@ -508,19 +508,19 @@
       "contest_rank": 80
     },
     {
-      "user": "soto800",
+      "user": "ohuton_labo",
       "rank": 102,
       "contest_rank": 81
     },
     {
       "user": "catoon",
       "rank": 103,
-      "contest_rank": 75
+      "contest_rank": null
     },
     {
       "user": "catoon",
       "rank": 103,
-      "contest_rank": null
+      "contest_rank": 75
     },
     {
       "user": "tanakamidnight",
@@ -2665,12 +2665,12 @@
     {
       "user": "maple_1016",
       "rank": 533,
-      "contest_rank": null
+      "contest_rank": 506
     },
     {
       "user": "maple_1016",
       "rank": 533,
-      "contest_rank": 506
+      "contest_rank": null
     },
     {
       "user": "nknk9",
@@ -9215,12 +9215,12 @@
     {
       "user": "apth",
       "rank": 911,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "apth",
       "rank": 911,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "aqn",
@@ -9786,6 +9786,11 @@
       "user": "cubeking27",
       "rank": 911,
       "contest_rank": 800
+    },
+    {
+      "user": "cubic_number_sub",
+      "rank": 911,
+      "contest_rank": null
     },
     {
       "user": "cunitac",
@@ -13755,12 +13760,12 @@
     {
       "user": "klu_2200050025",
       "rank": 911,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "klu_2200050025",
       "rank": 911,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "klu_2200080121",
@@ -14305,12 +14310,12 @@
     {
       "user": "mahiro_atc",
       "rank": 911,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "mahiro_atc",
       "rank": 911,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "makibishi0212",

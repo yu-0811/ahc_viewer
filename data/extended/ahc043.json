@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2026-03-28T15:39:50.786861+00:00",
+  "fetched_at": "2026-03-29T15:40:53.063941+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -845,12 +845,12 @@
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "mkisic",
@@ -2885,12 +2885,12 @@
     {
       "user": "gomaazarasi",
       "rank": 577,
-      "contest_rank": null
+      "contest_rank": 514
     },
     {
       "user": "gomaazarasi",
       "rank": 577,
-      "contest_rank": 514
+      "contest_rank": null
     },
     {
       "user": "yoshibo",
@@ -2950,12 +2950,12 @@
     {
       "user": "rui_er",
       "rank": 590,
-      "contest_rank": null
+      "contest_rank": 522
     },
     {
       "user": "rui_er",
       "rank": 590,
-      "contest_rank": 522
+      "contest_rank": null
     },
     {
       "user": "efy",
@@ -3418,7 +3418,7 @@
       "contest_rank": 596
     },
     {
-      "user": "untan",
+      "user": "hoppii",
       "rank": 684,
       "contest_rank": 606
     },
@@ -6255,12 +6255,12 @@
     {
       "user": "sosuu13",
       "rank": 991,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "sosuu13",
       "rank": 991,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "sota4869",
@@ -7350,12 +7350,12 @@
     {
       "user": "fmhr",
       "rank": 1470,
-      "contest_rank": null
+      "contest_rank": 1321
     },
     {
       "user": "fmhr",
       "rank": 1470,
-      "contest_rank": 1321
+      "contest_rank": null
     },
     {
       "user": "harumoto",
@@ -12425,12 +12425,12 @@
     {
       "user": "enntotu",
       "rank": 1490,
-      "contest_rank": null
+      "contest_rank": 1347
     },
     {
       "user": "enntotu",
       "rank": 1490,
-      "contest_rank": 1347
+      "contest_rank": null
     },
     {
       "user": "enukyu",
@@ -15133,6 +15133,11 @@
       "contest_rank": 1347
     },
     {
+      "user": "ohuton_labo",
+      "rank": 1490,
+      "contest_rank": 1347
+    },
+    {
       "user": "ojjoiio",
       "rank": 1490,
       "contest_rank": 1347
@@ -16139,11 +16144,6 @@
     },
     {
       "user": "sort_mjc",
-      "rank": 1490,
-      "contest_rank": 1347
-    },
-    {
-      "user": "soto800",
       "rank": 1490,
       "contest_rank": 1347
     },

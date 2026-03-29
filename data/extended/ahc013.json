@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc013",
-  "fetched_at": "2026-03-28T15:36:50.439312+00:00",
+  "fetched_at": "2026-03-29T15:37:55.282116+00:00",
   "rows": [
     {
       "user": "wangrunyang",
@@ -1168,7 +1168,7 @@
       "contest_rank": 190
     },
     {
-      "user": "soto800",
+      "user": "ohuton_labo",
       "rank": 234,
       "contest_rank": 208
     },
@@ -3090,12 +3090,12 @@
     {
       "user": "Snorlax_Snorlax",
       "rank": 618,
-      "contest_rank": 557
+      "contest_rank": null
     },
     {
       "user": "Snorlax_Snorlax",
       "rank": 618,
-      "contest_rank": null
+      "contest_rank": 557
     },
     {
       "user": "kanzakihikaru",
@@ -3380,12 +3380,12 @@
     {
       "user": "dsytk7",
       "rank": 675,
-      "contest_rank": null
+      "contest_rank": 574
     },
     {
       "user": "dsytk7",
       "rank": 675,
-      "contest_rank": 574
+      "contest_rank": null
     },
     {
       "user": "xsd",
@@ -4780,12 +4780,12 @@
     {
       "user": "sword060",
       "rank": 956,
-      "contest_rank": null
+      "contest_rank": 845
     },
     {
       "user": "sword060",
       "rank": 956,
-      "contest_rank": 845
+      "contest_rank": null
     },
     {
       "user": "longrun",
@@ -7130,12 +7130,12 @@
     {
       "user": "Quaterna3",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "Quaterna3",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "QwertyPi",
@@ -7695,12 +7695,12 @@
     {
       "user": "THEMCSKELETON",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "THEMCSKELETON",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "TKR18",
@@ -10015,12 +10015,12 @@
     {
       "user": "guneguneneguse",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "guneguneneguse",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "gunmaneko",
@@ -11305,12 +11305,12 @@
     {
       "user": "liufuqiang",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "liufuqiang",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "liuhanting",
@@ -11590,12 +11590,12 @@
     {
       "user": "maspy",
       "rank": 961,
-      "contest_rank": 850
+      "contest_rank": null
     },
     {
       "user": "maspy",
       "rank": 961,
-      "contest_rank": null
+      "contest_rank": 850
     },
     {
       "user": "master0_0mind",

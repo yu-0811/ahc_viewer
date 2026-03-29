@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-03-28T15:39:21.633578+00:00",
+  "fetched_at": "2026-03-29T15:40:24.371333+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -198,12 +198,12 @@
       "contest_rank": null
     },
     {
-      "user": "soto800",
+      "user": "ohuton_labo",
       "rank": 40,
       "contest_rank": 26
     },
     {
-      "user": "soto800",
+      "user": "ohuton_labo",
       "rank": 41,
       "contest_rank": null
     },
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "mekemeke_san",
@@ -900,12 +900,12 @@
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": null
+      "contest_rank": 134
     },
     {
       "user": "erbowl",
       "rank": 180,
-      "contest_rank": 134
+      "contest_rank": null
     },
     {
       "user": "galaxydiver31241",
@@ -3655,12 +3655,12 @@
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": null
+      "contest_rank": 636
     },
     {
       "user": "Capo",
       "rank": 731,
-      "contest_rank": 636
+      "contest_rank": null
     },
     {
       "user": "june193",
@@ -13988,6 +13988,11 @@
       "contest_rank": 1005
     },
     {
+      "user": "hoppii",
+      "rank": 1128,
+      "contest_rank": 1005
+    },
+    {
       "user": "horologe",
       "rank": 1128,
       "contest_rank": 1005
@@ -19790,12 +19795,12 @@
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "ultvoW_mEden",
       "rank": 1128,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "umashio_lettuce",
@@ -19824,11 +19829,6 @@
     },
     {
       "user": "unknow_",
-      "rank": 1128,
-      "contest_rank": 1005
-    },
-    {
-      "user": "untan",
       "rank": 1128,
       "contest_rank": 1005
     },
