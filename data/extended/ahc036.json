@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc036",
-  "fetched_at": "2026-03-30T16:11:45.557102+00:00",
+  "fetched_at": "2026-03-31T16:11:31.864904+00:00",
   "rows": [
     {
       "user": "VIP1109",
@@ -3198,7 +3198,7 @@
       "contest_rank": 592
     },
     {
-      "user": "BJ0403",
+      "user": "Chiiida",
       "rank": 640,
       "contest_rank": 602
     },
@@ -9798,11 +9798,6 @@
       "contest_rank": 997
     },
     {
-      "user": "aaaaaaab",
-      "rank": 1064,
-      "contest_rank": 997
-    },
-    {
       "user": "aadarshtheanthem",
       "rank": 1064,
       "contest_rank": 997
@@ -13600,12 +13595,12 @@
     {
       "user": "linjy",
       "rank": 1064,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "linjy",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "linki101011",
@@ -14999,6 +14994,11 @@
     },
     {
       "user": "pavankumar7675",
+      "rank": 1064,
+      "contest_rank": 997
+    },
+    {
+      "user": "pega_takeshi",
       "rank": 1064,
       "contest_rank": 997
     },

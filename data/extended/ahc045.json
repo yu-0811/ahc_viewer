@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-03-30T16:12:39.321061+00:00",
+  "fetched_at": "2026-03-31T16:12:25.006222+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -5640,12 +5640,12 @@
     {
       "user": "liuenci",
       "rank": 941,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "liuenci",
       "rank": 941,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "liuzhoujiong",

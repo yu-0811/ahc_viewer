@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc037",
-  "fetched_at": "2026-03-30T16:11:51.594383+00:00",
+  "fetched_at": "2026-03-31T16:11:38.363650+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -525,12 +525,12 @@
     {
       "user": "gksato",
       "rank": 75,
-      "contest_rank": 23
+      "contest_rank": null
     },
     {
       "user": "gksato",
       "rank": 75,
-      "contest_rank": null
+      "contest_rank": 23
     },
     {
       "user": "harmokey",
@@ -1895,12 +1895,12 @@
     {
       "user": "LIUIR",
       "rank": 379,
-      "contest_rank": 186
+      "contest_rank": null
     },
     {
       "user": "LIUIR",
       "rank": 379,
-      "contest_rank": null
+      "contest_rank": 186
     },
     {
       "user": "hiryuN",
@@ -2815,12 +2815,12 @@
     {
       "user": "y_azama",
       "rank": 563,
-      "contest_rank": 329
+      "contest_rank": null
     },
     {
       "user": "y_azama",
       "rank": 563,
-      "contest_rank": null
+      "contest_rank": 329
     },
     {
       "user": "chubby_hamster",
@@ -2965,12 +2965,12 @@
     {
       "user": "YY2012",
       "rank": 593,
-      "contest_rank": null
+      "contest_rank": 349
     },
     {
       "user": "YY2012",
       "rank": 593,
-      "contest_rank": 349
+      "contest_rank": null
     },
     {
       "user": "nauyng",
@@ -7395,12 +7395,12 @@
     {
       "user": "Galaxy_zhao",
       "rank": 1394,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "Galaxy_zhao",
       "rank": 1394,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "Gaotianxiang",
@@ -8940,12 +8940,12 @@
     {
       "user": "finish08",
       "rank": 1394,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "finish08",
       "rank": 1394,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "firiexp",
@@ -10675,12 +10675,12 @@
     {
       "user": "tbdsh11",
       "rank": 1394,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "tbdsh11",
       "rank": 1394,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "tc20060209",

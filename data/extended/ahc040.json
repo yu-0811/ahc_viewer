@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc040",
-  "fetched_at": "2026-03-30T16:12:09.530931+00:00",
+  "fetched_at": "2026-03-31T16:11:56.245885+00:00",
   "rows": [
     {
       "user": "Shun_PI",
@@ -4300,12 +4300,12 @@
     {
       "user": "ADCaMilk",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "ADCaMilk",
       "rank": 859,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "ASHUN",
@@ -4910,12 +4910,12 @@
     {
       "user": "limolin123",
       "rank": 859,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "limolin123",
       "rank": 859,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "litttle_stickman",
@@ -9588,11 +9588,6 @@
       "contest_rank": 1087
     },
     {
-      "user": "aaaaaaab",
-      "rank": 1215,
-      "contest_rank": 1087
-    },
-    {
       "user": "aayushi4518",
       "rank": 1215,
       "contest_rank": 1087
@@ -12055,12 +12050,12 @@
     {
       "user": "jin_matakich",
       "rank": 1215,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "jin_matakich",
       "rank": 1215,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "jinmao_",
@@ -12645,12 +12640,12 @@
     {
       "user": "linjy",
       "rank": 1215,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "linjy",
       "rank": 1215,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "littlegirl112",
@@ -13635,12 +13630,12 @@
     {
       "user": "nsubaru",
       "rank": 1215,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "nsubaru",
       "rank": 1215,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "ntk_ta01",
@@ -13834,6 +13829,11 @@
     },
     {
       "user": "peanut_",
+      "rank": 1215,
+      "contest_rank": 1087
+    },
+    {
+      "user": "pega_takeshi",
       "rank": 1215,
       "contest_rank": 1087
     },
