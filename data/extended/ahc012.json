@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc012",
-  "fetched_at": "2026-03-31T16:09:05.631421+00:00",
+  "fetched_at": "2026-04-01T16:09:01.296952+00:00",
   "rows": [
     {
       "user": "PrussianBlue",
@@ -5860,12 +5860,12 @@
     {
       "user": "DeltaStruct",
       "rank": 1097,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "DeltaStruct",
       "rank": 1097,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "Dinu79",
@@ -7830,12 +7830,12 @@
     {
       "user": "cz123",
       "rank": 1097,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "cz123",
       "rank": 1097,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "czq1997",
@@ -8020,12 +8020,12 @@
     {
       "user": "fanshui",
       "rank": 1097,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "fanshui",
       "rank": 1097,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "fatship80",
@@ -8390,12 +8390,12 @@
     {
       "user": "hyman0",
       "rank": 1097,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "hyman0",
       "rank": 1097,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "i8nd5t",
@@ -10335,22 +10335,22 @@
     {
       "user": "wangruichen",
       "rank": 1097,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "wangruichen",
       "rank": 1097,
-      "contest_rank": 711
-    },
-    {
-      "user": "wangrunyang",
-      "rank": 1097,
       "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 1097,
       "contest_rank": 711
+    },
+    {
+      "user": "wangrunyang",
+      "rank": 1097,
+      "contest_rank": null
     },
     {
       "user": "waruru",
