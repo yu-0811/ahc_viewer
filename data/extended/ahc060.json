@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-04-01T16:13:50.010058+00:00",
+  "fetched_at": "2026-04-02T16:08:59.932183+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -5211,6 +5211,11 @@
       "user": "Kurichi",
       "rank": 907,
       "contest_rank": 697
+    },
+    {
+      "user": "Kyo25",
+      "rank": 907,
+      "contest_rank": null
     },
     {
       "user": "Lakshitha_R_E",

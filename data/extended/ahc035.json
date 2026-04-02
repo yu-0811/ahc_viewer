@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc035",
-  "fetched_at": "2026-04-01T16:11:23.900239+00:00",
+  "fetched_at": "2026-04-02T16:06:36.844363+00:00",
   "rows": [
     {
       "user": "bird01",
@@ -315,12 +315,12 @@
     {
       "user": "scat_neko",
       "rank": 63,
-      "contest_rank": 15
+      "contest_rank": null
     },
     {
       "user": "scat_neko",
       "rank": 63,
-      "contest_rank": null
+      "contest_rank": 15
     },
     {
       "user": "sky58",
@@ -6750,12 +6750,12 @@
     {
       "user": "fujiyama",
       "rank": 1291,
-      "contest_rank": 907
+      "contest_rank": null
     },
     {
       "user": "fujiyama",
       "rank": 1291,
-      "contest_rank": null
+      "contest_rank": 907
     },
     {
       "user": "ganesya0112",
@@ -10890,12 +10890,12 @@
     {
       "user": "yuruhuwa",
       "rank": 1448,
-      "contest_rank": null
+      "contest_rank": 1009
     },
     {
       "user": "yuruhuwa",
       "rank": 1448,
-      "contest_rank": 1009
+      "contest_rank": null
     },
     {
       "user": "yutyandayo",

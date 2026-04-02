@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-04-01T16:13:22.963464+00:00",
+  "fetched_at": "2026-04-02T16:08:32.354837+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1935,12 +1935,12 @@
     {
       "user": "kurarin89",
       "rank": 387,
-      "contest_rank": 241
+      "contest_rank": null
     },
     {
       "user": "kurarin89",
       "rank": 387,
-      "contest_rank": null
+      "contest_rank": 241
     },
     {
       "user": "sky58",
@@ -7350,12 +7350,12 @@
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hizukibox",
