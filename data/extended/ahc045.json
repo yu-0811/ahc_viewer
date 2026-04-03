@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-04-02T16:07:34.696756+00:00",
+  "fetched_at": "2026-04-03T15:46:38.657463+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -1715,12 +1715,12 @@
     {
       "user": "stng",
       "rank": 343,
-      "contest_rank": null
+      "contest_rank": 391
     },
     {
       "user": "stng",
       "rank": 343,
-      "contest_rank": 391
+      "contest_rank": null
     },
     {
       "user": "piyo1999",
@@ -4620,12 +4620,12 @@
     {
       "user": "ossan343",
       "rank": 924,
-      "contest_rank": 822
+      "contest_rank": null
     },
     {
       "user": "ossan343",
       "rank": 924,
-      "contest_rank": null
+      "contest_rank": 822
     },
     {
       "user": "maysay_d",
@@ -5640,12 +5640,12 @@
     {
       "user": "liuenci",
       "rank": 941,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "liuenci",
       "rank": 941,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "liuzhoujiong",
@@ -7345,12 +7345,12 @@
     {
       "user": "C4r0ck",
       "rank": 1344,
-      "contest_rank": 1216
+      "contest_rank": null
     },
     {
       "user": "C4r0ck",
       "rank": 1344,
-      "contest_rank": null
+      "contest_rank": 1216
     },
     {
       "user": "CChara",
@@ -7449,6 +7449,11 @@
     },
     {
       "user": "Cnr",
+      "rank": 1344,
+      "contest_rank": 1216
+    },
+    {
+      "user": "Code_Pro",
       "rank": 1344,
       "contest_rank": 1216
     },
@@ -9989,6 +9994,11 @@
     },
     {
       "user": "Timinator",
+      "rank": 1344,
+      "contest_rank": 1216
+    },
+    {
+      "user": "Timur2812",
       "rank": 1344,
       "contest_rank": 1216
     },
@@ -14608,11 +14618,6 @@
       "contest_rank": 1216
     },
     {
-      "user": "onexgol",
-      "rank": 1344,
-      "contest_rank": 1216
-    },
-    {
       "user": "onikuhoikuen",
       "rank": 1344,
       "contest_rank": 1216
@@ -14669,11 +14674,6 @@
     },
     {
       "user": "pananxin",
-      "rank": 1344,
-      "contest_rank": 1216
-    },
-    {
-      "user": "panda_BANDANA",
       "rank": 1344,
       "contest_rank": 1216
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-04-02T16:08:37.673239+00:00",
+  "fetched_at": "2026-04-03T15:47:42.773098+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -2670,12 +2670,12 @@
     {
       "user": "Dreamer0",
       "rank": 534,
-      "contest_rank": null
+      "contest_rank": 497
     },
     {
       "user": "Dreamer0",
       "rank": 534,
-      "contest_rank": 497
+      "contest_rank": null
     },
     {
       "user": "ntk_ta01",
@@ -4405,12 +4405,12 @@
     {
       "user": "watacco",
       "rank": 836,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watacco",
       "rank": 836,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watashiwatanuki",
@@ -4948,11 +4948,6 @@
       "contest_rank": 871
     },
     {
-      "user": "at02",
-      "rank": 936,
-      "contest_rank": 871
-    },
-    {
       "user": "atc0der_jp",
       "rank": 936,
       "contest_rank": 871
@@ -5071,6 +5066,11 @@
       "user": "hiro_hiro",
       "rank": 936,
       "contest_rank": null
+    },
+    {
+      "user": "hirunogohan",
+      "rank": 936,
+      "contest_rank": 871
     },
     {
       "user": "hokki",
@@ -8968,6 +8968,11 @@
       "contest_rank": 1065
     },
     {
+      "user": "allocator",
+      "rank": 1148,
+      "contest_rank": 1065
+    },
+    {
       "user": "alok_100",
       "rank": 1148,
       "contest_rank": 1065
@@ -10939,11 +10944,6 @@
     },
     {
       "user": "kiyotaka666",
-      "rank": 1148,
-      "contest_rank": 1065
-    },
-    {
-      "user": "klu_2200031965",
       "rank": 1148,
       "contest_rank": 1065
     },
@@ -13770,12 +13770,12 @@
     {
       "user": "xiongch1GanFan",
       "rank": 1148,
-      "contest_rank": null
+      "contest_rank": 1065
     },
     {
       "user": "xiongch1GanFan",
       "rank": 1148,
-      "contest_rank": 1065
+      "contest_rank": null
     },
     {
       "user": "xiphi",

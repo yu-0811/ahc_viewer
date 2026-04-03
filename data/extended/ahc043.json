@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2026-04-02T16:07:21.944921+00:00",
+  "fetched_at": "2026-04-03T15:46:25.096197+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -845,12 +845,12 @@
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 169,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -2885,12 +2885,12 @@
     {
       "user": "gomaazarasi",
       "rank": 577,
-      "contest_rank": null
+      "contest_rank": 514
     },
     {
       "user": "gomaazarasi",
       "rank": 577,
-      "contest_rank": 514
+      "contest_rank": null
     },
     {
       "user": "yoshibo",
@@ -5010,12 +5010,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 991,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChocoPoke143",
       "rank": 991,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChrysanthBlossom",
@@ -6255,12 +6255,12 @@
     {
       "user": "sosuu13",
       "rank": 991,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "sosuu13",
       "rank": 991,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "sota4869",
@@ -10613,6 +10613,11 @@
       "contest_rank": 1347
     },
     {
+      "user": "Timur2812",
+      "rank": 1490,
+      "contest_rank": 1347
+    },
+    {
       "user": "Tiri7_Ma13a_",
       "rank": 1490,
       "contest_rank": 1347
@@ -12425,12 +12430,12 @@
     {
       "user": "enntotu",
       "rank": 1490,
-      "contest_rank": null
+      "contest_rank": 1347
     },
     {
       "user": "enntotu",
       "rank": 1490,
-      "contest_rank": 1347
+      "contest_rank": null
     },
     {
       "user": "enukyu",
@@ -15174,11 +15179,6 @@
     },
     {
       "user": "omomo1017",
-      "rank": 1490,
-      "contest_rank": 1347
-    },
-    {
-      "user": "onexgol",
       "rank": 1490,
       "contest_rank": 1347
     },
