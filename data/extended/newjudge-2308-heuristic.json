@@ -1,6 +1,6 @@
 {
   "contest_id": "newjudge-2308-heuristic",
-  "fetched_at": "2026-04-03T15:48:55.524541+00:00",
+  "fetched_at": "2026-04-04T15:43:40.936799+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -1930,12 +1930,12 @@
     {
       "user": "keroru",
       "rank": 217,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "keroru",
       "rank": 217,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "ki_opt",
@@ -2415,12 +2415,12 @@
     {
       "user": "shiomusubi496",
       "rank": 217,
-      "contest_rank": 149
+      "contest_rank": null
     },
     {
       "user": "shiomusubi496",
       "rank": 217,
-      "contest_rank": null
+      "contest_rank": 149
     },
     {
       "user": "shiropikumin",

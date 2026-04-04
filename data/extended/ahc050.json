@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc050",
-  "fetched_at": "2026-04-03T15:47:08.212984+00:00",
+  "fetched_at": "2026-04-04T15:41:52.615090+00:00",
   "rows": [
     {
       "user": "terry_u16",
@@ -10225,12 +10225,12 @@
     {
       "user": "prince_bhaskar",
       "rank": 1485,
-      "contest_rank": 1086
+      "contest_rank": null
     },
     {
       "user": "prince_bhaskar",
       "rank": 1485,
-      "contest_rank": null
+      "contest_rank": 1086
     },
     {
       "user": "princeiitp",
