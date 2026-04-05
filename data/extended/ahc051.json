@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc051",
-  "fetched_at": "2026-04-04T15:41:58.014522+00:00",
+  "fetched_at": "2026-04-05T15:42:41.303013+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -9165,12 +9165,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1171,
-      "contest_rank": 1103
+      "contest_rank": null
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1171,
-      "contest_rank": null
+      "contest_rank": 1103
     },
     {
       "user": "SIAM809",
