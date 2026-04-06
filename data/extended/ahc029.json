@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc029",
-  "fetched_at": "2026-04-05T15:40:35.061235+00:00",
+  "fetched_at": "2026-04-06T15:55:55.799431+00:00",
   "rows": [
     {
       "user": "starpentagon",
@@ -2515,12 +2515,12 @@
     {
       "user": "rui_er",
       "rank": 503,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 503,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "uminorosujin",
@@ -6150,12 +6150,12 @@
     {
       "user": "N_ha_1050",
       "rank": 906,
-      "contest_rank": 769
+      "contest_rank": null
     },
     {
       "user": "N_ha_1050",
       "rank": 906,
-      "contest_rank": null
+      "contest_rank": 769
     },
     {
       "user": "Nadimuzzaman",
@@ -6689,11 +6689,6 @@
     },
     {
       "user": "SatyaPrakash6426",
-      "rank": 906,
-      "contest_rank": 769
-    },
-    {
-      "user": "SealMoBurp",
       "rank": 906,
       "contest_rank": 769
     },
@@ -10170,12 +10165,12 @@
     {
       "user": "mckmckmck",
       "rank": 906,
-      "contest_rank": 769
+      "contest_rank": null
     },
     {
       "user": "mckmckmck",
       "rank": 906,
-      "contest_rank": null
+      "contest_rank": 769
     },
     {
       "user": "mcw1142",
@@ -11304,6 +11299,11 @@
     },
     {
       "user": "sA_3",
+      "rank": 906,
+      "contest_rank": 769
+    },
+    {
+      "user": "sEa1nn013uR1o",
       "rank": 906,
       "contest_rank": 769
     },

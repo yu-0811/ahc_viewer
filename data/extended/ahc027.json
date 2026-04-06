@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-04-05T15:40:22.769295+00:00",
+  "fetched_at": "2026-04-06T15:55:42.072270+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1190,12 +1190,12 @@
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 183
     },
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": 183
+      "contest_rank": null
     },
     {
       "user": "yudedako",
@@ -2385,12 +2385,12 @@
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": 396
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": null
+      "contest_rank": 396
     },
     {
       "user": "xxkiritoxx",
@@ -3815,12 +3815,12 @@
     {
       "user": "CHD",
       "rank": 751,
-      "contest_rank": null
+      "contest_rank": 643
     },
     {
       "user": "CHD",
       "rank": 751,
-      "contest_rank": 643
+      "contest_rank": null
     },
     {
       "user": "Chinchilla914z",
@@ -7880,12 +7880,12 @@
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "Megha23",
@@ -8565,12 +8565,12 @@
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "SAKUO500",
@@ -8664,11 +8664,6 @@
     },
     {
       "user": "Scyther_07",
-      "rank": 1174,
-      "contest_rank": 999
-    },
-    {
-      "user": "SealMoBurp",
       "rank": 1174,
       "contest_rank": 999
     },
@@ -14489,6 +14484,11 @@
     },
     {
       "user": "s4k1",
+      "rank": 1174,
+      "contest_rank": 999
+    },
+    {
+      "user": "sEa1nn013uR1o",
       "rank": 1174,
       "contest_rank": 999
     },

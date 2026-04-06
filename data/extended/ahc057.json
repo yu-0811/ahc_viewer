@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc057",
-  "fetched_at": "2026-04-05T15:43:14.199331+00:00",
+  "fetched_at": "2026-04-06T15:58:45.069817+00:00",
   "rows": [
     {
       "user": "strawberry0929",
@@ -2525,12 +2525,12 @@
     {
       "user": "shin9",
       "rank": 505,
-      "contest_rank": 397
+      "contest_rank": null
     },
     {
       "user": "shin9",
       "rank": 505,
-      "contest_rank": null
+      "contest_rank": 397
     },
     {
       "user": "GUNURU_HEMANTH",
@@ -5240,12 +5240,12 @@
     {
       "user": "Nekozuki0509",
       "rank": 849,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "Nekozuki0509",
       "rank": 849,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "NikhilChaturvedi",
@@ -5535,12 +5535,12 @@
     {
       "user": "Shyamnath",
       "rank": 849,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "Shyamnath",
       "rank": 849,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "Siddiq4712",
@@ -7285,12 +7285,12 @@
     {
       "user": "naesira",
       "rank": 849,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "naesira",
       "rank": 849,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "nakamaay1",
@@ -8268,6 +8268,11 @@
       "contest_rank": 676
     },
     {
+      "user": "voidX_",
+      "rank": 849,
+      "contest_rank": 676
+    },
+    {
       "user": "warconqurer",
       "rank": 849,
       "contest_rank": 676
@@ -8408,11 +8413,6 @@
       "contest_rank": 676
     },
     {
-      "user": "yasinhasanju",
-      "rank": 849,
-      "contest_rank": 676
-    },
-    {
       "user": "yazankq",
       "rank": 849,
       "contest_rank": 676
@@ -8455,12 +8455,12 @@
     {
       "user": "yt142857",
       "rank": 849,
-      "contest_rank": 676
+      "contest_rank": null
     },
     {
       "user": "yt142857",
       "rank": 849,
-      "contest_rank": null
+      "contest_rank": 676
     },
     {
       "user": "yu23578",
