@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc052",
-  "fetched_at": "2026-04-07T16:17:08.153165+00:00",
+  "fetched_at": "2026-04-08T16:21:52.007002+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3325,12 +3325,12 @@
     {
       "user": "Lidelie",
       "rank": 665,
-      "contest_rank": 478
+      "contest_rank": null
     },
     {
       "user": "Lidelie",
       "rank": 665,
-      "contest_rank": null
+      "contest_rank": 478
     },
     {
       "user": "yiri",
@@ -5938,11 +5938,6 @@
       "contest_rank": 776
     },
     {
-      "user": "Gautam2003Kumar",
-      "rank": 1070,
-      "contest_rank": 776
-    },
-    {
       "user": "GawaleDhanshri",
       "rank": 1070,
       "contest_rank": 776
@@ -8233,6 +8228,11 @@
       "contest_rank": 776
     },
     {
+      "user": "gkishor03",
+      "rank": 1070,
+      "contest_rank": 776
+    },
+    {
       "user": "gksato",
       "rank": 1070,
       "contest_rank": 776
@@ -8695,12 +8695,12 @@
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "katonyonko",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "kawakawariver",
@@ -9290,12 +9290,12 @@
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": 776
+      "contest_rank": null
     },
     {
       "user": "ogiekako",
       "rank": 1070,
-      "contest_rank": null
+      "contest_rank": 776
     },
     {
       "user": "ohirugohan",

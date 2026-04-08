@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc062",
-  "fetched_at": "2026-04-07T16:18:03.567796+00:00",
+  "fetched_at": "2026-04-08T16:22:47.385924+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -2828,29 +2828,29 @@
       "contest_rank": 401
     },
     {
-      "user": "Quuri",
+      "user": "tatsu0156",
       "rank": 566,
+      "contest_rank": null
+    },
+    {
+      "user": "Quuri",
+      "rank": 567,
       "contest_rank": 402
     },
     {
       "user": "notkamonohasi",
-      "rank": 567,
+      "rank": 568,
       "contest_rank": 403
     },
     {
       "user": "tainto",
-      "rank": 568,
+      "rank": 569,
       "contest_rank": 404
     },
     {
       "user": "momohara",
-      "rank": 569,
-      "contest_rank": 405
-    },
-    {
-      "user": "tatsu0156",
       "rank": 570,
-      "contest_rank": null
+      "contest_rank": 405
     },
     {
       "user": "poka",
@@ -4813,6 +4813,11 @@
       "contest_rank": 665
     },
     {
+      "user": "Midoca",
+      "rank": 874,
+      "contest_rank": null
+    },
+    {
       "user": "MinTae",
       "rank": 874,
       "contest_rank": 665
@@ -5155,12 +5160,12 @@
     {
       "user": "WC863",
       "rank": 874,
-      "contest_rank": 665
+      "contest_rank": null
     },
     {
       "user": "WC863",
       "rank": 874,
-      "contest_rank": null
+      "contest_rank": 665
     },
     {
       "user": "WangSiYuan2028",
@@ -6220,12 +6225,12 @@
     {
       "user": "rejwar",
       "rank": 874,
-      "contest_rank": null
+      "contest_rank": 665
     },
     {
       "user": "rejwar",
       "rank": 874,
-      "contest_rank": 665
+      "contest_rank": null
     },
     {
       "user": "rhoo",

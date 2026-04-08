@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc053",
-  "fetched_at": "2026-04-07T16:17:13.478011+00:00",
+  "fetched_at": "2026-04-08T16:21:57.416869+00:00",
   "rows": [
     {
       "user": "kozima",
@@ -2625,12 +2625,12 @@
     {
       "user": "yoshihiro22",
       "rank": 525,
-      "contest_rank": null
+      "contest_rank": 360
     },
     {
       "user": "yoshihiro22",
       "rank": 525,
-      "contest_rank": 360
+      "contest_rank": null
     },
     {
       "user": "KhunAgueroAgnis",
@@ -6155,12 +6155,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1227,
-      "contest_rank": 943
+      "contest_rank": null
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1227,
-      "contest_rank": null
+      "contest_rank": 943
     },
     {
       "user": "ShoyuMashiMashi",
@@ -7209,11 +7209,6 @@
     },
     {
       "user": "Gatsu4857",
-      "rank": 1325,
-      "contest_rank": 1019
-    },
-    {
-      "user": "Gautam2003Kumar",
       "rank": 1325,
       "contest_rank": 1019
     },
@@ -9524,6 +9519,11 @@
     },
     {
       "user": "gjaynir0508",
+      "rank": 1325,
+      "contest_rank": 1019
+    },
+    {
+      "user": "gkishor03",
       "rank": 1325,
       "contest_rank": 1019
     },
