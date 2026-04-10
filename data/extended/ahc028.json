@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc028",
-  "fetched_at": "2026-04-09T16:22:59.284606+00:00",
+  "fetched_at": "2026-04-10T16:01:08.519113+00:00",
   "rows": [
     {
       "user": "gasin",
@@ -2960,12 +2960,12 @@
     {
       "user": "pitP",
       "rank": 592,
-      "contest_rank": 373
+      "contest_rank": null
     },
     {
       "user": "pitP",
       "rank": 592,
-      "contest_rank": null
+      "contest_rank": 373
     },
     {
       "user": "westriver",
