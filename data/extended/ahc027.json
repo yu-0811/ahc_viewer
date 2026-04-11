@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-04-10T16:01:00.303795+00:00",
+  "fetched_at": "2026-04-11T15:41:07.273695+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -8225,12 +8225,12 @@
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCTprobability",
@@ -8565,12 +8565,12 @@
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "SAKUO500",
@@ -16513,6 +16513,11 @@
       "contest_rank": 999
     },
     {
+      "user": "yzm6677",
+      "rank": 1174,
+      "contest_rank": 999
+    },
+    {
       "user": "yzmx",
       "rank": 1174,
       "contest_rank": 999
@@ -16699,11 +16704,6 @@
     },
     {
       "user": "zyc202320_cyy",
-      "rank": 1174,
-      "contest_rank": 999
-    },
-    {
-      "user": "zym0325",
       "rank": 1174,
       "contest_rank": 999
     }
