@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc037",
-  "fetched_at": "2026-04-11T15:42:15.520927+00:00",
+  "fetched_at": "2026-04-12T15:43:36.198771+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -2515,12 +2515,12 @@
     {
       "user": "CHD",
       "rank": 503,
-      "contest_rank": 285
+      "contest_rank": null
     },
     {
       "user": "CHD",
       "rank": 503,
-      "contest_rank": null
+      "contest_rank": 285
     },
     {
       "user": "pbmessi",
@@ -2815,12 +2815,12 @@
     {
       "user": "y_azama",
       "rank": 563,
-      "contest_rank": null
+      "contest_rank": 329
     },
     {
       "user": "y_azama",
       "rank": 563,
-      "contest_rank": 329
+      "contest_rank": null
     },
     {
       "user": "chubby_hamster",
@@ -4615,12 +4615,12 @@
     {
       "user": "2024Hanson",
       "rank": 922,
-      "contest_rank": null
+      "contest_rank": 600
     },
     {
       "user": "2024Hanson",
       "rank": 922,
-      "contest_rank": 600
+      "contest_rank": null
     },
     {
       "user": "2027zengrihui",
@@ -5245,12 +5245,12 @@
     {
       "user": "zhaoyingdong6",
       "rank": 922,
-      "contest_rank": null
+      "contest_rank": 600
     },
     {
       "user": "zhaoyingdong6",
       "rank": 922,
-      "contest_rank": 600
+      "contest_rank": null
     },
     {
       "user": "zssyt",
@@ -7905,12 +7905,12 @@
     {
       "user": "RMiyazaki",
       "rank": 1394,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "RMiyazaki",
       "rank": 1394,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "ROCK_Y",
@@ -9420,12 +9420,12 @@
     {
       "user": "kazoku1018",
       "rank": 1394,
-      "contest_rank": null
+      "contest_rank": 923
     },
     {
       "user": "kazoku1018",
       "rank": 1394,
-      "contest_rank": 923
+      "contest_rank": null
     },
     {
       "user": "kclee2172",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc062",
-  "fetched_at": "2026-04-11T15:44:47.081166+00:00",
+  "fetched_at": "2026-04-12T15:46:07.084138+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -5115,12 +5115,12 @@
     {
       "user": "TNTNT",
       "rank": 878,
-      "contest_rank": 665
+      "contest_rank": null
     },
     {
       "user": "TNTNT",
       "rank": 878,
-      "contest_rank": null
+      "contest_rank": 665
     },
     {
       "user": "T_W_H",
@@ -5180,12 +5180,12 @@
     {
       "user": "WC863",
       "rank": 878,
-      "contest_rank": null
+      "contest_rank": 665
     },
     {
       "user": "WC863",
       "rank": 878,
-      "contest_rank": 665
+      "contest_rank": null
     },
     {
       "user": "WangSiYuan2028",
