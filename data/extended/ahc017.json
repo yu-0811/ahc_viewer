@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc017",
-  "fetched_at": "2026-04-12T15:41:23.843049+00:00",
+  "fetched_at": "2026-04-13T16:18:55.965480+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -5285,12 +5285,12 @@
     {
       "user": "jhlee1234",
       "rank": 1029,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "jhlee1234",
       "rank": 1029,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "kazmat",
@@ -6075,12 +6075,12 @@
     {
       "user": "Comavius",
       "rank": 1123,
-      "contest_rank": null
+      "contest_rank": 939
     },
     {
       "user": "Comavius",
       "rank": 1123,
-      "contest_rank": 939
+      "contest_rank": null
     },
     {
       "user": "Complex",
@@ -9010,12 +9010,12 @@
     {
       "user": "baiyaojie",
       "rank": 1123,
-      "contest_rank": 939
+      "contest_rank": null
     },
     {
       "user": "baiyaojie",
       "rank": 1123,
-      "contest_rank": null
+      "contest_rank": 939
     },
     {
       "user": "baoyuxiang",
