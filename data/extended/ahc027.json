@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-04-13T16:19:56.142375+00:00",
+  "fetched_at": "2026-04-14T16:13:29.584421+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1080,12 +1080,12 @@
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": 173
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 173
     },
     {
       "user": "hachegawa",
@@ -2385,12 +2385,12 @@
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": null
+      "contest_rank": 396
     },
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": 396
+      "contest_rank": null
     },
     {
       "user": "xxkiritoxx",
@@ -8225,12 +8225,12 @@
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCTprobability",
