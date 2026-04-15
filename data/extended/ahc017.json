@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc017",
-  "fetched_at": "2026-04-14T16:12:27.896185+00:00",
+  "fetched_at": "2026-04-15T16:09:47.476778+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3780,12 +3780,12 @@
     {
       "user": "gue",
       "rank": 756,
-      "contest_rank": 632
+      "contest_rank": null
     },
     {
       "user": "gue",
       "rank": 756,
-      "contest_rank": null
+      "contest_rank": 632
     },
     {
       "user": "haruharu_fff",
