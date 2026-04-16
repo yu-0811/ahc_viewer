@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-04-15T16:13:38.432422+00:00",
+  "fetched_at": "2026-04-16T16:30:13.085447+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -4405,12 +4405,12 @@
     {
       "user": "watacco",
       "rank": 836,
-      "contest_rank": 777
+      "contest_rank": null
     },
     {
       "user": "watacco",
       "rank": 836,
-      "contest_rank": null
+      "contest_rank": 777
     },
     {
       "user": "watashiwatanuki",
@@ -13775,12 +13775,12 @@
     {
       "user": "xiongch1GanFan",
       "rank": 1149,
-      "contest_rank": 1065
+      "contest_rank": null
     },
     {
       "user": "xiongch1GanFan",
       "rank": 1149,
-      "contest_rank": null
+      "contest_rank": 1065
     },
     {
       "user": "xiphi",

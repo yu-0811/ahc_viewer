@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc036",
-  "fetched_at": "2026-04-15T16:11:41.984499+00:00",
+  "fetched_at": "2026-04-16T16:28:13.941099+00:00",
   "rows": [
     {
       "user": "VIP1109",
@@ -695,12 +695,12 @@
     {
       "user": "isee",
       "rank": 139,
-      "contest_rank": 118
+      "contest_rank": null
     },
     {
       "user": "isee",
       "rank": 139,
-      "contest_rank": null
+      "contest_rank": 118
     },
     {
       "user": "wkkautas",
@@ -3160,12 +3160,12 @@
     {
       "user": "pwdr",
       "rank": 632,
-      "contest_rank": 615
+      "contest_rank": null
     },
     {
       "user": "pwdr",
       "rank": 632,
-      "contest_rank": null
+      "contest_rank": 615
     },
     {
       "user": "Ryusei_S",
@@ -3540,12 +3540,12 @@
     {
       "user": "zhaomuxi2024",
       "rank": 708,
-      "contest_rank": null
+      "contest_rank": 651
     },
     {
       "user": "zhaomuxi2024",
       "rank": 708,
-      "contest_rank": 651
+      "contest_rank": null
     },
     {
       "user": "Pcarot",
@@ -4025,12 +4025,12 @@
     {
       "user": "HJZhao",
       "rank": 803,
-      "contest_rank": 747
+      "contest_rank": null
     },
     {
       "user": "HJZhao",
       "rank": 803,
-      "contest_rank": null
+      "contest_rank": 747
     },
     {
       "user": "Licht_Wald",
@@ -13590,12 +13590,12 @@
     {
       "user": "linjy",
       "rank": 1064,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "linjy",
       "rank": 1064,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "linki101011",

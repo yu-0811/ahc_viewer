@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc019",
-  "fetched_at": "2026-04-15T16:10:01.387099+00:00",
+  "fetched_at": "2026-04-16T16:26:32.132764+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -14135,12 +14135,12 @@
     {
       "user": "wangrunyang",
       "rank": 874,
-      "contest_rank": 738
+      "contest_rank": null
     },
     {
       "user": "wangrunyang",
       "rank": 874,
-      "contest_rank": null
+      "contest_rank": 738
     },
     {
       "user": "wangzhidao",
