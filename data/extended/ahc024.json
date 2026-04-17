@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc024",
-  "fetched_at": "2026-04-16T16:27:02.835960+00:00",
+  "fetched_at": "2026-04-17T16:06:07.320978+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1410,12 +1410,12 @@
     {
       "user": "kotatsugame",
       "rank": 282,
-      "contest_rank": 135
+      "contest_rank": null
     },
     {
       "user": "kotatsugame",
       "rank": 282,
-      "contest_rank": null
+      "contest_rank": 135
     },
     {
       "user": "yaichi",
@@ -1490,12 +1490,12 @@
     {
       "user": "Ryoga_exe",
       "rank": 298,
-      "contest_rank": 145
+      "contest_rank": null
     },
     {
       "user": "Ryoga_exe",
       "rank": 298,
-      "contest_rank": null
+      "contest_rank": 145
     },
     {
       "user": "sensensan93",
@@ -4520,12 +4520,12 @@
     {
       "user": "komasan",
       "rank": 830,
-      "contest_rank": null
+      "contest_rank": 568
     },
     {
       "user": "komasan",
       "rank": 830,
-      "contest_rank": 568
+      "contest_rank": null
     },
     {
       "user": "krps",
@@ -9355,12 +9355,12 @@
     {
       "user": "kushigo",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "kushigo",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "kusuharayoru",
@@ -10500,12 +10500,12 @@
     {
       "user": "sugipamo",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "sugipamo",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "suryanshbisen",
@@ -10580,12 +10580,12 @@
     {
       "user": "taiki1121",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "taiki1121",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "takenoko_04",
@@ -10945,12 +10945,12 @@
     {
       "user": "wake05",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "wake05",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "wdoran",
