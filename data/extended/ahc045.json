@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-04-17T16:08:17.163106+00:00",
+  "fetched_at": "2026-04-18T15:45:24.603141+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -1715,12 +1715,12 @@
     {
       "user": "stng",
       "rank": 343,
-      "contest_rank": null
+      "contest_rank": 391
     },
     {
       "user": "stng",
       "rank": 343,
-      "contest_rank": 391
+      "contest_rank": null
     },
     {
       "user": "piyo1999",
@@ -2795,12 +2795,12 @@
     {
       "user": "jj1guj",
       "rank": 559,
-      "contest_rank": null
+      "contest_rank": 454
     },
     {
       "user": "jj1guj",
       "rank": 559,
-      "contest_rank": 454
+      "contest_rank": null
     },
     {
       "user": "inujimono",
@@ -3925,12 +3925,12 @@
     {
       "user": "fuzorizumu",
       "rank": 785,
-      "contest_rank": null
+      "contest_rank": 701
     },
     {
       "user": "fuzorizumu",
       "rank": 785,
-      "contest_rank": 701
+      "contest_rank": null
     },
     {
       "user": "yajamon",
@@ -5485,12 +5485,12 @@
     {
       "user": "happyfishsh",
       "rank": 941,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "happyfishsh",
       "rank": 941,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "hassybirobiro",
@@ -7748,11 +7748,6 @@
       "contest_rank": 1216
     },
     {
-      "user": "Fairy_AI",
-      "rank": 1344,
-      "contest_rank": 1216
-    },
-    {
       "user": "Faiz_Titan",
       "rank": 1344,
       "contest_rank": 1216
@@ -7794,6 +7789,11 @@
     },
     {
       "user": "FlankerH",
+      "rank": 1344,
+      "contest_rank": 1216
+    },
+    {
+      "user": "Flashbadge",
       "rank": 1344,
       "contest_rank": 1216
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-04-17T16:09:53.496761+00:00",
+  "fetched_at": "2026-04-18T15:47:03.050236+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -5565,12 +5565,12 @@
     {
       "user": "KC117",
       "rank": 1113,
-      "contest_rank": 998
+      "contest_rank": null
     },
     {
       "user": "KC117",
       "rank": 1113,
-      "contest_rank": null
+      "contest_rank": 998
     },
     {
       "user": "ghuknn",
