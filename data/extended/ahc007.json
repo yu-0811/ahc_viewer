@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-04-18T15:41:35.536115+00:00",
+  "fetched_at": "2026-04-19T15:41:25.783250+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -5680,12 +5680,12 @@
     {
       "user": "achapi",
       "rank": 1002,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "achapi",
       "rank": 1002,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "adi137",
