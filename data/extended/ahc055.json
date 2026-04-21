@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-04-20T16:19:53.759487+00:00",
+  "fetched_at": "2026-04-21T16:18:01.244232+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -1935,12 +1935,12 @@
     {
       "user": "kurarin89",
       "rank": 387,
-      "contest_rank": 241
+      "contest_rank": null
     },
     {
       "user": "kurarin89",
       "rank": 387,
-      "contest_rank": null
+      "contest_rank": 241
     },
     {
       "user": "sky58",
@@ -2570,12 +2570,12 @@
     {
       "user": "hisui527",
       "rank": 514,
-      "contest_rank": null
+      "contest_rank": 342
     },
     {
       "user": "hisui527",
       "rank": 514,
-      "contest_rank": 342
+      "contest_rank": null
     },
     {
       "user": "KatsuDonChef",
@@ -7350,12 +7350,12 @@
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hizukibox",
