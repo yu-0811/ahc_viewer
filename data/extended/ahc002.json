@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc002",
-  "fetched_at": "2026-04-21T16:12:54.502128+00:00",
+  "fetched_at": "2026-04-22T16:10:51.944919+00:00",
   "rows": [
     {
       "user": "C2028_wzc",
@@ -13320,12 +13320,12 @@
     {
       "user": "aozorarb",
       "rank": 2040,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "aozorarb",
       "rank": 2040,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "apricot10",

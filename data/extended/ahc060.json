@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-04-21T16:18:29.149852+00:00",
+  "fetched_at": "2026-04-22T16:16:17.961352+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -7915,12 +7915,12 @@
     {
       "user": "shamezhame",
       "rank": 914,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "shamezhame",
       "rank": 914,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "sheraz046",
@@ -8240,12 +8240,12 @@
     {
       "user": "uminorosujin",
       "rank": 914,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "uminorosujin",
       "rank": 914,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "unXknown",
