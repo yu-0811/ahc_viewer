@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-04-22T16:14:51.101052+00:00",
+  "fetched_at": "2026-04-24T16:11:09.240126+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -2795,12 +2795,12 @@
     {
       "user": "jj1guj",
       "rank": 559,
-      "contest_rank": 454
+      "contest_rank": null
     },
     {
       "user": "jj1guj",
       "rank": 559,
-      "contest_rank": null
+      "contest_rank": 454
     },
     {
       "user": "inujimono",
@@ -14818,7 +14818,7 @@
       "contest_rank": 1216
     },
     {
-      "user": "ponzu_domo",
+      "user": "ponosaurus",
       "rank": 1344,
       "contest_rank": 1216
     },

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc048",
-  "fetched_at": "2026-04-22T16:15:10.970812+00:00",
+  "fetched_at": "2026-04-24T16:11:26.242517+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -835,12 +835,12 @@
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": 195
+      "contest_rank": null
     },
     {
       "user": "aa36",
       "rank": 167,
-      "contest_rank": null
+      "contest_rank": 195
     },
     {
       "user": "C7BMkOO7Qbmcwck7",
@@ -5310,12 +5310,12 @@
     {
       "user": "sukesann",
       "rank": 1062,
-      "contest_rank": null
+      "contest_rank": 1004
     },
     {
       "user": "sukesann",
       "rank": 1062,
-      "contest_rank": 1004
+      "contest_rank": null
     },
     {
       "user": "Taroooooooooooo",
@@ -5340,12 +5340,12 @@
     {
       "user": "Clare613",
       "rank": 1066,
-      "contest_rank": null
+      "contest_rank": 1007
     },
     {
       "user": "Clare613",
       "rank": 1066,
-      "contest_rank": 1007
+      "contest_rank": null
     },
     {
       "user": "GoneWhisper",
@@ -10365,12 +10365,12 @@
     {
       "user": "azumak",
       "rank": 1188,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "azumak",
       "rank": 1188,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "b_b_",
@@ -12540,12 +12540,12 @@
     {
       "user": "joshuaChoi",
       "rank": 1188,
-      "contest_rank": 1107
+      "contest_rank": null
     },
     {
       "user": "joshuaChoi",
       "rank": 1188,
-      "contest_rank": null
+      "contest_rank": 1107
     },
     {
       "user": "joylintp",
@@ -14713,12 +14713,12 @@
       "contest_rank": 1107
     },
     {
-      "user": "ponzoie",
+      "user": "ponosaurus",
       "rank": 1188,
       "contest_rank": 1107
     },
     {
-      "user": "ponzu_domo",
+      "user": "ponzoie",
       "rank": 1188,
       "contest_rank": 1107
     },

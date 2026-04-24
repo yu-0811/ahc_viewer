@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc055",
-  "fetched_at": "2026-04-22T16:15:50.830292+00:00",
+  "fetched_at": "2026-04-24T16:12:08.237367+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -7350,12 +7350,12 @@
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": 805
+      "contest_rank": null
     },
     {
       "user": "hiryuN",
       "rank": 1096,
-      "contest_rank": null
+      "contest_rank": 805
     },
     {
       "user": "hizukibox",

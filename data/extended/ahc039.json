@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc039",
-  "fetched_at": "2026-04-22T16:14:15.338534+00:00",
+  "fetched_at": "2026-04-24T16:10:34.956815+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -1910,12 +1910,12 @@
     {
       "user": "MNMNBK",
       "rank": 381,
-      "contest_rank": 205
+      "contest_rank": null
     },
     {
       "user": "MNMNBK",
       "rank": 381,
-      "contest_rank": null
+      "contest_rank": 205
     },
     {
       "user": "daniel2025",
@@ -4110,12 +4110,12 @@
     {
       "user": "FlowerAccepted",
       "rank": 822,
-      "contest_rank": null
+      "contest_rank": 555
     },
     {
       "user": "FlowerAccepted",
       "rank": 822,
-      "contest_rank": 555
+      "contest_rank": null
     },
     {
       "user": "pixy",
@@ -5445,12 +5445,12 @@
     {
       "user": "DH2",
       "rank": 1025,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "DH2",
       "rank": 1025,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "Daichi124",
@@ -8035,12 +8035,12 @@
     {
       "user": "nono00",
       "rank": 1025,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "nono00",
       "rank": 1025,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "noq",

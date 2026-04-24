@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc012",
-  "fetched_at": "2026-04-22T16:11:30.880751+00:00",
+  "fetched_at": "2026-04-24T16:07:47.236317+00:00",
   "rows": [
     {
       "user": "PrussianBlue",
@@ -5880,12 +5880,12 @@
     {
       "user": "DeltaStruct",
       "rank": 1101,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "DeltaStruct",
       "rank": 1101,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "Dinu79",
@@ -9010,12 +9010,12 @@
     {
       "user": "maspy",
       "rank": 1101,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "maspy",
       "rank": 1101,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "masuma28",
@@ -10355,12 +10355,12 @@
     {
       "user": "wangruichen",
       "rank": 1101,
-      "contest_rank": null
+      "contest_rank": 711
     },
     {
       "user": "wangruichen",
       "rank": 1101,
-      "contest_rank": 711
+      "contest_rank": null
     },
     {
       "user": "wangrunyang",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc024",
-  "fetched_at": "2026-04-22T16:12:43.804552+00:00",
+  "fetched_at": "2026-04-24T16:09:00.865806+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1410,12 +1410,12 @@
     {
       "user": "kotatsugame",
       "rank": 282,
-      "contest_rank": 135
+      "contest_rank": null
     },
     {
       "user": "kotatsugame",
       "rank": 282,
-      "contest_rank": null
+      "contest_rank": 135
     },
     {
       "user": "yaichi",
@@ -3945,12 +3945,12 @@
     {
       "user": "return_myself",
       "rank": 789,
-      "contest_rank": 532
+      "contest_rank": null
     },
     {
       "user": "return_myself",
       "rank": 789,
-      "contest_rank": null
+      "contest_rank": 532
     },
     {
       "user": "rinrion",
@@ -9355,12 +9355,12 @@
     {
       "user": "kushigo",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "kushigo",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "kusuharayoru",
@@ -10500,12 +10500,12 @@
     {
       "user": "sugipamo",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "sugipamo",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "suryanshbisen",
@@ -10945,12 +10945,12 @@
     {
       "user": "wake05",
       "rank": 974,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "wake05",
       "rank": 974,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "wdoran",
