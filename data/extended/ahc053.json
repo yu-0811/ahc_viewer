@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc053",
-  "fetched_at": "2026-04-24T16:11:54.713008+00:00",
+  "fetched_at": "2026-04-25T15:49:07.279879+00:00",
   "rows": [
     {
       "user": "kozima",
@@ -2635,12 +2635,12 @@
     {
       "user": "yoshihiro22",
       "rank": 527,
-      "contest_rank": 360
+      "contest_rank": null
     },
     {
       "user": "yoshihiro22",
       "rank": 527,
-      "contest_rank": null
+      "contest_rank": 360
     },
     {
       "user": "KhunAgueroAgnis",
@@ -3015,12 +3015,12 @@
     {
       "user": "O24",
       "rank": 603,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "O24",
       "rank": 603,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "ykobayashi",
@@ -10531,6 +10531,11 @@
       "user": "nigs",
       "rank": 1327,
       "contest_rank": 1019
+    },
+    {
+      "user": "nikaj",
+      "rank": 1327,
+      "contest_rank": null
     },
     {
       "user": "nikawesome11",
