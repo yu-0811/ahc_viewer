@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-04-26T15:53:52.179234+00:00",
+  "fetched_at": "2026-04-27T16:49:10.579022+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -6540,12 +6540,12 @@
     {
       "user": "daiten1024",
       "rank": 916,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "daiten1024",
       "rank": 916,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "daiv",

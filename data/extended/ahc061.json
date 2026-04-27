@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-04-26T15:53:57.645922+00:00",
+  "fetched_at": "2026-04-27T16:49:16.068138+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -215,12 +215,12 @@
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": 31
+      "contest_rank": null
     },
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": null
+      "contest_rank": 31
     },
     {
       "user": "yadorann24",
@@ -2960,12 +2960,12 @@
     {
       "user": "khasu329",
       "rank": 592,
-      "contest_rank": null
+      "contest_rank": 528
     },
     {
       "user": "khasu329",
       "rank": 592,
-      "contest_rank": 528
+      "contest_rank": null
     },
     {
       "user": "GoodK",
@@ -3385,12 +3385,12 @@
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "KiriKana",
@@ -7503,6 +7503,11 @@
       "contest_rank": 1115
     },
     {
+      "user": "Jelly_Stone",
+      "rank": 1238,
+      "contest_rank": 1115
+    },
+    {
       "user": "Jerry2015NT",
       "rank": 1238,
       "contest_rank": 1115
@@ -8604,11 +8609,6 @@
     },
     {
       "user": "Rektagun",
-      "rank": 1238,
-      "contest_rank": 1115
-    },
-    {
-      "user": "Retej",
       "rank": 1238,
       "contest_rank": 1115
     },
@@ -14865,12 +14865,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1238,
-      "contest_rank": 1115
+      "contest_rank": null
     },
     {
       "user": "ymym_tymblack",
       "rank": 1238,
-      "contest_rank": null
+      "contest_rank": 1115
     },
     {
       "user": "yonetani",
