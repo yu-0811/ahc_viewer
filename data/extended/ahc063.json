@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc063",
-  "fetched_at": "2026-04-28T17:01:23.601992+00:00",
+  "fetched_at": "2026-04-29T16:50:33.666534+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -208,79 +208,79 @@
       "contest_rank": 33
     },
     {
-      "user": "Piiiii",
+      "user": "kurakura",
       "rank": 42,
+      "contest_rank": null
+    },
+    {
+      "user": "Piiiii",
+      "rank": 43,
       "contest_rank": 15
     },
     {
       "user": "Bondo416",
-      "rank": 43,
+      "rank": 44,
       "contest_rank": 39
     },
     {
       "user": "makimakimakki",
-      "rank": 44,
+      "rank": 45,
       "contest_rank": 36
     },
     {
       "user": "cozy_sauna",
-      "rank": 45,
+      "rank": 46,
       "contest_rank": 30
     },
     {
       "user": "occhan",
-      "rank": 46,
+      "rank": 47,
       "contest_rank": 41
     },
     {
       "user": "kurakura",
-      "rank": 47,
+      "rank": 48,
       "contest_rank": 31
     },
     {
       "user": "makimakimakki",
-      "rank": 48,
+      "rank": 49,
       "contest_rank": null
     },
     {
       "user": "sca1l",
-      "rank": 49,
+      "rank": 50,
       "contest_rank": 34
     },
     {
       "user": "Pech1",
-      "rank": 50,
+      "rank": 51,
       "contest_rank": 37
     },
     {
       "user": "lionl",
-      "rank": 51,
+      "rank": 52,
       "contest_rank": null
     },
     {
       "user": "i_taku",
-      "rank": 52,
+      "rank": 53,
       "contest_rank": 32
     },
     {
       "user": "physics0523",
-      "rank": 53,
+      "rank": 54,
       "contest_rank": null
     },
     {
       "user": "MathGorilla",
-      "rank": 54,
+      "rank": 55,
       "contest_rank": 40
     },
     {
       "user": "lionl",
-      "rank": 55,
-      "contest_rank": 38
-    },
-    {
-      "user": "kurakura",
       "rank": 56,
-      "contest_rank": null
+      "contest_rank": 38
     },
     {
       "user": "wata_admin",
@@ -453,14 +453,14 @@
       "contest_rank": 60
     },
     {
-      "user": "petite_prog",
+      "user": "kozima",
       "rank": 91,
-      "contest_rank": 72
+      "contest_rank": 71
     },
     {
-      "user": "kozima",
+      "user": "petite_prog",
       "rank": 92,
-      "contest_rank": 71
+      "contest_rank": 72
     },
     {
       "user": "tyokousagi",
@@ -623,14 +623,14 @@
       "contest_rank": 105
     },
     {
-      "user": "tetsuya1111",
+      "user": "manloe",
       "rank": 125,
-      "contest_rank": 111
+      "contest_rank": 93
     },
     {
-      "user": "manloe",
+      "user": "tetsuya1111",
       "rank": 126,
-      "contest_rank": 93
+      "contest_rank": 111
     },
     {
       "user": "sirsoldano",
@@ -4440,12 +4440,12 @@
     {
       "user": "Yoshi132",
       "rank": 809,
-      "contest_rank": 736
+      "contest_rank": null
     },
     {
       "user": "Yoshi132",
       "rank": 809,
-      "contest_rank": null
+      "contest_rank": 736
     },
     {
       "user": "Youteru",

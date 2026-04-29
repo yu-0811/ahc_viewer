@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-04-28T16:58:01.880874+00:00",
+  "fetched_at": "2026-04-29T16:46:53.586826+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1080,12 +1080,12 @@
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": 173
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 173
     },
     {
       "user": "hachegawa",
@@ -1190,12 +1190,12 @@
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": null
+      "contest_rank": 183
     },
     {
       "user": "capy_kun",
       "rank": 238,
-      "contest_rank": 183
+      "contest_rank": null
     },
     {
       "user": "yudedako",
@@ -2385,12 +2385,12 @@
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": null
+      "contest_rank": 396
     },
     {
       "user": "rui_er",
       "rank": 477,
-      "contest_rank": 396
+      "contest_rank": null
     },
     {
       "user": "xxkiritoxx",
@@ -3815,12 +3815,12 @@
     {
       "user": "CHD",
       "rank": 751,
-      "contest_rank": null
+      "contest_rank": 643
     },
     {
       "user": "CHD",
       "rank": 751,
-      "contest_rank": 643
+      "contest_rank": null
     },
     {
       "user": "Chinchilla914z",
@@ -7880,12 +7880,12 @@
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Megha23",
@@ -8225,12 +8225,12 @@
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCTprobability",
@@ -8565,12 +8565,12 @@
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "SAKUO500",
