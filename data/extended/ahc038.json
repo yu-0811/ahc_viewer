@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc038",
-  "fetched_at": "2026-04-29T16:48:03.281497+00:00",
+  "fetched_at": "2026-04-30T16:26:30.431933+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -225,12 +225,12 @@
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": 27
+      "contest_rank": null
     },
     {
       "user": "Moegi",
       "rank": 45,
-      "contest_rank": null
+      "contest_rank": 27
     },
     {
       "user": "mekemeke_san",
@@ -2655,12 +2655,12 @@
     {
       "user": "mimirot",
       "rank": 531,
-      "contest_rank": null
+      "contest_rank": 446
     },
     {
       "user": "mimirot",
       "rank": 531,
-      "contest_rank": 446
+      "contest_rank": null
     },
     {
       "user": "yuanhaorana",
@@ -3660,12 +3660,12 @@
     {
       "user": "Capo",
       "rank": 732,
-      "contest_rank": null
+      "contest_rank": 636
     },
     {
       "user": "Capo",
       "rank": 732,
-      "contest_rank": 636
+      "contest_rank": null
     },
     {
       "user": "june193",
@@ -3960,12 +3960,12 @@
     {
       "user": "FUXIU",
       "rank": 792,
-      "contest_rank": null
+      "contest_rank": 698
     },
     {
       "user": "FUXIU",
       "rank": 792,
-      "contest_rank": 698
+      "contest_rank": null
     },
     {
       "user": "Noah2022",
@@ -10635,12 +10635,12 @@
     {
       "user": "Weskdohn",
       "rank": 1129,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "Weskdohn",
       "rank": 1129,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "Weslie_s",
@@ -19805,12 +19805,12 @@
     {
       "user": "ultvoW_mEden",
       "rank": 1129,
-      "contest_rank": null
+      "contest_rank": 1005
     },
     {
       "user": "ultvoW_mEden",
       "rank": 1129,
-      "contest_rank": 1005
+      "contest_rank": null
     },
     {
       "user": "umashio_lettuce",
