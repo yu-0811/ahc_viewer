@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc027",
-  "fetched_at": "2026-04-30T16:25:27.372904+00:00",
+  "fetched_at": "2026-05-01T16:02:02.670658+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1080,12 +1080,12 @@
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": 173
+      "contest_rank": null
     },
     {
       "user": "fmhr",
       "rank": 216,
-      "contest_rank": null
+      "contest_rank": 173
     },
     {
       "user": "hachegawa",
@@ -3130,12 +3130,12 @@
     {
       "user": "ynak79",
       "rank": 626,
-      "contest_rank": null
+      "contest_rank": 539
     },
     {
       "user": "ynak79",
       "rank": 626,
-      "contest_rank": 539
+      "contest_rank": null
     },
     {
       "user": "shihaka",
@@ -7880,12 +7880,12 @@
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "Medjed22",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "Megha23",
@@ -8225,12 +8225,12 @@
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "PCT2506",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "PCTprobability",
@@ -8565,12 +8565,12 @@
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": null
+      "contest_rank": 999
     },
     {
       "user": "Ryojam",
       "rank": 1174,
-      "contest_rank": 999
+      "contest_rank": null
     },
     {
       "user": "SAKUO500",

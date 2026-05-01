@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc010",
-  "fetched_at": "2026-04-30T16:23:57.193508+00:00",
+  "fetched_at": "2026-05-01T16:00:33.977061+00:00",
   "rows": [
     {
       "user": "yurahuna",
@@ -6390,12 +6390,12 @@
     {
       "user": "colun",
       "rank": 963,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "colun",
       "rank": 963,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "confluence",

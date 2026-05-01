@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-04-30T16:23:46.497016+00:00",
+  "fetched_at": "2026-05-01T16:00:23.272267+00:00",
   "rows": [
     {
       "user": "wata_admin",
@@ -43,52 +43,52 @@
       "contest_rank": null
     },
     {
-      "user": "eijirou",
+      "user": "cuthbert",
       "rank": 9,
       "contest_rank": null
     },
     {
-      "user": "nikaj",
+      "user": "eijirou",
       "rank": 10,
       "contest_rank": null
     },
     {
-      "user": "imucoding",
+      "user": "nikaj",
       "rank": 11,
       "contest_rank": null
     },
     {
-      "user": "Pech1",
+      "user": "imucoding",
       "rank": 12,
       "contest_rank": null
     },
     {
-      "user": "titan23",
+      "user": "Pech1",
       "rank": 13,
       "contest_rank": null
     },
     {
-      "user": "FplusFplusF",
+      "user": "titan23",
       "rank": 14,
       "contest_rank": null
     },
     {
-      "user": "Shibuyap",
+      "user": "FplusFplusF",
       "rank": 15,
       "contest_rank": null
     },
     {
-      "user": "tomerun",
+      "user": "Shibuyap",
       "rank": 16,
       "contest_rank": null
     },
     {
-      "user": "yokozuna57",
+      "user": "tomerun",
       "rank": 17,
       "contest_rank": null
     },
     {
-      "user": "cuthbert",
+      "user": "yokozuna57",
       "rank": 18,
       "contest_rank": null
     },
@@ -5690,12 +5690,12 @@
     {
       "user": "achapi",
       "rank": 1004,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "achapi",
       "rank": 1004,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "adi137",
@@ -6820,12 +6820,12 @@
     {
       "user": "tombo314",
       "rank": 1004,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "tombo314",
       "rank": 1004,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "toureiffel2018",

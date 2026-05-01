@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-04-30T16:28:40.057862+00:00",
+  "fetched_at": "2026-05-01T16:05:09.173590+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -3385,12 +3385,12 @@
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "KiriKana",
@@ -5570,12 +5570,12 @@
     {
       "user": "KC117",
       "rank": 1114,
-      "contest_rank": 998
+      "contest_rank": null
     },
     {
       "user": "KC117",
       "rank": 1114,
-      "contest_rank": null
+      "contest_rank": 998
     },
     {
       "user": "ghuknn",
@@ -13301,6 +13301,11 @@
       "user": "regaltos",
       "rank": 1238,
       "contest_rank": 1115
+    },
+    {
+      "user": "reinsirk",
+      "rank": 1238,
+      "contest_rank": null
     },
     {
       "user": "rekcA_h",
