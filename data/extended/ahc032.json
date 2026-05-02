@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc032",
-  "fetched_at": "2026-05-01T16:02:30.645361+00:00",
+  "fetched_at": "2026-05-02T15:54:57.142970+00:00",
   "rows": [
     {
       "user": "Rafbill",
@@ -3250,12 +3250,12 @@
     {
       "user": "hirohito1971",
       "rank": 650,
-      "contest_rank": null
+      "contest_rank": 358
     },
     {
       "user": "hirohito1971",
       "rank": 650,
-      "contest_rank": 358
+      "contest_rank": null
     },
     {
       "user": "mya3",
@@ -4740,12 +4740,12 @@
     {
       "user": "alfons",
       "rank": 947,
-      "contest_rank": 589
+      "contest_rank": null
     },
     {
       "user": "alfons",
       "rank": 947,
-      "contest_rank": null
+      "contest_rank": 589
     },
     {
       "user": "furs0na",
@@ -5745,12 +5745,12 @@
     {
       "user": "poipoi106",
       "rank": 1132,
-      "contest_rank": 732
+      "contest_rank": null
     },
     {
       "user": "poipoi106",
       "rank": 1132,
-      "contest_rank": null
+      "contest_rank": 732
     },
     {
       "user": "rubisco29",
@@ -6798,11 +6798,6 @@
       "contest_rank": null
     },
     {
-      "user": "DragonEmperor",
-      "rank": 1356,
-      "contest_rank": 894
-    },
-    {
       "user": "Ethan0517",
       "rank": 1356,
       "contest_rank": null
@@ -6811,6 +6806,11 @@
       "user": "F12aaaaaaa",
       "rank": 1356,
       "contest_rank": null
+    },
+    {
+      "user": "Forever__Newbie",
+      "rank": 1356,
+      "contest_rank": 894
     },
     {
       "user": "HakuroKawashiro",
