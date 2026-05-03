@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-05-02T15:57:36.390393+00:00",
+  "fetched_at": "2026-05-03T15:57:49.182987+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -453,32 +453,32 @@
       "contest_rank": 34
     },
     {
-      "user": "sugarrr",
+      "user": "sinzyousan",
       "rank": 91,
+      "contest_rank": null
+    },
+    {
+      "user": "sugarrr",
+      "rank": 92,
       "contest_rank": 35
     },
     {
       "user": "perovskite",
-      "rank": 92,
+      "rank": 93,
       "contest_rank": null
     },
     {
       "user": "maisuma",
-      "rank": 93,
+      "rank": 94,
       "contest_rank": 36
     },
     {
       "user": "nikoro256",
-      "rank": 94,
+      "rank": 95,
       "contest_rank": 37
     },
     {
       "user": "lotusblume",
-      "rank": 95,
-      "contest_rank": null
-    },
-    {
-      "user": "sinzyousan",
       "rank": 96,
       "contest_rank": null
     },
@@ -7030,12 +7030,12 @@
     {
       "user": "jbyxm",
       "rank": 916,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "jbyxm",
       "rank": 916,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "jiangbohan12",
@@ -7930,12 +7930,12 @@
     {
       "user": "shamezhame",
       "rank": 916,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "shamezhame",
       "rank": 916,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "sheraz046",
@@ -8255,12 +8255,12 @@
     {
       "user": "uminorosujin",
       "rank": 916,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "uminorosujin",
       "rank": 916,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "unXknown",

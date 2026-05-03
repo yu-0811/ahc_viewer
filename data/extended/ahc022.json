@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc022",
-  "fetched_at": "2026-05-02T15:53:53.726201+00:00",
+  "fetched_at": "2026-05-03T15:54:09.141567+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -330,12 +330,12 @@
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": null
+      "contest_rank": 55
     },
     {
       "user": "SI_AtCoder",
       "rank": 66,
-      "contest_rank": 55
+      "contest_rank": null
     },
     {
       "user": "G4NP0N",
@@ -3530,12 +3530,12 @@
     {
       "user": "breakfast_curry",
       "rank": 706,
-      "contest_rank": null
+      "contest_rank": 657
     },
     {
       "user": "breakfast_curry",
       "rank": 706,
-      "contest_rank": 657
+      "contest_rank": null
     },
     {
       "user": "Skygood",
@@ -3690,12 +3690,12 @@
     {
       "user": "rui_er",
       "rank": 738,
-      "contest_rank": null
+      "contest_rank": 634
     },
     {
       "user": "rui_er",
       "rank": 738,
-      "contest_rank": 634
+      "contest_rank": null
     },
     {
       "user": "Capo",
@@ -4510,12 +4510,12 @@
     {
       "user": "2021lhyjz",
       "rank": 902,
-      "contest_rank": null
+      "contest_rank": 793
     },
     {
       "user": "2021lhyjz",
       "rank": 902,
-      "contest_rank": 793
+      "contest_rank": null
     },
     {
       "user": "AngrySadEight",
@@ -13095,12 +13095,12 @@
     {
       "user": "klu_2200032057",
       "rank": 1159,
-      "contest_rank": 992
+      "contest_rank": null
     },
     {
       "user": "klu_2200032057",
       "rank": 1159,
-      "contest_rank": null
+      "contest_rank": 992
     },
     {
       "user": "klu_2200032532",
@@ -14703,6 +14703,11 @@
       "contest_rank": 992
     },
     {
+      "user": "otlabihtuco",
+      "rank": 1159,
+      "contest_rank": 992
+    },
+    {
       "user": "otoshigo",
       "rank": 1159,
       "contest_rank": 992
@@ -16074,11 +16079,6 @@
     },
     {
       "user": "stblue",
-      "rank": 1159,
-      "contest_rank": 992
-    },
-    {
-      "user": "stegatxins0",
       "rank": 1159,
       "contest_rank": 992
     },
