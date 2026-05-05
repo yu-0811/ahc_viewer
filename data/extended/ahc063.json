@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc063",
-  "fetched_at": "2026-05-04T16:56:27.705216+00:00",
+  "fetched_at": "2026-05-05T16:32:45.319486+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -5040,12 +5040,12 @@
     {
       "user": "sosuu13",
       "rank": 810,
-      "contest_rank": 736
+      "contest_rank": null
     },
     {
       "user": "sosuu13",
       "rank": 810,
-      "contest_rank": null
+      "contest_rank": 736
     },
     {
       "user": "sqzume",

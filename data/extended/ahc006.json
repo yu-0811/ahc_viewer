@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc006",
-  "fetched_at": "2026-05-04T16:51:01.032738+00:00",
+  "fetched_at": "2026-05-05T16:27:24.863117+00:00",
   "rows": [
     {
       "user": "qwerty787788",
@@ -18,92 +18,92 @@
       "contest_rank": null
     },
     {
-      "user": "tempura0224",
+      "user": "fuppy0716",
       "rank": 4,
       "contest_rank": null
     },
     {
-      "user": "nikaj",
+      "user": "tempura0224",
       "rank": 5,
       "contest_rank": null
     },
     {
-      "user": "zxn",
+      "user": "nikaj",
       "rank": 6,
       "contest_rank": null
     },
     {
-      "user": "noimi",
+      "user": "zxn",
       "rank": 7,
       "contest_rank": null
     },
     {
-      "user": "toame",
+      "user": "noimi",
       "rank": 8,
       "contest_rank": null
     },
     {
-      "user": "Jirotech",
+      "user": "toame",
       "rank": 9,
       "contest_rank": null
     },
     {
-      "user": "Jerrywang2008",
+      "user": "Jirotech",
       "rank": 10,
       "contest_rank": null
     },
     {
-      "user": "S142857",
+      "user": "Jerrywang2008",
       "rank": 11,
       "contest_rank": null
     },
     {
-      "user": "satanic0258",
+      "user": "S142857",
       "rank": 12,
       "contest_rank": null
     },
     {
-      "user": "Aquarius",
+      "user": "satanic0258",
       "rank": 13,
+      "contest_rank": null
+    },
+    {
+      "user": "Aquarius",
+      "rank": 14,
       "contest_rank": 1
     },
     {
       "user": "syndrome",
-      "rank": 14,
-      "contest_rank": null
-    },
-    {
-      "user": "hte",
       "rank": 15,
       "contest_rank": null
     },
     {
-      "user": "mobmob2",
+      "user": "hte",
       "rank": 16,
       "contest_rank": null
     },
     {
-      "user": "yoshi108",
+      "user": "mobmob2",
       "rank": 17,
       "contest_rank": null
     },
     {
-      "user": "yuu3817",
+      "user": "yoshi108",
       "rank": 18,
       "contest_rank": null
     },
     {
-      "user": "tiaotiao0830",
+      "user": "yuu3817",
       "rank": 19,
       "contest_rank": null
     },
     {
-      "user": "arfz",
+      "user": "tiaotiao0830",
       "rank": 20,
       "contest_rank": null
     },
     {
-      "user": "fuppy0716",
+      "user": "arfz",
       "rank": 21,
       "contest_rank": null
     },
@@ -7470,12 +7470,12 @@
     {
       "user": "nahco314",
       "rank": 1060,
-      "contest_rank": null
+      "contest_rank": 523
     },
     {
       "user": "nahco314",
       "rank": 1060,
-      "contest_rank": 523
+      "contest_rank": null
     },
     {
       "user": "naim93",
