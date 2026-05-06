@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc023",
-  "fetched_at": "2026-05-05T16:28:47.455983+00:00",
+  "fetched_at": "2026-05-06T16:47:35.009929+00:00",
   "rows": [
     {
       "user": "FplusFplusF",
@@ -530,12 +530,12 @@
     {
       "user": "catoon",
       "rank": 106,
-      "contest_rank": 75
+      "contest_rank": null
     },
     {
       "user": "catoon",
       "rank": 106,
-      "contest_rank": null
+      "contest_rank": 75
     },
     {
       "user": "tanakamidnight",
@@ -1335,12 +1335,12 @@
     {
       "user": "melo25",
       "rank": 267,
-      "contest_rank": 222
+      "contest_rank": null
     },
     {
       "user": "melo25",
       "rank": 267,
-      "contest_rank": null
+      "contest_rank": 222
     },
     {
       "user": "Jinapetto",
@@ -2680,12 +2680,12 @@
     {
       "user": "maple_1016",
       "rank": 536,
-      "contest_rank": null
+      "contest_rank": 506
     },
     {
       "user": "maple_1016",
       "rank": 536,
-      "contest_rank": 506
+      "contest_rank": null
     },
     {
       "user": "nknk9",
@@ -3285,12 +3285,12 @@
     {
       "user": "renoyu",
       "rank": 657,
-      "contest_rank": null
+      "contest_rank": 633
     },
     {
       "user": "renoyu",
       "rank": 657,
-      "contest_rank": 633
+      "contest_rank": null
     },
     {
       "user": "matcharate12",
@@ -7695,12 +7695,12 @@
     {
       "user": "Ramkumar1",
       "rank": 913,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "Ramkumar1",
       "rank": 913,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "Ran007",
@@ -11045,12 +11045,12 @@
     {
       "user": "kashyapkompella",
       "rank": 913,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "kashyapkompella",
       "rank": 913,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "katalonecfly",
@@ -13770,12 +13770,12 @@
     {
       "user": "klu_2200050025",
       "rank": 913,
-      "contest_rank": null
+      "contest_rank": 800
     },
     {
       "user": "klu_2200050025",
       "rank": 913,
-      "contest_rank": 800
+      "contest_rank": null
     },
     {
       "user": "klu_2200080121",
@@ -13809,6 +13809,11 @@
     },
     {
       "user": "kmtyuk",
+      "rank": 913,
+      "contest_rank": 800
+    },
+    {
+      "user": "knr_imtr",
       "rank": 913,
       "contest_rank": 800
     },
@@ -14679,11 +14684,6 @@
     },
     {
       "user": "moririn2528",
-      "rank": 913,
-      "contest_rank": 800
-    },
-    {
-      "user": "motu84834",
       "rank": 913,
       "contest_rank": 800
     },

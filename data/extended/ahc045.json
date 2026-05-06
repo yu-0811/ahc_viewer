@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-05-05T16:30:56.375938+00:00",
+  "fetched_at": "2026-05-06T16:49:44.368743+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -5495,12 +5495,12 @@
     {
       "user": "happyfishsh",
       "rank": 943,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "happyfishsh",
       "rank": 943,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "hassybirobiro",
