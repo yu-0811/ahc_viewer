@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc009",
-  "fetched_at": "2026-05-06T16:46:15.525771+00:00",
+  "fetched_at": "2026-05-07T16:55:37.175409+00:00",
   "rows": [
     {
       "user": "eijirou",
@@ -7970,12 +7970,12 @@
     {
       "user": "hasakit",
       "rank": 1173,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "hasakit",
       "rank": 1173,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "hassybirobiro",
@@ -8300,12 +8300,12 @@
     {
       "user": "katsunori",
       "rank": 1173,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "katsunori",
       "rank": 1173,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "kazuki_poke",
@@ -9420,12 +9420,12 @@
     {
       "user": "st_red_strat",
       "rank": 1173,
-      "contest_rank": 761
+      "contest_rank": null
     },
     {
       "user": "st_red_strat",
       "rank": 1173,
-      "contest_rank": null
+      "contest_rank": 761
     },
     {
       "user": "starvader",
