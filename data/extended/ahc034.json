@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc034",
-  "fetched_at": "2026-05-08T16:20:42.980627+00:00",
+  "fetched_at": "2026-05-09T16:00:16.142108+00:00",
   "rows": [
     {
       "user": "yosupo",
@@ -2925,12 +2925,12 @@
     {
       "user": "rui_er",
       "rank": 585,
-      "contest_rank": null
+      "contest_rank": 369
     },
     {
       "user": "rui_er",
       "rank": 585,
-      "contest_rank": 369
+      "contest_rank": null
     },
     {
       "user": "LyricalMaestro",
@@ -5545,12 +5545,12 @@
     {
       "user": "SpeedCoder",
       "rank": 1108,
-      "contest_rank": null
+      "contest_rank": 784
     },
     {
       "user": "SpeedCoder",
       "rank": 1108,
-      "contest_rank": 784
+      "contest_rank": null
     },
     {
       "user": "dai0620",
@@ -5820,12 +5820,12 @@
     {
       "user": "Midoca",
       "rank": 1164,
-      "contest_rank": null
+      "contest_rank": 822
     },
     {
       "user": "Midoca",
       "rank": 1164,
-      "contest_rank": 822
+      "contest_rank": null
     },
     {
       "user": "rukky",
@@ -6160,12 +6160,12 @@
     {
       "user": "Nauclhlt",
       "rank": 1225,
-      "contest_rank": null
+      "contest_rank": 867
     },
     {
       "user": "Nauclhlt",
       "rank": 1225,
-      "contest_rank": 867
+      "contest_rank": null
     },
     {
       "user": "Rogi",
@@ -6310,12 +6310,12 @@
     {
       "user": "yakiniku8291",
       "rank": 1225,
-      "contest_rank": null
+      "contest_rank": 867
     },
     {
       "user": "yakiniku8291",
       "rank": 1225,
-      "contest_rank": 867
+      "contest_rank": null
     },
     {
       "user": "zbh0406",
@@ -6823,11 +6823,6 @@
       "contest_rank": 905
     },
     {
-      "user": "Caozimo1102",
-      "rank": 1306,
-      "contest_rank": 905
-    },
-    {
       "user": "Carina",
       "rank": 1306,
       "contest_rank": 905
@@ -6894,6 +6889,11 @@
     },
     {
       "user": "CornerBoi",
+      "rank": 1306,
+      "contest_rank": 905
+    },
+    {
+      "user": "Cute_fish",
       "rank": 1306,
       "contest_rank": 905
     },
@@ -7425,12 +7425,12 @@
     {
       "user": "Maki_python",
       "rank": 1306,
-      "contest_rank": null
+      "contest_rank": 905
     },
     {
       "user": "Maki_python",
       "rank": 1306,
-      "contest_rank": 905
+      "contest_rank": null
     },
     {
       "user": "ManishShee24",
@@ -7615,12 +7615,12 @@
     {
       "user": "PALLAVI24",
       "rank": 1306,
-      "contest_rank": 905
+      "contest_rank": null
     },
     {
       "user": "PALLAVI24",
       "rank": 1306,
-      "contest_rank": null
+      "contest_rank": 905
     },
     {
       "user": "Pentimentqwq",
