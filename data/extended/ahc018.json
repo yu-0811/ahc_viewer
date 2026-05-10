@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc018",
-  "fetched_at": "2026-05-09T15:58:34.900755+00:00",
+  "fetched_at": "2026-05-10T15:59:15.267793+00:00",
   "rows": [
     {
       "user": "Psyho",
@@ -1690,12 +1690,12 @@
     {
       "user": "ShunSK210328",
       "rank": 338,
-      "contest_rank": null
+      "contest_rank": 301
     },
     {
       "user": "ShunSK210328",
       "rank": 338,
-      "contest_rank": 301
+      "contest_rank": null
     },
     {
       "user": "inu__dog",
@@ -5430,12 +5430,12 @@
     {
       "user": "deuteridayo",
       "rank": 1086,
-      "contest_rank": 983
+      "contest_rank": null
     },
     {
       "user": "deuteridayo",
       "rank": 1086,
-      "contest_rank": null
+      "contest_rank": 983
     },
     {
       "user": "UMRgurashi",
@@ -7393,11 +7393,6 @@
       "contest_rank": 1027
     },
     {
-      "user": "Pon9078",
-      "rank": 1151,
-      "contest_rank": 1027
-    },
-    {
       "user": "Pon_Sato0928",
       "rank": 1151,
       "contest_rank": 1027
@@ -7904,6 +7899,11 @@
     },
     {
       "user": "Tarara",
+      "rank": 1151,
+      "contest_rank": 1027
+    },
+    {
+      "user": "Tatt9078",
       "rank": 1151,
       "contest_rank": 1027
     },
@@ -9915,12 +9915,12 @@
     {
       "user": "itt828",
       "rank": 1151,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "itt828",
       "rank": 1151,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "iuchikun",
@@ -12100,12 +12100,12 @@
     {
       "user": "shiir_a",
       "rank": 1151,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "shiir_a",
       "rank": 1151,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "shimasima2",

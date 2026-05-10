@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc044",
-  "fetched_at": "2026-05-09T16:01:17.090440+00:00",
+  "fetched_at": "2026-05-10T16:02:02.421434+00:00",
   "rows": [
     {
       "user": "bowwowforeach",
@@ -3765,12 +3765,12 @@
     {
       "user": "SMDTU",
       "rank": 753,
-      "contest_rank": 458
+      "contest_rank": null
     },
     {
       "user": "SMDTU",
       "rank": 753,
-      "contest_rank": null
+      "contest_rank": 458
     },
     {
       "user": "bluehour",
@@ -4615,12 +4615,12 @@
     {
       "user": "jiyujin816",
       "rank": 923,
-      "contest_rank": null
+      "contest_rank": 595
     },
     {
       "user": "jiyujin816",
       "rank": 923,
-      "contest_rank": 595
+      "contest_rank": null
     },
     {
       "user": "fuzorizumu",
@@ -7760,12 +7760,12 @@
     {
       "user": "Gavinzhou",
       "rank": 1465,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "Gavinzhou",
       "rank": 1465,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "Ge_Mo",
@@ -8363,11 +8363,6 @@
       "contest_rank": 997
     },
     {
-      "user": "Prem_KJain",
-      "rank": 1465,
-      "contest_rank": 997
-    },
-    {
       "user": "Purnamahesh",
       "rank": 1465,
       "contest_rank": 997
@@ -8534,6 +8529,11 @@
     },
     {
       "user": "Scean_Tong",
+      "rank": 1465,
+      "contest_rank": 997
+    },
+    {
+      "user": "SclEncrptd",
       "rank": 1465,
       "contest_rank": 997
     },
@@ -9200,12 +9200,12 @@
     {
       "user": "bio4eta",
       "rank": 1465,
-      "contest_rank": null
+      "contest_rank": 997
     },
     {
       "user": "bio4eta",
       "rank": 1465,
-      "contest_rank": 997
+      "contest_rank": null
     },
     {
       "user": "black_scythe",
