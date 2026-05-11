@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc045",
-  "fetched_at": "2026-05-10T16:02:08.284371+00:00",
+  "fetched_at": "2026-05-11T17:31:04.045022+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -2800,12 +2800,12 @@
     {
       "user": "jj1guj",
       "rank": 560,
-      "contest_rank": 454
+      "contest_rank": null
     },
     {
       "user": "jj1guj",
       "rank": 560,
-      "contest_rank": null
+      "contest_rank": 454
     },
     {
       "user": "inujimono",
@@ -5495,12 +5495,12 @@
     {
       "user": "happyfishsh",
       "rank": 943,
-      "contest_rank": 840
+      "contest_rank": null
     },
     {
       "user": "happyfishsh",
       "rank": 943,
-      "contest_rank": null
+      "contest_rank": 840
     },
     {
       "user": "hassybirobiro",
