@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-05-11T17:32:42.153025+00:00",
+  "fetched_at": "2026-05-12T17:20:55.872420+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -2960,12 +2960,12 @@
     {
       "user": "khasu329",
       "rank": 592,
-      "contest_rank": 528
+      "contest_rank": null
     },
     {
       "user": "khasu329",
       "rank": 592,
-      "contest_rank": null
+      "contest_rank": 528
     },
     {
       "user": "GoodK",
@@ -14880,12 +14880,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1239,
-      "contest_rank": 1115
+      "contest_rank": null
     },
     {
       "user": "ymym_tymblack",
       "rank": 1239,
-      "contest_rank": null
+      "contest_rank": 1115
     },
     {
       "user": "yonetani",
@@ -15228,7 +15228,7 @@
       "contest_rank": 1115
     },
     {
-      "user": "zx201210",
+      "user": "zx2012",
       "rank": 1239,
       "contest_rank": 1115
     },
