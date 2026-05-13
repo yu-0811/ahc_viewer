@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc061",
-  "fetched_at": "2026-05-12T17:20:55.872420+00:00",
+  "fetched_at": "2026-05-13T17:25:32.394959+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -215,12 +215,12 @@
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": 31
+      "contest_rank": null
     },
     {
       "user": "not",
       "rank": 43,
-      "contest_rank": null
+      "contest_rank": 31
     },
     {
       "user": "yadorann24",
@@ -3385,12 +3385,12 @@
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": null
+      "contest_rank": 541
     },
     {
       "user": "UT0911",
       "rank": 677,
-      "contest_rank": 541
+      "contest_rank": null
     },
     {
       "user": "KiriKana",
@@ -5575,12 +5575,12 @@
     {
       "user": "KC117",
       "rank": 1115,
-      "contest_rank": 998
+      "contest_rank": null
     },
     {
       "user": "KC117",
       "rank": 1115,
-      "contest_rank": null
+      "contest_rank": 998
     },
     {
       "user": "ghuknn",
@@ -14880,12 +14880,12 @@
     {
       "user": "ymym_tymblack",
       "rank": 1239,
-      "contest_rank": null
+      "contest_rank": 1115
     },
     {
       "user": "ymym_tymblack",
       "rank": 1239,
-      "contest_rank": 1115
+      "contest_rank": null
     },
     {
       "user": "yonetani",
