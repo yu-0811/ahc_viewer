@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc056",
-  "fetched_at": "2026-05-14T17:07:54.967966+00:00",
+  "fetched_at": "2026-05-15T16:58:23.867346+00:00",
   "rows": [
     {
       "user": "lijiaming",
@@ -2540,12 +2540,12 @@
     {
       "user": "sukesan_killer",
       "rank": 398,
-      "contest_rank": 364
+      "contest_rank": null
     },
     {
       "user": "sukesan_killer",
       "rank": 398,
-      "contest_rank": null
+      "contest_rank": 364
     },
     {
       "user": "tanakh",
@@ -2730,12 +2730,12 @@
     {
       "user": "uminorosujin",
       "rank": 543,
-      "contest_rank": null
+      "contest_rank": 493
     },
     {
       "user": "uminorosujin",
       "rank": 543,
-      "contest_rank": 493
+      "contest_rank": null
     },
     {
       "user": "sugiharahara",
@@ -13800,12 +13800,12 @@
     {
       "user": "xiongch1GanFan",
       "rank": 1153,
-      "contest_rank": null
+      "contest_rank": 1065
     },
     {
       "user": "xiongch1GanFan",
       "rank": 1153,
-      "contest_rank": 1065
+      "contest_rank": null
     },
     {
       "user": "xiphi",
