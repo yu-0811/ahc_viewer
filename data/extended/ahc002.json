@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc002",
-  "fetched_at": "2026-05-15T16:53:14.474551+00:00",
+  "fetched_at": "2026-05-16T16:00:47.462613+00:00",
   "rows": [
     {
       "user": "C2028_wzc",
@@ -238,42 +238,42 @@
       "contest_rank": 1
     },
     {
-      "user": "bakimomo",
+      "user": "kurakura",
       "rank": 48,
       "contest_rank": null
     },
     {
-      "user": "nanophoto",
+      "user": "bakimomo",
       "rank": 49,
       "contest_rank": null
     },
     {
-      "user": "tyokousagi",
+      "user": "nanophoto",
       "rank": 50,
       "contest_rank": null
     },
     {
-      "user": "terry_u16",
+      "user": "tyokousagi",
       "rank": 51,
       "contest_rank": null
     },
     {
-      "user": "zhongyx",
+      "user": "terry_u16",
       "rank": 52,
       "contest_rank": null
     },
     {
-      "user": "kanra824",
+      "user": "zhongyx",
       "rank": 53,
       "contest_rank": null
     },
     {
-      "user": "OoXiao_QioO",
+      "user": "kanra824",
       "rank": 54,
       "contest_rank": null
     },
     {
-      "user": "kurakura",
+      "user": "OoXiao_QioO",
       "rank": 55,
       "contest_rank": null
     },
@@ -11835,12 +11835,12 @@
     {
       "user": "NeoNuc2001",
       "rank": 2053,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "NeoNuc2001",
       "rank": 2053,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "NhatMinh0208",
@@ -13395,12 +13395,12 @@
     {
       "user": "aozorarb",
       "rank": 2053,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "aozorarb",
       "rank": 2053,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "apricot10",
@@ -16465,12 +16465,12 @@
     {
       "user": "northclimb",
       "rank": 2053,
-      "contest_rank": null
+      "contest_rank": 1019
     },
     {
       "user": "northclimb",
       "rank": 2053,
-      "contest_rank": 1019
+      "contest_rank": null
     },
     {
       "user": "noshi91",

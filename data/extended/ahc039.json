@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc039",
-  "fetched_at": "2026-05-15T16:56:39.677005+00:00",
+  "fetched_at": "2026-05-16T16:04:12.200104+00:00",
   "rows": [
     {
       "user": "aaaaaaaaaa2230",
@@ -5445,12 +5445,12 @@
     {
       "user": "DH2",
       "rank": 1026,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "DH2",
       "rank": 1026,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "Daichi124",
@@ -8035,12 +8035,12 @@
     {
       "user": "nono00",
       "rank": 1026,
-      "contest_rank": null
+      "contest_rank": 683
     },
     {
       "user": "nono00",
       "rank": 1026,
-      "contest_rank": 683
+      "contest_rank": null
     },
     {
       "user": "noq",
