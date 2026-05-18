@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc018",
-  "fetched_at": "2026-05-17T16:02:58.965387+00:00",
+  "fetched_at": "2026-05-18T17:32:02.473173+00:00",
   "rows": [
     {
       "user": "Psyho",
@@ -2840,12 +2840,12 @@
     {
       "user": "yukihira_pot",
       "rank": 568,
-      "contest_rank": 516
+      "contest_rank": null
     },
     {
       "user": "yukihira_pot",
       "rank": 568,
-      "contest_rank": null
+      "contest_rank": 516
     },
     {
       "user": "math",
@@ -9915,12 +9915,12 @@
     {
       "user": "itt828",
       "rank": 1151,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "itt828",
       "rank": 1151,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "iuchikun",
@@ -12100,12 +12100,12 @@
     {
       "user": "shiir_a",
       "rank": 1151,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "shiir_a",
       "rank": 1151,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "shimasima2",
@@ -12210,12 +12210,12 @@
     {
       "user": "similer",
       "rank": 1151,
-      "contest_rank": null
+      "contest_rank": 1027
     },
     {
       "user": "similer",
       "rank": 1151,
-      "contest_rank": 1027
+      "contest_rank": null
     },
     {
       "user": "simple710",

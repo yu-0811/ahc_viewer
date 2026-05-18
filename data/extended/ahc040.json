@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc040",
-  "fetched_at": "2026-05-17T16:05:18.035617+00:00",
+  "fetched_at": "2026-05-18T17:34:15.338148+00:00",
   "rows": [
     {
       "user": "Shun_PI",
@@ -5305,12 +5305,12 @@
     {
       "user": "zhaomuxi2024",
       "rank": 861,
-      "contest_rank": 768
+      "contest_rank": null
     },
     {
       "user": "zhaomuxi2024",
       "rank": 861,
-      "contest_rank": null
+      "contest_rank": 768
     },
     {
       "user": "zhaosang",
@@ -6445,12 +6445,12 @@
     {
       "user": "Ayano0930",
       "rank": 1217,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "Ayano0930",
       "rank": 1217,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "Aykhan007",
@@ -9288,6 +9288,11 @@
       "contest_rank": 1087
     },
     {
+      "user": "WF_wxl",
+      "rank": 1217,
+      "contest_rank": 1087
+    },
+    {
       "user": "WRY2013",
       "rank": 1217,
       "contest_rank": 1087
@@ -12065,12 +12070,12 @@
     {
       "user": "jin_matakich",
       "rank": 1217,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "jin_matakich",
       "rank": 1217,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "jinmao_",
@@ -12655,12 +12660,12 @@
     {
       "user": "linjy",
       "rank": 1217,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "linjy",
       "rank": 1217,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "littlegirl112",
@@ -12675,12 +12680,12 @@
     {
       "user": "liuenci",
       "rank": 1217,
-      "contest_rank": null
+      "contest_rank": 1087
     },
     {
       "user": "liuenci",
       "rank": 1217,
-      "contest_rank": 1087
+      "contest_rank": null
     },
     {
       "user": "liumonong3",
@@ -15794,11 +15799,6 @@
     },
     {
       "user": "wangmarui",
-      "rank": 1217,
-      "contest_rank": 1087
-    },
-    {
-      "user": "wangxiaolin",
       "rank": 1217,
       "contest_rank": 1087
     },
