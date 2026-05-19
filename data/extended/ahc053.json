@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc053",
-  "fetched_at": "2026-05-18T17:35:30.639089+00:00",
+  "fetched_at": "2026-05-19T17:44:32.123384+00:00",
   "rows": [
     {
       "user": "kozima",
@@ -3020,12 +3020,12 @@
     {
       "user": "O24",
       "rank": 604,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "O24",
       "rank": 604,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "ykobayashi",
@@ -6175,12 +6175,12 @@
     {
       "user": "SHA_TO_RU",
       "rank": 1231,
-      "contest_rank": 943
+      "contest_rank": null
     },
     {
       "user": "SHA_TO_RU",
       "rank": 1231,
-      "contest_rank": null
+      "contest_rank": 943
     },
     {
       "user": "ShoyuMashiMashi",
