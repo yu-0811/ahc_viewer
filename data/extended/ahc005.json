@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc005",
-  "fetched_at": "2026-05-19T17:39:50.386674+00:00",
+  "fetched_at": "2026-05-20T17:54:50.600602+00:00",
   "rows": [
     {
       "user": "rhoo",
@@ -8400,12 +8400,12 @@
     {
       "user": "deepaktiwari_21",
       "rank": 921,
-      "contest_rank": 515
+      "contest_rank": null
     },
     {
       "user": "deepaktiwari_21",
       "rank": 921,
-      "contest_rank": null
+      "contest_rank": 515
     },
     {
       "user": "defilement",

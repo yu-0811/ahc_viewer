@@ -1,64 +1,64 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-05-19T17:40:01.528215+00:00",
+  "fetched_at": "2026-05-20T17:55:01.383473+00:00",
   "rows": [
     {
-      "user": "wata_admin",
+      "user": "nikaj",
       "rank": 1,
       "contest_rank": null
     },
     {
-      "user": "ssaattoo",
+      "user": "wata_admin",
       "rank": 2,
       "contest_rank": null
     },
     {
-      "user": "C2028_wzc",
+      "user": "ssaattoo",
       "rank": 3,
       "contest_rank": null
     },
     {
-      "user": "r3yohei",
+      "user": "C2028_wzc",
       "rank": 4,
       "contest_rank": null
     },
     {
-      "user": "fuppy0716",
+      "user": "r3yohei",
       "rank": 5,
       "contest_rank": null
     },
     {
-      "user": "rhoo",
+      "user": "fuppy0716",
       "rank": 6,
       "contest_rank": null
     },
     {
-      "user": "knshnb",
+      "user": "rhoo",
       "rank": 7,
       "contest_rank": null
     },
     {
-      "user": "hahho",
+      "user": "knshnb",
       "rank": 8,
       "contest_rank": null
     },
     {
-      "user": "tiaotiao0830",
+      "user": "hahho",
       "rank": 9,
       "contest_rank": null
     },
     {
-      "user": "cuthbert",
+      "user": "tiaotiao0830",
       "rank": 10,
       "contest_rank": null
     },
     {
-      "user": "eijirou",
+      "user": "cuthbert",
       "rank": 11,
       "contest_rank": null
     },
     {
-      "user": "nikaj",
+      "user": "eijirou",
       "rank": 12,
       "contest_rank": null
     },
@@ -5700,12 +5700,12 @@
     {
       "user": "achapi",
       "rank": 1006,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "achapi",
       "rank": 1006,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "adi137",
@@ -6830,12 +6830,12 @@
     {
       "user": "tombo314",
       "rank": 1006,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "tombo314",
       "rank": 1006,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "toureiffel2018",
