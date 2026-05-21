@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc010",
-  "fetched_at": "2026-05-20T17:55:12.334229+00:00",
+  "fetched_at": "2026-05-21T17:31:49.388017+00:00",
   "rows": [
     {
       "user": "yurahuna",
@@ -58,22 +58,22 @@
       "contest_rank": null
     },
     {
-      "user": "longwave",
+      "user": "nikaj",
       "rank": 12,
       "contest_rank": null
     },
     {
-      "user": "takumi152",
+      "user": "longwave",
       "rank": 13,
+      "contest_rank": null
+    },
+    {
+      "user": "takumi152",
+      "rank": 14,
       "contest_rank": 1
     },
     {
       "user": "MathGorilla",
-      "rank": 14,
-      "contest_rank": null
-    },
-    {
-      "user": "nikaj",
       "rank": 15,
       "contest_rank": null
     },
@@ -6395,12 +6395,12 @@
     {
       "user": "colun",
       "rank": 964,
-      "contest_rank": 661
+      "contest_rank": null
     },
     {
       "user": "colun",
       "rank": 964,
-      "contest_rank": null
+      "contest_rank": 661
     },
     {
       "user": "confluence",

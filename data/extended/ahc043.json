@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc043",
-  "fetched_at": "2026-05-20T17:58:25.549707+00:00",
+  "fetched_at": "2026-05-21T17:35:01.595943+00:00",
   "rows": [
     {
       "user": "saharan",
@@ -850,12 +850,12 @@
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": 136
+      "contest_rank": null
     },
     {
       "user": "noshinn",
       "rank": 170,
-      "contest_rank": null
+      "contest_rank": 136
     },
     {
       "user": "mkisic",
@@ -2955,12 +2955,12 @@
     {
       "user": "rui_er",
       "rank": 591,
-      "contest_rank": 522
+      "contest_rank": null
     },
     {
       "user": "rui_er",
       "rank": 591,
-      "contest_rank": null
+      "contest_rank": 522
     },
     {
       "user": "efy",
@@ -4315,12 +4315,12 @@
     {
       "user": "linjy",
       "rank": 862,
-      "contest_rank": null
+      "contest_rank": 771
     },
     {
       "user": "linjy",
       "rank": 862,
-      "contest_rank": 771
+      "contest_rank": null
     },
     {
       "user": "nrO728",
@@ -5020,12 +5020,12 @@
     {
       "user": "ChocoPoke143",
       "rank": 993,
-      "contest_rank": null
+      "contest_rank": 886
     },
     {
       "user": "ChocoPoke143",
       "rank": 993,
-      "contest_rank": 886
+      "contest_rank": null
     },
     {
       "user": "ChrysanthBlossom",
@@ -12445,12 +12445,12 @@
     {
       "user": "enntotu",
       "rank": 1492,
-      "contest_rank": 1347
+      "contest_rank": null
     },
     {
       "user": "enntotu",
       "rank": 1492,
-      "contest_rank": null
+      "contest_rank": 1347
     },
     {
       "user": "enukyu",
