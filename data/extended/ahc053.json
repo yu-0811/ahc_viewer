@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc053",
-  "fetched_at": "2026-05-21T17:36:02.919334+00:00",
+  "fetched_at": "2026-05-22T17:15:22.203458+00:00",
   "rows": [
     {
       "user": "kozima",
@@ -3020,12 +3020,12 @@
     {
       "user": "O24",
       "rank": 604,
-      "contest_rank": null
+      "contest_rank": 426
     },
     {
       "user": "O24",
       "rank": 604,
-      "contest_rank": 426
+      "contest_rank": null
     },
     {
       "user": "ykobayashi",

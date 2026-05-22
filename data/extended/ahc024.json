@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc024",
-  "fetched_at": "2026-05-21T17:33:08.871054+00:00",
+  "fetched_at": "2026-05-22T17:12:28.087520+00:00",
   "rows": [
     {
       "user": "cuthbert",
@@ -1425,12 +1425,12 @@
     {
       "user": "kotatsugame",
       "rank": 285,
-      "contest_rank": 135
+      "contest_rank": null
     },
     {
       "user": "kotatsugame",
       "rank": 285,
-      "contest_rank": null
+      "contest_rank": 135
     },
     {
       "user": "yaichi",
@@ -4530,12 +4530,12 @@
     {
       "user": "komasan",
       "rank": 832,
-      "contest_rank": 568
+      "contest_rank": null
     },
     {
       "user": "komasan",
       "rank": 832,
-      "contest_rank": null
+      "contest_rank": 568
     },
     {
       "user": "krps",
@@ -9405,12 +9405,12 @@
     {
       "user": "latitu",
       "rank": 976,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "latitu",
       "rank": 976,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "laughingsnow",
@@ -10510,12 +10510,12 @@
     {
       "user": "sugipamo",
       "rank": 976,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "sugipamo",
       "rank": 976,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "suryanshbisen",
@@ -10590,12 +10590,12 @@
     {
       "user": "taiki1121",
       "rank": 976,
-      "contest_rank": null
+      "contest_rank": 664
     },
     {
       "user": "taiki1121",
       "rank": 976,
-      "contest_rank": 664
+      "contest_rank": null
     },
     {
       "user": "takenoko_04",

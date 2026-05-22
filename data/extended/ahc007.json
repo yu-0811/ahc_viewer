@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc007",
-  "fetched_at": "2026-05-21T17:31:38.770022+00:00",
+  "fetched_at": "2026-05-22T17:10:56.595864+00:00",
   "rows": [
     {
       "user": "nikaj",
@@ -6830,12 +6830,12 @@
     {
       "user": "tombo314",
       "rank": 1006,
-      "contest_rank": 613
+      "contest_rank": null
     },
     {
       "user": "tombo314",
       "rank": 1006,
-      "contest_rank": null
+      "contest_rank": 613
     },
     {
       "user": "toureiffel2018",
