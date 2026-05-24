@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc062",
-  "fetched_at": "2026-05-23T16:09:57.812572+00:00",
+  "fetched_at": "2026-05-24T16:09:18.448087+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -6390,12 +6390,12 @@
     {
       "user": "rejwar",
       "rank": 905,
-      "contest_rank": null
+      "contest_rank": 665
     },
     {
       "user": "rejwar",
       "rank": 905,
-      "contest_rank": 665
+      "contest_rank": null
     },
     {
       "user": "rhoo",

@@ -1,6 +1,6 @@
 {
   "contest_id": "ahc060",
-  "fetched_at": "2026-05-23T16:09:46.593163+00:00",
+  "fetched_at": "2026-05-24T16:09:07.427994+00:00",
   "rows": [
     {
       "user": "motigome",
@@ -5715,12 +5715,12 @@
     {
       "user": "SDESTINY",
       "rank": 920,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "SDESTINY",
       "rank": 920,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "SHA_TO_RU",
@@ -6036,6 +6036,11 @@
       "user": "Treasa_Joseph",
       "rank": 920,
       "contest_rank": 697
+    },
+    {
+      "user": "TrueRyoB",
+      "rank": 920,
+      "contest_rank": null
     },
     {
       "user": "Tuan_Dung",
@@ -6560,12 +6565,12 @@
     {
       "user": "daiten1024",
       "rank": 920,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "daiten1024",
       "rank": 920,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "daiv",
@@ -8270,12 +8275,12 @@
     {
       "user": "uminorosujin",
       "rank": 920,
-      "contest_rank": 697
+      "contest_rank": null
     },
     {
       "user": "uminorosujin",
       "rank": 920,
-      "contest_rank": null
+      "contest_rank": 697
     },
     {
       "user": "unXknown",
